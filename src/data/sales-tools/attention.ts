@@ -5,8 +5,8 @@ export const attentionTool: SalesTool = {
   name: "Attention",
   logo: "/images/sales-tools/attention.png",
   tagline: {
-    sr: "AI sales agenti — uče iz najboljih poziva i automatizuju CRM + follow-up",
-    en: "AI sales agents — learn from top calls and automate CRM + follow-ups",
+    sr: "AI sales agenti, uče iz najboljih poziva i automatizuju CRM + follow-up",
+    en: "AI sales agents, learn from top calls and automate CRM + follow-ups",
   },
   categoryId: "conversation-intelligence",
   category: { sr: "Conversation intelligence", en: "Conversation intelligence" },
@@ -32,12 +32,12 @@ export const attentionTool: SalesTool = {
   recommended: true,
   rating: { g2: 4.9, g2Reviews: 200 },
   overview: {
-    sr: "Attention snima i analizira sales pozive, zatim AI agenti automatski ažuriraju CRM, šalju follow-up i generišu coaching scorecards (MEDDIC, BANT, custom) — da rep-ovi troše vreme na prodaju, ne na admin.",
-    en: "Attention records and analyzes sales calls, then AI agents auto-update CRM, send follow-ups, and generate coaching scorecards (MEDDIC, BANT, custom) — so reps spend time selling, not on admin.",
+    sr: "Attention snima i analizira sales pozive, zatim AI agenti automatski ažuriraju CRM, šalju follow-up i generišu coaching scorecards (MEDDIC, BANT, custom), da rep-ovi troše vreme na prodaju, ne na admin.",
+    en: "Attention records and analyzes sales calls, then AI agents auto-update CRM, send follow-ups, and generate coaching scorecards (MEDDIC, BANT, custom), so reps spend time selling, not on admin.",
   },
   overviewExtended: {
-    sr: "Enterprise-first — cena preko sales tima (tipično **$25K–$200K+/god** zavisno od tima i integracija). G2 **4.9/5**. Nije standalone CRM — sloj iznad HubSpot/Salesforce. Uporedite sa tl;dv ako vam treba transparentna cena i free tier.",
-    en: "Enterprise-first — pricing via sales (typically **$25K–$200K+/year** depending on team and integrations). G2 **4.9/5**. Not a standalone CRM — a layer on HubSpot/Salesforce. Compare with tl;dv if you need transparent pricing and a free tier.",
+    sr: "Enterprise-first, cena preko sales tima (tipično **$25K-$200K+/god** zavisno od tima i integracija). G2 **4.9/5**. Nije standalone CRM, sloj iznad HubSpot/Salesforce. Uporedite sa tl;dv ako vam treba transparentna cena i free tier.",
+    en: "Enterprise-first, pricing via sales (typically **$25K-$200K+/year** depending on team and integrations). G2 **4.9/5**. Not a standalone CRM, a layer on HubSpot/Salesforce. Compare with tl;dv if you need transparent pricing and a free tier.",
   },
   idealFor: {
     sr: [
@@ -92,7 +92,7 @@ export const attentionTool: SalesTool = {
     },
   ],
   pricing: {
-    startingPrice: { sr: "Custom — kontakt sales", en: "Custom — contact sales" },
+    startingPrice: { sr: "Custom, kontakt sales", en: "Custom, contact sales" },
     billing: {
       sr: "Enterprise · po timu / seat-u",
       en: "Enterprise · per team / seat",
@@ -161,8 +161,8 @@ export const attentionTool: SalesTool = {
         name: { sr: "Enterprise", en: "Enterprise" },
         price: { sr: "Custom", en: "Custom" },
         billingNote: {
-          sr: "Tipično $25K–$200K+ / god",
-          en: "Typically $25K–$200K+ / yr",
+          sr: "Tipično $25K-$200K+ / god",
+          en: "Typically $25K-$200K+ / yr",
         },
         highlights: {
           sr: [
@@ -230,21 +230,21 @@ export const attentionTool: SalesTool = {
   setup: {
     complexity: { sr: "Srednji", en: "Intermediate" },
     description: {
-      sr: "Demo → povežite Zoom/Meet/Teams + CRM (Salesforce/HubSpot) → mapirajte CRM polja na meeting note template → rollout coaching framework → AI agenti za follow-up i CRM. Implementacija 2–6 nedelja za enterprise.",
-      en: "Demo → connect Zoom/Meet/Teams + CRM (Salesforce/HubSpot) → map CRM fields to meeting note templates → roll out coaching framework → AI agents for follow-up and CRM. Enterprise implementation 2–6 weeks.",
+      sr: "Demo → povežite Zoom/Meet/Teams + CRM (Salesforce/HubSpot) → mapirajte CRM polja na meeting note template → rollout coaching framework → AI agenti za follow-up i CRM. Implementacija 2-6 nedelja za enterprise.",
+      en: "Demo → connect Zoom/Meet/Teams + CRM (Salesforce/HubSpot) → map CRM fields to meeting note templates → roll out coaching framework → AI agents for follow-up and CRM. Enterprise implementation 2-6 weeks.",
     },
   },
   pros: {
     sr: [
       "Jak AI za CRM update i follow-up",
-      "4.9 G2 — visok satisfaction",
+      "4.9 G2, visok satisfaction",
       "200+ integracija",
       "Real-time coaching na pozivu",
       "Smanjuje admin rep-ova 50%+",
     ],
     en: [
       "Strong AI for CRM updates and follow-ups",
-      "4.9 G2 — high satisfaction",
+      "4.9 G2, high satisfaction",
       "200+ integrations",
       "Real-time coaching on calls",
       "Cuts rep admin 50%+",
@@ -252,14 +252,14 @@ export const attentionTool: SalesTool = {
   },
   cons: {
     sr: [
-      "Cena nije javna — sales call obavezan",
+      "Cena nije javna, sales call obavezan",
       "Nema self-serve free plan",
       "Skupo za mali tim (<10 rep)",
       "Nije zamena za CRM",
       "Enterprise onboarding traje",
     ],
     en: [
-      "Pricing not public — sales call required",
+      "Pricing not public, sales call required",
       "No self-serve free plan",
       "Expensive for small teams (<10 reps)",
       "Not a CRM replacement",
@@ -293,8 +293,8 @@ export const attentionTool: SalesTool = {
       slug: "revsure",
       name: "RevSure",
       description: {
-        sr: "Pipeline analytics — druga namena.",
-        en: "Pipeline analytics — different use case.",
+        sr: "Pipeline analytics, druga namena.",
+        en: "Pipeline analytics, different use case.",
       },
       startingPrice: { sr: "Custom", en: "Custom" },
       trial: { sr: "Demo", en: "Demo" },
@@ -304,8 +304,8 @@ export const attentionTool: SalesTool = {
       slug: "clay",
       name: "Clay",
       description: {
-        sr: "Prospecting — pre poziva.",
-        en: "Prospecting — before calls.",
+        sr: "Prospecting, pre poziva.",
+        en: "Prospecting, before calls.",
       },
       startingPrice: { sr: "od $149", en: "from $149" },
       trial: { sr: "14 dana", en: "14 days" },
@@ -316,36 +316,36 @@ export const attentionTool: SalesTool = {
     {
       question: { sr: "Koliko košta Attention?", en: "How much does Attention cost?" },
       answer: {
-        sr: "Javna cena nije na sajtu — kontaktirajte sales. Enterprise deploy-ovi često $25K–$200K+/god. Treće strane pominju ~$59–$399/user/mes tier-ove — potvrdite sa Attention timom.",
-        en: "No public pricing on the site — contact sales. Enterprise deployments often $25K–$200K+/year. Third parties mention ~$59–$399/user/mo tiers — confirm with Attention.",
+        sr: "Javna cena nije na sajtu, kontaktirajte sales. Enterprise deploy-ovi često $25K-$200K+/god. Treće strane pominju ~$59-$399/user/mes tier-ove, potvrdite sa Attention timom.",
+        en: "No public pricing on the site, contact sales. Enterprise deployments often $25K-$200K+/year. Third parties mention ~$59-$399/user/mo tiers, confirm with Attention.",
       },
     },
     {
       question: { sr: "Da li ima besplatan plan?", en: "Is there a free plan?" },
       answer: {
-        sr: "Nema javnog free plana — demo i trial dogovaraju se preko sales kontakta (work email).",
-        en: "No public free plan — demo and trial arranged via sales contact (work email).",
+        sr: "Nema javnog free plana, demo i trial dogovaraju se preko sales kontakta (work email).",
+        en: "No public free plan, demo and trial arranged via sales contact (work email).",
       },
     },
     {
       question: { sr: "Zašto izabrati Attention?", en: "Why choose Attention?" },
       answer: {
-        sr: "Kada imate revenue tim koji gubi deal-ove zbog praznina u procesu — a želite AI agente koji automatski popunjavaju CRM i coach-uju iz stvarnih poziva.",
-        en: "When your revenue team loses deals to process gaps — and you want AI agents that auto-fill CRM and coach from real calls.",
+        sr: "Kada imate revenue tim koji gubi deal-ove zbog praznina u procesu, a želite AI agente koji automatski popunjavaju CRM i coach-uju iz stvarnih poziva.",
+        en: "When your revenue team loses deals to process gaps, and you want AI agents that auto-fill CRM and coach from real calls.",
       },
     },
     {
       question: { sr: "Attention vs tl;dv?", en: "Attention vs tl;dv?" },
       answer: {
-        sr: "Attention je enterprise AI sales agent fokus. tl;dv ima javnu cenu, free plan i Whisper transkripciju na srpskom — bolji za SMB i timove koji žele brz start.",
-        en: "Attention is enterprise AI sales agent focus. tl;dv has public pricing, a free plan, and Whisper Serbian transcription — better for SMB and fast starts.",
+        sr: "Attention je enterprise AI sales agent fokus. tl;dv ima javnu cenu, free plan i Whisper transkripciju na srpskom, bolji za SMB i timove koji žele brz start.",
+        en: "Attention is enterprise AI sales agent focus. tl;dv has public pricing, a free plan, and Whisper Serbian transcription, better for SMB and fast starts.",
       },
     },
     {
       question: { sr: "Da li ima API?", en: "Does it have an API?" },
       answer: {
-        sr: "Da — 200+ integracija + custom integration requests; API pristup na enterprise dogovoru.",
-        en: "Yes — 200+ integrations + custom integration requests; API access on enterprise agreement.",
+        sr: "Da - 200+ integracija + custom integration requests; API pristup na enterprise dogovoru.",
+        en: "Yes - 200+ integrations + custom integration requests; API access on enterprise agreement.",
       },
     },
   ],

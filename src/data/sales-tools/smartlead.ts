@@ -32,12 +32,12 @@ export const smartleadTool: SalesTool = {
   recommended: true,
   rating: { g2: 4.9, g2Reviews: 10 },
   overview: {
-    sr: "Smartlead je platforma za cold email outreach: povežete neograničen broj email naloga, zagrevate ih AI warmup-om i šaljete sekvence po volumenu — bez naplate po korisniku ili po inbox-u.",
-    en: "Smartlead is a cold email outreach platform: connect unlimited email accounts, warm them with AI warmup, and run sequences by volume — without per-seat or per-inbox pricing.",
+    sr: "Smartlead je platforma za cold email outreach: povežete neograničen broj email naloga, zagrevate ih AI warmup-om i šaljete sekvence po volumenu, bez naplate po korisniku ili po inbox-u.",
+    en: "Smartlead is a cold email outreach platform: connect unlimited email accounts, warm them with AI warmup, and run sequences by volume, without per-seat or per-inbox pricing.",
   },
   overviewExtended: {
-    sr: "Master Inbox objedinjuje sve odgovore, rotacija mailbox-ova i dynamic IP pomažu deliverability-u, a Pro+ planovi dodaju global block list, ChatGPT asistenciju i naprednu analitiku. Nije lead baza ni pun CRM — Smartlead je fokusiran na slanje, warmup i revenue cycle oko cold email-a. Za list building koristite Clay ili Apollo, pa uvezite u kampanje.",
-    en: "Master Inbox unifies all replies; mailbox rotation and dynamic IPs support deliverability, while Pro+ plans add a global block list, ChatGPT assistance, and advanced analytics. It is not a lead database or full CRM — Smartlead focuses on sending, warmup, and the revenue cycle around cold email. Use Clay or Apollo for list building, then import into campaigns.",
+    sr: "Master Inbox objedinjuje sve odgovore, rotacija mailbox-ova i dynamic IP pomažu deliverability-u, a Pro+ planovi dodaju global block list, ChatGPT asistenciju i naprednu analitiku. Nije lead baza ni pun CRM - Smartlead je fokusiran na slanje, warmup i revenue cycle oko cold email-a. Za list building koristite Clay ili Apollo, pa uvezite u kampanje.",
+    en: "Master Inbox unifies all replies; mailbox rotation and dynamic IPs support deliverability, while Pro+ plans add a global block list, ChatGPT assistance, and advanced analytics. It is not a lead database or full CRM - Smartlead focuses on sending, warmup, and the revenue cycle around cold email. Use Clay or Apollo for list building, then import into campaigns.",
   },
   idealFor: {
     sr: [
@@ -59,7 +59,7 @@ export const smartleadTool: SalesTool = {
     sr: [
       "Neograničeni email nalozi na svim planovima",
       "AI-powered email warmup",
-      "Master Inbox — svi odgovori na jednom mestu",
+      "Master Inbox, svi odgovori na jednom mestu",
       "Automatska rotacija mailbox-ova",
       "Dynamic IP i deliverability monitoring",
       "CRM sync, API, webhook-i i whitelabel (viši tier-ovi)",
@@ -67,7 +67,7 @@ export const smartleadTool: SalesTool = {
     en: [
       "Unlimited email accounts on all plans",
       "AI-powered email warmup",
-      "Master Inbox — all replies in one place",
+      "Master Inbox, all replies in one place",
       "Automatic mailbox rotation",
       "Dynamic IPs and deliverability monitoring",
       "CRM sync, API, webhooks, and whitelabel (higher tiers)",
@@ -262,14 +262,14 @@ export const smartleadTool: SalesTool = {
   },
   pros: {
     sr: [
-      "Neograničeni inbox-ovi — idealno za više domena i agencije",
+      "Neograničeni inbox-ovi, idealno za više domena i agencije",
       "Cena raste sa volumenom, ne sa brojem prodavaca",
       "AI warmup i deliverability alati uključeni",
       "Master Inbox za sve odgovore",
       "Jak API i CRM integracije",
     ],
     en: [
-      "Unlimited inboxes — ideal for multi-domain and agency setups",
+      "Unlimited inboxes, ideal for multi-domain and agency setups",
       "Cost scales with volume, not headcount",
       "AI warmup and deliverability tools included",
       "Master Inbox for all replies",
@@ -278,14 +278,14 @@ export const smartleadTool: SalesTool = {
   },
   cons: {
     sr: [
-      "Fokus isključivo na email — nema native LinkedIn sekvenci",
-      "Nije lead sourcing alat — treba vam Apollo, Clay ili slično",
+      "Fokus isključivo na email, nema native LinkedIn sekvenci",
+      "Nije lead sourcing alat, treba vam Apollo, Clay ili slično",
       "Dodatni troškovi: mailbox provideri i domeni posebno",
       "Napredni whitelabel i enterprise na višim tier-ovima",
     ],
     en: [
-      "Email-only focus — no native LinkedIn sequences",
-      "Not a lead sourcing tool — you need Apollo, Clay, or similar",
+      "Email-only focus, no native LinkedIn sequences",
+      "Not a lead sourcing tool, you need Apollo, Clay, or similar",
       "Extra costs: mailbox providers and domains are separate",
       "Advanced whitelabel and enterprise on higher tiers",
     ],
@@ -328,29 +328,29 @@ export const smartleadTool: SalesTool = {
         en: "Can I connect unlimited email accounts?",
       },
       answer: {
-        sr: "Da — svi planovi uključuju neograničene mailbox-ove i warmup, što je ključna prednost u odnosu na alate koji naplaćuju svakog prodavca posebno (npr. Lemlist po profilu).",
-        en: "Yes — all plans include unlimited mailboxes and warmup, a key advantage over tools that charge per rep (e.g. Lemlist per profile).",
+        sr: "Da, svi planovi uključuju neograničene mailbox-ove i warmup, što je ključna prednost u odnosu na alate koji naplaćuju svakog prodavca posebno (npr. Lemlist po profilu).",
+        en: "Yes, all plans include unlimited mailboxes and warmup, a key advantage over tools that charge per rep (e.g. Lemlist per profile).",
       },
     },
     {
       question: { sr: "Da li Smartlead ima probni period?", en: "Does Smartlead offer a trial?" },
       answer: {
-        sr: "Da — 14 dana trial sa punim funkcijama, bez kreditne kartice. Možete zakazati i live demo za onboarding.",
-        en: "Yes — a 14-day trial with full features, no credit card required. You can also book a live demo for onboarding.",
+        sr: "Da - 14 dana trial sa punim funkcijama, bez kreditne kartice. Možete zakazati i live demo za onboarding.",
+        en: "Yes, a 14-day trial with full features, no credit card required. You can also book a live demo for onboarding.",
       },
     },
     {
       question: { sr: "Zašto izabrati Smartlead?", en: "Why choose Smartlead?" },
       answer: {
-        sr: "Kada šaljete veliki obim cold email-a sa više domena i ne želite da platite po seat-u — Smartlead drži trošak predvidivim uz AI warmup, rotaciju inbox-ova i Master Inbox.",
-        en: "When you send high-volume cold email across multiple domains and do not want per-seat pricing — Smartlead keeps costs predictable with AI warmup, inbox rotation, and Master Inbox.",
+        sr: "Kada šaljete veliki obim cold email-a sa više domena i ne želite da platite po seat-u - Smartlead drži trošak predvidivim uz AI warmup, rotaciju inbox-ova i Master Inbox.",
+        en: "When you send high-volume cold email across multiple domains and do not want per-seat pricing - Smartlead keeps costs predictable with AI warmup, inbox rotation, and Master Inbox.",
       },
     },
     {
       question: { sr: "Da li Smartlead ima API?", en: "Does Smartlead have an API?" },
       answer: {
-        sr: "Da — API i webhook-i za CRM, Zapier, Make i custom workflow-e. Viši planovi nude širi API pristup i whitelabel opcije.",
-        en: "Yes — API and webhooks for CRMs, Zapier, Make, and custom workflows. Higher plans offer broader API access and whitelabel options.",
+        sr: "Da - API i webhook-i za CRM, Zapier, Make i custom workflow-e. Viši planovi nude širi API pristup i whitelabel opcije.",
+        en: "Yes - API and webhooks for CRMs, Zapier, Make, and custom workflows. Higher plans offer broader API access and whitelabel options.",
       },
     },
     {

@@ -5,8 +5,8 @@ export const botmindsTool: SalesTool = {
   name: "Botminds",
   logo: "/images/sales-tools/botminds.png",
   tagline: {
-    sr: "AI document intelligence — ekstrakcija podataka sa web-a i dokumenata za GTM research",
-    en: "AI document intelligence — extract data from web and documents for GTM research",
+    sr: "AI document intelligence, ekstrakcija podataka sa web-a i dokumenata za GTM research",
+    en: "AI document intelligence, extract data from web and documents for GTM research",
   },
   categoryId: "prospecting",
   category: { sr: "Prospecting", en: "Prospecting" },
@@ -32,12 +32,12 @@ export const botmindsTool: SalesTool = {
   recommended: false,
   rating: { g2: 4.5, g2Reviews: 30 },
   overview: {
-    sr: "Botminds automatizuje hvatanje i obradu podataka iz dokumenata i web izvora — PDF-ovi, ugovori, izveštaji, competitor sajtovi — pomoću AI engine-a i workflow-a za finance, legal, ops i sales research.",
-    en: "Botminds automates capturing and processing data from documents and web sources — PDFs, contracts, reports, competitor sites — using AI engines and workflows for finance, legal, ops, and sales research.",
+    sr: "Botminds automatizuje hvatanje i obradu podataka iz dokumenata i web izvora - PDF-ovi, ugovori, izveštaji, competitor sajtovi, pomoću AI engine-a i workflow-a za finance, legal, ops i sales research.",
+    en: "Botminds automates capturing and processing data from documents and web sources - PDFs, contracts, reports, competitor sites, using AI engines and workflows for finance, legal, ops, and sales research.",
   },
   overviewExtended: {
-    sr: "Enterprise pricing (demo obavezan) — nije self-serve SaaS kao Clay. U GTM stack-u: competitor monitoring, ekstrakcija firmografije iz javnih dokumenata, RFP analiza. Nije CRM ni sequencer — sloj za **unstructured data** pre nego što leadovi uđu u Clay/Apollo.",
-    en: "Enterprise pricing (demo required) — not self-serve SaaS like Clay. In the GTM stack: competitor monitoring, firmographic extraction from public documents, RFP analysis. Not a CRM or sequencer — a layer for **unstructured data** before leads enter Clay/Apollo.",
+    sr: "Enterprise pricing (demo obavezan), nije self-serve SaaS kao Clay. U GTM stack-u: competitor monitoring, ekstrakcija firmografije iz javnih dokumenata, RFP analiza. Nije CRM ni sequencer, sloj za **unstructured data** pre nego što leadovi uđu u Clay/Apollo.",
+    en: "Enterprise pricing (demo required), not self-serve SaaS like Clay. In the GTM stack: competitor monitoring, firmographic extraction from public documents, RFP analysis. Not a CRM or sequencer, a layer for **unstructured data** before leads enter Clay/Apollo.",
   },
   idealFor: {
     sr: [
@@ -88,11 +88,11 @@ export const botmindsTool: SalesTool = {
     },
     {
       label: { sr: "Segment", en: "Segment" },
-      value: { sr: "SMB – Enterprise", en: "SMB – Enterprise" },
+      value: { sr: "SMB - Enterprise", en: "SMB - Enterprise" },
     },
   ],
   pricing: {
-    startingPrice: { sr: "Custom — kontakt sales", en: "Custom — contact sales" },
+    startingPrice: { sr: "Custom, kontakt sales", en: "Custom, contact sales" },
     billing: {
       sr: "Enterprise · po volumenu",
       en: "Enterprise · by volume",
@@ -263,8 +263,8 @@ export const botmindsTool: SalesTool = {
       slug: "clay",
       name: "Clay",
       description: {
-        sr: "Prospecting + enrichment — self-serve.",
-        en: "Prospecting + enrichment — self-serve.",
+        sr: "Prospecting + enrichment, self-serve.",
+        en: "Prospecting + enrichment, self-serve.",
       },
       startingPrice: { sr: "od $149", en: "from $149" },
       trial: { sr: "14 dana", en: "14 days" },
@@ -308,15 +308,15 @@ export const botmindsTool: SalesTool = {
     {
       question: { sr: "Koliko košta Botminds?", en: "How much does Botminds cost?" },
       answer: {
-        sr: "Javna cena nije na sajtu — kontaktirajte sales za quote. Tipično enterprise model po volumenu dokumenata i broju workflow-a.",
-        en: "No public pricing on the site — contact sales for a quote. Typically enterprise pricing by document volume and workflow count.",
+        sr: "Javna cena nije na sajtu, kontaktirajte sales za quote. Tipično enterprise model po volumenu dokumenata i broju workflow-a.",
+        en: "No public pricing on the site, contact sales for a quote. Typically enterprise pricing by document volume and workflow count.",
       },
     },
     {
       question: { sr: "Zašto izabrati Botminds?", en: "Why choose Botminds?" },
       answer: {
-        sr: "Kada vam treba AI ekstrakcija iz PDF-ova, ugovora i web izvora — ne samo LinkedIn/email liste — za strategic sales i competitive research.",
-        en: "When you need AI extraction from PDFs, contracts, and web sources — not just LinkedIn/email lists — for strategic sales and competitive research.",
+        sr: "Kada vam treba AI ekstrakcija iz PDF-ova, ugovora i web izvora, ne samo LinkedIn/email liste, za strategic sales i competitive research.",
+        en: "When you need AI extraction from PDFs, contracts, and web sources, not just LinkedIn/email lists, for strategic sales and competitive research.",
       },
     },
     {
@@ -329,15 +329,15 @@ export const botmindsTool: SalesTool = {
     {
       question: { sr: "Da li ima trial?", en: "Is there a trial?" },
       answer: {
-        sr: "Da — trial dostupan preko sales kontakta (dužina nije javno navedena).",
-        en: "Yes — trial available via sales contact (length not publicly stated).",
+        sr: "Da, trial dostupan preko sales kontakta (dužina nije javno navedena).",
+        en: "Yes, trial available via sales contact (length not publicly stated).",
       },
     },
     {
       question: { sr: "Da li ima API?", en: "Does it have an API?" },
       answer: {
-        sr: "Da — API na Professional+ za export ekstrahovanih podataka u CRM, data warehouse ili Clay/n8n workflow.",
-        en: "Yes — API on Professional+ to export extracted data to CRM, data warehouse, or Clay/n8n workflows.",
+        sr: "Da - API na Professional+ za export ekstrahovanih podataka u CRM, data warehouse ili Clay/n8n workflow.",
+        en: "Yes - API on Professional+ to export extracted data to CRM, data warehouse, or Clay/n8n workflows.",
       },
     },
   ],

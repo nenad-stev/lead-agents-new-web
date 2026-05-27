@@ -67,10 +67,10 @@ const video5 = {
 export const lesson10RichContent: RichLessonContent = {
   meta: {
     stage: L("CRM & Pipeline", "CRM & Pipeline"),
-    readingTime: L("18–22 min", "18–22 min"),
+    readingTime: L("18-22 min", "18-22 min"),
     difficulty: L("Srednji nivo", "Intermediate"),
     outcome: L(
-      "Izgradićeš jednostavan CRM sistem koji prati founder-led LinkedIn aktivnosti, engagement signale, webinare, outreach, ads i pipeline stage-ove — tako da tim može da poveže aktivnost sa revenue.",
+      "Izgradićeš jednostavan CRM sistem koji prati founder-led LinkedIn aktivnosti, engagement signale, webinare, outreach, ads i pipeline stage-ove, tako da tim može da poveže aktivnost sa revenue.",
       "You will build a simple CRM system that tracks founder-led LinkedIn activity, engagement signals, webinars, outreach, ads, and pipeline stages so the team can connect activity to revenue.",
     ),
     recommendedTools: L(
@@ -87,28 +87,28 @@ export const lesson10RichContent: RichLessonContent = {
     paragraphs: P(
       [
         "Founder-Led Growth propada kada sve ostane u founder-ovoj glavi.",
-        "Prospect komentariše post. Founder se seti. Neko se prijavi na webinar. Marketing tim ima listu. Target account pogleda profil — niko to ne prati.",
-        "Neko odgovori na DM — ostaje u LinkedIn inbox-u. Lead kaže „ne sada“ — niko ne prati za 60 dana.",
+        "Prospect komentariše post. Founder se seti. Neko se prijavi na webinar. Marketing tim ima listu. Target account pogleda profil, niko to ne prati.",
+        "Neko odgovori na DM, ostaje u LinkedIn inbox-u. Lead kaže „ne sada“, niko ne prati za 60 dana.",
         "Tako nestaje topli pipeline.",
         "Problem nije nedostatak aktivnosti. Problem je što aktivnost nikad ne postane sistem.",
         "Founder-Led Growth stvara mnoge male signale: profile views, komentare, lajkove, followere, webinar registracije, pitanja, LinkedIn DM-ove, email odgovore, ad klikove, lead magnet download-e, site posete, „not now“ odgovore.",
-        "Pojedinačno, signali izgledaju mali. Zajedno pokazuju ko se približava kupovini — ali samo ako ih CRM hvata.",
+        "Pojedinačno, signali izgledaju mali. Zajedno pokazuju ko se približava kupovini, ali samo ako ih CRM hvata.",
         "Ako CRM počinje tek kad neko zakaže call, pratiš prodaju prekasno. CRM treba da hvata relationship momentum pre nego što postane pipeline.",
       ],
       [
         "Founder-Led Growth breaks when everything stays in the founder's head.",
-        "A prospect comments on a post. The founder remembers it. Someone joins a webinar. The marketing team has the list. A target account views the profile — nobody tracks it.",
-        "Someone replies to a DM — it stays inside LinkedIn. A lead says \"not now\" — no one follows up in 60 days.",
+        "A prospect comments on a post. The founder remembers it. Someone joins a webinar. The marketing team has the list. A target account views the profile, nobody tracks it.",
+        "Someone replies to a DM, it stays inside LinkedIn. A lead says \"not now\", no one follows up in 60 days.",
         "This is how warm pipeline disappears.",
         "The problem is not that the team lacks activity. The problem is that the activity never becomes a system.",
         "Founder-Led Growth creates many small signals: profile views, comments, likes, followers, webinar registrations, questions, LinkedIn DMs, email replies, ad clicks, lead magnet downloads, website visits, \"not now\" replies.",
-        "Individually, these signals look small. Together, they show who is moving closer to buying — but only if the CRM captures them.",
+        "Individually, these signals look small. Together, they show who is moving closer to buying, but only if the CRM captures them.",
         "If your CRM only starts when someone books a call, you are tracking the sales process too late. The CRM should capture relationship momentum before it becomes pipeline.",
       ],
     ),
     callout: L(
-      "CRM hvata relationship momentum pre nego što postane pipeline — ne tek kad neko zakaže call.",
-      "CRM captures relationship momentum before it becomes pipeline — not only when someone books a call.",
+      "CRM hvata relationship momentum pre nego što postane pipeline, ne tek kad neko zakaže call.",
+      "CRM captures relationship momentum before it becomes pipeline, not only when someone books a call.",
     ),
   },
   toc: [
@@ -177,17 +177,17 @@ export const lesson10RichContent: RichLessonContent = {
             [
               "Founder-Led Growth nije samo marketing sistem. To je revenue operating system.",
               "Ako CRM ne odražava način na koji kupci stvarno napreduju, tim ne može da poboljša sistem.",
-              "HubSpot attribution reporting dokumentacija objašnjava da attribution izveštaji mogu da analiziraju interakcije — klikove, forme, page views i source — kroz contact create, deal create i revenue attribution.",
+              "HubSpot attribution reporting dokumentacija objašnjava da attribution izveštaji mogu da analiziraju interakcije, klikove, forme, page views i source, kroz contact create, deal create i revenue attribution.",
               "Pipedrive podržava custom polja koja se mogu prikazati u add view-ovima i mapirati tokom importa, što omogućava prilagođavanje CRM podataka poslovnom procesu.",
-              "Salesforce Campaign Influence je izgrađen oko povezivanja kampanja sa opportunities i revenue influence — ista ideja koju Founder-Led Growth timovi treba da primene.",
+              "Salesforce Campaign Influence je izgrađen oko povezivanja kampanja sa opportunities i revenue influence, ista ideja koju Founder-Led Growth timovi treba da primene.",
               "Tačan CRM alat je manje važan od data modela. Jednostavan CRM koji se konzistentno koristi pobedi kompleksan CRM koji niko ne ažurira.",
             ],
             [
               "Founder-Led Growth is not only a marketing system. It is a revenue operating system.",
               "If the CRM does not reflect the way buyers actually move, the team cannot improve the system.",
-              "HubSpot's attribution reporting documentation explains that attribution reports can analyze interactions — clicks, forms, page views, and sources — across contact create, deal create, and revenue attribution.",
+              "HubSpot's attribution reporting documentation explains that attribution reports can analyze interactions, clicks, forms, page views, and sources, across contact create, deal create, and revenue attribution.",
               "Pipedrive supports custom fields that can be shown in add views and mapped during imports, making it possible to adapt CRM data to the business process.",
-              "Salesforce Campaign Influence is built around connecting campaigns with opportunities and revenue influence — the same idea Founder-Led Growth teams need.",
+              "Salesforce Campaign Influence is built around connecting campaigns with opportunities and revenue influence, the same idea Founder-Led Growth teams need.",
               "The exact CRM tool matters less than the data model. A simple CRM used consistently beats a complex CRM nobody updates.",
             ],
           ),
@@ -237,11 +237,11 @@ export const lesson10RichContent: RichLessonContent = {
           type: "paragraphs",
           paragraphs: P(
             [
-              "To je ceo sistem. Ne treba ti 100 polja — treba ti prava polja.",
+              "To je ceo sistem. Ne treba ti 100 polja, treba ti prava polja.",
               "Founder-Led Growth CRM nije o praćenju svega. Radi se o praćenju handoff-a između pažnje, odnosa, razgovora i revenue.",
             ],
             [
-              "That is the whole system. You do not need 100 fields — you need the right fields.",
+              "That is the whole system. You do not need 100 fields, you need the right fields.",
               "Founder-Led Growth CRM is not about tracking everything. It is about tracking the handoff between attention, relationship, conversation, and revenue.",
             ],
           ),
@@ -323,7 +323,7 @@ export const lesson10RichContent: RichLessonContent = {
               whatToDo: L("Zabeleži o čemu su pokazali interesovanje.", "Record what they showed interest in."),
               whyItMatters: L("Topic omogućava content-to-pipeline izveštaje.", "Topic enables content-to-pipeline reports."),
               example: L("ICP, profile, content, outreach, webinar, CRM, buying signals.", "ICP, profile, content, outreach, webinar, CRM, buying signals."),
-              commonMistake: L("Ne tagovanje content teme — gubi se attribution.", "Not tagging content topic — attribution is lost."),
+              commonMistake: L("Ne tagovanje content teme, gubi se attribution.", "Not tagging content topic, attribution is lost."),
               tryThis: L("Koristi dropdown za content topic polje.", "Use a dropdown for the content topic field."),
               highlight: L("Topic povezuje content sa pipeline-om.", "Topic connects content to pipeline."),
             },
@@ -388,7 +388,7 @@ export const lesson10RichContent: RichLessonContent = {
             { cells: [L("Proposal", "Proposal"), L("Ponuda poslata", "Proposal sent"), L("Commercial offer podeljen", "Commercial offer shared"), L("Follow up", "Follow up")] },
             { cells: [L("Won", "Won"), L("Kupac zatvoren", "Customer closed"), L("Deal closed won", "Deal closed won"), L("Onboard", "Onboard")] },
             { cells: [L("Lost", "Lost"), L("Nije fit ili izabrali drugu opciju", "Not a fit or chose another option"), L("Deal closed lost", "Deal closed lost"), L("Zabeleži razlog", "Record reason")] },
-            { cells: [L("Nurture", "Nurture"), L("Relevantan ali nije spreman", "Relevant but not ready"), L("„Not now“, low timing, early interest", "\"Not now,\" low timing, early interest"), L("Follow-up task za 30–90 dana", "Follow-up task in 30–90 days")] },
+            { cells: [L("Nurture", "Nurture"), L("Relevantan ali nije spreman", "Relevant but not ready"), L("„Not now“, low timing, early interest", "\"Not now,\" low timing, early interest"), L("Follow-up task za 30-90 dana", "Follow-up task in 30-90 days")] },
           ],
         },
         {
@@ -573,12 +573,12 @@ export const lesson10RichContent: RichLessonContent = {
             [
               "„Not now“ leadovi, next follow-up dates, reactivation opportunities.",
               "Filter: follow-up date = this week.",
-              "Sprečava gubitak toplih leadova posle 60–90 dana.",
+              "Sprečava gubitak toplih leadova posle 60-90 dana.",
             ],
             [
               "\"Not now\" leads, next follow-up dates, reactivation opportunities.",
               "Filter: follow-up date = this week.",
-              "Prevents losing warm leads after 60–90 days.",
+              "Prevents losing warm leads after 60-90 days.",
             ],
           ),
         },
@@ -658,7 +658,7 @@ export const lesson10RichContent: RichLessonContent = {
             {
               step: 4,
               title: L("Kreiraj handoff pravila", "Create handoff rules"),
-              whatToDo: L("Definiši šta se dešava posle svakog signala — ko je owner i koja je next action.", "Define what happens after each signal — who owns it and what the next action is."),
+              whatToDo: L("Definiši šta se dešava posle svakog signala, ko je owner i koja je next action.", "Define what happens after each signal, who owns it and what the next action is."),
               whyItMatters: L("Bez owner-a, signali stoje u CRM-u.", "Without an owner, signals sit in CRM."),
               example: L("ICP comment → Engaged + Marketing/Sales owner. DM reply → Conversation + Sales owner.", "ICP comment → Engaged + Marketing/Sales owner. DM reply → Conversation + Sales owner."),
               commonMistake: L("Nema owner-a za next action.", "No owner for the next action."),
@@ -881,10 +881,10 @@ export const lesson10RichContent: RichLessonContent = {
           caption: L("Action thresholds", "Action thresholds"),
           headers: H(["Score", "Akcija"], ["Score", "Action"]),
           rows: [
-            { cells: [L("0–29", "0–29"), L("Monitor", "Monitor")] },
-            { cells: [L("30–49", "30–49"), L("Nurture", "Nurture")] },
-            { cells: [L("50–69", "50–69"), L("Send contextual outreach", "Send contextual outreach")] },
-            { cells: [L("70–89", "70–89"), L("Sales follow-up", "Sales follow-up")] },
+            { cells: [L("0-29", "0-29"), L("Monitor", "Monitor")] },
+            { cells: [L("30-49", "30-49"), L("Nurture", "Nurture")] },
+            { cells: [L("50-69", "50-69"), L("Send contextual outreach", "Send contextual outreach")] },
+            { cells: [L("70-89", "70-89"), L("Sales follow-up", "Sales follow-up")] },
             { cells: [L("90+", "90+"), L("Create opportunity ili priority sales task", "Create opportunity or priority sales task")] },
           ],
         },
@@ -1310,16 +1310,16 @@ Not now but relevant:
 
 5. Action thresholds
 
-0–29:
+0-29:
 Monitor
 
-30–49:
+30-49:
 Nurture
 
-50–69:
+50-69:
 Send contextual outreach
 
-70–89:
+70-89:
 Sales follow-up
 
 90+:
@@ -1453,16 +1453,16 @@ Not now but relevant:
 
 5. Action thresholds
 
-0–29:
+0-29:
 Monitor
 
-30–49:
+30-49:
 Nurture
 
-50–69:
+50-69:
 Send contextual outreach
 
-70–89:
+70-89:
 Sales follow-up
 
 90+:
@@ -1508,8 +1508,8 @@ Create opportunity or priority sales task
     {
       question: L("Kada contact treba da postane deal?", "When should a contact become a deal?"),
       answer: L(
-        "Ne kreiraj deal prerano. Deal kreiraj kad postoji confirmed ICP fit, pain i real next step — sales call, discovery, proposal ili commercial conversation.",
-        "Do not create deals too early. Create a deal when there is confirmed ICP fit, pain, and a real next step — sales call, discovery, proposal, or commercial conversation.",
+        "Ne kreiraj deal prerano. Deal kreiraj kad postoji confirmed ICP fit, pain i real next step, sales call, discovery, proposal ili commercial conversation.",
+        "Do not create deals too early. Create a deal when there is confirmed ICP fit, pain, and a real next step, sales call, discovery, proposal, or commercial conversation.",
       ),
     },
     {
@@ -1535,16 +1535,16 @@ Create opportunity or priority sales task
     },
   ],
   sources: [
-    { title: L("HubSpot — Attribution Reporting", "HubSpot — Attribution Reporting"), url: "https://knowledge.hubspot.com/reports/understand-attribution-reporting" },
-    { title: L("HubSpot — Create and Edit Properties", "HubSpot — Create and Edit Properties"), url: "https://knowledge.hubspot.com/properties/create-and-edit-properties" },
-    { title: L("HubSpot — Create and Customize Deal Pipelines", "HubSpot — Create and Customize Deal Pipelines"), url: "https://knowledge.hubspot.com/object-settings/create-and-customize-deal-pipelines-and-deal-stages" },
-    { title: L("Pipedrive — Custom Fields", "Pipedrive — Custom Fields"), url: "https://support.pipedrive.com/en/article/custom-fields" },
-    { title: L("Pipedrive — Sales Reports and Insights", "Pipedrive — Sales Reports and Insights"), url: "https://support.pipedrive.com/en/article/insights-reports" },
-    { title: L("Pipedrive — Customizable CRM", "Pipedrive — Customizable CRM"), url: "https://www.pipedrive.com/en/products/sales/customizable-crm" },
-    { title: L("Salesforce — Campaign Influence Implementation Guide", "Salesforce — Campaign Influence Implementation Guide"), url: "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/campaign_influence_implementation_guide.pdf" },
-    { title: L("Attio — Custom Objects and Relationships", "Attio — Custom Objects and Relationships"), url: "https://attio.com/help/academy/introduction/customizing-objects" },
-    { title: L("Attio — Understanding Attributes", "Attio — Understanding Attributes"), url: "https://attio.com/help/reference/attio-101/attios-data-model/Understanding-attributes" },
-    { title: L("LinkedIn Sales Solutions — Social Selling", "LinkedIn Sales Solutions — Social Selling"), url: "https://business.linkedin.com/sales-solutions/social-selling" },
+    { title: L("HubSpot - Attribution Reporting", "HubSpot - Attribution Reporting"), url: "https://knowledge.hubspot.com/reports/understand-attribution-reporting" },
+    { title: L("HubSpot - Create and Edit Properties", "HubSpot - Create and Edit Properties"), url: "https://knowledge.hubspot.com/properties/create-and-edit-properties" },
+    { title: L("HubSpot - Create and Customize Deal Pipelines", "HubSpot - Create and Customize Deal Pipelines"), url: "https://knowledge.hubspot.com/object-settings/create-and-customize-deal-pipelines-and-deal-stages" },
+    { title: L("Pipedrive - Custom Fields", "Pipedrive - Custom Fields"), url: "https://support.pipedrive.com/en/article/custom-fields" },
+    { title: L("Pipedrive - Sales Reports and Insights", "Pipedrive - Sales Reports and Insights"), url: "https://support.pipedrive.com/en/article/insights-reports" },
+    { title: L("Pipedrive - Customizable CRM", "Pipedrive - Customizable CRM"), url: "https://www.pipedrive.com/en/products/sales/customizable-crm" },
+    { title: L("Salesforce - Campaign Influence Implementation Guide", "Salesforce - Campaign Influence Implementation Guide"), url: "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/campaign_influence_implementation_guide.pdf" },
+    { title: L("Attio - Custom Objects and Relationships", "Attio - Custom Objects and Relationships"), url: "https://attio.com/help/academy/introduction/customizing-objects" },
+    { title: L("Attio - Understanding Attributes", "Attio - Understanding Attributes"), url: "https://attio.com/help/reference/attio-101/attios-data-model/Understanding-attributes" },
+    { title: L("LinkedIn Sales Solutions - Social Selling", "LinkedIn Sales Solutions - Social Selling"), url: "https://business.linkedin.com/sales-solutions/social-selling" },
     { title: L("LinkedIn Sales Navigator", "LinkedIn Sales Navigator"), url: "https://business.linkedin.com/sell/sales-navigator" },
     { title: L("Make.com", "Make.com"), url: "https://www.make.com/" },
     { title: L("Zapier", "Zapier"), url: "https://zapier.com/" },
@@ -1553,15 +1553,15 @@ Create opportunity or priority sales task
     previous: {
       slug: "linkedin-ads-thought-leader-ads",
       title: L(
-        "Lekcija 9 — Kako koristiti LinkedIn Ads da pojačaš Founder-Led Growth",
-        "Lesson 9 — How to Use LinkedIn Ads to Boost Founder-Led Growth",
+        "Lekcija 9 - Kako koristiti LinkedIn Ads da pojačaš Founder-Led Growth",
+        "Lesson 9 - How to Use LinkedIn Ads to Boost Founder-Led Growth",
       ),
     },
     next: {
       slug: "buying-signals-b2b-sales",
       title: L(
-        "Lekcija 11 — Šta su buying signali i kako ih koristiti u B2B prodaji",
-        "Lesson 11 — What Buying Signals Are and How to Use Them in B2B Sales",
+        "Lekcija 11 - Šta su buying signali i kako ih koristiti u B2B prodaji",
+        "Lesson 11 - What Buying Signals Are and How to Use Them in B2B Sales",
       ),
       note: L(
         "Sledeća lekcija pokazuje kako prepoznati buying signale i koristiti ih u B2B prodaji.",
@@ -1569,18 +1569,18 @@ Create opportunity or priority sales task
       ),
     },
     related: [
-      { slug: "what-founder-led-growth-is", title: L("Lekcija 1 — Šta je Founder-Led Growth", "Lesson 1 — What Founder-Led Growth Is and Why It Works for B2B Companies") },
-      { slug: "how-to-define-your-icp", title: L("Lekcija 2 — Kako definisati ICP", "Lesson 2 — How to Define Your ICP for B2B Lead Generation") },
-      { slug: "linkedin-commenting-strategy", title: L("Lekcija 6 — LinkedIn commenting strategija", "Lesson 6 — How to Use LinkedIn Commenting for Visibility With Your ICP") },
-      { slug: "linkedin-engagement-outreach-list", title: L("Lekcija 7 — LinkedIn engagement u outreach listu", "Lesson 7 — How to Turn LinkedIn Engagement Into an Outreach List") },
-      { slug: "webinars-founder-led-growth", title: L("Lekcija 8 — Webinari u Founder-Led Growth-u", "Lesson 8 — How to Use Webinars as Part of Founder-Led Growth") },
-      { slug: "inbound-to-outbound-system", title: L("Lekcija 12 — Inbound-to-outbound sistem", "Lesson 12 — How to Build an Inbound-to-Outbound System") },
+      { slug: "what-founder-led-growth-is", title: L("Lekcija 1 - Šta je Founder-Led Growth", "Lesson 1 - What Founder-Led Growth Is and Why It Works for B2B Companies") },
+      { slug: "how-to-define-your-icp", title: L("Lekcija 2 - Kako definisati ICP", "Lesson 2 - How to Define Your ICP for B2B Lead Generation") },
+      { slug: "linkedin-commenting-strategy", title: L("Lekcija 6 - LinkedIn commenting strategija", "Lesson 6 - How to Use LinkedIn Commenting for Visibility With Your ICP") },
+      { slug: "linkedin-engagement-outreach-list", title: L("Lekcija 7 - LinkedIn engagement u outreach listu", "Lesson 7 - How to Turn LinkedIn Engagement Into an Outreach List") },
+      { slug: "webinars-founder-led-growth", title: L("Lekcija 8 - Webinari u Founder-Led Growth-u", "Lesson 8 - How to Use Webinars as Part of Founder-Led Growth") },
+      { slug: "inbound-to-outbound-system", title: L("Lekcija 12 - Inbound-to-outbound sistem", "Lesson 12 - How to Build an Inbound-to-Outbound System") },
     ],
   },
   cta: {
     title: L("CRM je mesto gde Founder-Led Growth postaje merljiv", "CRM is where Founder-Led Growth becomes measurable"),
     body: L(
-      "LinkedIn aktivnost je korisna samo kad postane company memory. Ako komentari, DM-ovi, webinari, ads i outreach odgovori ostaju van CRM-a, tim će i dalje nagađati. Kad je CRM pravilno podešen, vidiš koja content tema stvara razgovore, koji signali postaju pipeline, koji webinari utiču na deal-ove, koji „not now“ leadovi treba reaktivirati — i koje aktivnosti stvarno povezuju sa revenue. Sledeća lekcija pokazuje kako prepoznati buying signale.",
+      "LinkedIn aktivnost je korisna samo kad postane company memory. Ako komentari, DM-ovi, webinari, ads i outreach odgovori ostaju van CRM-a, tim će i dalje nagađati. Kad je CRM pravilno podešen, vidiš koja content tema stvara razgovore, koji signali postaju pipeline, koji webinari utiču na deal-ove, koji „not now“ leadovi treba reaktivirati, i koje aktivnosti stvarno povezuju sa revenue. Sledeća lekcija pokazuje kako prepoznati buying signale.",
       "LinkedIn activity is useful only when it becomes company memory. If comments, DMs, webinars, ads, and outreach replies stay outside the CRM, the team will keep guessing. When the CRM is set up properly, you can see which content creates conversations, which signals turn into pipeline, which webinars influence deals, which \"not now\" leads should be reactivated, and which activities actually connect to revenue. The next lesson shows how to identify buying signals.",
     ),
     primaryLabel: L("Nastavi na Lekciju 11", "Continue Lesson 11"),

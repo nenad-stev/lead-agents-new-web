@@ -4,8 +4,8 @@ export const placeneReklame: ServicePage = {
   slug: "placene-reklame",
   meta: {
     title: {
-      sr: "Plaćene reklame — Video oglasi koji konvertuju | Lead Agents",
-      en: "Paid advertising — Video ads that convert | Lead Agents",
+      sr: "Plaćene reklame - Video oglasi koji konvertuju | Lead Agents",
+      en: "Paid advertising - Video ads that convert | Lead Agents",
     },
     description: {
       sr: "Pravimo reklame koje konvertuju: ICP, scenariji, snimanje, optimizacija kampanja i landing stranica na više platformi.",
@@ -19,8 +19,8 @@ export const placeneReklame: ServicePage = {
       en: "We create ads that convert",
     },
     description: {
-      sr: "Od savršenog hook-a, preko storytellinga, do kvalitetne montaže — pravimo reklame koje privlače pažnju i budu interesovanje za kupovinu tvog proizvoda ili usluge.",
-      en: "From the perfect hook and storytelling to high-quality editing — we make ads that grab attention and drive interest in your product or service.",
+      sr: "Od savršenog hook-a, preko storytellinga, do kvalitetne montaže, pravimo reklame koje privlače pažnju i budu interesovanje za kupovinu tvog proizvoda ili usluge.",
+      en: "From the perfect hook and storytelling to high-quality editing, we make ads that grab attention and drive interest in your product or service.",
     },
     primaryCta: { sr: "Zakaži konsultaciju", en: "Book a consultation" },
     secondaryCta: { sr: "Pogledaj proces", en: "See our process" },
@@ -32,8 +32,8 @@ export const placeneReklame: ServicePage = {
       {
         title: { sr: "Definisanje ICP profila", en: "Ideal client profile (ICP)" },
         description: {
-          sr: "Pre kreiranja oglasa detaljno analiziramo ko je tvoj idealan klijent — probleme, želje i ograničavajuća uverenja. Za nas je to ključni deo procesa.",
-          en: "Before creating ads we analyze your ideal client in depth — problems, desires, and limiting beliefs. It is a core part of our process.",
+          sr: "Pre kreiranja oglasa detaljno analiziramo ko je tvoj idealan klijent, probleme, želje i ograničavajuća uverenja. Za nas je to ključni deo procesa.",
+          en: "Before creating ads we analyze your ideal client in depth, problems, desires, and limiting beliefs. It is a core part of our process.",
         },
       },
       {
@@ -46,15 +46,15 @@ export const placeneReklame: ServicePage = {
       {
         title: { sr: "Snimanje i editovanje videa", en: "Video filming & editing" },
         description: {
-          sr: "Savršen scenario prati kvalitetan vizuelni sadržaj — montaža je na najvišem nivou kvaliteta.",
-          en: "A strong script is paired with quality visuals — editing at the highest production standard.",
+          sr: "Savršen scenario prati kvalitetan vizuelni sadržaj, montaža je na najvišem nivou kvaliteta.",
+          en: "A strong script is paired with quality visuals, editing at the highest production standard.",
         },
       },
       {
         title: { sr: "Optimizacija oglasa i landing stranica", en: "Ad & landing page optimization" },
         description: {
-          sr: "Pratimo rezultate i menjamo oglase, kampanje i landing stranice — sve što je potrebno za bolje performanse.",
-          en: "We track results and adjust ads, campaigns, and landing pages — everything needed for stronger performance.",
+          sr: "Pratimo rezultate i menjamo oglase, kampanje i landing stranice, sve što je potrebno za bolje performanse.",
+          en: "We track results and adjust ads, campaigns, and landing pages, everything needed for stronger performance.",
         },
       },
       {
@@ -112,7 +112,7 @@ export const placeneReklame: ServicePage = {
     en: "It has never been easier to reach the right people.",
   },
   process: {
-    title: { sr: "Naš proces — korak po korak", en: "Our process — step by step" },
+    title: { sr: "Naš proces, korak po korak", en: "Our process, step by step" },
     items: [
       {
         step: "01",

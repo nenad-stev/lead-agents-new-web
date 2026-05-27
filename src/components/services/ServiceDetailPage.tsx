@@ -158,8 +158,7 @@ function ResultsBlock({
                 <p className="text-base leading-relaxed text-foreground md:text-lg">
                   &ldquo;{t(result.quote, locale)}&rdquo;
                 </p>
-                <footer className="mt-6 text-sm font-semibold text-muted">
-                  — {result.name}
+                <footer className="mt-6 text-sm font-semibold text-muted">, {result.name}
                 </footer>
               </blockquote>
             </div>
@@ -177,8 +176,8 @@ export function ServiceDetailPage({ locale, dictionary, service }: ServiceDetail
   const ctaSubtitle =
     service.consultation.ctaSubtitle?.[locale] ??
     (locale === "sr"
-      ? "Pokreni rast svoje firme — bez obaveza, samo jasan plan."
-      : "Start growing your business — no obligation, just a clear plan.");
+      ? "Pokreni rast svoje firme, bez obaveza, samo jasan plan."
+      : "Start growing your business, no obligation, just a clear plan.");
 
   return (
     <>

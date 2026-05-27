@@ -82,7 +82,7 @@ const video5 = {
 export const lesson5RichContent: RichLessonContent = {
   meta: {
     stage: L("Content Engine", "Content Engine"),
-    readingTime: L("16–20 min", "16–20 min"),
+    readingTime: L("16-20 min", "16-20 min"),
     difficulty: L("Početnik do srednjeg nivoa", "Beginner to intermediate"),
     outcome: L(
       "Naučićeš kako da pišeš edukativne LinkedIn postove sa jasnim hook-ovima, korisnom strukturom, dokazom i CTA-ovima koji grade autoritet kod ICP-a i pomeraju čitaoca ka sledećem koraku u prodaji.",
@@ -106,10 +106,10 @@ export const lesson5RichContent: RichLessonContent = {
         "Founder zna temu. Razume kupca. Ima stvarnu ekspertizu. Ima priče iz sales call-ova, klijentskog rada i tržišta.",
         "Ali kad napiše post, postane generičan.",
         "Hook je mekan. Poenta nije jasna. Telo ima previše ideja. Primer nedostaje. CTA je ili previše agresivan ili ga nema.",
-        "Čitalac skroluje — ne zato što founder nije kredibilan, već zato što post nije zaslužio pažnju dovoljno brzo.",
-        "Edukativni LinkedIn postovi su drugačiji. Ne dele samo savet — uče kupca kako da misli.",
+        "Čitalac skroluje, ne zato što founder nije kredibilan, već zato što post nije zaslužio pažnju dovoljno brzo.",
+        "Edukativni LinkedIn postovi su drugačiji. Ne dele samo savet, uče kupca kako da misli.",
         "Imenuju problem. Refreimuju stari način. Objašnjavaju bolji način. Pokazuju primer. Daju praktičan sledeći korak.",
-        "Tako se gradi autoritet — ne rečima „mi smo eksperti“, već time što pomažeš pravom kupcu da bolje razume svoj problem.",
+        "Tako se gradi autoritet, ne rečima „mi smo eksperti“, već time što pomažeš pravom kupcu da bolje razume svoj problem.",
       ],
       [
         "Most LinkedIn posts do not fail because the idea is bad.",
@@ -117,10 +117,10 @@ export const lesson5RichContent: RichLessonContent = {
         "The founder knows the topic. They understand the buyer. They have real expertise. They have stories from sales calls, client work, and the market.",
         "But when they write the post, it becomes generic.",
         "The hook is soft. The point is unclear. The body has too many ideas. The example is missing. The CTA is either too aggressive or not there at all.",
-        "So the reader scrolls — not because the founder is not credible, but because the post did not earn attention fast enough.",
+        "So the reader scrolls, not because the founder is not credible, but because the post did not earn attention fast enough.",
         "Educational LinkedIn posts are different. They do not just share advice. They teach the buyer how to think.",
         "They name the problem. They reframe the old way. They explain the better way. They show an example. They give the reader a practical next step.",
-        "That is how authority is built — not by saying \"we are experts,\" but by helping the right buyer understand their problem better than they did before.",
+        "That is how authority is built, not by saying \"we are experts,\" but by helping the right buyer understand their problem better than they did before.",
       ],
     ),
     callout: L(
@@ -182,12 +182,12 @@ export const lesson5RichContent: RichLessonContent = {
           type: "illustration",
           src: "https://images.unsplash.com/photo-1455390582261-994c6a988f63?auto=format&fit=crop&w=1400&q=80",
           alt: L(
-            "Pisanje na laptopu — edukativni LinkedIn post sa jasnom strukturom",
-            "Writing on a laptop — an educational LinkedIn post with clear structure",
+            "Pisanje na laptopu, edukativni LinkedIn post sa jasnom strukturom",
+            "Writing on a laptop, an educational LinkedIn post with clear structure",
           ),
           caption: L(
-            "Jak post ne zavisi od inspiracije — zavisi od strukture koja uči pravog kupca.",
-            "A strong post does not depend on inspiration — it depends on structure that teaches the right buyer.",
+            "Jak post ne zavisi od inspiracije, zavisi od strukture koja uči pravog kupca.",
+            "A strong post does not depend on inspiration, it depends on structure that teaches the right buyer.",
           ),
           credit: L("Foto: Unsplash", "Photo: Unsplash"),
         },
@@ -195,8 +195,8 @@ export const lesson5RichContent: RichLessonContent = {
           type: "pipeline-flow",
           title: L("Edukativni post u Founder-Led Growth sistemu", "Educational post in the Founder-Led Growth system"),
           subtitle: L(
-            "Jedan post gradi poverenje — zatim hrani profil, outreach i CRM.",
-            "One post builds trust — then feeds profile, outreach, and CRM.",
+            "Jedan post gradi poverenje, zatim hrani profil, outreach i CRM.",
+            "One post builds trust, then feeds profile, outreach, and CRM.",
           ),
           stages: [
             L("ICP bol", "ICP pain"),
@@ -219,7 +219,7 @@ export const lesson5RichContent: RichLessonContent = {
           type: "paragraphs",
           paragraphs: P(
             [
-              "Founder-Led Growth content nije zabava — to je sales kontekst.",
+              "Founder-Led Growth content nije zabava, to je sales kontekst.",
               "Dobar edukativni post može: učiniti kupca svesnim problema; pomoći mu da objasni problem interno; izgraditi poverenje u founder POV; dati razlog za engagement; stvoriti topao outreach opener; validirati webinar temu; generisati DM-ove; kreirati CRM signale; uticati na buduće sales razgovore.",
               "LinkedIn B2B content marketing smernice kažu da jak B2B content treba da pomaže kupcima da reše poslovne probleme i da bude povezan sa publikom, ciljevima, merenjem, customer journey-em i izgradnjom odnosa.",
               "Edelman i LinkedIn 2025 B2B Thought Leadership Impact Report kaže da thought leadership gradi poverenje, usklađivanje i otvara vrata gde tradicionalna prodaja i marketing mogu da padnu.",
@@ -267,8 +267,8 @@ export const lesson5RichContent: RichLessonContent = {
           type: "pipeline-flow",
           title: L("Šta jedan jak post može da pokrene", "What one strong post can trigger"),
           subtitle: L(
-            "Edukativni content je sales kontekst — ne zabava za feed.",
-            "Educational content is sales context — not feed entertainment.",
+            "Edukativni content je sales kontekst, ne zabava za feed.",
+            "Educational content is sales context, not feed entertainment.",
           ),
           stages: [
             L("Svest", "Awareness"),
@@ -293,14 +293,14 @@ export const lesson5RichContent: RichLessonContent = {
               "Edukativni LinkedIn post treba da ima jedan posao: učiniti pravog kupca pametnijim oko jednog važnog problema.",
               "Ne pet problema. Ne celu ponudu. Ne ceo životni story.",
               "Jedan problem. Jedan reframe. Jedan praktičan takeaway. Jedan sledeći korak.",
-              "Većina founder-a pokušava previše u jednom postu — objasni tržište, problem, proizvod, tri primera, case study i CTA. Čitalac se izgubi.",
+              "Većina founder-a pokušava previše u jednom postu, objasni tržište, problem, proizvod, tri primera, case study i CTA. Čitalac se izgubi.",
               "Bolji post je jednostavan:",
             ],
             [
               "An educational LinkedIn post should have one job: make the right buyer smarter about one important problem.",
               "Not five problems. Not your whole offer. Not your life story.",
               "One problem. One reframe. One practical takeaway. One next step.",
-              "Most founders try to do too much in one post — they explain the market, problem, product, three examples, a case study, and a CTA. The reader gets lost.",
+              "Most founders try to do too much in one post, they explain the market, problem, product, three examples, a case study, and a CTA. The reader gets lost.",
               "A better post is simple:",
             ],
           ),
@@ -430,12 +430,12 @@ export const lesson5RichContent: RichLessonContent = {
           type: "illustration",
           src: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1400&q=80",
           alt: L(
-            "Struktura LinkedIn posta — hook, telo, primer i CTA",
-            "LinkedIn post structure — hook, body, example, and CTA",
+            "Struktura LinkedIn posta, hook, telo, primer i CTA",
+            "LinkedIn post structure, hook, body, example, and CTA",
           ),
           caption: L(
-            "Svaki deo ima jedan posao. Preskoči ga — i post postane generičan.",
-            "Each part has one job. Skip it — and the post becomes generic.",
+            "Svaki deo ima jedan posao. Preskoči ga, i post postane generičan.",
+            "Each part has one job. Skip it, and the post becomes generic.",
           ),
           credit: L("Foto: Unsplash", "Photo: Unsplash"),
         },
@@ -446,16 +446,16 @@ export const lesson5RichContent: RichLessonContent = {
             "Hook → Problem → Reframe → Framework → Example → Action → CTA",
           ),
           description: L(
-            "Ovo je struktura. Ne svaki post mora izgledati identično — ali svaki jak edukativni post obično sadrži ove delove.",
-            "This is the structure. Not every post has to look identical — but every strong educational post usually contains these parts.",
+            "Ovo je struktura. Ne svaki post mora izgledati identično, ali svaki jak edukativni post obično sadrži ove delove.",
+            "This is the structure. Not every post has to look identical, but every strong educational post usually contains these parts.",
           ),
         },
         {
           type: "pipeline-flow",
           title: L("Anatomija edukativnog posta", "Educational post anatomy"),
           subtitle: L(
-            "Čitalac prolazi kroz sekvencu — svaki korak gradi na prethodnom.",
-            "The reader moves through a sequence — each step builds on the last.",
+            "Čitalac prolazi kroz sekvencu, svaki korak gradi na prethodnom.",
+            "The reader moves through a sequence, each step builds on the last.",
           ),
           stages: [
             L("Hook", "Hook"),
@@ -468,7 +468,7 @@ export const lesson5RichContent: RichLessonContent = {
         },
         {
           type: "zone-cards",
-          title: L("7 zona posta — šta radi svaki deo", "7 post zones — what each part does"),
+          title: L("7 zona posta, šta radi svaki deo", "7 post zones, what each part does"),
           subtitle: L(
             "Koristi kao checklist pre objave. Ako zona ne radi posao, prepiši je.",
             "Use as a pre-publish checklist. If a zone does not do its job, rewrite it.",
@@ -476,7 +476,7 @@ export const lesson5RichContent: RichLessonContent = {
           cards: [
             {
               zone: L("Hook", "Hook"),
-              eyebrow: L("Linija 1–3", "Lines 1–3"),
+              eyebrow: L("Linija 1-3", "Lines 1-3"),
               job: L("Zaustavi ICP i nateraj „see more“.", "Stop the ICP and earn \"see more.\""),
               doThis: L("Imenuj problem, grešku ili kontrarian POV.", "Name the problem, mistake, or contrarian POV."),
               avoid: L("„Ovo je promenilo sve“ bez konteksta.", "\"This changed everything\" with no context."),
@@ -498,7 +498,7 @@ export const lesson5RichContent: RichLessonContent = {
             {
               zone: L("Framework", "Framework"),
               eyebrow: L("Uči", "Teach"),
-              job: L("Učini ekspertizu prenosivom (3–5 koraka).", "Make expertise portable (3–5 steps)."),
+              job: L("Učini ekspertizu prenosivom (3-5 koraka).", "Make expertise portable (3-5 steps)."),
               doThis: L("Jednostavan model koji se pamti i deli.", "A simple model that is easy to remember and share."),
               avoid: L("Više od 7 koraka u jednom postu.", "More than 7 steps in one post."),
             },
@@ -552,8 +552,8 @@ export const lesson5RichContent: RichLessonContent = {
                 "Write 10 hooks for one idea and choose the one that stops your ICP.",
               ),
               highlight: L(
-                "Dobar hook kvalifikuje pažnju — ne samo maksimizuje je.",
-                "A good hook qualifies attention — not just maximizes it.",
+                "Dobar hook kvalifikuje pažnju, ne samo maksimizuje je.",
+                "A good hook qualifies attention, not just maximizes it.",
               ),
             },
             {
@@ -616,8 +616,8 @@ export const lesson5RichContent: RichLessonContent = {
               step: 4,
               title: L("Framework", "Framework"),
               whatToDo: L(
-                "Nauči bolji način razmišljanja ili delovanja — 3–5 koraka.",
-                "Teach a better way to think or act — 3–5 steps.",
+                "Nauči bolji način razmišljanja ili delovanja - 3-5 koraka.",
+                "Teach a better way to think or act - 3-5 steps.",
               ),
               whyItMatters: L(
                 "Framework čini ekspertizu prenosivom i lakom za deljenje interno.",
@@ -676,8 +676,8 @@ export const lesson5RichContent: RichLessonContent = {
                 "Give the reader something they can do right away.",
               ),
               whyItMatters: L(
-                "Akcija pretvara učenje u ponašanje — i signal za follow-up.",
-                "Action turns learning into behavior — and a signal for follow-up.",
+                "Akcija pretvara učenje u ponašanje, i signal za follow-up.",
+                "Action turns learning into behavior, and a signal for follow-up.",
               ),
               example: L(
                 "„Napiši sledeći post iz jednog buyer bola, ne iz topic ideje.“",
@@ -692,8 +692,8 @@ export const lesson5RichContent: RichLessonContent = {
                 "One clear action at the end of the post body.",
               ),
               highlight: L(
-                "Akcija ne mora biti kupovina — mora biti korisna.",
-                "The action does not have to be a purchase — it has to be useful.",
+                "Akcija ne mora biti kupovina, mora biti korisna.",
+                "The action does not have to be a purchase, it has to be useful.",
               ),
             },
             {
@@ -823,7 +823,7 @@ export const lesson5RichContent: RichLessonContent = {
                 "Write hooks that attract the right buyer, not everyone.",
               ),
               whyItMatters: L(
-                "Hook ne treba samo da maksimizuje pažnju — treba da je kvalifikuje.",
+                "Hook ne treba samo da maksimizuje pažnju, treba da je kvalifikuje.",
                 "A hook should not only maximize attention. It should qualify attention.",
               ),
               example: L(
@@ -864,10 +864,10 @@ export const lesson5RichContent: RichLessonContent = {
         },
         {
           type: "pipeline-flow",
-          title: L("Workflow pisanja — od Notion banka do objave", "Writing workflow — from Notion bank to publish"),
+          title: L("Workflow pisanja, od Notion banka do objave", "Writing workflow, from Notion bank to publish"),
           subtitle: L(
-            "Notion drži šablone i hook bank — Google Docs za draft i review sa timom.",
-            "Notion holds templates and hook banks — Google Docs for drafting and team review.",
+            "Notion drži šablone i hook bank - Google Docs za draft i review sa timom.",
+            "Notion holds templates and hook banks - Google Docs for drafting and team review.",
           ),
           stages: [
             L("Buyer bol", "Buyer pain"),
@@ -902,7 +902,7 @@ export const lesson5RichContent: RichLessonContent = {
                 "Starting with background, context, or a soft intro.",
               ),
               tryThis: L(
-                "Obriši prvu rečenicu draft-a — post je često jači posle toga.",
+                "Obriši prvu rečenicu draft-a, post je često jači posle toga.",
                 "Delete the first sentence of your draft. Most of the time, the post gets stronger.",
               ),
               highlight: L(
@@ -954,12 +954,12 @@ export const lesson5RichContent: RichLessonContent = {
                 "ICP Pain → Founder POV → Content Pillar → Post → Signal → Follow-up",
               ),
               commonMistake: L(
-                "Korisno ali nezaboravno — previše koraka.",
-                "Useful but hard to remember — too many steps.",
+                "Korisno ali nezaboravno, previše koraka.",
+                "Useful but hard to remember, too many steps.",
               ),
               tryThis: L(
-                "Pretvori savet u 3–5 koraka. Više od 7 → podeli u više postova.",
-                "Turn your advice into 3–5 steps. More than 7 → split into multiple posts.",
+                "Pretvori savet u 3-5 koraka. Više od 7 → podeli u više postova.",
+                "Turn your advice into 3-5 steps. More than 7 → split into multiple posts.",
               ),
               highlight: L(
                 "Jednostavan framework se pamti i deli.",
@@ -1002,8 +1002,8 @@ export const lesson5RichContent: RichLessonContent = {
                 "Use proof to support the idea, not dominate the post.",
               ),
               whyItMatters: L(
-                "Dokaz čini content kredibilnim — ali self-promotion ubija poverenje.",
-                "Proof makes content credible — but self-promotion kills trust.",
+                "Dokaz čini content kredibilnim, ali self-promotion ubija poverenje.",
+                "Proof makes content credible, but self-promotion kills trust.",
               ),
               example: L(
                 "Dobro: „Ovaj obrazac vidimo u 30+ B2B firmi: postovi koji stvaraju pipeline retko su najviralniji.“ Loše: „Mi smo najbolja agencija. Zakaži call.“",
@@ -1030,7 +1030,7 @@ export const lesson5RichContent: RichLessonContent = {
                 "End the post with a clear next step.",
               ),
               whyItMatters: L(
-                "Edukativni content ne treba uvek da gura call — različiti postovi stvaraju različit nivo namere.",
+                "Edukativni content ne treba uvek da gura call, različiti postovi stvaraju različit nivo namere.",
                 "Educational content should not always push for a call. Different posts create different levels of intent.",
               ),
               example: L(
@@ -1131,10 +1131,10 @@ export const lesson5RichContent: RichLessonContent = {
             {
               title: L("Kupci trebaju jasnoću pre sales angažmana", "Buyers need clarity before sales engagement"),
               body: L(
-                "LinkedIn thought leadership resursi naglašavaju da mnogi B2B kupci definišu potrebe pre nego što kontaktiraju sales — zato je edukativni content važan pre direktne prodajne aktivnosti.",
-                "LinkedIn thought leadership resources highlight that many B2B buyers define their needs before engaging sales — which makes educational content important before direct sales activity.",
+                "LinkedIn thought leadership resursi naglašavaju da mnogi B2B kupci definišu potrebe pre nego što kontaktiraju sales, zato je edukativni content važan pre direktne prodajne aktivnosti.",
+                "LinkedIn thought leadership resources highlight that many B2B buyers define their needs before engaging sales, which makes educational content important before direct sales activity.",
               ),
-              sourceLabel: L("LinkedIn — Thought Leadership 101", "LinkedIn — Thought Leadership 101"),
+              sourceLabel: L("LinkedIn - Thought Leadership 101", "LinkedIn - Thought Leadership 101"),
               sourceUrl: "https://business.linkedin.com/advertise/resources/marketing-terms/thought-leadership",
             },
           ],
@@ -1247,12 +1247,12 @@ export const lesson5RichContent: RichLessonContent = {
           type: "bullets",
           items: P(
             [
-              "„Ovo najčešće vidimo u B2B service firmama od 10–50 ljudi.“",
+              "„Ovo najčešće vidimo u B2B service firmama od 10-50 ljudi.“",
               "„Ovo obično puca kad founder zapošljava SDR-ove pre nego što je poruka jasna.“",
               "„Problem retko je CTA. Obično je nedostatak konteksta pre CTA-a.“",
             ],
             [
-              "\"We see this most often in 10–50 person B2B service firms.\"",
+              "\"We see this most often in 10-50 person B2B service firms.\"",
               "\"This usually breaks when the founder starts hiring SDRs before the message is clear.\"",
               "\"The issue is rarely the CTA. It is usually the lack of context before the CTA.\"",
             ],
@@ -1438,24 +1438,24 @@ export const lesson5RichContent: RichLessonContent = {
               value: L("10", "10"),
               label: L("Hook varijanti", "Hook variants"),
               description: L(
-                "Napiši 10 — izaberi onaj koji zaustavlja ICP, ne svakoga.",
-                "Write 10 — pick the one that stops your ICP, not everyone.",
+                "Napiši 10, izaberi onaj koji zaustavlja ICP, ne svakoga.",
+                "Write 10, pick the one that stops your ICP, not everyone.",
               ),
             },
             {
               value: L("1", "1"),
               label: L("Primer", "Example"),
               description: L(
-                "Before/after, mini case ili rewrite — obavezno u svakom jakom postu.",
-                "Before/after, mini case, or rewrite — required in every strong post.",
+                "Before/after, mini case ili rewrite, obavezno u svakom jakom postu.",
+                "Before/after, mini case, or rewrite, required in every strong post.",
               ),
             },
             {
               value: L("1", "1"),
               label: L("CTA", "CTA"),
               description: L(
-                "Soft ili medium intent — usklađen sa buyer stage-om.",
-                "Soft or medium intent — matched to buyer stage.",
+                "Soft ili medium intent, usklađen sa buyer stage-om.",
+                "Soft or medium intent, matched to buyer stage.",
               ),
             },
           ],
@@ -1494,7 +1494,7 @@ export const lesson5RichContent: RichLessonContent = {
             ],
           ),
           highlight: L(
-            "Ovako pisanje postaje deo sales sistema — ne samo content produkcija.",
+            "Ovako pisanje postaje deo sales sistema, ne samo content produkcija.",
             "This is how writing becomes part of the sales system. Not just content production.",
           ),
         },
@@ -1664,7 +1664,7 @@ Pre nego što [akcija], proveri ovih [broj] stvari.
 3. Struktura posta
 
 Hook:
-[prve 1–3 linije]
+[prve 1-3 linije]
 
 Problem:
 [šta kupac doživljava]
@@ -1676,7 +1676,7 @@ Reframe:
 [šta je stvarni uzrok]
 
 Framework:
-[3–5 koraka ili delova]
+[3-5 koraka ili delova]
 
 Primer:
 [before/after, priča, checklist, rewrite poruke ili mini case]
@@ -1746,7 +1746,7 @@ Before you [action], check these [number] things.
 3. Post structure
 
 Hook:
-[write the first 1–3 lines]
+[write the first 1-3 lines]
 
 Problem:
 [what the buyer is experiencing]
@@ -1758,7 +1758,7 @@ Reframe:
 [what is actually causing it]
 
 Framework:
-[3–5 steps or parts]
+[3-5 steps or parts]
 
 Example:
 [before/after, story, checklist, message rewrite, or mini case]
@@ -1813,22 +1813,22 @@ Before publishing, ask:
     {
       question: L("Šta čini dobar LinkedIn hook?", "What makes a good LinkedIn hook?"),
       answer: L(
-        "Dobar hook zaustavlja pravog kupca imenovanjem specifičnog problema, greške, verovanja ili tenzije. Najbolji hook nije uvek onaj sa najviše pažnje — već onaj koji privlači pravu publiku.",
-        "A good hook stops the right buyer by naming a specific problem, mistake, belief, or tension. The best hook is not always the one that gets the most attention — it is the one that attracts the right audience.",
+        "Dobar hook zaustavlja pravog kupca imenovanjem specifičnog problema, greške, verovanja ili tenzije. Najbolji hook nije uvek onaj sa najviše pažnje, već onaj koji privlači pravu publiku.",
+        "A good hook stops the right buyer by naming a specific problem, mistake, belief, or tension. The best hook is not always the one that gets the most attention, it is the one that attracts the right audience.",
       ),
     },
     {
       question: L("Koliko dug treba da bude LinkedIn post?", "How long should a LinkedIn post be?"),
       answer: L(
-        "Post treba da bude onoliko dug koliko treba da prenese jednu jasnu poentu. Za Founder-Led Growth, većina jakih edukativnih postova su dovoljno dugi da objasne problem, reframe, primer i CTA — ne duži samo da izgledaju vredno.",
-        "A post should be as long as needed to make one clear point. For Founder-Led Growth, most strong educational posts are long enough to explain the problem, reframe it, give an example, and include a CTA — not longer just to look valuable.",
+        "Post treba da bude onoliko dug koliko treba da prenese jednu jasnu poentu. Za Founder-Led Growth, većina jakih edukativnih postova su dovoljno dugi da objasne problem, reframe, primer i CTA, ne duži samo da izgledaju vredno.",
+        "A post should be as long as needed to make one clear point. For Founder-Led Growth, most strong educational posts are long enough to explain the problem, reframe it, give an example, and include a CTA, not longer just to look valuable.",
       ),
     },
     {
       question: L("Da li svaki post treba da ima CTA?", "Should every post have a CTA?"),
       answer: L(
-        "Svaki post treba sledeći korak, ali ne mora biti sales call. Koristi soft CTA često: save, comment za šablon, DM za checklist, webinar, konsultacija — uskladi sa namerom kupca.",
-        "Every post should have a next step, but not every next step has to be a sales call. Use soft CTAs often: save, comment for template, DM for checklist, webinar, consultation — match buyer intent.",
+        "Svaki post treba sledeći korak, ali ne mora biti sales call. Koristi soft CTA često: save, comment za šablon, DM za checklist, webinar, konsultacija, uskladi sa namerom kupca.",
+        "Every post should have a next step, but not every next step has to be a sales call. Use soft CTAs often: save, comment for template, DM for checklist, webinar, consultation, match buyer intent.",
       ),
     },
     {
@@ -1854,32 +1854,32 @@ Before publishing, ask:
     },
   ],
   sources: [
-    { title: L("LinkedIn Marketing Solutions — Ultimate Guide to Improve Your B2B Content Marketing Strategy", "LinkedIn Marketing Solutions — Ultimate Guide to Improve Your B2B Content Marketing Strategy"), url: "https://www.linkedin.com/business/marketing/blog/content-marketing/the-ultimate-guide-to-improve-your-b2b-content-marketing-strategy" },
-    { title: L("LinkedIn Marketing Solutions — Thought Leadership 101", "LinkedIn Marketing Solutions — Thought Leadership 101"), url: "https://business.linkedin.com/advertise/resources/marketing-terms/thought-leadership" },
-    { title: L("LinkedIn Marketing Blog — How to Create Impactful Thought Leadership Content", "LinkedIn Marketing Blog — How to Create Impactful Thought Leadership Content"), url: "https://www.linkedin.com/business/marketing/blog/content-marketing/creating-a-thought-leadership-marketing-plan" },
-    { title: L("Edelman / LinkedIn — 2025 B2B Thought Leadership Impact Report", "Edelman / LinkedIn — 2025 B2B Thought Leadership Impact Report"), url: "https://www.edelman.com/expertise/Business-Marketing/2025-b2b-thought-leadership-report" },
-    { title: L("LinkedIn Marketing Blog — Thought Leadership and Hidden Buyers", "LinkedIn Marketing Blog — Thought Leadership and Hidden Buyers"), url: "https://www.linkedin.com/business/marketing/blog/research-and-insights/b2b-thought-leadership-influence-hidden-buyers" },
-    { title: L("LinkedIn Marketing Blog — B2B Content Marketing Types", "LinkedIn Marketing Blog — B2B Content Marketing Types"), url: "https://www.linkedin.com/business/marketing/blog/content-marketing/b2b-content-marketing-types" },
-    { title: L("LinkedIn Marketing Blog — Real Examples That Showcase B2B Thought Leadership Success", "LinkedIn Marketing Blog — Real Examples That Showcase B2B Thought Leadership Success"), url: "https://www.linkedin.com/business/marketing/blog/content-marketing/examples-of-thought-leadership-content-b2b" },
-    { title: L("AuthoredUp — LinkedIn Content Strategy", "AuthoredUp — LinkedIn Content Strategy"), url: "https://authoredup.com/blog/linkedin-content-strategy" },
-    { title: L("Taplio vs AuthoredUp — LinkedIn Tool Comparison", "Taplio vs AuthoredUp — LinkedIn Tool Comparison"), url: "https://taplio.com/blog/taplio-vs-authoredup" },
-    { title: L("PostBeam — AuthoredUp vs Taplio Comparison", "PostBeam — AuthoredUp vs Taplio Comparison"), url: "https://www.postbeam.ai/blog/authoredup-vs-taplio" },
-    { title: L("HubSpot — How to Use LinkedIn for Business Marketing", "HubSpot — How to Use LinkedIn for Business Marketing"), url: "https://offers.hubspot.com/how-to-use-linkedin-business-marketing" },
-    { title: L("Content Marketing Institute — B2B Content Marketing Trends", "Content Marketing Institute — B2B Content Marketing Trends"), url: "https://contentmarketinginstitute.com/b2b-research/b2b-content-marketing-trends-research" },
+    { title: L("LinkedIn Marketing Solutions - Ultimate Guide to Improve Your B2B Content Marketing Strategy", "LinkedIn Marketing Solutions - Ultimate Guide to Improve Your B2B Content Marketing Strategy"), url: "https://www.linkedin.com/business/marketing/blog/content-marketing/the-ultimate-guide-to-improve-your-b2b-content-marketing-strategy" },
+    { title: L("LinkedIn Marketing Solutions - Thought Leadership 101", "LinkedIn Marketing Solutions - Thought Leadership 101"), url: "https://business.linkedin.com/advertise/resources/marketing-terms/thought-leadership" },
+    { title: L("LinkedIn Marketing Blog - How to Create Impactful Thought Leadership Content", "LinkedIn Marketing Blog - How to Create Impactful Thought Leadership Content"), url: "https://www.linkedin.com/business/marketing/blog/content-marketing/creating-a-thought-leadership-marketing-plan" },
+    { title: L("Edelman / LinkedIn - 2025 B2B Thought Leadership Impact Report", "Edelman / LinkedIn - 2025 B2B Thought Leadership Impact Report"), url: "https://www.edelman.com/expertise/Business-Marketing/2025-b2b-thought-leadership-report" },
+    { title: L("LinkedIn Marketing Blog - Thought Leadership and Hidden Buyers", "LinkedIn Marketing Blog - Thought Leadership and Hidden Buyers"), url: "https://www.linkedin.com/business/marketing/blog/research-and-insights/b2b-thought-leadership-influence-hidden-buyers" },
+    { title: L("LinkedIn Marketing Blog - B2B Content Marketing Types", "LinkedIn Marketing Blog - B2B Content Marketing Types"), url: "https://www.linkedin.com/business/marketing/blog/content-marketing/b2b-content-marketing-types" },
+    { title: L("LinkedIn Marketing Blog - Real Examples That Showcase B2B Thought Leadership Success", "LinkedIn Marketing Blog - Real Examples That Showcase B2B Thought Leadership Success"), url: "https://www.linkedin.com/business/marketing/blog/content-marketing/examples-of-thought-leadership-content-b2b" },
+    { title: L("AuthoredUp - LinkedIn Content Strategy", "AuthoredUp - LinkedIn Content Strategy"), url: "https://authoredup.com/blog/linkedin-content-strategy" },
+    { title: L("Taplio vs AuthoredUp - LinkedIn Tool Comparison", "Taplio vs AuthoredUp - LinkedIn Tool Comparison"), url: "https://taplio.com/blog/taplio-vs-authoredup" },
+    { title: L("PostBeam - AuthoredUp vs Taplio Comparison", "PostBeam - AuthoredUp vs Taplio Comparison"), url: "https://www.postbeam.ai/blog/authoredup-vs-taplio" },
+    { title: L("HubSpot - How to Use LinkedIn for Business Marketing", "HubSpot - How to Use LinkedIn for Business Marketing"), url: "https://offers.hubspot.com/how-to-use-linkedin-business-marketing" },
+    { title: L("Content Marketing Institute - B2B Content Marketing Trends", "Content Marketing Institute - B2B Content Marketing Trends"), url: "https://contentmarketinginstitute.com/b2b-research/b2b-content-marketing-trends-research" },
   ],
   relatedLessons: {
     previous: {
       slug: "linkedin-content-strategy-founder",
       title: L(
-        "Lekcija 4 — Kako napraviti LinkedIn content strategiju za founder-a",
-        "Lesson 4 — How to Build a LinkedIn Content Strategy for a Founder",
+        "Lekcija 4 - Kako napraviti LinkedIn content strategiju za founder-a",
+        "Lesson 4 - How to Build a LinkedIn Content Strategy for a Founder",
       ),
     },
     next: {
       slug: "linkedin-commenting-strategy",
       title: L(
-        "Lekcija 6 — Kako koristiti komentarisanje na LinkedInu za vidljivost kod ICP-a",
-        "Lesson 6 — How to Use LinkedIn Commenting to Get Visibility With Your ICP",
+        "Lekcija 6 - Kako koristiti komentarisanje na LinkedInu za vidljivost kod ICP-a",
+        "Lesson 6 - How to Use LinkedIn Commenting to Get Visibility With Your ICP",
       ),
       note: L(
         "Sledeća lekcija pokazuje kako koristiti komentarisanje za vidljivost pre slanja poruke.",
@@ -1890,43 +1890,43 @@ Before publishing, ask:
       {
         slug: "what-founder-led-growth-is",
         title: L(
-          "Lekcija 1 — Šta je Founder-Led Growth",
-          "Lesson 1 — What Founder-Led Growth Is and Why It Works for B2B Companies",
+          "Lekcija 1 - Šta je Founder-Led Growth",
+          "Lesson 1 - What Founder-Led Growth Is and Why It Works for B2B Companies",
         ),
       },
       {
         slug: "how-to-define-your-icp",
         title: L(
-          "Lekcija 2 — Kako definisati ICP",
-          "Lesson 2 — How to Define Your ICP for Founder-Led Growth",
+          "Lekcija 2 - Kako definisati ICP",
+          "Lesson 2 - How to Define Your ICP for Founder-Led Growth",
         ),
       },
       {
         slug: "linkedin-profile-optimization-founder",
         title: L(
-          "Lekcija 3 — Kako optimizovati LinkedIn profil founder-a",
-          "Lesson 3 — How to Optimize a Founder's LinkedIn Profile for B2B Lead Generation",
+          "Lekcija 3 - Kako optimizovati LinkedIn profil founder-a",
+          "Lesson 3 - How to Optimize a Founder's LinkedIn Profile for B2B Lead Generation",
         ),
       },
       {
         slug: "linkedin-engagement-outreach-list",
         title: L(
-          "Lekcija 7 — Engagement u outreach listu",
-          "Lesson 7 — How to Turn LinkedIn Engagement Into an Outreach List",
+          "Lekcija 7 - Engagement u outreach listu",
+          "Lesson 7 - How to Turn LinkedIn Engagement Into an Outreach List",
         ),
       },
       {
         slug: "crm-za-founder-led-growth",
         title: L(
-          "Lekcija 10 — CRM za Founder-Led Growth",
-          "Lesson 10 — How to Track Founder-Led Growth Activities in Your CRM",
+          "Lekcija 10 - CRM za Founder-Led Growth",
+          "Lesson 10 - How to Track Founder-Led Growth Activities in Your CRM",
         ),
       },
       {
         slug: "buying-signals-b2b-sales",
         title: L(
-          "Lekcija 11 — Buying signali",
-          "Lesson 11 — What Buying Signals Are and How to Use Them in B2B Sales",
+          "Lekcija 11 - Buying signali",
+          "Lesson 11 - What Buying Signals Are and How to Use Them in B2B Sales",
         ),
       },
     ],

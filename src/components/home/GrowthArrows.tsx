@@ -7,7 +7,7 @@ type GrowthArrowsProps = {
   className?: string;
 };
 
-/** Decorative up-right arrows — growth motif */
+/** Decorative up-right arrows, growth motif */
 export function GrowthArrows({ variant = "hero", className }: GrowthArrowsProps) {
   if (variant === "hero") {
     return (

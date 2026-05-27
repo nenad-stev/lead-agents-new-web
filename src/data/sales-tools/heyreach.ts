@@ -5,8 +5,8 @@ export const heyreachTool: SalesTool = {
   name: "HeyReach",
   logo: "/images/sales-tools/heyreach.png",
   tagline: {
-    sr: "LinkedIn automatizacija — neograničeni senderi, jedna fiksna cena",
-    en: "LinkedIn automation — unlimited senders, one flat fee",
+    sr: "LinkedIn automatizacija, neograničeni senderi, jedna fiksna cena",
+    en: "LinkedIn automation, unlimited senders, one flat fee",
   },
   categoryId: "linkedin-outreach",
   category: { sr: "LinkedIn outreach", en: "LinkedIn outreach" },
@@ -32,12 +32,12 @@ export const heyreachTool: SalesTool = {
   recommended: true,
   rating: { g2: 4.8, g2Reviews: 280 },
   overview: {
-    sr: "HeyReach automatizuje LinkedIn outreach za agencije i sales timove: povežete više LinkedIn naloga (sendera), rotirate slanje kroz jednu kampanju i odgovarate iz jedinstvenog inbox-a — bez naplate po korisniku.",
-    en: "HeyReach automates LinkedIn outreach for agencies and sales teams: connect multiple LinkedIn accounts (senders), rotate sending across one campaign, and reply from a unified inbox — with no per-user fee.",
+    sr: "HeyReach automatizuje LinkedIn outreach za agencije i sales timove: povežete više LinkedIn naloga (sendera), rotirate slanje kroz jednu kampanju i odgovarate iz jedinstvenog inbox-a, bez naplate po korisniku.",
+    en: "HeyReach automates LinkedIn outreach for agencies and sales teams: connect multiple LinkedIn accounts (senders), rotate sending across one campaign, and reply from a unified inbox, with no per-user fee.",
   },
   overviewExtended: {
-    sr: "Growth plan ($79/sender) uključuje residential proxy po senderu i 14-dnevni trial (3 LinkedIn naloga, bez kartice). Agency ($999) pokriva 50 sendera + whitelabel; Unlimited ($1.999) — neograničeni senderi. Integracije: HubSpot, Clay, Zapier, API, MCP. Nije email-first alat kao Instantly — fokus je skaliranje LinkedIn-a.",
-    en: "The Growth plan ($79/sender) includes a residential proxy per sender and a 14-day trial (3 LinkedIn accounts, no card). Agency ($999) covers 50 senders plus whitelabel; Unlimited ($1,999) for unlimited senders. Integrations: HubSpot, Clay, Zapier, API, MCP. Not an email-first tool like Instantly — the focus is scaling LinkedIn.",
+    sr: "Growth plan ($79/sender) uključuje residential proxy po senderu i 14-dnevni trial (3 LinkedIn naloga, bez kartice). Agency ($999) pokriva 50 sendera + whitelabel; Unlimited ($1.999), neograničeni senderi. Integracije: HubSpot, Clay, Zapier, API, MCP. Nije email-first alat kao Instantly, fokus je skaliranje LinkedIn-a.",
+    en: "The Growth plan ($79/sender) includes a residential proxy per sender and a 14-day trial (3 LinkedIn accounts, no card). Agency ($999) covers 50 senders plus whitelabel; Unlimited ($1,999) for unlimited senders. Integrations: HubSpot, Clay, Zapier, API, MCP. Not an email-first tool like Instantly, the focus is scaling LinkedIn.",
   },
   idealFor: {
     sr: [
@@ -176,7 +176,7 @@ export const heyreachTool: SalesTool = {
       {
         feature: { sr: "LinkedIn senderi", en: "LinkedIn senders" },
         values: {
-          growth: { sr: "Po izboru (1–10+)", en: "Your choice (1–10+)" },
+          growth: { sr: "Po izboru (1-10+)", en: "Your choice (1-10+)" },
           agency: { sr: "50", en: "50" },
           unlimited: { sr: "Neograničeno", en: "Unlimited" },
         },
@@ -226,21 +226,21 @@ export const heyreachTool: SalesTool = {
   setup: {
     complexity: { sr: "Srednja", en: "Medium" },
     description: {
-      sr: "Povežete LinkedIn sendere, importujete listu (Clay, CSV, Sales Navigator), gradite sekvencu sa If Connected logikom i pokrenete kampanju. Odgovori stižu u unified inbox — možete delegirati VAs ili sales bez dodatne seat naplate.",
-      en: "Connect LinkedIn senders, import a list (Clay, CSV, Sales Navigator), build a sequence with If Connected logic, and launch. Replies land in the unified inbox — delegate to VAs or reps with no extra seat charge.",
+      sr: "Povežete LinkedIn sendere, importujete listu (Clay, CSV, Sales Navigator), gradite sekvencu sa If Connected logikom i pokrenete kampanju. Odgovori stižu u unified inbox, možete delegirati VAs ili sales bez dodatne seat naplate.",
+      en: "Connect LinkedIn senders, import a list (Clay, CSV, Sales Navigator), build a sequence with If Connected logic, and launch. Replies land in the unified inbox, delegate to VAs or reps with no extra seat charge.",
     },
   },
   pros: {
     sr: [
       "Najbolji UX za multi-sender LinkedIn skaliranje",
-      "Fiksna cena za 50+ naloga (Agency) — ~$20/sender",
+      "Fiksna cena za 50+ naloga (Agency), ~$20/sender",
       "Ne naplaćuje članove tima / klijente / VAs",
       "Odličan Clay + HubSpot ekosistem",
       "Brza podrška i aktivni GTM community",
     ],
     en: [
       "Best-in-class UX for multi-sender LinkedIn scaling",
-      "Flat pricing for 50+ accounts (Agency) — ~$20/sender",
+      "Flat pricing for 50+ accounts (Agency), ~$20/sender",
       "No charge for teammates / clients / VAs",
       "Strong Clay + HubSpot ecosystem",
       "Fast support and active GTM community",
@@ -248,17 +248,17 @@ export const heyreachTool: SalesTool = {
   },
   cons: {
     sr: [
-      "Samo LinkedIn — nema native cold email kao Instantly",
+      "Samo LinkedIn, nema native cold email kao Instantly",
       "Agency/Unlimited zahtevaju sopstvene proxije",
       "Ispod ~12 sendera per-seat alati mogu biti jeftiniji",
-      "LinkedIn limiti i dalje važe (20–40 invite/dan po nalogu)",
+      "LinkedIn limiti i dalje važe (20-40 invite/dan po nalogu)",
       "Whitelabel i migration tek na višim planovima",
     ],
     en: [
-      "LinkedIn only — no native cold email like Instantly",
+      "LinkedIn only, no native cold email like Instantly",
       "Agency/Unlimited require your own proxies",
       "Below ~12 senders, per-seat tools can be cheaper",
-      "LinkedIn limits still apply (20–40 invites/day per account)",
+      "LinkedIn limits still apply (20-40 invites/day per account)",
       "Whitelabel and migration only on higher tiers",
     ],
   },
@@ -267,8 +267,8 @@ export const heyreachTool: SalesTool = {
       slug: "expandi",
       name: "Expandi",
       description: {
-        sr: "Cloud LinkedIn — po seat-u, 10+ kampanja.",
-        en: "Cloud LinkedIn — per seat, 10+ campaigns.",
+        sr: "Cloud LinkedIn, po seat-u, 10+ kampanja.",
+        en: "Cloud LinkedIn, per seat, 10+ campaigns.",
       },
       startingPrice: { sr: "od $99", en: "from $99" },
       trial: { sr: "7 dana", en: "7 days" },
@@ -337,15 +337,15 @@ export const heyreachTool: SalesTool = {
     {
       question: { sr: "Da li ima besplatan trial?", en: "Is there a free trial?" },
       answer: {
-        sr: "Da — 14 dana premium funkcija, bez kartice, sa do 3 LinkedIn sendera na Growth planu. Agency/Unlimited mogu dobiti do 30 dana na upit.",
-        en: "Yes — 14 days of premium features, no card, with up to 3 LinkedIn senders on Growth. Agency/Unlimited can get up to 30 days on request.",
+        sr: "Da - 14 dana premium funkcija, bez kartice, sa do 3 LinkedIn sendera na Growth planu. Agency/Unlimited mogu dobiti do 30 dana na upit.",
+        en: "Yes - 14 days of premium features, no card, with up to 3 LinkedIn senders on Growth. Agency/Unlimited can get up to 30 days on request.",
       },
     },
     {
       question: { sr: "Zašto izabrati HeyReach?", en: "Why choose HeyReach?" },
       answer: {
-        sr: "Kada skalirate LinkedIn sa više naloga i želite jedan inbox, rotaciju sendera i agency whitelabel — bez plaćanja $79+ po nalogu kao kod per-account konkurenata.",
-        en: "When you scale LinkedIn with multiple accounts and want one inbox, sender rotation, and agency whitelabel — without paying $79+ per account like per-seat competitors.",
+        sr: "Kada skalirate LinkedIn sa više naloga i želite jedan inbox, rotaciju sendera i agency whitelabel, bez plaćanja $79+ po nalogu kao kod per-account konkurenata.",
+        en: "When you scale LinkedIn with multiple accounts and want one inbox, sender rotation, and agency whitelabel, without paying $79+ per account like per-seat competitors.",
       },
     },
     {
@@ -361,15 +361,15 @@ export const heyreachTool: SalesTool = {
     {
       question: { sr: "Da li ima whitelabel?", en: "Does it offer whitelabel?" },
       answer: {
-        sr: "Da — uključen na Agency planu (jedan brand). Unlimited nudi multi-brand whitelabel kao add-on za agencije sa više klijenata.",
-        en: "Yes — included on Agency (one brand). Unlimited offers multi-brand whitelabel as an add-on for agencies with multiple clients.",
+        sr: "Da, uključen na Agency planu (jedan brand). Unlimited nudi multi-brand whitelabel kao add-on za agencije sa više klijenata.",
+        en: "Yes, included on Agency (one brand). Unlimited offers multi-brand whitelabel as an add-on for agencies with multiple clients.",
       },
     },
     {
       question: { sr: "Da li HeyReach ima API?", en: "Does HeyReach have an API?" },
       answer: {
-        sr: "Da — API, webhooks i MCP server za integraciju sa Clay, HubSpot, Zapier i custom GTM workflow-ima.",
-        en: "Yes — API, webhooks, and an MCP server for Clay, HubSpot, Zapier, and custom GTM workflows.",
+        sr: "Da - API, webhooks i MCP server za integraciju sa Clay, HubSpot, Zapier i custom GTM workflow-ima.",
+        en: "Yes - API, webhooks, and an MCP server for Clay, HubSpot, Zapier, and custom GTM workflows.",
       },
     },
     {

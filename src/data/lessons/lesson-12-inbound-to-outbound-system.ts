@@ -67,7 +67,7 @@ const video5 = {
 export const lesson12RichContent: RichLessonContent = {
   meta: {
     stage: L("Intent Signals", "Intent Signals"),
-    readingTime: L("18–22 min", "18–22 min"),
+    readingTime: L("18-22 min", "18-22 min"),
     difficulty: L("Srednji do napredni nivo", "Intermediate to advanced"),
     outcome: L(
       "Izgradićeš kompletan Founder-Led Growth operativni sistem gde LinkedIn content, profile visits, komentari, webinari, lead magneti, CRM signali, ads i outreach rade zajedno kao jedan predvidljiv pipeline motor.",
@@ -340,7 +340,7 @@ export const lesson12RichContent: RichLessonContent = {
       blocks: [
         {
           type: "table",
-          caption: L("12 lekcija — jedan sistem", "12 lessons — one system"),
+          caption: L("12 lekcija, jedan sistem", "12 lessons, one system"),
           headers: H(["#", "Lekcija", "Faza"], ["#", "Lesson", "Phase"]),
           rows: [
             { cells: [L("1", "1"), L("Strategy & Positioning", "Strategy & Positioning"), L("Strategy & Positioning", "Strategy & Positioning")] },
@@ -529,8 +529,8 @@ export const lesson12RichContent: RichLessonContent = {
               step: 4,
               title: L("Kreiraj kontekstualne outreach play-e", "Create contextual outreach plays"),
               whatToDo: L(
-                "Napiši follow-up poruke na osnovu signala.\n\nLinkedIn comment: „Hey [Name] — saw your comment on the post about [topic]. The point you raised around [specific detail] is exactly where a lot of [ICP] get stuck. I have a short [resource] on this if useful.“\n\nWebinar: „Hey [Name] — thanks for joining the session on [topic]. You mentioned [poll answer / question / topic]. I can send the checklist we used in the session if helpful.“\n\nLead magnet: „Hey [Name] — saw you grabbed the [resource]. Most teams use it when they're trying to solve [problem]. If useful, I can send a quick example of how we apply it with [ICP].“\n\nWebsite: „Hey [Name] — teams usually reach this stage when they're comparing how to solve [problem]. Happy to send a breakdown of the main options and trade-offs if useful.“",
-                "Write follow-up messages based on the signal.\n\nLinkedIn comment: \"Hey [Name] — saw your comment on the post about [topic]. The point you raised around [specific detail] is exactly where a lot of [ICP] get stuck. I have a short [resource] on this if useful.\"\n\nWebinar: \"Hey [Name] — thanks for joining the session on [topic]. You mentioned [poll answer / question / topic]. I can send the checklist we used in the session if helpful.\"\n\nLead magnet: \"Hey [Name] — saw you grabbed the [resource]. Most teams use it when they're trying to solve [problem]. If useful, I can send a quick example of how we apply it with [ICP].\"\n\nWebsite: \"Hey [Name] — teams usually reach this stage when they're comparing how to solve [problem]. Happy to send a breakdown of the main options and trade-offs if useful.\"",
+                "Napiši follow-up poruke na osnovu signala.\n\nLinkedIn comment: „Hey [Name], saw your comment on the post about [topic]. The point you raised around [specific detail] is exactly where a lot of [ICP] get stuck. I have a short [resource] on this if useful.“\n\nWebinar: „Hey [Name], thanks for joining the session on [topic]. You mentioned [poll answer / question / topic]. I can send the checklist we used in the session if helpful.“\n\nLead magnet: „Hey [Name], saw you grabbed the [resource]. Most teams use it when they're trying to solve [problem]. If useful, I can send a quick example of how we apply it with [ICP].“\n\nWebsite: „Hey [Name], teams usually reach this stage when they're comparing how to solve [problem]. Happy to send a breakdown of the main options and trade-offs if useful.“",
+                "Write follow-up messages based on the signal.\n\nLinkedIn comment: \"Hey [Name], saw your comment on the post about [topic]. The point you raised around [specific detail] is exactly where a lot of [ICP] get stuck. I have a short [resource] on this if useful.\"\n\nWebinar: \"Hey [Name], thanks for joining the session on [topic]. You mentioned [poll answer / question / topic]. I can send the checklist we used in the session if helpful.\"\n\nLead magnet: \"Hey [Name], saw you grabbed the [resource]. Most teams use it when they're trying to solve [problem]. If useful, I can send a quick example of how we apply it with [ICP].\"\n\nWebsite: \"Hey [Name], teams usually reach this stage when they're comparing how to solve [problem]. Happy to send a breakdown of the main options and trade-offs if useful.\"",
               ),
               whyItMatters: L("Kontekstualne poruke povećavaju reply rate.", "Contextual messages increase reply rate."),
               example: L("Webinar question → reference question + send framework.", "Webinar question → reference question + send framework."),
@@ -665,7 +665,7 @@ export const lesson12RichContent: RichLessonContent = {
               sourceUrl: "https://www.gartner.com/en/sales/insights/b2b-buying-journey",
             },
             {
-              title: L("Većina kupaca su future buyers — memory je važna", "Most buyers are future buyers, so memory matters"),
+              title: L("Većina kupaca su future buyers, memory je važna", "Most buyers are future buyers, so memory matters"),
               body: L(
                 "LinkedIn B2B Institute 95-5 Rule objašnjava da većina potencijalnih B2B kupaca nije in-market u datom trenutku, pa brendovi treba da kreiraju memory pre nego što se buying window otvori.",
                 "LinkedIn B2B Institute's 95-5 Rule explains that most potential B2B buyers are not in-market at any given moment, so brands need to create memory before the buying window opens.",
@@ -731,7 +731,7 @@ export const lesson12RichContent: RichLessonContent = {
             { cells: [L("Lead magnet download", "Lead magnet download"), L("Medium/high", "Medium/high"), L("Send related resource", "Send related resource"), L("Sales / Marketing", "Sales / Marketing"), L("24h", "24h")] },
             { cells: [L("Pricing/demo visit", "Pricing/demo visit"), L("High", "High"), L("Sales task", "Sales task"), L("Sales", "Sales"), L("Same day", "Same day")] },
             { cells: [L("CTA click", "CTA click"), L("High", "High"), L("Sales follow-up", "Sales follow-up"), L("Sales", "Sales"), L("Same day", "Same day")] },
-            { cells: [L("„Not now“ reply", "\"Not now\" reply"), L("Medium/high", "Medium/high"), L("Nurture task", "Nurture task"), L("Sales", "Sales"), L("30–90 days", "30–90 days")] },
+            { cells: [L("„Not now“ reply", "\"Not now\" reply"), L("Medium/high", "Medium/high"), L("Nurture task", "Nurture task"), L("Sales", "Sales"), L("30-90 days", "30-90 days")] },
           ],
         },
         {
@@ -789,24 +789,24 @@ export const lesson12RichContent: RichLessonContent = {
             [
               "Outbound treba da referencira inbound ponašanje.",
               "LinkedIn engagement:",
-              "„Hey [Name] — noticed you engaged with the post about [topic]. We see this a lot with [ICP]: [problem]. I have a short [resource] if useful.“",
+              "„Hey [Name], noticed you engaged with the post about [topic]. We see this a lot with [ICP]: [problem]. I have a short [resource] if useful.“",
               "Webinar:",
-              "„Hey [Name] — thanks for joining the session on [topic]. You mentioned [poll/question/topic]. I can send the framework we used if helpful.“",
+              "„Hey [Name], thanks for joining the session on [topic]. You mentioned [poll/question/topic]. I can send the framework we used if helpful.“",
               "Lead magnet:",
-              "„Hey [Name] — saw you downloaded the [asset]. Most teams use it when they're trying to solve [problem]. Want me to send an example of how we apply it?“",
+              "„Hey [Name], saw you downloaded the [asset]. Most teams use it when they're trying to solve [problem]. Want me to send an example of how we apply it?“",
               "High intent:",
-              "„Hey [Name] — based on what you engaged with around [topic], it looks like [problem] might be relevant. Worth comparing notes for 15 minutes?“",
+              "„Hey [Name], based on what you engaged with around [topic], it looks like [problem] might be relevant. Worth comparing notes for 15 minutes?“",
             ],
             [
               "Outbound should reference the inbound behavior.",
               "LinkedIn engagement:",
-              "\"Hey [Name] — noticed you engaged with the post about [topic]. We see this a lot with [ICP]: [problem]. I have a short [resource] if useful.\"",
+              "\"Hey [Name], noticed you engaged with the post about [topic]. We see this a lot with [ICP]: [problem]. I have a short [resource] if useful.\"",
               "Webinar:",
-              "\"Hey [Name] — thanks for joining the session on [topic]. You mentioned [poll/question/topic]. I can send the framework we used if helpful.\"",
+              "\"Hey [Name], thanks for joining the session on [topic]. You mentioned [poll/question/topic]. I can send the framework we used if helpful.\"",
               "Lead magnet:",
-              "\"Hey [Name] — saw you downloaded the [asset]. Most teams use it when they're trying to solve [problem]. Want me to send an example of how we apply it?\"",
+              "\"Hey [Name], saw you downloaded the [asset]. Most teams use it when they're trying to solve [problem]. Want me to send an example of how we apply it?\"",
               "High intent:",
-              "\"Hey [Name] — based on what you engaged with around [topic], it looks like [problem] might be relevant. Worth comparing notes for 15 minutes?\"",
+              "\"Hey [Name], based on what you engaged with around [topic], it looks like [problem] might be relevant. Worth comparing notes for 15 minutes?\"",
             ],
           ),
         },
@@ -1298,7 +1298,7 @@ CTA:
 
 LinkedIn engagement:
 
-Hey [Name] — noticed you engaged with the post about [topic].
+Hey [Name], noticed you engaged with the post about [topic].
 
 We see this a lot with [ICP]:
 [problem].
@@ -1307,7 +1307,7 @@ I have a short [resource] if useful.
 
 Webinar:
 
-Hey [Name] — thanks for joining the session on [topic].
+Hey [Name], thanks for joining the session on [topic].
 
 You mentioned [poll/question/topic].
 
@@ -1315,7 +1315,7 @@ I can send the framework we used if helpful.
 
 Lead magnet:
 
-Hey [Name] — saw you downloaded the [asset].
+Hey [Name], saw you downloaded the [asset].
 
 Most teams use it when they're trying to solve [problem].
 
@@ -1323,7 +1323,7 @@ Want me to send an example of how we apply it?
 
 High intent:
 
-Hey [Name] — based on what you engaged with around [topic], it looks like [problem] might be relevant.
+Hey [Name], based on what you engaged with around [topic], it looks like [problem] might be relevant.
 
 Worth comparing notes for 15 minutes?
 
@@ -1480,7 +1480,7 @@ CTA:
 
 LinkedIn engagement:
 
-Hey [Name] — noticed you engaged with the post about [topic].
+Hey [Name], noticed you engaged with the post about [topic].
 
 We see this a lot with [ICP]:
 [problem].
@@ -1489,7 +1489,7 @@ I have a short [resource] if useful.
 
 Webinar:
 
-Hey [Name] — thanks for joining the session on [topic].
+Hey [Name], thanks for joining the session on [topic].
 
 You mentioned [poll/question/topic].
 
@@ -1497,7 +1497,7 @@ I can send the framework we used if helpful.
 
 Lead magnet:
 
-Hey [Name] — saw you downloaded the [asset].
+Hey [Name], saw you downloaded the [asset].
 
 Most teams use it when they're trying to solve [problem].
 
@@ -1505,7 +1505,7 @@ Want me to send an example of how we apply it?
 
 High intent:
 
-Hey [Name] — based on what you engaged with around [topic], it looks like [problem] might be relevant.
+Hey [Name], based on what you engaged with around [topic], it looks like [problem] might be relevant.
 
 Worth comparing notes for 15 minutes?
 
@@ -1553,8 +1553,8 @@ Revenue influence:
     {
       question: L("Šta je inbound-to-outbound sistem?", "What is an inbound-to-outbound system?"),
       answer: L(
-        "Inbound-to-outbound sistem koristi inbound ponašanje — poput content engagement-a, webinar attendance-a, lead magnet download-a, website poseta i CRM signala — da trigger-uje kontekstualni outbound follow-up. Umesto cold poruka svima, sales follow-up-uje kada postoji fit, signal i kontekst.",
-        "An inbound-to-outbound system uses inbound behavior — like content engagement, webinar attendance, lead magnet downloads, website visits, and CRM signals — to trigger contextual outbound follow-up. Instead of sending cold messages to everyone, sales follows up when there is fit, signal, and context.",
+        "Inbound-to-outbound sistem koristi inbound ponašanje, poput content engagement-a, webinar attendance-a, lead magnet download-a, website poseta i CRM signala, da trigger-uje kontekstualni outbound follow-up. Umesto cold poruka svima, sales follow-up-uje kada postoji fit, signal i kontekst.",
+        "An inbound-to-outbound system uses inbound behavior, like content engagement, webinar attendance, lead magnet downloads, website visits, and CRM signals, to trigger contextual outbound follow-up. Instead of sending cold messages to everyone, sales follows up when there is fit, signal, and context.",
       ),
     },
     {
@@ -1601,21 +1601,21 @@ Revenue influence:
     },
   ],
   sources: [
-    { title: L("HubSpot — What Is Inbound Marketing?", "HubSpot — What Is Inbound Marketing?"), url: "https://www.hubspot.com/inbound-marketing" },
-    { title: L("HubSpot Academy — Growing Your Business With a Flywheel Model", "HubSpot Academy — Growing Your Business With a Flywheel Model"), url: "https://academy.hubspot.com/lessons/hubspot-business-data-management" },
-    { title: L("Gartner — B2B Buying Journey", "Gartner — B2B Buying Journey"), url: "https://www.gartner.com/en/sales/insights/b2b-buying-journey" },
-    { title: L("Gartner — 67% of B2B Buyers Prefer a Rep-Free Experience", "Gartner — 67% of B2B Buyers Prefer a Rep-Free Experience"), url: "https://www.gartner.com/en/newsroom/press-releases/2026-03-09-gartner-sales-survey-finds-67-percent-of-b2b-buyers-prefer-a-rep-free-experience" },
-    { title: L("LinkedIn B2B Institute — The 95-5 Rule", "LinkedIn B2B Institute — The 95-5 Rule"), url: "https://business.linkedin.com/advertise/resources/b2b-institute/b2b-research/trends/95-5-rule" },
-    { title: L("LinkedIn B2B Institute — How B2B Brands Grow", "LinkedIn B2B Institute — How B2B Brands Grow"), url: "https://business.linkedin.com/advertise/resources/b2b-institute/how-b2b-brands-grow" },
-    { title: L("LinkedIn Sales Solutions — Social Selling", "LinkedIn Sales Solutions — Social Selling"), url: "https://business.linkedin.com/sales-solutions/social-selling" },
-    { title: L("LinkedIn Sales Solutions — Deep Sales Playbook", "LinkedIn Sales Solutions — Deep Sales Playbook"), url: "https://business.linkedin.com/sales-solutions/deep-sales-playbook" },
+    { title: L("HubSpot - What Is Inbound Marketing?", "HubSpot - What Is Inbound Marketing?"), url: "https://www.hubspot.com/inbound-marketing" },
+    { title: L("HubSpot Academy - Growing Your Business With a Flywheel Model", "HubSpot Academy - Growing Your Business With a Flywheel Model"), url: "https://academy.hubspot.com/lessons/hubspot-business-data-management" },
+    { title: L("Gartner - B2B Buying Journey", "Gartner - B2B Buying Journey"), url: "https://www.gartner.com/en/sales/insights/b2b-buying-journey" },
+    { title: L("Gartner - 67% of B2B Buyers Prefer a Rep-Free Experience", "Gartner - 67% of B2B Buyers Prefer a Rep-Free Experience"), url: "https://www.gartner.com/en/newsroom/press-releases/2026-03-09-gartner-sales-survey-finds-67-percent-of-b2b-buyers-prefer-a-rep-free-experience" },
+    { title: L("LinkedIn B2B Institute - The 95-5 Rule", "LinkedIn B2B Institute - The 95-5 Rule"), url: "https://business.linkedin.com/advertise/resources/b2b-institute/b2b-research/trends/95-5-rule" },
+    { title: L("LinkedIn B2B Institute - How B2B Brands Grow", "LinkedIn B2B Institute - How B2B Brands Grow"), url: "https://business.linkedin.com/advertise/resources/b2b-institute/how-b2b-brands-grow" },
+    { title: L("LinkedIn Sales Solutions - Social Selling", "LinkedIn Sales Solutions - Social Selling"), url: "https://business.linkedin.com/sales-solutions/social-selling" },
+    { title: L("LinkedIn Sales Solutions - Deep Sales Playbook", "LinkedIn Sales Solutions - Deep Sales Playbook"), url: "https://business.linkedin.com/sales-solutions/deep-sales-playbook" },
     { title: L("LinkedIn Sales Navigator", "LinkedIn Sales Navigator"), url: "https://business.linkedin.com/sell/sales-navigator" },
-    { title: L("HubSpot — Attribution Reporting", "HubSpot — Attribution Reporting"), url: "https://knowledge.hubspot.com/reports/understand-attribution-reporting" },
-    { title: L("Salesforce — Campaign Influence", "Salesforce — Campaign Influence"), url: "https://help.salesforce.com/s/articleView?id=sales.campaign_influence_parent.htm&language=en_US&type=5" },
-    { title: L("Salesforce — Campaign Influence Implementation Guide", "Salesforce — Campaign Influence Implementation Guide"), url: "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/campaign_influence_implementation_guide.pdf" },
-    { title: L("6sense — What Is Intent Data?", "6sense — What Is Intent Data?"), url: "https://6sense.com/platform/intent-data/what-is-intent-data/" },
-    { title: L("Clay — Data Enrichment Platform", "Clay — Data Enrichment Platform"), url: "https://www.clay.com/" },
-    { title: L("lemlist — Learn Why Multichannel Outreach Matters", "lemlist — Learn Why Multichannel Outreach Matters"), url: "https://help.lemlist.com/en/articles/4664179-learn-why-multichannel-outreach-matters" },
+    { title: L("HubSpot - Attribution Reporting", "HubSpot - Attribution Reporting"), url: "https://knowledge.hubspot.com/reports/understand-attribution-reporting" },
+    { title: L("Salesforce - Campaign Influence", "Salesforce - Campaign Influence"), url: "https://help.salesforce.com/s/articleView?id=sales.campaign_influence_parent.htm&language=en_US&type=5" },
+    { title: L("Salesforce - Campaign Influence Implementation Guide", "Salesforce - Campaign Influence Implementation Guide"), url: "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/campaign_influence_implementation_guide.pdf" },
+    { title: L("6sense - What Is Intent Data?", "6sense - What Is Intent Data?"), url: "https://6sense.com/platform/intent-data/what-is-intent-data/" },
+    { title: L("Clay - Data Enrichment Platform", "Clay - Data Enrichment Platform"), url: "https://www.clay.com/" },
+    { title: L("lemlist - Learn Why Multichannel Outreach Matters", "lemlist - Learn Why Multichannel Outreach Matters"), url: "https://help.lemlist.com/en/articles/4664179-learn-why-multichannel-outreach-matters" },
     { title: L("Make.com", "Make.com"), url: "https://www.make.com/" },
     { title: L("Zapier", "Zapier"), url: "https://zapier.com/" },
   ],
@@ -1623,17 +1623,17 @@ Revenue influence:
     previous: {
       slug: "buying-signals-b2b-sales",
       title: L(
-        "Lekcija 11 — Šta su buying signali i kako ih koristiti u B2B prodaji",
-        "Lesson 11 — What Buying Signals Are and How to Use Them in B2B Sales",
+        "Lekcija 11 - Šta su buying signali i kako ih koristiti u B2B prodaji",
+        "Lesson 11 - What Buying Signals Are and How to Use Them in B2B Sales",
       ),
     },
     related: [
-      { slug: "what-founder-led-growth-is", title: L("Lekcija 1 — Šta je Founder-Led Growth", "Lesson 1 — What Founder-Led Growth Is and Why It Works for B2B Companies") },
-      { slug: "linkedin-content-strategy-founder", title: L("Lekcija 4 — LinkedIn content strategija", "Lesson 4 — How to Build a LinkedIn Content Strategy for a Founder") },
-      { slug: "linkedin-engagement-outreach-list", title: L("Lekcija 7 — LinkedIn engagement u outreach listu", "Lesson 7 — How to Turn LinkedIn Engagement Into an Outreach List") },
-      { slug: "webinars-founder-led-growth", title: L("Lekcija 8 — Webinari u Founder-Led Growth-u", "Lesson 8 — How to Use Webinars as Part of Founder-Led Growth") },
-      { slug: "crm-pipeline-tracking", title: L("Lekcija 10 — CRM tracking", "Lesson 10 — How to Track Founder-Led Growth Activities in Your CRM") },
-      { slug: "buying-signals-b2b-sales", title: L("Lekcija 11 — Buying signali", "Lesson 11 — What Buying Signals Are and How to Use Them in B2B Sales") },
+      { slug: "what-founder-led-growth-is", title: L("Lekcija 1 - Šta je Founder-Led Growth", "Lesson 1 - What Founder-Led Growth Is and Why It Works for B2B Companies") },
+      { slug: "linkedin-content-strategy-founder", title: L("Lekcija 4 - LinkedIn content strategija", "Lesson 4 - How to Build a LinkedIn Content Strategy for a Founder") },
+      { slug: "linkedin-engagement-outreach-list", title: L("Lekcija 7 - LinkedIn engagement u outreach listu", "Lesson 7 - How to Turn LinkedIn Engagement Into an Outreach List") },
+      { slug: "webinars-founder-led-growth", title: L("Lekcija 8 - Webinari u Founder-Led Growth-u", "Lesson 8 - How to Use Webinars as Part of Founder-Led Growth") },
+      { slug: "crm-pipeline-tracking", title: L("Lekcija 10 - CRM tracking", "Lesson 10 - How to Track Founder-Led Growth Activities in Your CRM") },
+      { slug: "buying-signals-b2b-sales", title: L("Lekcija 11 - Buying signali", "Lesson 11 - What Buying Signals Are and How to Use Them in B2B Sales") },
     ],
   },
   cta: {

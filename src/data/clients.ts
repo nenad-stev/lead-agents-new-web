@@ -1,6 +1,6 @@
 export type ClientLogo = {
   name: string;
-  /** Preporuka: 256×256 PNG, transparentna pozadina — public/clients/square/{slug}.png */
+  /** Preporuka: 256×256 PNG, transparentna pozadina, public/clients/square/{slug}.png */
   logo?: string;
   logoAlt?: string;
   /** Opciono: eksterni link */

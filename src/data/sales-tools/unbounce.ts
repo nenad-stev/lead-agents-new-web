@@ -32,12 +32,12 @@ export const unbounceTool: SalesTool = {
   recommended: true,
   rating: { g2: 4.4, g2Reviews: 376 },
   overview: {
-    sr: "Unbounce je platforma za landing stranice bez koda: drag-and-drop editor, A/B testovi i AI (Smart Traffic, copywriting) koji pomažu da paid i outbound kampanje konvertuju bolje — bez developera.",
-    en: "Unbounce is a no-code landing page platform: drag-and-drop builder, A/B tests, and AI (Smart Traffic, copywriting) to help paid and outbound campaigns convert better — without developers.",
+    sr: "Unbounce je platforma za landing stranice bez koda: drag-and-drop editor, A/B testovi i AI (Smart Traffic, copywriting) koji pomažu da paid i outbound kampanje konvertuju bolje, bez developera.",
+    en: "Unbounce is a no-code landing page platform: drag-and-drop builder, A/B tests, and AI (Smart Traffic, copywriting) to help paid and outbound campaigns convert better, without developers.",
   },
   overviewExtended: {
-    sr: "Idealno kada vam treba brza stranica za oglas, webinar ili cold email CTA — ne ceo sajt. Integracije sa HubSpot, Salesforce i Zapier-om povezuju stranicu sa CRM-om i email alatima. Nije zamena za Webflow ili WordPress; fokus je konverzija na jednoj stranici.",
-    en: "Ideal when you need a fast page for ads, webinars, or cold email CTAs — not a full site. Integrations with HubSpot, Salesforce, and Zapier connect pages to your CRM and email stack. It is not a replacement for Webflow or WordPress; the focus is single-page conversion.",
+    sr: "Idealno kada vam treba brza stranica za oglas, webinar ili cold email CTA, ne ceo sajt. Integracije sa HubSpot, Salesforce i Zapier-om povezuju stranicu sa CRM-om i email alatima. Nije zamena za Webflow ili WordPress; fokus je konverzija na jednoj stranici.",
+    en: "Ideal when you need a fast page for ads, webinars, or cold email CTAs, not a full site. Integrations with HubSpot, Salesforce, and Zapier connect pages to your CRM and email stack. It is not a replacement for Webflow or WordPress; the focus is single-page conversion.",
   },
   idealFor: {
     sr: [
@@ -59,7 +59,7 @@ export const unbounceTool: SalesTool = {
     sr: [
       "Drag-and-drop builder i 100+ šablona",
       "No-code A/B testiranje i varijante",
-      "AI Smart Traffic — usmerava posetioce na bolju varijantu",
+      "AI Smart Traffic, usmerava posetioce na bolju varijantu",
       "AI copywriting za naslove i CTA",
       "Popups, sticky bars i dinamički tekst",
       "Analitika, integracije i custom domen",
@@ -67,7 +67,7 @@ export const unbounceTool: SalesTool = {
     en: [
       "Drag-and-drop builder and 100+ templates",
       "No-code A/B testing and variants",
-      "AI Smart Traffic — routes visitors to better variants",
+      "AI Smart Traffic, routes visitors to better variants",
       "AI copywriting for headlines and CTAs",
       "Popups, sticky bars, and dynamic text replacement",
       "Analytics, integrations, and custom domains",
@@ -282,8 +282,8 @@ export const unbounceTool: SalesTool = {
   setup: {
     complexity: { sr: "Srednja", en: "Intermediate" },
     description: {
-      sr: "Izaberete šablon ili blank stranicu, povežete domen, dodate formu i pixel-e, pa objavite. A/B testovi i Smart Traffic zahtevaju malo više planiranja — većina timova objavi prvu kampanju u jednom danu.",
-      en: "Pick a template or blank page, connect your domain, add forms and pixels, then publish. A/B tests and Smart Traffic need a bit more planning — most teams ship a first campaign within a day.",
+      sr: "Izaberete šablon ili blank stranicu, povežete domen, dodate formu i pixel-e, pa objavite. A/B testovi i Smart Traffic zahtevaju malo više planiranja, većina timova objavi prvu kampanju u jednom danu.",
+      en: "Pick a template or blank page, connect your domain, add forms and pixels, then publish. A/B tests and Smart Traffic need a bit more planning, most teams ship a first campaign within a day.",
     },
   },
   pros: {
@@ -305,15 +305,15 @@ export const unbounceTool: SalesTool = {
   cons: {
     sr: [
       "Nije alat za kompletan web sajt ili backend logiku",
-      "Naplaćuje se po korisniku — timovi brzo rastu u ceni",
-      "Limiti posetilaca — prekoračenje nosi dodatne troškove",
+      "Naplaćuje se po korisniku, timovi brzo rastu u ceni",
+      "Limiti posetilaca, prekoračenje nosi dodatne troškove",
       "Starter plan ima samo 5 stranica",
       "Najbolji AI i A/B alati tek od Experiment/Optimize plana",
     ],
     en: [
       "Not built for full websites or backend logic",
       "Per-user pricing adds up as teams grow",
-      "Visitor caps — overages can add cost",
+      "Visitor caps, overages can add cost",
       "Starter plan caps at 5 pages",
       "Best AI and A/B features start at Experiment/Optimize tiers",
     ],
@@ -334,8 +334,8 @@ export const unbounceTool: SalesTool = {
       slug: "instantly",
       name: "Instantly",
       description: {
-        sr: "Cold email infrastruktura — par za landing + outbound.",
-        en: "Cold email infrastructure — pairs with landing + outbound.",
+        sr: "Cold email infrastruktura, par za landing + outbound.",
+        en: "Cold email infrastructure, pairs with landing + outbound.",
       },
       startingPrice: { sr: "od $37 / mesec", en: "from $37 / month" },
       trial: { sr: "Besplatan start", en: "Free start" },
@@ -386,29 +386,29 @@ export const unbounceTool: SalesTool = {
     {
       question: { sr: "Koliko košta Unbounce?", en: "How much does Unbounce cost?" },
       answer: {
-        sr: "Starter kreće od $29/mesec ($22 godišnje). Build sa neograničenim stranicama je oko $74–99/mesec, Experiment ~$112–149, Optimize ~$187–249. Agency i Concierge su po dogovoru.",
-        en: "Starter starts at $29/month ($22 billed annually). Build with unlimited pages is around $74–99/month, Experiment ~$112–149, Optimize ~$187–249. Agency and Concierge are custom.",
+        sr: "Starter kreće od $29/mesec ($22 godišnje). Build sa neograničenim stranicama je oko $74-99/mesec, Experiment ~$112-149, Optimize ~$187-249. Agency i Concierge su po dogovoru.",
+        en: "Starter starts at $29/month ($22 billed annually). Build with unlimited pages is around $74-99/month, Experiment ~$112-149, Optimize ~$187-249. Agency and Concierge are custom.",
       },
     },
     {
       question: { sr: "Da li Unbounce ima probni period?", en: "Does Unbounce offer a trial?" },
       answer: {
-        sr: "Da — 14 dana sa punim pristupom izabranom planu, bez kreditne kartice. Ne naplaćuju dok ne odlučite da nastavite.",
-        en: "Yes — 14 days with full access to your chosen plan, no credit card required. You are not charged until you choose to continue.",
+        sr: "Da - 14 dana sa punim pristupom izabranom planu, bez kreditne kartice. Ne naplaćuju dok ne odlučite da nastavite.",
+        en: "Yes - 14 days with full access to your chosen plan, no credit card required. You are not charged until you choose to continue.",
       },
     },
     {
       question: { sr: "Zašto izabrati Unbounce?", en: "Why choose Unbounce?" },
       answer: {
-        sr: "Kada vam treba brza, testabilna landing stranica za paid ili outbound kampanje, sa AI optimizacijom i bez dev tima — Unbounce je jedan od najzrelijih alata u kategoriji.",
-        en: "When you need a fast, testable landing page for paid or outbound campaigns, with AI optimization and no dev team — Unbounce is one of the most mature tools in the category.",
+        sr: "Kada vam treba brza, testabilna landing stranica za paid ili outbound kampanje, sa AI optimizacijom i bez dev tima - Unbounce je jedan od najzrelijih alata u kategoriji.",
+        en: "When you need a fast, testable landing page for paid or outbound campaigns, with AI optimization and no dev team - Unbounce is one of the most mature tools in the category.",
       },
     },
     {
       question: { sr: "Kako radi Smart Traffic?", en: "How does Smart Traffic work?" },
       answer: {
-        sr: "AI analizira ponašanje posetilaca i automatski usmerava svakog na varijantu stranice koja ima veću šansu za konverziju — bez ručnog podešavanja split testova posle početne faze.",
-        en: "AI analyzes visitor behavior and automatically routes each person to the page variant most likely to convert — without manual split-test tuning after the initial learning phase.",
+        sr: "AI analizira ponašanje posetilaca i automatski usmerava svakog na varijantu stranice koja ima veću šansu za konverziju, bez ručnog podešavanja split testova posle početne faze.",
+        en: "AI analyzes visitor behavior and automatically routes each person to the page variant most likely to convert, without manual split-test tuning after the initial learning phase.",
       },
     },
     {
@@ -424,8 +424,8 @@ export const unbounceTool: SalesTool = {
         en: "What are Unbounce alternatives?",
       },
       answer: {
-        sr: "Često se poredi sa Instapage, Leadpages i ClickFunnels. Za kompletan outbound stack dodajte cold email alat poput Instantly — landing stranica + inbox kampanja.",
-        en: "Often compared to Instapage, Leadpages, and ClickFunnels. For a full outbound stack, pair it with a cold email tool like Instantly — landing page plus inbox campaigns.",
+        sr: "Često se poredi sa Instapage, Leadpages i ClickFunnels. Za kompletan outbound stack dodajte cold email alat poput Instantly, landing stranica + inbox kampanja.",
+        en: "Often compared to Instapage, Leadpages, and ClickFunnels. For a full outbound stack, pair it with a cold email tool like Instantly, landing page plus inbox campaigns.",
       },
     },
   ],

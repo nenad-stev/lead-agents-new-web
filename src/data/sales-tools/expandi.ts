@@ -5,8 +5,8 @@ export const expandiTool: SalesTool = {
   name: "Expandi",
   logo: "/images/sales-tools/expandi.png",
   tagline: {
-    sr: "LinkedIn automatizacija — cloud, warm-up i multichannel sekvence",
-    en: "LinkedIn automation — cloud, warm-up, and multichannel sequences",
+    sr: "LinkedIn automatizacija, cloud, warm-up i multichannel sekvence",
+    en: "LinkedIn automation, cloud, warm-up, and multichannel sequences",
   },
   categoryId: "linkedin-outreach",
   category: { sr: "LinkedIn outreach", en: "LinkedIn outreach" },
@@ -32,12 +32,12 @@ export const expandiTool: SalesTool = {
   recommended: true,
   rating: { g2: 4.6, g2Reviews: 450 },
   overview: {
-    sr: "Expandi je cloud LinkedIn outreach alat: automatizujete connect, poruke, InMail i event invite — uz dedicated IP po zemlji, profile warm-up i smart limite da smanjite rizik ban-a. Multichannel sekvence uključuju i email follow-up.",
-    en: "Expandi is a cloud LinkedIn outreach tool: automate connects, messages, InMail, and event invites — with a dedicated country-based IP, profile warm-up, and smart limits to reduce ban risk. Multichannel sequences include email follow-up too.",
+    sr: "Expandi je cloud LinkedIn outreach alat: automatizujete connect, poruke, InMail i event invite, uz dedicated IP po zemlji, profile warm-up i smart limite da smanjite rizik ban-a. Multichannel sekvence uključuju i email follow-up.",
+    en: "Expandi is a cloud LinkedIn outreach tool: automate connects, messages, InMail, and event invites, with a dedicated country-based IP, profile warm-up, and smart limits to reduce ban risk. Multichannel sequences include email follow-up too.",
   },
   overviewExtended: {
-    sr: "Business plan **$99/mes po LinkedIn nalogu** (godišnje ~$79). 7-dnevni trial sa svim funkcijama, bez naplate do kraja evaluacije. Za 10+ naloga — Agency (whitelabel, role, client reports). Nije baza leadova kao Apollo — fokus je sigurna LinkedIn automatizacija + scraping audience-a.",
-    en: "Business plan **$99/mo per LinkedIn account** (annual ~$79). 7-day trial with all features, no charge until evaluation ends. For 10+ accounts — Agency (whitelabel, roles, client reports). Not a lead database like Apollo — focused on safe LinkedIn automation plus audience scraping.",
+    sr: "Business plan **$99/mes po LinkedIn nalogu** (godišnje ~$79). 7-dnevni trial sa svim funkcijama, bez naplate do kraja evaluacije. Za 10+ naloga - Agency (whitelabel, role, client reports). Nije baza leadova kao Apollo, fokus je sigurna LinkedIn automatizacija + scraping audience-a.",
+    en: "Business plan **$99/mo per LinkedIn account** (annual ~$79). 7-day trial with all features, no charge until evaluation ends. For 10+ accounts - Agency (whitelabel, roles, client reports). Not a lead database like Apollo, focused on safe LinkedIn automation plus audience scraping.",
   },
   idealFor: {
     sr: [
@@ -98,8 +98,8 @@ export const expandiTool: SalesTool = {
       en: "Per LinkedIn seat · 20% off annual",
     },
     trial: {
-      sr: "7 dana — sve funkcije, bez naplate na startu",
-      en: "7 days — all features, not charged at signup",
+      sr: "7 dana, sve funkcije, bez naplate na startu",
+      en: "7 days, all features, not charged at signup",
     },
     plans: [
       {
@@ -195,8 +195,8 @@ export const expandiTool: SalesTool = {
   setup: {
     complexity: { sr: "Početni do srednji", en: "Beginner to intermediate" },
     description: {
-      sr: "Trial → povežite LinkedIn → warm-up 3–7 dana sa niskim limitima → kreirajte audience (search, post engagers, grupa) → sequence sa If/Action granama → pokrenite kampanju. Za agencije: Agency plan + whitelabel onboarding preko sales demo-a.",
-      en: "Trial → connect LinkedIn → 3–7 day warm-up with low limits → build audience (search, post engagers, group) → sequence with If/Action branches → launch. For agencies: Agency plan + whitelabel onboarding via sales demo.",
+      sr: "Trial → povežite LinkedIn → warm-up 3-7 dana sa niskim limitima → kreirajte audience (search, post engagers, grupa) → sequence sa If/Action granama → pokrenite kampanju. Za agencije: Agency plan + whitelabel onboarding preko sales demo-a.",
+      en: "Trial → connect LinkedIn → 3-7 day warm-up with low limits → build audience (search, post engagers, group) → sequence with If/Action branches → launch. For agencies: Agency plan + whitelabel onboarding via sales demo.",
     },
   },
   pros: {
@@ -204,27 +204,27 @@ export const expandiTool: SalesTool = {
       "Jedan od najsigurnijih cloud LinkedIn alata",
       "Mnogo tipova kampanja (Mobile Connector itd.)",
       "Multichannel bez drugog sequencer-a",
-      "Campaign prioritization — fokus na šta radi",
+      "Campaign prioritization, fokus na šta radi",
       "Jasan trial pre odluke",
     ],
     en: [
       "Among the safest cloud LinkedIn tools",
       "Many campaign types (Mobile Connector, etc.)",
       "Multichannel without another sequencer",
-      "Campaign prioritization — focus on what works",
+      "Campaign prioritization, focus on what works",
       "Clear trial before you commit",
     ],
   },
   cons: {
     sr: [
-      "Po LinkedIn nalogu — skupo na 10+ sendera vs HeyReach flat",
+      "Po LinkedIn nalogu, skupo na 10+ sendera vs HeyReach flat",
       "Nema javnog API-ja",
       "Video personalizacija je paid add-on",
       "Agency plan samo preko sales-a",
       "Nije email-first kao Instantly",
     ],
     en: [
-      "Per LinkedIn account — expensive at 10+ senders vs HeyReach flat fee",
+      "Per LinkedIn account, expensive at 10+ senders vs HeyReach flat fee",
       "No public API",
       "Video personalization is a paid add-on",
       "Agency plan only via sales",
@@ -236,8 +236,8 @@ export const expandiTool: SalesTool = {
       slug: "heyreach",
       name: "HeyReach",
       description: {
-        sr: "Multi-sender po flat fee — bolje za agencije.",
-        en: "Multi-sender flat fee — better for agencies.",
+        sr: "Multi-sender po flat fee, bolje za agencije.",
+        en: "Multi-sender flat fee, better for agencies.",
       },
       startingPrice: { sr: "od $79", en: "from $79" },
       trial: { sr: "14 dana", en: "14 days" },
@@ -288,15 +288,15 @@ export const expandiTool: SalesTool = {
     {
       question: { sr: "Da li ima besplatan trial?", en: "Is there a free trial?" },
       answer: {
-        sr: "Da — 7 dana sa punim pristupom svim funkcijama. Ne naplaćuje se dok eksplicitno ne nastavite posle trial-a.",
-        en: "Yes — 7 days with full access to all features. You are not charged until you explicitly continue after the trial.",
+        sr: "Da - 7 dana sa punim pristupom svim funkcijama. Ne naplaćuje se dok eksplicitno ne nastavite posle trial-a.",
+        en: "Yes - 7 days with full access to all features. You are not charged until you explicitly continue after the trial.",
       },
     },
     {
       question: { sr: "Zašto izabrati Expandi?", en: "Why choose Expandi?" },
       answer: {
-        sr: "Kada vam treba cloud LinkedIn automatizacija sa warm-up-om, smart limitima i 10+ tipova kampanja — posebno ako radite scraping audience-a i multichannel sa email-om.",
-        en: "When you need cloud LinkedIn automation with warm-up, smart limits, and 10+ campaign types — especially if you scrape audiences and run multichannel with email.",
+        sr: "Kada vam treba cloud LinkedIn automatizacija sa warm-up-om, smart limitima i 10+ tipova kampanja, posebno ako radite scraping audience-a i multichannel sa email-om.",
+        en: "When you need cloud LinkedIn automation with warm-up, smart limits, and 10+ campaign types, especially if you scrape audiences and run multichannel with email.",
       },
     },
     {
@@ -312,8 +312,8 @@ export const expandiTool: SalesTool = {
         en: "Is it safe for LinkedIn?",
       },
       answer: {
-        sr: "Expandi naglašava dedicated IP, warm-up i smart limits umesto „maksimalnih“ limita. Ipak — svaka automatizacija nosi rizik; počnite polako i pratite account health.",
-        en: "Expandi emphasizes dedicated IP, warm-up, and smart limits instead of \"maximum\" limits. Still — any automation carries risk; start slow and monitor account health.",
+        sr: "Expandi naglašava dedicated IP, warm-up i smart limits umesto „maksimalnih“ limita. Ipak, svaka automatizacija nosi rizik; počnite polako i pratite account health.",
+        en: "Expandi emphasizes dedicated IP, warm-up, and smart limits instead of \"maximum\" limits. Still, any automation carries risk; start slow and monitor account health.",
       },
     },
     {
@@ -329,8 +329,8 @@ export const expandiTool: SalesTool = {
     {
       question: { sr: "Da li ima API?", en: "Does it have an API?" },
       answer: {
-        sr: "Javni API trenutno nije istaknut — fokus je na cloud UI, integracije (CRM) i webhook-style povezivanja preko podržanih alata.",
-        en: "A public API is not prominently listed — the focus is the cloud UI, integrations (CRM), and webhook-style connections via supported tools.",
+        sr: "Javni API trenutno nije istaknut, fokus je na cloud UI, integracije (CRM) i webhook-style povezivanja preko podržanih alata.",
+        en: "A public API is not prominently listed, the focus is the cloud UI, integrations (CRM), and webhook-style connections via supported tools.",
       },
     },
   ],

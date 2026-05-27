@@ -5,8 +5,8 @@ export const trigifyTool: SalesTool = {
   name: "Trigify",
   logo: "/images/sales-tools/trigify.png",
   tagline: {
-    sr: "AI social listening — signali sa LinkedIn-a i workflow-i za GTM timove",
-    en: "AI social listening — LinkedIn signals and workflows for GTM teams",
+    sr: "AI social listening, signali sa LinkedIn-a i workflow-i za GTM timove",
+    en: "AI social listening - LinkedIn signals and workflows for GTM teams",
   },
   categoryId: "prospecting",
   category: { sr: "Prospecting", en: "Prospecting" },
@@ -32,12 +32,12 @@ export const trigifyTool: SalesTool = {
   recommended: true,
   rating: { g2: 4.6, g2Reviews: 65 },
   overview: {
-    sr: "Trigify prati društvene mreže (posebno LinkedIn) u realnom vremenu: ko komentariše, lajkuje ili prati vaše naloge i konkurente — zatim AI workflow-i pretvaraju signal u akciju za prodaju i marketing.",
-    en: "Trigify monitors social networks (especially LinkedIn) in real time: who comments, likes, or follows your accounts and competitors — then AI workflows turn signals into action for sales and marketing.",
+    sr: "Trigify prati društvene mreže (posebno LinkedIn) u realnom vremenu: ko komentariše, lajkuje ili prati vaše naloge i konkurente, zatim AI workflow-i pretvaraju signal u akciju za prodaju i marketing.",
+    en: "Trigify monitors social networks (especially LinkedIn) in real time: who comments, likes, or follows your accounts and competitors, then AI workflows turn signals into action for sales and marketing.",
   },
   overviewExtended: {
-    sr: "Kreditni model — ne plaćate po korisniku za običan tim. Starter ($40) uključuje 4.000 kredita i 25 listening pretraga; Max ($199) 40.000 kredita, neograničene pretrage i besplatne Jarvis AI izvršavanja. Push u Slack, CRM, Clay. Nije CRM ni sequencer — sloj signala iznad vašeg stack-a.",
-    en: "Credit-based — no per-seat fee for normal team members. Starter ($40) includes 4,000 credits and 25 listening searches; Max ($199) 40,000 credits, unlimited searches, and free Jarvis AI execution. Push to Slack, CRM, Clay. Not a CRM or sequencer — a signal layer on top of your stack.",
+    sr: "Kreditni model, ne plaćate po korisniku za običan tim. Starter ($40) uključuje 4.000 kredita i 25 listening pretraga; Max ($199) 40.000 kredita, neograničene pretrage i besplatne Jarvis AI izvršavanja. Push u Slack, CRM, Clay. Nije CRM ni sequencer, sloj signala iznad vašeg stack-a.",
+    en: "Credit-based, no per-seat fee for normal team members. Starter ($40) includes 4,000 credits and 25 listening searches; Max ($199) 40,000 credits, unlimited searches, and free Jarvis AI execution. Push to Slack, CRM, Clay. Not a CRM or sequencer, a signal layer on top of your stack.",
   },
   idealFor: {
     sr: [
@@ -59,7 +59,7 @@ export const trigifyTool: SalesTool = {
     sr: [
       "Listening pretrage (nalozi, ključne reči, konkurenti)",
       "Neograničeni custom workflow-i",
-      "Jarvis AI — build & execute (Max+)",
+      "Jarvis AI, build & execute (Max+)",
       "Liste iz keyword engagement-a",
       "Social Actions & Engagement",
       "API i 50+ integracija",
@@ -67,7 +67,7 @@ export const trigifyTool: SalesTool = {
     en: [
       "Listening searches (accounts, keywords, competitors)",
       "Unlimited custom workflows",
-      "Jarvis AI — build & execute (Max+)",
+      "Jarvis AI, build & execute (Max+)",
       "Lists from keyword engagement",
       "Social Actions & Engagement",
       "API and 50+ integrations",
@@ -98,8 +98,8 @@ export const trigifyTool: SalesTool = {
       en: "Monthly credits + $0.012/credit overage",
     },
     trial: {
-      sr: "14 dana — puna platforma, bez kartice",
-      en: "14 days — full platform, no card",
+      sr: "14 dana, puna platforma, bez kartice",
+      en: "14 days, full platform, no card",
     },
     plans: [
       {
@@ -233,14 +233,14 @@ export const trigifyTool: SalesTool = {
   pros: {
     sr: [
       "Hvata warm intent dok je još na LinkedIn-u",
-      "Kreditni model — bez per-seat cene za tim",
+      "Kreditni model, bez per-seat cene za tim",
       "AI workflow-i (Jarvis) za prioritizaciju",
       "Jaka integracija sa GTM stack-om",
       "14-dnevni trial bez kartice",
     ],
     en: [
       "Captures warm intent while still on LinkedIn",
-      "Credit model — no per-seat team pricing",
+      "Credit model, no per-seat team pricing",
       "AI workflows (Jarvis) for prioritization",
       "Strong GTM stack integrations",
       "14-day trial with no card",
@@ -267,8 +267,8 @@ export const trigifyTool: SalesTool = {
       slug: "taplio",
       name: "Taplio",
       description: {
-        sr: "LinkedIn content & growth — drugačiji fokus od listening-a.",
-        en: "LinkedIn content & growth — different focus than listening.",
+        sr: "LinkedIn content & growth, drugačiji fokus od listening-a.",
+        en: "LinkedIn content & growth, different focus than listening.",
       },
       startingPrice: { sr: "od $39", en: "from $39" },
       trial: { sr: "7 dana", en: "7 days" },
@@ -289,8 +289,8 @@ export const trigifyTool: SalesTool = {
       slug: "rb2b",
       name: "RB2B",
       description: {
-        sr: "Visitor ID na sajtu — drugi tip intent signala.",
-        en: "Website visitor ID — another intent signal type.",
+        sr: "Visitor ID na sajtu, drugi tip intent signala.",
+        en: "Website visitor ID, another intent signal type.",
       },
       startingPrice: { sr: "od $0", en: "from $0" },
       trial: { sr: "150 rez. free", en: "150 res. free" },
@@ -319,22 +319,22 @@ export const trigifyTool: SalesTool = {
     {
       question: { sr: "Kako rade krediti?", en: "How do credits work?" },
       answer: {
-        sr: "Krediti pokrivaju listening pretrage, workflow akcije i (na Starter-u) Jarvis izvršavanja. Nije klasična per-user naplata — normalni članovi tima ne troše seat.",
-        en: "Credits cover listening searches, workflow actions, and (on Starter) Jarvis executions. It's not classic per-user billing — normal team members don't consume seats.",
+        sr: "Krediti pokrivaju listening pretrage, workflow akcije i (na Starter-u) Jarvis izvršavanja. Nije klasična per-user naplata, normalni članovi tima ne troše seat.",
+        en: "Credits cover listening searches, workflow actions, and (on Starter) Jarvis executions. It's not classic per-user billing, normal team members don't consume seats.",
       },
     },
     {
       question: { sr: "Da li ima besplatan trial?", en: "Is there a free trial?" },
       answer: {
-        sr: "Da — 14 dana pune platforme bez kreditne kartice. Dovoljno da podesite pretrage i vidite kvalitet signala na vašem ICP-u.",
-        en: "Yes — 14 days of full platform access with no credit card. Enough to set up searches and see signal quality on your ICP.",
+        sr: "Da - 14 dana pune platforme bez kreditne kartice. Dovoljno da podesite pretrage i vidite kvalitet signala na vašem ICP-u.",
+        en: "Yes - 14 days of full platform access with no credit card. Enough to set up searches and see signal quality on your ICP.",
       },
     },
     {
       question: { sr: "Zašto izabrati Trigify?", en: "Why choose Trigify?" },
       answer: {
-        sr: "Kada želite da prodaja reaguje na ljude koji već engage-uju sa vama ili konkurentima na LinkedIn-u — pre nego što postanu cold lead u bazi.",
-        en: "When you want sales to react to people already engaging with you or competitors on LinkedIn — before they become a cold lead in your database.",
+        sr: "Kada želite da prodaja reaguje na ljude koji već engage-uju sa vama ili konkurentima na LinkedIn-u, pre nego što postanu cold lead u bazi.",
+        en: "When you want sales to react to people already engaging with you or competitors on LinkedIn, before they become a cold lead in your database.",
       },
     },
     {
@@ -350,15 +350,15 @@ export const trigifyTool: SalesTool = {
         en: "Does it integrate with outreach tools?",
       },
       answer: {
-        sr: "Da — Slack, HubSpot, Salesforce, Clay, Zapier, Instantly, HeyReach i dr. Tipičan flow: Trigify signal → Clay enrichment → LGM/Instantly sekvenca.",
-        en: "Yes — Slack, HubSpot, Salesforce, Clay, Zapier, Instantly, HeyReach, and more. Typical flow: Trigify signal → Clay enrichment → LGM/Instantly sequence.",
+        sr: "Da - Slack, HubSpot, Salesforce, Clay, Zapier, Instantly, HeyReach i dr. Tipičan flow: Trigify signal → Clay enrichment → LGM/Instantly sekvenca.",
+        en: "Yes - Slack, HubSpot, Salesforce, Clay, Zapier, Instantly, HeyReach, and more. Typical flow: Trigify signal → Clay enrichment → LGM/Instantly sequence.",
       },
     },
     {
       question: { sr: "Da li Trigify ima API?", en: "Does Trigify have an API?" },
       answer: {
-        sr: "Da — API pristup na Max i Enterprise planovima za custom integracije i automatizacije van ugrađenih konektora.",
-        en: "Yes — API access on Max and Enterprise plans for custom integrations and automations beyond built-in connectors.",
+        sr: "Da - API pristup na Max i Enterprise planovima za custom integracije i automatizacije van ugrađenih konektora.",
+        en: "Yes - API access on Max and Enterprise plans for custom integrations and automations beyond built-in connectors.",
       },
     },
     {

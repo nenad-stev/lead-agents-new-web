@@ -32,12 +32,12 @@ export const instantlyTool: SalesTool = {
   recommended: true,
   rating: { g2: 4.9, g2Reviews: 47 },
   overview: {
-    sr: "Instantly je platforma za cold email na skali: povežete neograničen broj email naloga, zagrevate ih ugrađenim warmup-om i šaljete sekvence bez naplate po korisniku — plaćate volumen slanja.",
-    en: "Instantly is a cold email platform built for scale: connect unlimited email accounts, warm them up in-app, and run sequences without per-seat pricing — you pay for sending volume.",
+    sr: "Instantly je platforma za cold email na skali: povežete neograničen broj email naloga, zagrevate ih ugrađenim warmup-om i šaljete sekvence bez naplate po korisniku, plaćate volumen slanja.",
+    en: "Instantly is a cold email platform built for scale: connect unlimited email accounts, warm them up in-app, and run sequences without per-seat pricing, you pay for sending volume.",
   },
   overviewExtended: {
-    sr: "U paketu su i Lead Finder (450M+ B2B kontakata), AI pisanje poruka, obogaćivanje profila i Unibox za odgovore. Odličan izbor kada tim šalje veliki obim cold email-a sa više domena. Nije zamena za LinkedIn outreach ili pun CRM — fokus je email kanal i deliverability.",
-    en: "It also includes Lead Finder (450M+ B2B contacts), AI copy, profile enrichment, and a unified inbox for replies. A strong pick when your team sends high-volume cold email across multiple domains. It is not a replacement for LinkedIn outreach or a full CRM — the focus is email and deliverability.",
+    sr: "U paketu su i Lead Finder (450M+ B2B kontakata), AI pisanje poruka, obogaćivanje profila i Unibox za odgovore. Odličan izbor kada tim šalje veliki obim cold email-a sa više domena. Nije zamena za LinkedIn outreach ili pun CRM, fokus je email kanal i deliverability.",
+    en: "It also includes Lead Finder (450M+ B2B contacts), AI copy, profile enrichment, and a unified inbox for replies. A strong pick when your team sends high-volume cold email across multiple domains. It is not a replacement for LinkedIn outreach or a full CRM, the focus is email and deliverability.",
   },
   idealFor: {
     sr: [
@@ -60,7 +60,7 @@ export const instantlyTool: SalesTool = {
       "Neograničen broj email naloga na jednoj pretplati",
       "Ugrađeni warmup i zaštita reputacije",
       "Automatska rotacija slanja između inbox-ova",
-      "Lead Finder — 450M+ kontakata i filteri",
+      "Lead Finder - 450M+ kontakata i filteri",
       "AI personalizacija i follow-up sekvence",
       "Unibox, analitika i API / webhook integracije",
     ],
@@ -68,7 +68,7 @@ export const instantlyTool: SalesTool = {
       "Unlimited email accounts on one subscription",
       "Built-in warmup and reputation protection",
       "Automatic sending rotation across inboxes",
-      "Lead Finder — 450M+ contacts and filters",
+      "Lead Finder - 450M+ contacts and filters",
       "AI personalization and follow-up sequences",
       "Unified inbox, analytics, and API / webhook integrations",
     ],
@@ -94,8 +94,8 @@ export const instantlyTool: SalesTool = {
   pricing: {
     startingPrice: { sr: "$37 / mesec", en: "$37 / month" },
     billing: {
-      sr: "Po workspace-u — ne po korisniku",
-      en: "Per workspace — not per user",
+      sr: "Po workspace-u, ne po korisniku",
+      en: "Per workspace, not per user",
     },
     trial: {
       sr: "Besplatan početak bez kreditne kartice",
@@ -156,13 +156,13 @@ export const instantlyTool: SalesTool = {
           sr: [
             "500.000 emailova mesečno",
             "100.000 kontakata",
-            "SISR — dedicirani IP pool",
+            "SISR, dedicirani IP pool",
             "Maksimalna deliverability infrastruktura",
           ],
           en: [
             "500,000 emails per month",
             "100,000 contacts",
-            "SISR — dedicated IP pooling",
+            "SISR, dedicated IP pooling",
             "Maximum deliverability infrastructure",
           ],
         },
@@ -174,14 +174,14 @@ export const instantlyTool: SalesTool = {
         billingNote: { sr: "Krediti + lead baza", en: "Credits + lead database" },
         highlights: {
           sr: [
-            "1.500–2.000 Instantly kredita",
+            "1.500-2.000 Instantly kredita",
             "450M+ B2B leadova",
             "Waterfall email enrichment",
             "AI email writer i 100+ šablona",
             "Export u CRM i outreach alate",
           ],
           en: [
-            "1,500–2,000 Instantly credits",
+            "1,500-2,000 Instantly credits",
             "450M+ B2B leads",
             "Waterfall email enrichment",
             "AI email writer and 100+ templates",
@@ -234,10 +234,10 @@ export const instantlyTool: SalesTool = {
       {
         feature: { sr: "Lead Finder krediti", en: "Lead Finder credits" },
         values: {
-          growth: { sr: "—", en: "—" },
-          hypergrowth: { sr: "—", en: "—" },
-          "light-speed": { sr: "—", en: "—" },
-          "growth-leads": { sr: "1.500–2.000", en: "1,500–2,000" },
+          growth: { sr: ", ", en: ", " },
+          hypergrowth: { sr: ", ", en: ", " },
+          "light-speed": { sr: ", ", en: ", " },
+          "growth-leads": { sr: "1.500-2.000", en: "1,500-2,000" },
           enterprise: { sr: "200.000+", en: "200,000+" },
         },
       },
@@ -272,14 +272,14 @@ export const instantlyTool: SalesTool = {
   },
   pros: {
     sr: [
-      "Neograničeni inbox-ovi — idealno za više domena",
+      "Neograničeni inbox-ovi, idealno za više domena",
       "Cena raste sa volumenom, ne sa brojem prodavaca",
       "Warmup i deliverability alati uključeni",
       "Lead baza i AI personalizacija u istom ekosistemu",
       "API, webhook-i i CRM export",
     ],
     en: [
-      "Unlimited inboxes — ideal for multi-domain setups",
+      "Unlimited inboxes, ideal for multi-domain setups",
       "Cost scales with volume, not headcount",
       "Warmup and deliverability tools included",
       "Lead database and AI personalization in one stack",
@@ -288,13 +288,13 @@ export const instantlyTool: SalesTool = {
   },
   cons: {
     sr: [
-      "Fokus isključivo na email — nema LinkedIn/WhatsApp sekvenci",
+      "Fokus isključivo na email, nema LinkedIn/WhatsApp sekvenci",
       "Napredni CRM i marketing automatizacija nisu u centru proizvoda",
       "Više planova (outreach vs. krediti) zahtevaju jasno planiranje budžeta",
       "Enterprise funkcije tek na višim tier-ovima",
     ],
     en: [
-      "Email-only focus — no native LinkedIn/WhatsApp sequences",
+      "Email-only focus, no native LinkedIn/WhatsApp sequences",
       "Advanced CRM and marketing automation are not the core product",
       "Multiple plan lines (outreach vs. credits) need clear budget planning",
       "Enterprise features only on higher tiers",
@@ -338,8 +338,8 @@ export const instantlyTool: SalesTool = {
         en: "Can I connect unlimited email accounts?",
       },
       answer: {
-        sr: "Da — jedna pretplata pokriva neograničen broj naloga i warmup, što je glavna prednost u odnosu na alate koji naplaćuju svakog prodavca posebno.",
-        en: "Yes — one subscription covers unlimited accounts and warmup, which is the main advantage over tools that charge per rep.",
+        sr: "Da, jedna pretplata pokriva neograničen broj naloga i warmup, što je glavna prednost u odnosu na alate koji naplaćuju svakog prodavca posebno.",
+        en: "Yes, one subscription covers unlimited accounts and warmup, which is the main advantage over tools that charge per rep.",
       },
     },
     {
@@ -352,15 +352,15 @@ export const instantlyTool: SalesTool = {
     {
       question: { sr: "Zašto izabrati Instantly?", en: "Why choose Instantly?" },
       answer: {
-        sr: "Kada šaljete veliki obim cold email-a sa više domena, Instantly drži trošak predvidivim i deliverability visokim — warmup, rotacija inbox-ova i AI personalizacija su ugrađeni.",
-        en: "When you send high-volume cold email across multiple domains, Instantly keeps costs predictable and deliverability high — warmup, inbox rotation, and AI personalization are built in.",
+        sr: "Kada šaljete veliki obim cold email-a sa više domena, Instantly drži trošak predvidivim i deliverability visokim, warmup, rotacija inbox-ova i AI personalizacija su ugrađeni.",
+        en: "When you send high-volume cold email across multiple domains, Instantly keeps costs predictable and deliverability high, warmup, inbox rotation, and AI personalization are built in.",
       },
     },
     {
       question: { sr: "Da li Instantly ima API?", en: "Does Instantly have an API?" },
       answer: {
-        sr: "Da — API i webhook-i omogućavaju povezivanje sa CRM-om, enrichment workflow-ima i internim automatizacijama.",
-        en: "Yes — the API and webhooks let you connect CRMs, enrichment workflows, and internal automations.",
+        sr: "Da - API i webhook-i omogućavaju povezivanje sa CRM-om, enrichment workflow-ima i internim automatizacijama.",
+        en: "Yes, the API and webhooks let you connect CRMs, enrichment workflows, and internal automations.",
       },
     },
     {

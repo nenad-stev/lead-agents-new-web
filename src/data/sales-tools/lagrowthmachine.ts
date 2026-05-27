@@ -32,12 +32,12 @@ export const laGrowthMachineTool: SalesTool = {
   recommended: true,
   rating: { g2: 4.7, g2Reviews: 120 },
   overview: {
-    sr: "La Growth Machine (LGM) automatizuje outbound na LinkedIn-u, email-u, pozivima i X-u — od izgradnje liste i enrichment-a do sekvenci i jedinstvenog inbox-a za odgovore.",
-    en: "La Growth Machine (LGM) automates outbound on LinkedIn, email, calls, and X — from list building and enrichment to sequences and a unified inbox for replies.",
+    sr: "La Growth Machine (LGM) automatizuje outbound na LinkedIn-u, email-u, pozivima i X-u, od izgradnje liste i enrichment-a do sekvenci i jedinstvenog inbox-a za odgovore.",
+    en: "La Growth Machine (LGM) automates outbound on LinkedIn, email, calls, and X, from list building and enrichment to sequences and a unified inbox for replies.",
   },
   overviewExtended: {
-    sr: "Fokus je na sigurnoj LinkedIn automatizaciji (cloud, proxy limiti) i multichannel workflow-ima koji smanjuju ručni rad. Integracije sa HubSpot, Pipedrive, Zapier i API-jem. Nije pun CRM niti alat za cold calling kao centralni proizvod — jačina je online lead engagement i GTM automatizacija.",
-    en: "The focus is safe LinkedIn automation (cloud-based, smart sending limits) and multichannel workflows that cut manual work. Integrations include HubSpot, Pipedrive, Zapier, and API access. It is not a full CRM or a dialer-first product — the strength is online lead engagement and GTM automation.",
+    sr: "Fokus je na sigurnoj LinkedIn automatizaciji (cloud, proxy limiti) i multichannel workflow-ima koji smanjuju ručni rad. Integracije sa HubSpot, Pipedrive, Zapier i API-jem. Nije pun CRM niti alat za cold calling kao centralni proizvod, jačina je online lead engagement i GTM automatizacija.",
+    en: "The focus is safe LinkedIn automation (cloud-based, smart sending limits) and multichannel workflows that cut manual work. Integrations include HubSpot, Pipedrive, Zapier, and API access. It is not a full CRM or a dialer-first product, the strength is online lead engagement and GTM automation.",
   },
   idealFor: {
     sr: [
@@ -60,7 +60,7 @@ export const laGrowthMachineTool: SalesTool = {
       "LinkedIn automatizacija (connect, DM, voice, social warming)",
       "Email sekvence i rotating inbox (do 10 adresa)",
       "Waterfall enrichment i verifikovani emailovi",
-      "Multichannel inbox — LinkedIn + email na jednom mestu",
+      "Multichannel inbox - LinkedIn + email na jednom mestu",
       "Intent import (lajkovi, komentari, eventi na LinkedIn-u)",
       "HubSpot / Pipedrive sync i Zapier integracije",
     ],
@@ -68,7 +68,7 @@ export const laGrowthMachineTool: SalesTool = {
       "LinkedIn automation (connect, DM, voice, social warming)",
       "Email sequences and rotating inbox (up to 10 addresses)",
       "Waterfall enrichment and verified emails",
-      "Multichannel inbox — LinkedIn + email in one place",
+      "Multichannel inbox - LinkedIn + email in one place",
       "Intent import (LinkedIn likes, comments, event attendees)",
       "HubSpot / Pipedrive sync and Zapier integrations",
     ],
@@ -94,8 +94,8 @@ export const laGrowthMachineTool: SalesTool = {
   pricing: {
     startingPrice: { sr: "od €60 / mesec", en: "from €60 / month" },
     billing: {
-      sr: "Po identitetu — godišnja naplata ~2 meseca besplatno",
-      en: "Per identity — annual billing ~2 months free",
+      sr: "Po identitetu, godišnja naplata ~2 meseca besplatno",
+      en: "Per identity, annual billing ~2 months free",
     },
     trial: {
       sr: "14 dana besplatno, bez kreditne kartice",
@@ -286,21 +286,21 @@ export const laGrowthMachineTool: SalesTool = {
   setup: {
     complexity: { sr: "Napredna", en: "Advanced" },
     description: {
-      sr: "Povežete LinkedIn i email identitet, uvezete leadove (CSV, Sales Navigator, intent), izaberete šablon sekvence i pokrenete kampanju. Multichannel inbox i CRM sync zahtevaju malo više konfiguracije — većina timova vidi prve odgovore u roku od nekoliko dana.",
-      en: "Connect your LinkedIn and email identity, import leads (CSV, Sales Navigator, intent), pick a sequence template, and launch. Multichannel inbox and CRM sync need a bit more setup — most teams see first replies within a few days.",
+      sr: "Povežete LinkedIn i email identitet, uvezete leadove (CSV, Sales Navigator, intent), izaberete šablon sekvence i pokrenete kampanju. Multichannel inbox i CRM sync zahtevaju malo više konfiguracije, većina timova vidi prve odgovore u roku od nekoliko dana.",
+      en: "Connect your LinkedIn and email identity, import leads (CSV, Sales Navigator, intent), pick a sequence template, and launch. Multichannel inbox and CRM sync need a bit more setup, most teams see first replies within a few days.",
     },
   },
   pros: {
     sr: [
       "Jedan od najzrelijih LinkedIn automation alata (od 2017)",
-      "Sigurniji pristup — cloud, proxy-i, pametni limiti slanja",
+      "Sigurniji pristup, cloud, proxy-i, pametni limiti slanja",
       "Multichannel (LinkedIn, email, pozivi, X) u jednom workflow-u",
       "Ugrađen enrichment i rotating inbox na višim planovima",
       "14-dnevni trial bez kartice",
     ],
     en: [
       "One of the most mature LinkedIn automation tools (since 2017)",
-      "Safety-first approach — cloud, proxies, smart sending limits",
+      "Safety-first approach, cloud, proxies, smart sending limits",
       "Multichannel (LinkedIn, email, calls, X) in one workflow",
       "Built-in enrichment and rotating inbox on higher tiers",
       "14-day trial with no credit card",
@@ -308,14 +308,14 @@ export const laGrowthMachineTool: SalesTool = {
   },
   cons: {
     sr: [
-      "Naplata po identitetu — više profila = viši trošak",
+      "Naplata po identitetu, više profila = viši trošak",
       "Nije zamena za pun CRM ili masivan cold email-only stack",
       "Setup je napredniji od jednostavnih email alata",
       "Najbolji CRM sync i custom sekvence tek na Ultimate planu",
       "Cene primarno u EUR",
     ],
     en: [
-      "Per-identity billing — more profiles means higher cost",
+      "Per-identity billing, more profiles means higher cost",
       "Not a replacement for a full CRM or email-only stack at scale",
       "Setup is more advanced than simple email tools",
       "Best CRM sync and custom sequences start on Ultimate",
@@ -327,8 +327,8 @@ export const laGrowthMachineTool: SalesTool = {
       slug: "heyreach",
       name: "HeyReach",
       description: {
-        sr: "Multi-sender LinkedIn — flat fee za agencije.",
-        en: "Multi-sender LinkedIn — flat fee for agencies.",
+        sr: "Multi-sender LinkedIn, flat fee za agencije.",
+        en: "Multi-sender LinkedIn, flat fee for agencies.",
       },
       startingPrice: { sr: "od $79", en: "from $79" },
       trial: { sr: "14 dana", en: "14 days" },
@@ -360,7 +360,7 @@ export const laGrowthMachineTool: SalesTool = {
       slug: "instantly",
       name: "Instantly",
       description: {
-        sr: "Cold email na skali — neograničeni inbox-ovi.",
+        sr: "Cold email na skali, neograničeni inbox-ovi.",
         en: "High-volume cold email with unlimited inboxes.",
       },
       startingPrice: { sr: "od $37", en: "from $37" },
@@ -396,8 +396,8 @@ export const laGrowthMachineTool: SalesTool = {
         en: "What is an identity?",
       },
       answer: {
-        sr: "Identitet je profil koji automatski vodi kampanje (LinkedIn + email povezani na taj seat). Svaki dodatni prodavac ili founder koji šalje outreach obično treba svoj identitet — naplaćuje se posebno.",
-        en: "An identity is a profile that runs campaigns automatically (LinkedIn + email connected to that seat). Each additional rep or founder doing outreach typically needs their own identity — billed separately.",
+        sr: "Identitet je profil koji automatski vodi kampanje (LinkedIn + email povezani na taj seat). Svaki dodatni prodavac ili founder koji šalje outreach obično treba svoj identitet, naplaćuje se posebno.",
+        en: "An identity is a profile that runs campaigns automatically (LinkedIn + email connected to that seat). Each additional rep or founder doing outreach typically needs their own identity, billed separately.",
       },
     },
     {
@@ -406,8 +406,8 @@ export const laGrowthMachineTool: SalesTool = {
         en: "Does La Growth Machine offer a trial?",
       },
       answer: {
-        sr: "Da — 14 dana sa punim pristupom funkcijama, bez kreditne kartice. Custom sekvence u trial-u su ograničene; podrška može omogućiti test po zahtevu.",
-        en: "Yes — 14 days with full feature access, no credit card required. Custom sequences are limited during trial; support can enable testing on request.",
+        sr: "Da - 14 dana sa punim pristupom funkcijama, bez kreditne kartice. Custom sekvence u trial-u su ograničene; podrška može omogućiti test po zahtevu.",
+        en: "Yes - 14 days with full feature access, no credit card required. Custom sequences are limited during trial; support can enable testing on request.",
       },
     },
     {
@@ -416,8 +416,8 @@ export const laGrowthMachineTool: SalesTool = {
         en: "Is LinkedIn automation safe?",
       },
       answer: {
-        sr: "LGM naglašava cloud infrastrukturu (bez ekstenzija), mobilne proxy-e i limite slanja bazirane na realnim podacima — cilj je smanjiti rizik ban-a u odnosu na agresivne alate.",
-        en: "LGM emphasizes cloud infrastructure (no browser extensions), mobile proxies, and sending limits based on real-world data — aiming to reduce ban risk versus aggressive tools.",
+        sr: "LGM naglašava cloud infrastrukturu (bez ekstenzija), mobilne proxy-e i limite slanja bazirane na realnim podacima, cilj je smanjiti rizik ban-a u odnosu na agresivne alate.",
+        en: "LGM emphasizes cloud infrastructure (no browser extensions), mobile proxies, and sending limits based on real-world data, aiming to reduce ban risk versus aggressive tools.",
       },
     },
     {
@@ -426,15 +426,15 @@ export const laGrowthMachineTool: SalesTool = {
         en: "Why choose La Growth Machine?",
       },
       answer: {
-        sr: "Kada vam treba LinkedIn-first multichannel outbound sa enrichment-om, rotating inbox-om i jednim inbox-om za odgovore — LGM je jedan od najpoznatijih izbora u Evropi za agencije i GTM timove.",
-        en: "When you need LinkedIn-first multichannel outbound with enrichment, rotating inbox, and one reply inbox — LGM is one of the best-known picks in Europe for agencies and GTM teams.",
+        sr: "Kada vam treba LinkedIn-first multichannel outbound sa enrichment-om, rotating inbox-om i jednim inbox-om za odgovore - LGM je jedan od najpoznatijih izbora u Evropi za agencije i GTM timove.",
+        en: "When you need LinkedIn-first multichannel outbound with enrichment, rotating inbox, and one reply inbox - LGM is one of the best-known picks in Europe for agencies and GTM teams.",
       },
     },
     {
       question: { sr: "Da li LGM ima API?", en: "Does La Growth Machine have an API?" },
       answer: {
-        sr: "Da — API, Zapier, Make i Clay integracije za kreiranje leadova, trigger-e i povezivanje sa ostatkom stack-a. Ultimate dodaje native HubSpot i Pipedrive sync.",
-        en: "Yes — API, Zapier, Make, and Clay integrations for leads, triggers, and stack connectivity. Ultimate adds native HubSpot and Pipedrive sync.",
+        sr: "Da - API, Zapier, Make i Clay integracije za kreiranje leadova, trigger-e i povezivanje sa ostatkom stack-a. Ultimate dodaje native HubSpot i Pipedrive sync.",
+        en: "Yes - API, Zapier, Make, and Clay integrations for leads, triggers, and stack connectivity. Ultimate adds native HubSpot and Pipedrive sync.",
       },
     },
     {

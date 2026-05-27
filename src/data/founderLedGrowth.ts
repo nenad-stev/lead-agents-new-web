@@ -92,8 +92,8 @@ export const founderLedGrowthCluster: PlaybookCluster = {
   phases: founderLedGrowthPhases,
   lessons: founderLedGrowthLessons,
   audience: {
-    sr: "B2B founder-i, vlasnici agencija i SaaS kompanija sa 5–50 zaposlenih koji prodaju usluge ili softver sa dužim sales ciklusom.",
-    en: "B2B founders, agency owners, and SaaS companies with 5–50 employees selling services or software with longer sales cycles.",
+    sr: "B2B founder-i, vlasnici agencija i SaaS kompanija sa 5-50 zaposlenih koji prodaju usluge ili softver sa dužim sales ciklusom.",
+    en: "B2B founders, agency owners, and SaaS companies with 5-50 employees selling services or software with longer sales cycles.",
   },
   outcome: {
     sr: "Predvidljiv pipeline: ICP, outreach i value-based follow-up, content, signali, re-engagement u pravom trenutku, CRM sa lead scoring-om.",
@@ -148,8 +148,8 @@ export const founderLedGrowthCluster: PlaybookCluster = {
       en: "Lead Agents Founder-Led Growth framework",
     },
     description: {
-      sr: "Devet faza koje povezujemo u implementaciji za klijente — svaka faza ima lekcije i preporučene alate.",
-      en: "Nine phases we connect in client implementations — each phase has lessons and recommended tools.",
+      sr: "Devet faza koje povezujemo u implementaciji za klijente, svaka faza ima lekcije i preporučene alate.",
+      en: "Nine phases we connect in client implementations, each phase has lessons and recommended tools.",
     },
   },
   roadmap: {
@@ -168,8 +168,8 @@ export const founderLedGrowthCluster: PlaybookCluster = {
       en: "Recommended tools",
     },
     description: {
-      sr: "Alati koje koristimo u Founder-Led Growth implementacijama — više detalja u našem direktorijumu prodajnih alata.",
-      en: "Tools we use in Founder-Led Growth implementations — more details in our sales tools directory.",
+      sr: "Alati koje koristimo u Founder-Led Growth implementacijama, više detalja u našem direktorijumu prodajnih alata.",
+      en: "Tools we use in Founder-Led Growth implementations, more details in our sales tools directory.",
     },
   },
   cta: {

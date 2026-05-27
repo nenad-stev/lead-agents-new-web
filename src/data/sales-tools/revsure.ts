@@ -5,8 +5,8 @@ export const revsureTool: SalesTool = {
   name: "RevSure",
   logo: "/images/sales-tools/revsure.png",
   tagline: {
-    sr: "Full-funnel attribution — AI pipeline, ROI i GTM inteligencija",
-    en: "Full-funnel attribution — AI pipeline, ROI, and GTM intelligence",
+    sr: "Full-funnel attribution - AI pipeline, ROI i GTM inteligencija",
+    en: "Full-funnel attribution - AI pipeline, ROI, and GTM intelligence",
   },
   categoryId: "analytics",
   category: { sr: "Analitika", en: "Analytics" },
@@ -32,12 +32,12 @@ export const revsureTool: SalesTool = {
   recommended: true,
   rating: { g2: 4.7, g2Reviews: 85 },
   overview: {
-    sr: "RevSure spaja marketing, sales i GTM podatke u jednu full-funnel sliku: multi-touch attribution, predikcija pipeline-a, prioritizacija leadova i AI preporuke gde da pomerite budžet — umesto fragmentiranih CRM + ads + spreadsheet izveštaja.",
-    en: "RevSure unifies marketing, sales, and GTM data into one full-funnel view: multi-touch attribution, pipeline prediction, lead prioritization, and AI recommendations on where to shift budget — instead of fragmented CRM + ads + spreadsheet reports.",
+    sr: "RevSure spaja marketing, sales i GTM podatke u jednu full-funnel sliku: multi-touch attribution, predikcija pipeline-a, prioritizacija leadova i AI preporuke gde da pomerite budžet, umesto fragmentiranih CRM + ads + spreadsheet izveštaja.",
+    en: "RevSure unifies marketing, sales, and GTM data into one full-funnel view: multi-touch attribution, pipeline prediction, lead prioritization, and AI recommendations on where to shift budget, instead of fragmented CRM + ads + spreadsheet reports.",
   },
   overviewExtended: {
-    sr: "Za mid-market i enterprise B2B timove sa MAP-om (50k+ kontakata). Early Adopter od **$4.000/mes** (50k MAP kontakata, 10 user-a). Growth **$6.000/mes** (150k, AI attribution, pipeline acceleration). Nije outreach alat — analytics i execution layer iznad HubSpot/Salesforce stack-a. Rezultati tipično za 5 nedelja posle integracije.",
-    en: "For mid-market and enterprise B2B teams with a MAP (50k+ contacts). Early Adopter from **$4,000/mo** (50k MAP contacts, 10 users). Growth **$6,000/mo** (150k, AI attribution, pipeline acceleration). Not an outreach tool — analytics and execution layer on top of your HubSpot/Salesforce stack. Results typically within 5 weeks of integration.",
+    sr: "Za mid-market i enterprise B2B timove sa MAP-om (50k+ kontakata). Early Adopter od **$4.000/mes** (50k MAP kontakata, 10 user-a). Growth **$6.000/mes** (150k, AI attribution, pipeline acceleration). Nije outreach alat, analytics i execution layer iznad HubSpot/Salesforce stack-a. Rezultati tipično za 5 nedelja posle integracije.",
+    en: "For mid-market and enterprise B2B teams with a MAP (50k+ contacts). Early Adopter from **$4,000/mo** (50k MAP contacts, 10 users). Growth **$6,000/mo** (150k, AI attribution, pipeline acceleration). Not an outreach tool, analytics and execution layer on top of your HubSpot/Salesforce stack. Results typically within 5 weeks of integration.",
   },
   idealFor: {
     sr: [
@@ -98,8 +98,8 @@ export const revsureTool: SalesTool = {
       en: "MAP contacts · white-glove onboarding",
     },
     trial: {
-      sr: "Book demo — pilot po dogovoru",
-      en: "Book demo — pilot on request",
+      sr: "Book demo, pilot po dogovoru",
+      en: "Book demo, pilot on request",
     },
     plans: [
       {
@@ -237,28 +237,28 @@ export const revsureTool: SalesTool = {
     sr: [
       "Jedan izvor istine za ceo funnel",
       "AI preporuke za budžet i kanale",
-      "Prediktivni pipeline — ne samo istorija",
+      "Prediktivni pipeline, ne samo istorija",
       "White-glove onboarding uključen",
       "Writeback u CRM/MAP za akciju",
     ],
     en: [
       "Single source of truth for the full funnel",
       "AI recommendations for budget and channels",
-      "Predictive pipeline — not just history",
+      "Predictive pipeline, not just history",
       "White-glove onboarding included",
       "Writeback to CRM/MAP for action",
     ],
   },
   cons: {
     sr: [
-      "Visok entry ($4k+) — nije za startupe",
+      "Visok entry ($4k+), nije za startupe",
       "Zahteva čist MAP/CRM data hygiene",
       "Nije outreach ili enrichment alat",
       "Enterprise funkcije samo na custom planu",
       "Add-on moduli (MMM, deanonymization) extra",
     ],
     en: [
-      "High entry ($4k+) — not for startups",
+      "High entry ($4k+), not for startups",
       "Requires clean MAP/CRM data hygiene",
       "Not an outreach or enrichment tool",
       "Enterprise features only on custom plans",
@@ -270,8 +270,8 @@ export const revsureTool: SalesTool = {
       slug: "attio",
       name: "Attio",
       description: {
-        sr: "CRM — ne full-funnel attribution.",
-        en: "CRM — not full-funnel attribution.",
+        sr: "CRM, ne full-funnel attribution.",
+        en: "CRM, not full-funnel attribution.",
       },
       startingPrice: { sr: "od $29", en: "from $29" },
       trial: { sr: "Free plan", en: "Free plan" },
@@ -281,8 +281,8 @@ export const revsureTool: SalesTool = {
       slug: "clay",
       name: "Clay",
       description: {
-        sr: "GTM data — drugačiji layer.",
-        en: "GTM data — different layer.",
+        sr: "GTM data, drugačiji layer.",
+        en: "GTM data, different layer.",
       },
       startingPrice: { sr: "od $149", en: "from $149" },
       trial: { sr: "14 dana", en: "14 days" },
@@ -292,8 +292,8 @@ export const revsureTool: SalesTool = {
       slug: "predictleads",
       name: "PredictLeads",
       description: {
-        sr: "Company signali — input za scoring.",
-        en: "Company signals — input for scoring.",
+        sr: "Company signali, input za scoring.",
+        en: "Company signals, input for scoring.",
       },
       startingPrice: { sr: "od $0", en: "from $0" },
       trial: { sr: "100 kredita", en: "100 credits" },
@@ -322,22 +322,22 @@ export const revsureTool: SalesTool = {
     {
       question: { sr: "Za koga je RevSure?", en: "Who is RevSure for?" },
       answer: {
-        sr: "Mid-market i enterprise B2B marketing, sales i RevOps timovi koji imaju MAP + CRM + paid kanale i žele da povežu spend sa pipeline-om i revenue — ne solo founder outbound.",
-        en: "Mid-market and enterprise B2B marketing, sales, and RevOps teams with MAP + CRM + paid channels who want to connect spend to pipeline and revenue — not solo founder outbound.",
+        sr: "Mid-market i enterprise B2B marketing, sales i RevOps timovi koji imaju MAP + CRM + paid kanale i žele da povežu spend sa pipeline-om i revenue, ne solo founder outbound.",
+        en: "Mid-market and enterprise B2B marketing, sales, and RevOps teams with MAP + CRM + paid channels who want to connect spend to pipeline and revenue, not solo founder outbound.",
       },
     },
     {
       question: { sr: "Zašto izabrati RevSure?", en: "Why choose RevSure?" },
       answer: {
-        sr: "Kada vam treba AI-driven attribution i pipeline forecasting u jednoj platformi — sa preporukama gde da pomerite budžet, umesto ručnog spajanja HubSpot + Google Ads + Excel.",
-        en: "When you need AI-driven attribution and pipeline forecasting in one platform — with recommendations on where to shift budget, instead of manually stitching HubSpot + Google Ads + Excel.",
+        sr: "Kada vam treba AI-driven attribution i pipeline forecasting u jednoj platformi, sa preporukama gde da pomerite budžet, umesto ručnog spajanja HubSpot + Google Ads + Excel.",
+        en: "When you need AI-driven attribution and pipeline forecasting in one platform, with recommendations on where to shift budget, instead of manually stitching HubSpot + Google Ads + Excel.",
       },
     },
     {
       question: { sr: "Kako brzo vidite rezultate?", en: "How fast do you see results?" },
       answer: {
-        sr: "Tipično za oko 5 nedelja posle white-glove integracije — funnel health, attribution i prve AI insight-e. Zavisi od kvaliteta podataka u CRM/MAP.",
-        en: "Typically around 5 weeks after white-glove integration — funnel health, attribution, and first AI insights. Depends on CRM/MAP data quality.",
+        sr: "Tipično za oko 5 nedelja posle white-glove integracije, funnel health, attribution i prve AI insight-e. Zavisi od kvaliteta podataka u CRM/MAP.",
+        en: "Typically around 5 weeks after white-glove integration, funnel health, attribution, and first AI insights. Depends on CRM/MAP data quality.",
       },
     },
     {
@@ -346,8 +346,8 @@ export const revsureTool: SalesTool = {
         en: "Does it replace your CRM?",
       },
       answer: {
-        sr: "Ne — RevSure se integriše sa CRM i MAP (HubSpot, Salesforce, Marketo itd.) i vraća insight-e nazad (writeback). CRM ostaje system of record.",
-        en: "No — RevSure integrates with your CRM and MAP (HubSpot, Salesforce, Marketo, etc.) and writes insights back (writeback). The CRM stays the system of record.",
+        sr: "Ne - RevSure se integriše sa CRM i MAP (HubSpot, Salesforce, Marketo itd.) i vraća insight-e nazad (writeback). CRM ostaje system of record.",
+        en: "No - RevSure integrates with your CRM and MAP (HubSpot, Salesforce, Marketo, etc.) and writes insights back (writeback). The CRM stays the system of record.",
       },
     },
     {
@@ -370,8 +370,8 @@ export const revsureTool: SalesTool = {
     {
       question: { sr: "Da li ima trial?", en: "Is there a trial?" },
       answer: {
-        sr: "Nema self-serve free trial — book demo i pilot program po dogovoru sa sales timom, u skladu sa veličinom vašeg MAP-a.",
-        en: "No self-serve free trial — book a demo and a pilot program arranged with sales, based on your MAP size.",
+        sr: "Nema self-serve free trial, book demo i pilot program po dogovoru sa sales timom, u skladu sa veličinom vašeg MAP-a.",
+        en: "No self-serve free trial, book a demo and a pilot program arranged with sales, based on your MAP size.",
       },
     },
   ],

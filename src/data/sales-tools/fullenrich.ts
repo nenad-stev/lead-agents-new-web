@@ -5,8 +5,8 @@ export const fullenrichTool: SalesTool = {
   name: "FullEnrich",
   logo: "/images/sales-tools/fullenrich.png",
   tagline: {
-    sr: "Waterfall enrichment — email i mobilni brojevi iz 20+ izvora",
-    en: "Waterfall enrichment — emails and mobile numbers from 20+ sources",
+    sr: "Waterfall enrichment, email i mobilni brojevi iz 20+ izvora",
+    en: "Waterfall enrichment, emails and mobile numbers from 20+ sources",
   },
   categoryId: "prospecting",
   category: { sr: "Prospecting", en: "Prospecting" },
@@ -32,12 +32,12 @@ export const fullenrichTool: SalesTool = {
   recommended: true,
   rating: { g2: 4.8, g2Reviews: 120 },
   overview: {
-    sr: "FullEnrich je B2B alat za waterfall enrichment: redom pita 20+ premium provajdera dok ne nađe verifikovan poslovni email ili mobilni broj — prosečna stopa pronalaženja 80%+.",
-    en: "FullEnrich is a B2B waterfall enrichment tool: it queries 20+ premium providers in sequence until it finds a verified work email or mobile number — with an average find rate of 80%+.",
+    sr: "FullEnrich je B2B alat za waterfall enrichment: redom pita 20+ premium provajdera dok ne nađe verifikovan poslovni email ili mobilni broj, prosečna stopa pronalaženja 80%+.",
+    en: "FullEnrich is a B2B waterfall enrichment tool: it queries 20+ premium providers in sequence until it finds a verified work email or mobile number, with an average find rate of 80%+.",
   },
   overviewExtended: {
-    sr: "Krediti se troše samo kada stvarno dobijete podatak (1 email = 1 kredit, mobil = 10 kredita). Neiskorišćeni krediti se prenose do 3 meseca. Neograničen broj korisnika u workspace-u — idealno uz Clay, Instantly ili CRM preko API-ja, Zapier-a ili Make-a.",
-    en: "Credits are spent only when data is actually found (1 email = 1 credit, mobile = 10 credits). Unused credits roll over for up to 3 months. Unlimited users per workspace — ideal alongside Clay, Instantly, or your CRM via API, Zapier, or Make.",
+    sr: "Krediti se troše samo kada stvarno dobijete podatak (1 email = 1 kredit, mobil = 10 kredita). Neiskorišćeni krediti se prenose do 3 meseca. Neograničen broj korisnika u workspace-u, idealno uz Clay, Instantly ili CRM preko API-ja, Zapier-a ili Make-a.",
+    en: "Credits are spent only when data is actually found (1 email = 1 credit, mobile = 10 credits). Unused credits roll over for up to 3 months. Unlimited users per workspace, ideal alongside Clay, Instantly, or your CRM via API, Zapier, or Make.",
   },
   idealFor: {
     sr: [
@@ -62,7 +62,7 @@ export const fullenrichTool: SalesTool = {
       "Mobilni brojevi (landline besplatno)",
       "Reverse email lookup + firmografija",
       "API, Zapier, Make, n8n, Clay",
-      "Neograničeni korisnici — deljeni krediti",
+      "Neograničeni korisnici, deljeni krediti",
     ],
     en: [
       "Waterfall across 20+ data sources",
@@ -70,7 +70,7 @@ export const fullenrichTool: SalesTool = {
       "Mobile numbers (landlines free)",
       "Reverse email lookup + firmographics",
       "API, Zapier, Make, n8n, Clay",
-      "Unlimited users — shared credits",
+      "Unlimited users, shared credits",
     ],
   },
   quickFacts: [
@@ -203,7 +203,7 @@ export const fullenrichTool: SalesTool = {
       {
         feature: { sr: "Rollover kredita", en: "Credit rollover" },
         values: {
-          free: { sr: "—", en: "—" },
+          free: { sr: ", ", en: ", " },
           starter: { sr: "3 meseca", en: "3 months" },
           pro: { sr: "3 meseca", en: "3 months" },
         },
@@ -251,14 +251,14 @@ export const fullenrichTool: SalesTool = {
   },
   cons: {
     sr: [
-      "Nije outreach platforma — treba vam sender pored alata",
+      "Nije outreach platforma, treba vam sender pored alata",
       "Mobilni brojevi troše 10× više kredita",
       "Fokus na kontakt podatke, ne pun CRM",
       "Tačan broj kredita po planu zavisi od pretplate",
       "Najbolji rezultati kada imate jasan ICP i listu",
     ],
     en: [
-      "Not an outreach platform — you still need a sender",
+      "Not an outreach platform, you still need a sender",
       "Mobile numbers cost 10× more credits than emails",
       "Focused on contact data, not a full CRM",
       "Exact credits per plan depend on subscription",
@@ -270,8 +270,8 @@ export const fullenrichTool: SalesTool = {
       slug: "prospeo",
       name: "Prospeo",
       description: {
-        sr: "Verifikovani emailovi i mobilni — sličan data-first fokus.",
-        en: "Verified emails and mobiles — similar data-first focus.",
+        sr: "Verifikovani emailovi i mobilni, sličan data-first fokus.",
+        en: "Verified emails and mobiles, similar data-first focus.",
       },
       startingPrice: { sr: "od $37", en: "from $37" },
       trial: { sr: "100 kredita / mes", en: "100 credits / mo" },
@@ -315,7 +315,7 @@ export const fullenrichTool: SalesTool = {
     {
       question: { sr: "Koliko košta FullEnrich?", en: "How much does FullEnrich cost?" },
       answer: {
-        sr: "Besplatno sa 50 kredita bez kartice. Plaćeni planovi počinju od $29/mesec (Starter) i $55/mesec (Pro). Naplata je kreditna — deljeni između celog tima.",
+        sr: "Besplatno sa 50 kredita bez kartice. Plaćeni planovi počinju od $29/mesec (Starter) i $55/mesec (Pro). Naplata je kreditna, deljeni između celog tima.",
         en: "Free with 50 credits and no card. Paid plans start at $29/month (Starter) and $55/month (Pro). Billing is credit-based and shared across your whole team.",
       },
     },
@@ -336,15 +336,15 @@ export const fullenrichTool: SalesTool = {
     {
       question: { sr: "Da li ima besplatan plan?", en: "Is there a free plan?" },
       answer: {
-        sr: "Da — 50 kredita za testiranje, bez kreditne kartice. Dovoljno da uporedite find rate sa trenutnim alatom na vašoj listi.",
-        en: "Yes — 50 credits to test, no credit card required. Enough to benchmark find rate against your current tool on your own list.",
+        sr: "Da - 50 kredita za testiranje, bez kreditne kartice. Dovoljno da uporedite find rate sa trenutnim alatom na vašoj listi.",
+        en: "Yes - 50 credits to test, no credit card required. Enough to benchmark find rate against your current tool on your own list.",
       },
     },
     {
       question: { sr: "Zašto izabrati FullEnrich?", en: "Why choose FullEnrich?" },
       answer: {
-        sr: "Kada vam treba maksimalan reach na cold listama — posebno email + mobil — bez kupovine više odvojenih alata. Često nadmašuje pojedinačne findere po stopi pronalaženja.",
-        en: "When you need maximum reach on cold lists — especially email plus mobile — without buying multiple separate tools. It often beats single-source finders on find rate.",
+        sr: "Kada vam treba maksimalan reach na cold listama, posebno email + mobil, bez kupovine više odvojenih alata. Često nadmašuje pojedinačne findere po stopi pronalaženja.",
+        en: "When you need maximum reach on cold lists, especially email plus mobile, without buying multiple separate tools. It often beats single-source finders on find rate.",
       },
     },
     {
@@ -353,15 +353,15 @@ export const fullenrichTool: SalesTool = {
         en: "Does it integrate with Clay and CRMs?",
       },
       answer: {
-        sr: "Da — native Clay integracija, API, Zapier, Make, n8n i 1000+ aplikacija. Tipičan stack: FullEnrich → Clay/CRM → Instantly ili Lemlist.",
-        en: "Yes — native Clay integration, API, Zapier, Make, n8n, and 1000+ apps. Typical stack: FullEnrich → Clay/CRM → Instantly or Lemlist.",
+        sr: "Da, native Clay integracija, API, Zapier, Make, n8n i 1000+ aplikacija. Tipičan stack: FullEnrich → Clay/CRM → Instantly ili Lemlist.",
+        en: "Yes, native Clay integration, API, Zapier, Make, n8n, and 1000+ apps. Typical stack: FullEnrich → Clay/CRM → Instantly or Lemlist.",
       },
     },
     {
       question: { sr: "Da li FullEnrich ima API?", en: "Does FullEnrich have an API?" },
       answer: {
-        sr: "Da — REST API za bulk enrichment u vašim workflow-ima. Dostupan je i MCP server za AI alate (Claude, ChatGPT).",
-        en: "Yes — REST API for bulk enrichment in your workflows. An MCP server is also available for AI tools (Claude, ChatGPT).",
+        sr: "Da - REST API za bulk enrichment u vašim workflow-ima. Dostupan je i MCP server za AI alate (Claude, ChatGPT).",
+        en: "Yes - REST API for bulk enrichment in your workflows. An MCP server is also available for AI tools (Claude, ChatGPT).",
       },
     },
     {

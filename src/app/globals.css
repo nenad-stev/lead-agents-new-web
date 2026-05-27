@@ -60,12 +60,12 @@ a {
   text-decoration: none;
 }
 
-/* Solid yellow buttons/badges — black text everywhere */
+/* Solid yellow buttons/badges, black text everywhere */
 .bg-accent {
   color: var(--accent-foreground);
 }
 
-/* Yellow ambient glows — matched to lead-agents.com Webflow gradients */
+/* Yellow ambient glows, matched to lead-agents.com Webflow gradients */
 .glow-hero {
   background-color: var(--background);
   background-image:
@@ -90,7 +90,7 @@ a {
     radial-gradient(circle at 44% 59%, rgb(255 204 0 / 11%), rgb(28 29 32 / 0) 16%);
 }
 
-/* CTA sections — dark base, soft yellow accent (easy on the eyes) */
+/* CTA sections, dark base, soft yellow accent (easy on the eyes) */
 .cta-section {
   position: relative;
   overflow: hidden;
@@ -419,7 +419,7 @@ a {
   );
 }
 
-/* Homepage — unified background + drifting yellow glows */
+/* Homepage, unified background + drifting yellow glows */
 .home-main {
   background-color: var(--background);
 }
@@ -591,7 +591,7 @@ a {
   animation-play-state: paused;
 }
 
-/* Main navigation — mega dropdown panels */
+/* Main navigation, mega dropdown panels */
 .nav-dropdown {
   position: relative;
   padding-bottom: 0.75rem;
@@ -944,7 +944,7 @@ a {
   }
 }
 
-/* Playbook — gated lesson content (SSR HTML present, visually locked on client) */
+/* Playbook, gated lesson content (SSR HTML present, visually locked on client) */
 .gated-blur {
   filter: blur(5px);
   pointer-events: none;
@@ -953,7 +953,7 @@ a {
   overflow: hidden;
 }
 
-/* Client logo grid — square tiles, logo revealed on hover */
+/* Client logo grid, square tiles, logo revealed on hover */
 .client-logo-tile {
   position: relative;
   display: flex;
@@ -1115,7 +1115,7 @@ a {
   }
 }
 
-/* Case study — tighter display type, readable body copy */
+/* Case study, tighter display type, readable body copy */
 .glow-case-study-hero {
   background-color: var(--background);
   background-image:
@@ -1142,7 +1142,7 @@ a {
   font-weight: 600;
 }
 
-/* Homepage — subtle motion */
+/* Homepage, subtle motion */
 @keyframes home-fade-in-up {
   from {
     opacity: 0;
@@ -1594,7 +1594,7 @@ a {
   }
 }
 
-/* Founder Led Growth — service page (/usluge/founder-led-growth) */
+/* Founder Led Growth, service page (/usluge/founder-led-growth) */
 .flg-preview-hero {
   position: relative;
   overflow: hidden;
@@ -1863,7 +1863,7 @@ a {
   color: var(--accent);
 }
 
-/* Sales tools — category filters (/prodajni-alati) */
+/* Sales tools, category filters (/prodajni-alati) */
 .sales-tools-filters {
   display: flex;
   flex-direction: column;
@@ -2043,7 +2043,7 @@ a {
   }
 }
 
-/* Founder-Led Growth — premium lesson pages */
+/* Founder-Led Growth, premium lesson pages */
 .playbook-lesson-page {
   background: var(--background);
 }

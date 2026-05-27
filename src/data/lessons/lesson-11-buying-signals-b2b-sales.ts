@@ -67,10 +67,10 @@ const video5 = {
 export const lesson11RichContent: RichLessonContent = {
   meta: {
     stage: L("Intent Signals", "Intent Signals"),
-    readingTime: L("16–20 min", "16–20 min"),
+    readingTime: L("16-20 min", "16-20 min"),
     difficulty: L("Srednji nivo", "Intermediate"),
     outcome: L(
-      "Naučićeš kako identifikovati, score-ovati i delovati na buying signale sa LinkedIn-a, website poseta, webinara, CRM-a, ads-a, hiring aktivnosti, intent data platformi i sales razgovora — pre nego što konkurenti stignu do kupca.",
+      "Naučićeš kako identifikovati, score-ovati i delovati na buying signale sa LinkedIn-a, website poseta, webinara, CRM-a, ads-a, hiring aktivnosti, intent data platformi i sales razgovora, pre nego što konkurenti stignu do kupca.",
       "Learn how to identify, score, and act on buying signals from LinkedIn, website visits, webinars, CRM, ads, hiring activity, intent data platforms, and sales conversations before competitors reach the buyer.",
     ),
     recommendedTools: L(
@@ -190,7 +190,7 @@ export const lesson11RichContent: RichLessonContent = {
           paragraphs: P(
             [
               "B2B kupovina nije linearna.",
-              "Gartner opisuje B2B buying journey kao set buying jobs — identifikacija problema, istraživanje rešenja, definisanje zahteva i izbor dobavljača — koje kupci ponovo posete tokom procesa.",
+              "Gartner opisuje B2B buying journey kao set buying jobs, identifikacija problema, istraživanje rešenja, definisanje zahteva i izbor dobavljača, koje kupci ponovo posete tokom procesa.",
               "To znači da kupci mogu pokazati signale daleko pre nego što progovore sa sales-om.",
               "LinkedIn objašnjava buyer intent kao behavioral data koja pomaže sales timovima da identifikuju purchase behaviors i grade odnose sa prospect-ima i account-ima koji pokazuju viši intent.",
               "6sense opisuje intent data kao signale koji pomažu da identifikuješ account-e koji ulaze u buying cycle, score-uješ ih po fit-u i intent-u, i otkriješ buying committee.",
@@ -201,7 +201,7 @@ export const lesson11RichContent: RichLessonContent = {
             ],
             [
               "B2B buying is not linear.",
-              "Gartner describes the B2B buying journey as a set of buying jobs — problem identification, solution exploration, requirements building, and supplier selection — that buyers revisit throughout the process.",
+              "Gartner describes the B2B buying journey as a set of buying jobs, problem identification, solution exploration, requirements building, and supplier selection, that buyers revisit throughout the process.",
               "That means buyers may show signals long before they speak to sales.",
               "LinkedIn explains buyer intent as behavioral data that can help sales teams identify purchase behaviors and build relationships with prospects and accounts showing higher intent.",
               "6sense describes intent data as signals that help identify accounts entering buying cycles, score them by fit and intent, and reveal buying committees.",
@@ -623,7 +623,7 @@ export const lesson11RichContent: RichLessonContent = {
               title: L("Fit", "Fit"),
               whatToDo: L("Da li je ova osoba/account u ICP-u?", "Is this person/account in the ICP?"),
               whyItMatters: L("Bez fit-a, intent je šum.", "Without fit, intent is noise."),
-              example: L("VP Sales u 50–200 osoba B2B SaaS firmi = high fit. Student koji lajkuje post = low fit.", "VP Sales at a 50–200 person B2B SaaS company = high fit. Student who likes a post = low fit."),
+              example: L("VP Sales u 50-200 osoba B2B SaaS firmi = high fit. Student koji lajkuje post = low fit.", "VP Sales at a 50-200 person B2B SaaS company = high fit. Student who likes a post = low fit."),
               commonMistake: L("Delovanje na svaki signal bez ICP provere.", "Acting on every signal without ICP check."),
               tryThis: L("Score ICP fit pre nego što reaguješ na bilo koji signal.", "Score ICP fit before reacting to any signal."),
               highlight: L("Fit filtrira šum.", "Fit filters noise."),
@@ -644,7 +644,7 @@ export const lesson11RichContent: RichLessonContent = {
               whatToDo: L("Sa kojom temom su se angažovali i šta to sugerise?", "What topic did they engage with, and what does it suggest?"),
               whyItMatters: L("Kontekst određuje relevantnost outreach-a.", "Context determines outreach relevance."),
               example: L("Komentar o SDR hiring-u sugerise outbound readiness problem.", "Comment about SDR hiring suggests an outbound readiness problem."),
-              commonMistake: L("Ignorisanje teme — generički follow-up.", "Ignoring topic — generic follow-up."),
+              commonMistake: L("Ignorisanje teme, generički follow-up.", "Ignoring topic, generic follow-up."),
               tryThis: L("Taguj signal topic u CRM-u.", "Tag signal topic in CRM."),
               highlight: L("Context daje smisao signalu.", "Context gives the signal meaning."),
             },
@@ -816,10 +816,10 @@ export const lesson11RichContent: RichLessonContent = {
           caption: L("Score interpretacija", "Score interpretation"),
           headers: H(["Score", "Značenje", "Akcija"], ["Score", "Meaning", "Action"]),
           rows: [
-            { cells: [L("0–39", "0–39"), L("Low priority", "Low priority"), L("Monitor only", "Monitor only")] },
-            { cells: [L("40–59", "40–59"), L("Nurture", "Nurture"), L("Engage or add to content nurture", "Engage or add to content nurture")] },
-            { cells: [L("60–79", "60–79"), L("Warm", "Warm"), L("Send contextual resource or DM", "Send contextual resource or DM")] },
-            { cells: [L("80–100", "80–100"), L("High intent", "High intent"), L("Sales task / founder follow-up / call CTA", "Sales task / founder follow-up / call CTA")] },
+            { cells: [L("0-39", "0-39"), L("Low priority", "Low priority"), L("Monitor only", "Monitor only")] },
+            { cells: [L("40-59", "40-59"), L("Nurture", "Nurture"), L("Engage or add to content nurture", "Engage or add to content nurture")] },
+            { cells: [L("60-79", "60-79"), L("Warm", "Warm"), L("Send contextual resource or DM", "Send contextual resource or DM")] },
+            { cells: [L("80-100", "80-100"), L("High intent", "High intent"), L("Sales task / founder follow-up / call CTA", "Sales task / founder follow-up / call CTA")] },
           ],
         },
         {
@@ -853,7 +853,7 @@ export const lesson11RichContent: RichLessonContent = {
             { cells: [L("Buying role", "Buying role"), L("Founder, VP Sales, RevOps", "Founder, VP Sales, RevOps")] },
             { cells: [L("Next action", "Next action"), L("Engage, DM, send asset, sales task, nurture", "Engage, DM, send asset, sales task, nurture")] },
             { cells: [L("Follow-up date", "Follow-up date"), L("Date", "Date")] },
-            { cells: [L("Signal score", "Signal score"), L("0–100", "0–100")] },
+            { cells: [L("Signal score", "Signal score"), L("0-100", "0-100")] },
           ],
         },
         {
@@ -1011,10 +1011,10 @@ export const lesson11RichContent: RichLessonContent = {
           caption: L("Action thresholds", "Action thresholds"),
           headers: H(["Score", "Akcija"], ["Score", "Action"]),
           rows: [
-            { cells: [L("0–39", "0–39"), L("Monitor", "Monitor")] },
-            { cells: [L("40–59", "40–59"), L("Nurture", "Nurture")] },
-            { cells: [L("60–79", "60–79"), L("Contextual outreach", "Contextual outreach")] },
-            { cells: [L("80–100", "80–100"), L("Priority sales action", "Priority sales action")] },
+            { cells: [L("0-39", "0-39"), L("Monitor", "Monitor")] },
+            { cells: [L("40-59", "40-59"), L("Nurture", "Nurture")] },
+            { cells: [L("60-79", "60-79"), L("Contextual outreach", "Contextual outreach")] },
+            { cells: [L("80-100", "80-100"), L("Priority sales action", "Priority sales action")] },
           ],
         },
         {
@@ -1073,11 +1073,11 @@ export const lesson11RichContent: RichLessonContent = {
           paragraphs: P(
             [
               "LinkedIn comment signal:",
-              "„Hey [Name] — saw your comment on the post about [topic]. The point you raised around [specific detail] is exactly where a lot of [ICP] get stuck. I have a short [template/checklist] on this if useful.“",
+              "„Hey [Name], saw your comment on the post about [topic]. The point you raised around [specific detail] is exactly where a lot of [ICP] get stuck. I have a short [template/checklist] on this if useful.“",
             ],
             [
               "LinkedIn comment signal:",
-              "\"Hey [Name] — saw your comment on the post about [topic]. The point you raised around [specific detail] is exactly where a lot of [ICP] get stuck. I have a short [template/checklist] on this if useful.\"",
+              "\"Hey [Name], saw your comment on the post about [topic]. The point you raised around [specific detail] is exactly where a lot of [ICP] get stuck. I have a short [template/checklist] on this if useful.\"",
             ],
           ),
         },
@@ -1086,11 +1086,11 @@ export const lesson11RichContent: RichLessonContent = {
           paragraphs: P(
             [
               "Webinar question signal:",
-              "„Hey [Name] — your question in the webinar about [topic] was a good one. We see this a lot when [problem]. Happy to send the framework we use if helpful.“",
+              "„Hey [Name], your question in the webinar about [topic] was a good one. We see this a lot when [problem]. Happy to send the framework we use if helpful.“",
             ],
             [
               "Webinar question signal:",
-              "\"Hey [Name] — your question in the webinar about [topic] was a good one. We see this a lot when [problem]. Happy to send the framework we use if helpful.\"",
+              "\"Hey [Name], your question in the webinar about [topic] was a good one. We see this a lot when [problem]. Happy to send the framework we use if helpful.\"",
             ],
           ),
         },
@@ -1099,11 +1099,11 @@ export const lesson11RichContent: RichLessonContent = {
           paragraphs: P(
             [
               "Company trigger signal:",
-              "„Hey [Name] — noticed your team is hiring for [role]. Usually that stage raises a question: is the founder-led message ready to be handed off, or will reps end up testing it from scratch? I have a short readiness checklist if useful.“",
+              "„Hey [Name], noticed your team is hiring for [role]. Usually that stage raises a question: is the founder-led message ready to be handed off, or will reps end up testing it from scratch? I have a short readiness checklist if useful.“",
             ],
             [
               "Company trigger signal:",
-              "\"Hey [Name] — noticed your team is hiring for [role]. Usually that stage raises a question: is the founder-led message ready to be handed off, or will reps end up testing it from scratch? I have a short readiness checklist if useful.\"",
+              "\"Hey [Name], noticed your team is hiring for [role]. Usually that stage raises a question: is the founder-led message ready to be handed off, or will reps end up testing it from scratch? I have a short readiness checklist if useful.\"",
             ],
           ),
         },
@@ -1112,11 +1112,11 @@ export const lesson11RichContent: RichLessonContent = {
           paragraphs: P(
             [
               "Website intent signal:",
-              "„Hey [Name] — teams usually reach this stage when they're comparing how to solve [problem]. I can send a quick breakdown of the main options and trade-offs if helpful.“",
+              "„Hey [Name], teams usually reach this stage when they're comparing how to solve [problem]. I can send a quick breakdown of the main options and trade-offs if helpful.“",
             ],
             [
               "Website intent signal:",
-              "\"Hey [Name] — teams usually reach this stage when they're comparing how to solve [problem]. I can send a quick breakdown of the main options and trade-offs if helpful.\"",
+              "\"Hey [Name], teams usually reach this stage when they're comparing how to solve [problem]. I can send a quick breakdown of the main options and trade-offs if helpful.\"",
             ],
           ),
         },
@@ -1523,16 +1523,16 @@ __/100
 
 3. Action thresholds
 
-0–39:
+0-39:
 Monitor only.
 
-40–59:
+40-59:
 Nurture.
 
-60–79:
+60-79:
 Send contextual outreach.
 
-80–100:
+80-100:
 Create sales task or founder follow-up.
 
 4. CRM fields
@@ -1571,7 +1571,7 @@ Follow-up date:
 
 LinkedIn comment:
 
-Hey [Name] — saw your comment on the post about [topic].
+Hey [Name], saw your comment on the post about [topic].
 
 The point you raised around [detail] is exactly where a lot of [ICP] get stuck.
 
@@ -1579,7 +1579,7 @@ I have a short [resource] on this if useful.
 
 Webinar question:
 
-Hey [Name] — your question in the webinar about [topic] was a good one.
+Hey [Name], your question in the webinar about [topic] was a good one.
 
 We see this a lot when [problem].
 
@@ -1587,7 +1587,7 @@ Happy to send the framework we use if helpful.
 
 Company trigger:
 
-Hey [Name] — noticed your team is [trigger].
+Hey [Name], noticed your team is [trigger].
 
 Usually that stage raises a question:
 [relevant problem].
@@ -1596,7 +1596,7 @@ I have a short [resource] if useful.
 
 Website intent:
 
-Hey [Name] — teams usually reach this stage when they're comparing how to solve [problem].
+Hey [Name], teams usually reach this stage when they're comparing how to solve [problem].
 
 I can send a quick breakdown of the main options and trade-offs if helpful.
 
@@ -1674,16 +1674,16 @@ __/100
 
 3. Action thresholds
 
-0–39:
+0-39:
 Monitor only.
 
-40–59:
+40-59:
 Nurture.
 
-60–79:
+60-79:
 Send contextual outreach.
 
-80–100:
+80-100:
 Create sales task or founder follow-up.
 
 4. CRM fields
@@ -1722,7 +1722,7 @@ Follow-up date:
 
 LinkedIn comment:
 
-Hey [Name] — saw your comment on the post about [topic].
+Hey [Name], saw your comment on the post about [topic].
 
 The point you raised around [detail] is exactly where a lot of [ICP] get stuck.
 
@@ -1730,7 +1730,7 @@ I have a short [resource] on this if useful.
 
 Webinar question:
 
-Hey [Name] — your question in the webinar about [topic] was a good one.
+Hey [Name], your question in the webinar about [topic] was a good one.
 
 We see this a lot when [problem].
 
@@ -1738,7 +1738,7 @@ Happy to send the framework we use if helpful.
 
 Company trigger:
 
-Hey [Name] — noticed your team is [trigger].
+Hey [Name], noticed your team is [trigger].
 
 Usually that stage raises a question:
 [relevant problem].
@@ -1747,7 +1747,7 @@ I have a short [resource] if useful.
 
 Website intent:
 
-Hey [Name] — teams usually reach this stage when they're comparing how to solve [problem].
+Hey [Name], teams usually reach this stage when they're comparing how to solve [problem].
 
 I can send a quick breakdown of the main options and trade-offs if helpful.
 
@@ -1817,35 +1817,35 @@ I can send a quick breakdown of the main options and trade-offs if helpful.
     },
   ],
   sources: [
-    { title: L("LinkedIn Sales Solutions — Guide to Buyer Intent", "LinkedIn Sales Solutions — Guide to Buyer Intent"), url: "https://business.linkedin.com/sales-solutions/resources/sales-terms/buyer-intent" },
-    { title: L("LinkedIn — How to Use Intent Signals for Sales", "LinkedIn — How to Use Intent Signals for Sales"), url: "https://www.linkedin.com/top-content/sales/sales-discovery-tips/how-to-use-intent-signals-for-sales/" },
-    { title: L("LinkedIn Sales Navigator — Buyer Intent Video", "LinkedIn Sales Navigator — Buyer Intent Video"), url: "https://www.youtube.com/watch?v=YZFEWnVVRio" },
-    { title: L("Gartner — B2B Buying Journey", "Gartner — B2B Buying Journey"), url: "https://www.gartner.com/en/sales/insights/b2b-buying-journey" },
-    { title: L("Gartner — 67% of B2B Buyers Prefer a Rep-Free Experience", "Gartner — 67% of B2B Buyers Prefer a Rep-Free Experience"), url: "https://www.gartner.com/en/newsroom/press-releases/2026-03-09-gartner-sales-survey-finds-67-percent-of-b2b-buyers-prefer-a-rep-free-experience" },
-    { title: L("6sense — What Is Intent Data?", "6sense — What Is Intent Data?"), url: "https://6sense.com/platform/intent-data/what-is-intent-data/" },
-    { title: L("Bombora — B2B Intent Data", "Bombora — B2B Intent Data"), url: "https://bombora.com/intent/" },
-    { title: L("Demandbase — Buyer Intent Explained", "Demandbase — Buyer Intent Explained"), url: "https://www.demandbase.com/blog/buyer-intent/" },
-    { title: L("Cognism — Best B2B Intent Data Providers", "Cognism — Best B2B Intent Data Providers"), url: "https://www.cognism.com/blog/intent-data-providers" },
-    { title: L("Common Room — Action on the People Behind B2B Intent with Bombora", "Common Room — Action on the People Behind B2B Intent with Bombora"), url: "https://www.commonroom.io/playbooks/action-on-b2b-intent-with-bombora-intent-signals/" },
-    { title: L("Leadfeeder / Dealfront — Website Visitor Identification", "Leadfeeder / Dealfront — Website Visitor Identification"), url: "https://www.leadfeeder.com/" },
-    { title: L("RB2B — Website Visitor Identification", "RB2B — Website Visitor Identification"), url: "https://www.rb2b.com/" },
-    { title: L("Clay — Data Enrichment Platform", "Clay — Data Enrichment Platform"), url: "https://www.clay.com/" },
-    { title: L("HubSpot — Lead Scoring", "HubSpot — Lead Scoring"), url: "https://knowledge.hubspot.com/scoring/set-up-score-properties-to-qualify-contacts-companies-and-deals" },
-    { title: L("Pipedrive — Lead Scoring", "Pipedrive — Lead Scoring"), url: "https://support.pipedrive.com/en/article/lead-scoring" },
+    { title: L("LinkedIn Sales Solutions - Guide to Buyer Intent", "LinkedIn Sales Solutions - Guide to Buyer Intent"), url: "https://business.linkedin.com/sales-solutions/resources/sales-terms/buyer-intent" },
+    { title: L("LinkedIn - How to Use Intent Signals for Sales", "LinkedIn - How to Use Intent Signals for Sales"), url: "https://www.linkedin.com/top-content/sales/sales-discovery-tips/how-to-use-intent-signals-for-sales/" },
+    { title: L("LinkedIn Sales Navigator - Buyer Intent Video", "LinkedIn Sales Navigator - Buyer Intent Video"), url: "https://www.youtube.com/watch?v=YZFEWnVVRio" },
+    { title: L("Gartner - B2B Buying Journey", "Gartner - B2B Buying Journey"), url: "https://www.gartner.com/en/sales/insights/b2b-buying-journey" },
+    { title: L("Gartner - 67% of B2B Buyers Prefer a Rep-Free Experience", "Gartner - 67% of B2B Buyers Prefer a Rep-Free Experience"), url: "https://www.gartner.com/en/newsroom/press-releases/2026-03-09-gartner-sales-survey-finds-67-percent-of-b2b-buyers-prefer-a-rep-free-experience" },
+    { title: L("6sense - What Is Intent Data?", "6sense - What Is Intent Data?"), url: "https://6sense.com/platform/intent-data/what-is-intent-data/" },
+    { title: L("Bombora - B2B Intent Data", "Bombora - B2B Intent Data"), url: "https://bombora.com/intent/" },
+    { title: L("Demandbase - Buyer Intent Explained", "Demandbase - Buyer Intent Explained"), url: "https://www.demandbase.com/blog/buyer-intent/" },
+    { title: L("Cognism - Best B2B Intent Data Providers", "Cognism - Best B2B Intent Data Providers"), url: "https://www.cognism.com/blog/intent-data-providers" },
+    { title: L("Common Room - Action on the People Behind B2B Intent with Bombora", "Common Room - Action on the People Behind B2B Intent with Bombora"), url: "https://www.commonroom.io/playbooks/action-on-b2b-intent-with-bombora-intent-signals/" },
+    { title: L("Leadfeeder / Dealfront - Website Visitor Identification", "Leadfeeder / Dealfront - Website Visitor Identification"), url: "https://www.leadfeeder.com/" },
+    { title: L("RB2B - Website Visitor Identification", "RB2B - Website Visitor Identification"), url: "https://www.rb2b.com/" },
+    { title: L("Clay - Data Enrichment Platform", "Clay - Data Enrichment Platform"), url: "https://www.clay.com/" },
+    { title: L("HubSpot - Lead Scoring", "HubSpot - Lead Scoring"), url: "https://knowledge.hubspot.com/scoring/set-up-score-properties-to-qualify-contacts-companies-and-deals" },
+    { title: L("Pipedrive - Lead Scoring", "Pipedrive - Lead Scoring"), url: "https://support.pipedrive.com/en/article/lead-scoring" },
   ],
   relatedLessons: {
     previous: {
       slug: "crm-pipeline-tracking",
       title: L(
-        "Lekcija 10 — Kako pratiti Founder-Led Growth aktivnosti u CRM-u",
-        "Lesson 10 — How to Track Founder-Led Growth Activities in Your CRM",
+        "Lekcija 10 - Kako pratiti Founder-Led Growth aktivnosti u CRM-u",
+        "Lesson 10 - How to Track Founder-Led Growth Activities in Your CRM",
       ),
     },
     next: {
       slug: "inbound-to-outbound-system",
       title: L(
-        "Lekcija 12 — Kako napraviti inbound-to-outbound sistem",
-        "Lesson 12 — How to Build an Inbound-to-Outbound System",
+        "Lekcija 12 - Kako napraviti inbound-to-outbound sistem",
+        "Lesson 12 - How to Build an Inbound-to-Outbound System",
       ),
       note: L(
         "Sledeća lekcija pokazuje kako povezati inbound signale sa outbound motion-om.",
@@ -1853,12 +1853,12 @@ I can send a quick breakdown of the main options and trade-offs if helpful.
       ),
     },
     related: [
-      { slug: "what-founder-led-growth-is", title: L("Lekcija 1 — Šta je Founder-Led Growth", "Lesson 1 — What Founder-Led Growth Is and Why It Works for B2B Companies") },
-      { slug: "how-to-define-your-icp", title: L("Lekcija 2 — Kako definisati ICP", "Lesson 2 — How to Define Your ICP for B2B Lead Generation") },
-      { slug: "linkedin-commenting-strategy", title: L("Lekcija 6 — LinkedIn commenting strategija", "Lesson 6 — How to Use LinkedIn Commenting for Visibility With Your ICP") },
-      { slug: "linkedin-engagement-outreach-list", title: L("Lekcija 7 — LinkedIn engagement u outreach listu", "Lesson 7 — How to Turn LinkedIn Engagement Into an Outreach List") },
-      { slug: "webinars-founder-led-growth", title: L("Lekcija 8 — Webinari u Founder-Led Growth-u", "Lesson 8 — How to Use Webinars as Part of Founder-Led Growth") },
-      { slug: "linkedin-ads-thought-leader-ads", title: L("Lekcija 9 — LinkedIn Ads za Founder-Led Growth", "Lesson 9 — How to Use LinkedIn Ads to Boost Founder-Led Growth") },
+      { slug: "what-founder-led-growth-is", title: L("Lekcija 1 - Šta je Founder-Led Growth", "Lesson 1 - What Founder-Led Growth Is and Why It Works for B2B Companies") },
+      { slug: "how-to-define-your-icp", title: L("Lekcija 2 - Kako definisati ICP", "Lesson 2 - How to Define Your ICP for B2B Lead Generation") },
+      { slug: "linkedin-commenting-strategy", title: L("Lekcija 6 - LinkedIn commenting strategija", "Lesson 6 - How to Use LinkedIn Commenting for Visibility With Your ICP") },
+      { slug: "linkedin-engagement-outreach-list", title: L("Lekcija 7 - LinkedIn engagement u outreach listu", "Lesson 7 - How to Turn LinkedIn Engagement Into an Outreach List") },
+      { slug: "webinars-founder-led-growth", title: L("Lekcija 8 - Webinari u Founder-Led Growth-u", "Lesson 8 - How to Use Webinars as Part of Founder-Led Growth") },
+      { slug: "linkedin-ads-thought-leader-ads", title: L("Lekcija 9 - LinkedIn Ads za Founder-Led Growth", "Lesson 9 - How to Use LinkedIn Ads to Boost Founder-Led Growth") },
     ],
   },
   cta: {

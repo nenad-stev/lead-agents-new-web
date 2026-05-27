@@ -1,6 +1,6 @@
 export const sr = {
   meta: {
-    title: "Lead Agents — Sales & Marketing Agencija",
+    title: "Lead Agents - Sales & Marketing Agencija",
     description:
       "Pomažemo B2B kompanijama da prodaju svoje usluge na LinkedIn-u kroz Founder Led Growth sistem.",
   },
@@ -18,7 +18,7 @@ export const sr = {
     servicesFeatured: "Glavna usluga",
     viewAllServices: "Pogledaj sve usluge",
     educationPlaybookDesc:
-      "Founder Led Growth metodologija — lekcije, faze i praktični koraci za B2B rast na LinkedIn-u.",
+      "Founder Led Growth metodologija, lekcije, faze i praktični koraci za B2B rast na LinkedIn-u.",
     educationCaseStudiesDesc:
       "Realni projekti, brojevi i šta smo naučili radeći sa startapima i established timovima.",
     lessonsCount: "lekcija",
@@ -34,19 +34,19 @@ export const sr = {
   },
   intro: {
     title: "Šta možemo da uradimo za vas",
-    text: "Ne radi se samo o tome šta radimo — već kako to kombinujemo da odgovara vašim ciljevima i donese merljive rezultate.",
+    text: "Ne radi se samo o tome šta radimo, već kako to kombinujemo da odgovara vašim ciljevima i donese merljive rezultate.",
   },
   home: {
     clientsTitle: "klijenata sa kojima smo radili",
     clientsSubtitle:
-      "Od startapa do established B2B timova — Founder Led Growth, outreach i LinkedIn strategija.",
+      "Od startapa do established B2B timova - Founder Led Growth, outreach i LinkedIn strategija.",
     clientsImpact:
       "5 godina iskustva · preko $120M pipeline vrednosti za timove sa kojima radimo.",
     clientsMoreLabel: "još klijenata",
     caseStudyEyebrow: "Case studija",
     caseStudyTitle: "Kako smo bestseler pretvorili u digitalni kurs",
     caseStudyDescription:
-      "Od ideje do publikovanja — delimo sve u ovoj priči. Kompletna strategija, alati, rezultati.",
+      "Od ideje do publikovanja, delimo sve u ovoj priči. Kompletna strategija, alati, rezultati.",
     caseStudyCta: "Pročitajte ceo case study",
     testimonialsTitle: "Napokon smo ubedili naše klijente da kažu nešto lepo o nama 😉",
     testimonialsSubtitle: "Oni su nam rekli da!",
@@ -64,7 +64,7 @@ export const sr = {
   services: {
     title: "Šta možemo da uradimo za vas",
     subtitle:
-      "Počinjemo od kompletnog Founder Led Growth sistema — zatim biramo dodatne usluge prema vašim ciljevima.",
+      "Počinjemo od kompletnog Founder Led Growth sistema, zatim biramo dodatne usluge prema vašim ciljevima.",
   },
   cta: {
     eyebrow: "Besplatna konsultacija",
@@ -107,9 +107,9 @@ export const sr = {
       title: "Najbolji prodajni alati za B2B timove",
       eyebrow: "Prodajni alati",
       description:
-        "Alati za prospecting, outreach, CRM i prodajnu automatizaciju — birani i testirani u našim kampanjama.",
+        "Alati za prospecting, outreach, CRM i prodajnu automatizaciju, birani i testirani u našim kampanjama.",
       subtitle:
-        "Uporedite cene, funkcije i alternative — biramo alate koje stvarno koristimo u kampanjama.",
+        "Uporedite cene, funkcije i alternative, biramo alate koje stvarno koristimo u kampanjama.",
       searchPlaceholder: "Pretraži alate...",
       filterCategories: "Kategorije",
       featuredTitle: "Preporučeni alati",
@@ -124,15 +124,15 @@ export const sr = {
       comingSoon: "Katalog alata se proširuje.",
     },
     contact: {
-      metaTitle: "Kontakt — Lead Agents",
+      metaTitle: "Kontakt - Lead Agents",
       metaDescription:
-        "Stupite u kontakt sa Lead Agents timom. Zakažite sastanak ili nam pošaljite poruku — odgovaramo u najkraćem roku.",
+        "Stupite u kontakt sa Lead Agents timom. Zakažite sastanak ili nam pošaljite poruku, odgovaramo u najkraćem roku.",
       title: "Zakažite sastanak",
       heroSubtitle:
         "Pošaljite poruku preko forme ili rezervišite termin direktno u kalendaru.",
       bookMeetingCta: "Rezervišite termin",
       bookingTitle: "Rezervišite termin online",
-      bookingSubtitle: "30-minutni sastanak — izaberite slobodan slot u kalendaru.",
+      bookingSubtitle: "30-minutni sastanak, izaberite slobodan slot u kalendaru.",
       detailsTitle: "Kontakt detalji",
       detailsSubtitle: "Slobodno nas kontaktirajte na neki od sledećih načina",
       emailLabel: "Email",

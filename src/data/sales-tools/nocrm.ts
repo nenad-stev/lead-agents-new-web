@@ -5,8 +5,8 @@ export const nocrmTool: SalesTool = {
   name: "noCRM",
   logo: "/images/sales-tools/nocrm.png",
   tagline: {
-    sr: "Sales-first CRM — pipeline, follow-up, bez teškog admina",
-    en: "Sales-first CRM — pipeline, follow-ups, without heavy admin",
+    sr: "Sales-first CRM, pipeline, follow-up, bez teškog admina",
+    en: "Sales-first CRM, pipeline, follow-ups, without heavy admin",
   },
   categoryId: "crm",
   category: { sr: "CRM", en: "CRM" },
@@ -32,24 +32,24 @@ export const nocrmTool: SalesTool = {
   recommended: true,
   rating: { g2: 4.7, g2Reviews: 500 },
   overview: {
-    sr: "noCRM je CRM napravljen za prodavce, ne za marketing ops: brzo kreirate lead, vidite sledeći korak, podsetnici za follow-up i pipeline koji drži fokus na zatvaranju — bez Salesforce težine.",
-    en: "noCRM is a CRM built for salespeople, not marketing ops: create leads fast, see the next step, follow-up reminders, and a pipeline focused on closing — without Salesforce weight.",
+    sr: "noCRM je CRM napravljen za prodavce, ne za marketing ops: brzo kreirate lead, vidite sledeći korak, podsetnici za follow-up i pipeline koji drži fokus na zatvaranju, bez Salesforce težine.",
+    en: "noCRM is a CRM built for salespeople, not marketing ops: create leads fast, see the next step, follow-up reminders, and a pipeline focused on closing, without Salesforce weight.",
   },
   overviewExtended: {
-    sr: "Starter od **€11/user/mes** (godišnje) — 500 leadova, 1 pipeline. Expert **€22** — unlimited leads, quotes, API. Dream **€33** — WhatsApp, email sync, tim management, automations. Trial 15 dana (30 sa karticom). Nije outreach sequencer — koristite uz Instantly/Expandi; noCRM je gde leadovi završavaju posle odgovora.",
-    en: "Starter from **€11/user/mo** (annual) — 500 leads, 1 pipeline. Expert **€22** — unlimited leads, quotes, API. Dream **€33** — WhatsApp, email sync, team management, automations. 15-day trial (30 with card). Not an outreach sequencer — pair with Instantly/Expandi; noCRM is where leads land after they reply.",
+    sr: "Starter od **€11/user/mes** (godišnje), 500 leadova, 1 pipeline. Expert **€22**, unlimited leads, quotes, API. Dream **€33**, WhatsApp, email sync, tim management, automations. Trial 15 dana (30 sa karticom). Nije outreach sequencer, koristite uz Instantly/Expandi; noCRM je gde leadovi završavaju posle odgovora.",
+    en: "Starter from **€11/user/mo** (annual), 500 leads, 1 pipeline. Expert **€22**, unlimited leads, quotes, API. Dream **€33**, WhatsApp, email sync, team management, automations. 15-day trial (30 with card). Not an outreach sequencer, pair with Instantly/Expandi; noCRM is where leads land after they reply.",
   },
   idealFor: {
     sr: [
       "Solo prodavci i founderi",
-      "SMB sales timovi (1–100 rep)",
+      "SMB sales timovi (1-100 rep)",
       "Telesales i inside sales",
       "Timovi koji mrze kompleksan CRM",
       "Kompanije sa WhatsApp prodajom",
     ],
     en: [
       "Solo sellers and founders",
-      "SMB sales teams (1–100 reps)",
+      "SMB sales teams (1-100 reps)",
       "Telesales and inside sales",
       "Teams that dislike complex CRMs",
       "Companies selling via WhatsApp",
@@ -84,7 +84,7 @@ export const nocrmTool: SalesTool = {
     },
     {
       label: { sr: "Probni period", en: "Trial" },
-      value: { sr: "15–30 dana", en: "15–30 days" },
+      value: { sr: "15-30 dana", en: "15-30 days" },
     },
     {
       label: { sr: "Hosting", en: "Hosting" },
@@ -244,14 +244,14 @@ export const nocrmTool: SalesTool = {
   },
   pros: {
     sr: [
-      "Brz start — prodavci ga odmah koriste",
+      "Brz start, prodavci ga odmah koriste",
       "Fokus na akciju, ne na polja",
       "EU hosting & GDPR",
       "Dobar mobilni app",
       "Jeftiniji od enterprise CRM-a",
     ],
     en: [
-      "Fast start — reps use it immediately",
+      "Fast start, reps use it immediately",
       "Action-focused, not field-heavy",
       "EU hosting & GDPR",
       "Solid mobile app",
@@ -279,8 +279,8 @@ export const nocrmTool: SalesTool = {
       slug: "attio",
       name: "Attio",
       description: {
-        sr: "Modern AI CRM — više customizacije.",
-        en: "Modern AI CRM — more customization.",
+        sr: "Modern AI CRM, više customizacije.",
+        en: "Modern AI CRM, more customization.",
       },
       startingPrice: { sr: "od $36", en: "from $36" },
       trial: { sr: "14 dana", en: "14 days" },
@@ -290,8 +290,8 @@ export const nocrmTool: SalesTool = {
       slug: "hubspot",
       name: "HubSpot",
       description: {
-        sr: "Full platform — marketing + sales.",
-        en: "Full platform — marketing + sales.",
+        sr: "Full platform, marketing + sales.",
+        en: "Full platform, marketing + sales.",
       },
       startingPrice: { sr: "od $0", en: "from $0" },
       trial: { sr: "Free CRM", en: "Free CRM" },
@@ -331,15 +331,15 @@ export const nocrmTool: SalesTool = {
     {
       question: { sr: "Da li ima besplatan plan?", en: "Is there a free plan?" },
       answer: {
-        sr: "Nema trajnog free plana — 15-dnevni trial bez kartice (30 dana ako dodate karticu). Svi paid planovi se mogu probati.",
-        en: "No permanent free plan — 15-day trial without a card (30 days if you add a card). All paid plans are available to try.",
+        sr: "Nema trajnog free plana - 15-dnevni trial bez kartice (30 dana ako dodate karticu). Svi paid planovi se mogu probati.",
+        en: "No permanent free plan - 15-day trial without a card (30 days if you add a card). All paid plans are available to try.",
       },
     },
     {
       question: { sr: "Zašto izabrati noCRM?", en: "Why choose noCRM?" },
       answer: {
-        sr: "Kada prodavci ne koriste „težak“ CRM i treba im jasan sledeći korak + follow-up — bez marketing modula koje niko ne popunjava.",
-        en: "When reps won't use a heavy CRM and need a clear next step + follow-ups — without marketing modules nobody fills in.",
+        sr: "Kada prodavci ne koriste „težak“ CRM i treba im jasan sledeći korak + follow-up, bez marketing modula koje niko ne popunjava.",
+        en: "When reps won't use a heavy CRM and need a clear next step + follow-ups, without marketing modules nobody fills in.",
       },
     },
     {
@@ -348,15 +348,15 @@ export const nocrmTool: SalesTool = {
         en: "noCRM vs HubSpot?",
       },
       answer: {
-        sr: "HubSpot je platforma za marketing + sales + reporting. noCRM je sales pipeline tool — brži, jeftiniji, manje feature-a. Često: HubSpot za marketing, noCRM za čist sales fokus (retko oba).",
-        en: "HubSpot is marketing + sales + reporting platform. noCRM is a sales pipeline tool — faster, cheaper, fewer features. Often: HubSpot for marketing, noCRM for pure sales focus (rarely both).",
+        sr: "HubSpot je platforma za marketing + sales + reporting. noCRM je sales pipeline tool, brži, jeftiniji, manje feature-a. Često: HubSpot za marketing, noCRM za čist sales fokus (retko oba).",
+        en: "HubSpot is marketing + sales + reporting platform. noCRM is a sales pipeline tool, faster, cheaper, fewer features. Often: HubSpot for marketing, noCRM for pure sales focus (rarely both).",
       },
     },
     {
       question: { sr: "Da li ima API?", en: "Does it have an API?" },
       answer: {
-        sr: "Da — Expert+ uključuje API (2.000 poziva/dan na Expert; više na Dream). Zapier za 3.000+ integracija.",
-        en: "Yes — Expert+ includes API (2,000 calls/day on Expert; more on Dream). Zapier for 3,000+ integrations.",
+        sr: "Da - Expert+ uključuje API (2.000 poziva/dan na Expert; više na Dream). Zapier za 3.000+ integracija.",
+        en: "Yes - Expert+ includes API (2,000 calls/day on Expert; more on Dream). Zapier for 3,000+ integrations.",
       },
     },
   ],

@@ -23,7 +23,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   }
 
   return {
-    title: `${tool.name} — Review, Pricing & Alternatives | Lead Agents`,
+    title: `${tool.name}, Review, Pricing & Alternatives | Lead Agents`,
     description: tool.overview[locale],
   };
 }

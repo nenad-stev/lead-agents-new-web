@@ -56,7 +56,7 @@ export type ServicePage = {
     primaryCta: LocalizedText;
     secondaryCta: LocalizedText;
   };
-  /** Metodologija / koraci (npr. FLG — 3 koraka) */
+  /** Metodologija / koraci (npr. FLG - 3 koraka) */
   steps?: {
     title: LocalizedText;
     items: ServiceStep[];
@@ -67,7 +67,7 @@ export type ServicePage = {
   showreel?: {
     videos: ServiceShowreelVideo[];
   };
-  /** Šta klijent dobija — lista benefita */
+  /** Šta klijent dobija, lista benefita */
   deliverables?: {
     title: LocalizedText;
     items: ServiceBenefit[];

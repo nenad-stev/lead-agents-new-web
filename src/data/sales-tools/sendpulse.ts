@@ -5,8 +5,8 @@ export const sendpulseTool: SalesTool = {
   name: "SendPulse",
   logo: "/images/sales-tools/sendpulse.png",
   tagline: {
-    sr: "All-in-one marketing — email, chatbot, CRM i automation bez kartice na startu",
-    en: "All-in-one marketing — email, chatbot, CRM, and automation with no card to start",
+    sr: "All-in-one marketing, email, chatbot, CRM i automation bez kartice na startu",
+    en: "All-in-one marketing, email, chatbot, CRM, and automation with no card to start",
   },
   categoryId: "email-marketing",
   category: { sr: "Email marketing", en: "Email marketing" },
@@ -32,12 +32,12 @@ export const sendpulseTool: SalesTool = {
   recommended: true,
   rating: { g2: 4.6, g2Reviews: 280 },
   overview: {
-    sr: "SendPulse je marketing platforma: email (15k besplatnih/mes), chatbotovi, CRM, landing stranice i automation flow-ovi — za timove koji žele nurture, newsletter i lead gen bez odmah plaćanja pretplate.",
-    en: "SendPulse is a marketing platform: email (15k free/mo), chatbots, CRM, landing pages, and automation flows — for teams that want nurture, newsletters, and lead gen without paying upfront.",
+    sr: "SendPulse je marketing platforma: email (15k besplatnih/mes), chatbotovi, CRM, landing stranice i automation flow-ovi, za timove koji žele nurture, newsletter i lead gen bez odmah plaćanja pretplate.",
+    en: "SendPulse is a marketing platform: email (15k free/mo), chatbots, CRM, landing pages, and automation flows, for teams that want nurture, newsletters, and lead gen without paying upfront.",
   },
   overviewExtended: {
-    sr: "Free plan: do 500 subscribera, 15k emailova/mes, 3 sender adrese. Standard od **~$8/mes** (godišnje, 500 subs) — unlimited emailovi. Pro **~$10/mes** — dynamic segmentacija, 10 user-a. Nije cold outreach alat kao Instantly — koristite za marketing liste, onboarding sekvence i chat na sajtu. Pay-as-you-go za povremene kampanje.",
-    en: "Free plan: up to 500 subscribers, 15k emails/mo, 3 sender addresses. Standard from **~$8/mo** (annual, 500 subs) — unlimited emails. Pro **~$10/mo** — dynamic segmentation, 10 users. Not a cold outreach tool like Instantly — use for marketing lists, onboarding sequences, and on-site chat. Pay-as-you-go for occasional sends.",
+    sr: "Free plan: do 500 subscribera, 15k emailova/mes, 3 sender adrese. Standard od **~$8/mes** (godišnje, 500 subs), unlimited emailovi. Pro **~$10/mes**, dynamic segmentacija, 10 user-a. Nije cold outreach alat kao Instantly, koristite za marketing liste, onboarding sekvence i chat na sajtu. Pay-as-you-go za povremene kampanje.",
+    en: "Free plan: up to 500 subscribers, 15k emails/mo, 3 sender addresses. Standard from **~$8/mo** (annual, 500 subs), unlimited emails. Pro **~$10/mo**, dynamic segmentation, 10 users. Not a cold outreach tool like Instantly, use for marketing lists, onboarding sequences, and on-site chat. Pay-as-you-go for occasional sends.",
   },
   idealFor: {
     sr: [
@@ -98,8 +98,8 @@ export const sendpulseTool: SalesTool = {
       en: "By subscriber count · PAYG option",
     },
     trial: {
-      sr: "Free plan — bez kartice",
-      en: "Free plan — no card required",
+      sr: "Free plan, bez kartice",
+      en: "Free plan, no card required",
     },
     plans: [
       {
@@ -262,8 +262,8 @@ export const sendpulseTool: SalesTool = {
   setup: {
     complexity: { sr: "Početni", en: "Beginner" },
     description: {
-      sr: "Registracija → import liste ili forme na sajtu → prvi email ili automation → povežite CRM pipeline za sales follow-up. Za e-commerce: Shopify integracija. Cena raste sa brojem subscribera — proverite kalkulator pre upgrade-a.",
-      en: "Sign up → import list or site forms → first email or automation → connect CRM pipeline for sales follow-up. For e-commerce: Shopify integration. Price scales with subscribers — check the calculator before upgrading.",
+      sr: "Registracija → import liste ili forme na sajtu → prvi email ili automation → povežite CRM pipeline za sales follow-up. Za e-commerce: Shopify integracija. Cena raste sa brojem subscribera, proverite kalkulator pre upgrade-a.",
+      en: "Sign up → import list or site forms → first email or automation → connect CRM pipeline for sales follow-up. For e-commerce: Shopify integration. Price scales with subscribers, check the calculator before upgrading.",
     },
   },
   pros: {
@@ -314,8 +314,8 @@ export const sendpulseTool: SalesTool = {
       slug: "instantly",
       name: "Instantly",
       description: {
-        sr: "Cold email — druga namena.",
-        en: "Cold email — different use case.",
+        sr: "Cold email, druga namena.",
+        en: "Cold email, different use case.",
       },
       startingPrice: { sr: "od $37", en: "from $37" },
       trial: { sr: "14 dana", en: "14 days" },
@@ -336,8 +336,8 @@ export const sendpulseTool: SalesTool = {
       slug: "unbounce",
       name: "Unbounce",
       description: {
-        sr: "Landing pages — fokus na CRO.",
-        en: "Landing pages — CRO focus.",
+        sr: "Landing pages, fokus na CRO.",
+        en: "Landing pages - CRO focus.",
       },
       startingPrice: { sr: "od $29", en: "from $29" },
       trial: { sr: "14 dana", en: "14 days" },
@@ -358,29 +358,29 @@ export const sendpulseTool: SalesTool = {
         en: "Is it for cold outreach?",
       },
       answer: {
-        sr: "Ne — SendPulse je opt-in marketing (newsletter, nurture, automation). Za cold email koristite Instantly/Smartlead; SendPulse za liste koje ste legalno prikupili.",
-        en: "No — SendPulse is opt-in marketing (newsletter, nurture, automation). For cold email use Instantly/Smartlead; SendPulse for lists you collected legally.",
+        sr: "Ne - SendPulse je opt-in marketing (newsletter, nurture, automation). Za cold email koristite Instantly/Smartlead; SendPulse za liste koje ste legalno prikupili.",
+        en: "No - SendPulse is opt-in marketing (newsletter, nurture, automation). For cold email use Instantly/Smartlead; SendPulse for lists you collected legally.",
       },
     },
     {
       question: { sr: "Zašto izabrati SendPulse?", en: "Why choose SendPulse?" },
       answer: {
-        sr: "Kada vam treba jeftin start sa email + chatbot + CRM bez HubSpot kompleksnosti — posebno za SMB, kurseve i e-commerce nurture.",
-        en: "When you need a cheap start with email + chatbot + CRM without HubSpot complexity — especially for SMB, courses, and e-commerce nurture.",
+        sr: "Kada vam treba jeftin start sa email + chatbot + CRM bez HubSpot kompleksnosti, posebno za SMB, kurseve i e-commerce nurture.",
+        en: "When you need a cheap start with email + chatbot + CRM without HubSpot complexity, especially for SMB, courses, and e-commerce nurture.",
       },
     },
     {
       question: { sr: "Da li ima besplatan plan?", en: "Is there a free plan?" },
       answer: {
-        sr: "Da — Free plan bez kartice: 15k emailova, 500 subscribera, 3 chatbot-a, osnovni automation. Dovoljno za test pre plaćenog plana.",
-        en: "Yes — Free plan, no card: 15k emails, 500 subscribers, 3 chatbots, basic automation. Enough to test before a paid plan.",
+        sr: "Da - Free plan bez kartice: 15k emailova, 500 subscribera, 3 chatbot-a, osnovni automation. Dovoljno za test pre plaćenog plana.",
+        en: "Yes - Free plan, no card: 15k emails, 500 subscribers, 3 chatbots, basic automation. Enough to test before a paid plan.",
       },
     },
     {
       question: { sr: "Da li ima API?", en: "Does it have an API?" },
       answer: {
-        sr: "Da — API i webhooks na Pro+ planovima za integracije (Zapier, Make, Shopify, WordPress).",
-        en: "Yes — API and webhooks on Pro+ plans for integrations (Zapier, Make, Shopify, WordPress).",
+        sr: "Da - API i webhooks na Pro+ planovima za integracije (Zapier, Make, Shopify, WordPress).",
+        en: "Yes - API and webhooks on Pro+ plans for integrations (Zapier, Make, Shopify, WordPress).",
       },
     },
   ],

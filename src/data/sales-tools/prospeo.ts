@@ -32,12 +32,12 @@ export const prospeoTool: SalesTool = {
   recommended: true,
   rating: { g2: 4.8, g2Reviews: 280 },
   overview: {
-    sr: "Prospeo je alat za B2B kontakt podatke: pronalazi i verifikuje poslovne emailove, mobilne brojeve i firmografske podatke — preko pretrage, CSV/API enrichment-a ili Chrome ekstenzije.",
-    en: "Prospeo is a B2B contact data tool: it finds and verifies business emails, mobile numbers, and firmographics — via search, CSV/API enrichment, or a Chrome extension.",
+    sr: "Prospeo je alat za B2B kontakt podatke: pronalazi i verifikuje poslovne emailove, mobilne brojeve i firmografske podatke, preko pretrage, CSV/API enrichment-a ili Chrome ekstenzije.",
+    en: "Prospeo is a B2B contact data tool: it finds and verifies business emails, mobile numbers, and firmographics, via search, CSV/API enrichment, or a Chrome extension.",
   },
   overviewExtended: {
-    sr: "Krediti se troše po pronađenom emailu (1 kredit) ili mobilu (10 kredita); pretraga i pregled rezultata su besplatni dok ne „otkrijete“ kontakt. Growth i Pro dodaju HubSpot/Salesforce sync, intent filtere i job-change tracking. Nije outreach platforma — koristite ga uz Instantly, Lemlist ili LGM za slanje.",
-    en: "Credits are spent per email found (1 credit) or mobile (10 credits); searching and previewing are free until you reveal a contact. Growth and Pro add HubSpot/Salesforce sync, intent filters, and job-change tracking. It is not an outreach platform — pair it with Instantly, Lemlist, or LGM for sending.",
+    sr: "Krediti se troše po pronađenom emailu (1 kredit) ili mobilu (10 kredita); pretraga i pregled rezultata su besplatni dok ne „otkrijete“ kontakt. Growth i Pro dodaju HubSpot/Salesforce sync, intent filtere i job-change tracking. Nije outreach platforma, koristite ga uz Instantly, Lemlist ili LGM za slanje.",
+    en: "Credits are spent per email found (1 credit) or mobile (10 credits); searching and previewing are free until you reveal a contact. Growth and Pro add HubSpot/Salesforce sync, intent filters, and job-change tracking. It is not an outreach platform, pair it with Instantly, Lemlist, or LGM for sending.",
   },
   idealFor: {
     sr: [
@@ -257,14 +257,14 @@ export const prospeoTool: SalesTool = {
   },
   pros: {
     sr: [
-      "Visoka tačnost emailova — fokus na deliverability",
+      "Visoka tačnost emailova, fokus na deliverability",
       "Besplatan pregled pretrage; plaćate tek pri exportu/reveal",
       "AI Search i lookalikes za brzo građenje TAM liste",
       "Integracije sa Clay, Zapier, Lemlist, Outreach",
       "Free plan bez kartice i bez roka",
     ],
     en: [
-      "High email accuracy — deliverability-focused",
+      "High email accuracy, deliverability-focused",
       "Free to search; pay only on export/reveal",
       "AI Search and lookalikes for fast TAM building",
       "Integrations with Clay, Zapier, Lemlist, Outreach",
@@ -277,14 +277,14 @@ export const prospeoTool: SalesTool = {
       "Mobilni brojevi troše 10× više kredita od emaila",
       "Nije zamena za cold email ili LinkedIn sekvence",
       "Najbolji CRM sync tek od Growth plana",
-      "Godišnji planovi daju kredite unapred — planirajte potrošnju",
+      "Godišnji planovi daju kredite unapred, planirajte potrošnju",
     ],
     en: [
       "Credits do not roll over month to month",
       "Mobile numbers cost 10× more credits than emails",
       "Not a replacement for cold email or LinkedIn sequences",
       "Best CRM sync starts on Growth tier",
-      "Annual plans grant credits upfront — plan usage accordingly",
+      "Annual plans grant credits upfront, plan usage accordingly",
     ],
   },
   alternatives: [
@@ -336,8 +336,8 @@ export const prospeoTool: SalesTool = {
       slug: "hunter",
       name: "Hunter",
       description: {
-        sr: "Email finder po domenu — jednostavniji fokus.",
-        en: "Domain-based email finder — simpler focus.",
+        sr: "Email finder po domenu, jednostavniji fokus.",
+        en: "Domain-based email finder, simpler focus.",
       },
       startingPrice: { sr: "od $34", en: "from $34" },
       trial: { sr: "Besplatan plan", en: "Free plan" },
@@ -355,22 +355,22 @@ export const prospeoTool: SalesTool = {
     {
       question: { sr: "Kako rade krediti?", en: "How do credits work?" },
       answer: {
-        sr: "1 kredit = jedan verifikovan poslovni email pri exportu. Mobilni broj košta 10 kredita. Pretraga i preview su besplatni — plaćate kada otkrijete kontakt.",
-        en: "1 credit = one verified business email on export. A mobile number costs 10 credits. Search and preview are free — you pay when you reveal a contact.",
+        sr: "1 kredit = jedan verifikovan poslovni email pri exportu. Mobilni broj košta 10 kredita. Pretraga i preview su besplatni, plaćate kada otkrijete kontakt.",
+        en: "1 credit = one verified business email on export. A mobile number costs 10 credits. Search and preview are free, you pay when you reveal a contact.",
       },
     },
     {
       question: { sr: "Da li Prospeo ima besplatan plan?", en: "Does Prospeo have a free plan?" },
       answer: {
-        sr: "Da — 100 kredita mesečno, Chrome ekstenzija, AI Search i osnovni filteri, bez kartice i bez vremenskog ograničenja.",
-        en: "Yes — 100 credits per month, Chrome extension, AI Search, and core filters, with no card required and no time limit.",
+        sr: "Da - 100 kredita mesečno, Chrome ekstenzija, AI Search i osnovni filteri, bez kartice i bez vremenskog ograničenja.",
+        en: "Yes - 100 credits per month, Chrome extension, AI Search, and core filters, with no card required and no time limit.",
       },
     },
     {
       question: { sr: "Zašto izabrati Prospeo?", en: "Why choose Prospeo?" },
       answer: {
-        sr: "Kada vam treba čist data layer pre outreach-a — verifikovani emailovi, mobilni brojevi i bogati firmografski podaci — bez mešanja sa slanjem kampanja u istom alatu.",
-        en: "When you need a clean data layer before outreach — verified emails, mobiles, and rich firmographics — without mixing sending campaigns in the same tool.",
+        sr: "Kada vam treba čist data layer pre outreach-a, verifikovani emailovi, mobilni brojevi i bogati firmografski podaci, bez mešanja sa slanjem kampanja u istom alatu.",
+        en: "When you need a clean data layer before outreach, verified emails, mobiles, and rich firmographics, without mixing sending campaigns in the same tool.",
       },
     },
     {
@@ -379,15 +379,15 @@ export const prospeoTool: SalesTool = {
         en: "Does it integrate with outreach tools?",
       },
       answer: {
-        sr: "Da — Clay, Zapier, Lemlist, Outreach, CSV export i API. Growth i Pro dodaju native HubSpot i Salesforce sync.",
-        en: "Yes — Clay, Zapier, Lemlist, Outreach, CSV export, and API. Growth and Pro add native HubSpot and Salesforce sync.",
+        sr: "Da - Clay, Zapier, Lemlist, Outreach, CSV export i API. Growth i Pro dodaju native HubSpot i Salesforce sync.",
+        en: "Yes - Clay, Zapier, Lemlist, Outreach, CSV export, and API. Growth and Pro add native HubSpot and Salesforce sync.",
       },
     },
     {
       question: { sr: "Da li Prospeo ima API?", en: "Does Prospeo have an API?" },
       answer: {
-        sr: "Da — Public API na Starter+ planovima, sa višim rate limitima na Pro. Dostupan je i MCP server za AI workflow-e.",
-        en: "Yes — public API on Starter+ plans, with higher rate limits on Pro. An MCP server is also available for AI workflows.",
+        sr: "Da - Public API na Starter+ planovima, sa višim rate limitima na Pro. Dostupan je i MCP server za AI workflow-e.",
+        en: "Yes, public API on Starter+ plans, with higher rate limits on Pro. An MCP server is also available for AI workflows.",
       },
     },
     {

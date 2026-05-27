@@ -5,8 +5,8 @@ export const hubspotTool: SalesTool = {
   name: "HubSpot",
   logo: "/images/sales-tools/hubspot.png",
   tagline: {
-    sr: "CRM + marketing + sales — jedan stack za ceo GTM funnel",
-    en: "CRM + marketing + sales — one stack for the full GTM funnel",
+    sr: "CRM + marketing + sales, jedan stack za ceo GTM funnel",
+    en: "CRM + marketing + sales, one stack for the full GTM funnel",
   },
   categoryId: "crm",
   category: { sr: "CRM", en: "CRM" },
@@ -32,12 +32,12 @@ export const hubspotTool: SalesTool = {
   recommended: true,
   rating: { g2: 4.4, g2Reviews: 12000 },
   overview: {
-    sr: "HubSpot je platforma koja spaja marketing, prodaju i korisničku podršku: CRM, email kampanje, landing stranice, sekvence i izveštaji — sa jedinstvenim pogledom na kontakt i deal.",
-    en: "HubSpot is a platform that unifies marketing, sales, and customer service: CRM, email campaigns, landing pages, sequences, and reporting — with a single view of every contact and deal.",
+    sr: "HubSpot je platforma koja spaja marketing, prodaju i korisničku podršku: CRM, email kampanje, landing stranice, sekvence i izveštaji, sa jedinstvenim pogledom na kontakt i deal.",
+    en: "HubSpot is a platform that unifies marketing, sales, and customer service: CRM, email campaigns, landing pages, sequences, and reporting, with a single view of every contact and deal.",
   },
   overviewExtended: {
-    sr: "Za GTM timove koji žele „sistem zapisa“ između Clay/Instantly/Lemlist i sales tima. Sales Hub Starter od **$9/seat/mes** (godišnje); Professional **$90/seat** + onboarding $1.500. Besplatan CRM za start. Nije cold email infrastruktura — koristite ga kao centralni CRM + marketing automation, uz Instantly za volume outbound.",
-    en: "For GTM teams that want a system of record between Clay/Instantly/Lemlist and sales. Sales Hub Starter from **$9/seat/mo** (annual); Professional **$90/seat** + $1,500 onboarding. Free CRM to start. Not cold email infrastructure — use it as central CRM + marketing automation, with Instantly for volume outbound.",
+    sr: "Za GTM timove koji žele „sistem zapisa“ između Clay/Instantly/Lemlist i sales tima. Sales Hub Starter od **$9/seat/mes** (godišnje); Professional **$90/seat** + onboarding $1.500. Besplatan CRM za start. Nije cold email infrastruktura, koristite ga kao centralni CRM + marketing automation, uz Instantly za volume outbound.",
+    en: "For GTM teams that want a system of record between Clay/Instantly/Lemlist and sales. Sales Hub Starter from **$9/seat/mo** (annual); Professional **$90/seat** + $1,500 onboarding. Free CRM to start. Not cold email infrastructure, use it as central CRM + marketing automation, with Instantly for volume outbound.",
   },
   idealFor: {
     sr: [
@@ -185,8 +185,8 @@ export const hubspotTool: SalesTool = {
         name: { sr: "Sales Hub Enterprise", en: "Sales Hub Enterprise" },
         price: { sr: "$150 / seat / mes", en: "$150 / seat / mo" },
         billingNote: {
-          sr: "Onboarding $3.500 · min ~5–10 seat-ova",
-          en: "Onboarding $3,500 · ~5–10 seat min",
+          sr: "Onboarding $3.500 · min ~5-10 seat-ova",
+          en: "Onboarding $3,500 · ~5-10 seat min",
         },
         highlights: {
           sr: [
@@ -274,15 +274,15 @@ export const hubspotTool: SalesTool = {
   },
   pros: {
     sr: [
-      "Ekosistem — sve na jednom mestu",
-      "Standard u B2B — lako naći integracije",
+      "Ekosistem, sve na jednom mestu",
+      "Standard u B2B, lako naći integracije",
       "Free tier za validaciju procesa",
       "Odličan za inbound + sales handoff",
       "Ogromna baza edukacije i partnera",
     ],
     en: [
-      "Ecosystem — much in one place",
-      "B2B standard — easy integrations",
+      "Ecosystem, much in one place",
+      "B2B standard, easy integrations",
       "Free tier to validate process",
       "Great for inbound + sales handoff",
       "Huge education and partner network",
@@ -293,14 +293,14 @@ export const hubspotTool: SalesTool = {
       "Cena raste brzo na Pro/Enterprise",
       "Onboarding fee na višim tier-ima",
       "Nije optimizovan za cold email volume",
-      "Kompleksnost — lako preopteretiti tim",
+      "Kompleksnost, lako preopteretiti tim",
       "Marketing Hub posebna naplata",
     ],
     en: [
       "Cost ramps fast on Pro/Enterprise",
       "Onboarding fees on higher tiers",
       "Not optimized for cold email volume",
-      "Complexity — easy to overwhelm the team",
+      "Complexity, easy to overwhelm the team",
       "Marketing Hub billed separately",
     ],
   },
@@ -309,8 +309,8 @@ export const hubspotTool: SalesTool = {
       slug: "attio",
       name: "Attio",
       description: {
-        sr: "AI-native CRM — fleksibilniji data model.",
-        en: "AI-native CRM — more flexible data model.",
+        sr: "AI-native CRM, fleksibilniji data model.",
+        en: "AI-native CRM, more flexible data model.",
       },
       startingPrice: { sr: "od $36", en: "from $36" },
       trial: { sr: "14 dana", en: "14 days" },
@@ -320,8 +320,8 @@ export const hubspotTool: SalesTool = {
       slug: "nocrm",
       name: "noCRM",
       description: {
-        sr: "Sales-first CRM — manje admina.",
-        en: "Sales-first CRM — less admin overhead.",
+        sr: "Sales-first CRM, manje admina.",
+        en: "Sales-first CRM, less admin overhead.",
       },
       startingPrice: { sr: "od €11", en: "from €11" },
       trial: { sr: "15 dana", en: "15 days" },
@@ -331,8 +331,8 @@ export const hubspotTool: SalesTool = {
       slug: "instantly",
       name: "Instantly",
       description: {
-        sr: "Cold email — često pored HubSpot-a.",
-        en: "Cold email — often alongside HubSpot.",
+        sr: "Cold email, često pored HubSpot-a.",
+        en: "Cold email, often alongside HubSpot.",
       },
       startingPrice: { sr: "od $37", en: "from $37" },
       trial: { sr: "14 dana", en: "14 days" },
@@ -371,8 +371,8 @@ export const hubspotTool: SalesTool = {
     {
       question: { sr: "Zašto izabrati HubSpot?", en: "Why choose HubSpot?" },
       answer: {
-        sr: "Kada vam treba jedan centralni sistem za marketing, sales i reporting — posebno ako imate inbound kanale i želite da RevOps vidi ceo funnel.",
-        en: "When you need one central system for marketing, sales, and reporting — especially with inbound channels and RevOps visibility across the funnel.",
+        sr: "Kada vam treba jedan centralni sistem za marketing, sales i reporting, posebno ako imate inbound kanale i želite da RevOps vidi ceo funnel.",
+        en: "When you need one central system for marketing, sales, and reporting, especially with inbound channels and RevOps visibility across the funnel.",
       },
     },
     {
@@ -388,8 +388,8 @@ export const hubspotTool: SalesTool = {
     {
       question: { sr: "Da li ima API?", en: "Does it have an API?" },
       answer: {
-        sr: "Da — robustan API i marketplace integracija (Clay, Zapier, n8n). Limiti rastu sa tier-om.",
-        en: "Yes — robust API and marketplace integrations (Clay, Zapier, n8n). Limits increase with tier.",
+        sr: "Da, robustan API i marketplace integracija (Clay, Zapier, n8n). Limiti rastu sa tier-om.",
+        en: "Yes, robust API and marketplace integrations (Clay, Zapier, n8n). Limits increase with tier.",
       },
     },
   ],

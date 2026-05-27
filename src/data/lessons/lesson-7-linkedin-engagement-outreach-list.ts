@@ -32,7 +32,7 @@ const video3 = {
 };
 
 const video4 = {
-  title: L("How to Steal Your Competitor's LinkedIn Engagement — Clay Tutorial", "How to Steal Your Competitor's LinkedIn Engagement — Clay Tutorial"),
+  title: L("How to Steal Your Competitor's LinkedIn Engagement - Clay Tutorial", "How to Steal Your Competitor's LinkedIn Engagement - Clay Tutorial"),
   channel: L("YouTube", "YouTube"),
   description: L("Relevantno za hvatanje, enrichment i outreach iz LinkedIn engagement podataka.", "Relevant for capturing, enriching, and turning LinkedIn engagement data into outreach."),
   placementNote: L("Pogledaj posle capture/enrich koraka ili u video sekciji.", "Watch after capture/enrich steps or in the videos section."),
@@ -52,7 +52,7 @@ const video5 = {
 export const lesson7RichContent: RichLessonContent = {
   meta: {
     stage: L("Outreach Engine", "Outreach Engine"),
-    readingTime: L("18–22 min", "18–22 min"),
+    readingTime: L("18-22 min", "18-22 min"),
     difficulty: L("Srednji nivo", "Intermediate"),
     outcome: L(
       "Naučićeš kako povezati ICP preko outreach-a i content-a, pratiti signale, re-engagovati u pravom trenutku i voditi value-based follow-up sistem dok lead nije spreman za razgovor.",
@@ -156,8 +156,8 @@ export const lesson7RichContent: RichLessonContent = {
           type: "illustration",
           src: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1400&q=80",
           alt: L(
-            "Analiza podataka i liste — engagement kao signal, ne cilj",
-            "Data analysis and lists — engagement as signal, not the goal",
+            "Analiza podataka i liste, engagement kao signal, ne cilj",
+            "Data analysis and lists, engagement as signal, not the goal",
           ),
           caption: L(
             "Lajk nije lead. Ali lajk od pravog ICP kupca na pravoj temi? To vredi capture-ovati.",
@@ -169,8 +169,8 @@ export const lesson7RichContent: RichLessonContent = {
           type: "pipeline-flow",
           title: L("Engagement u Founder-Led Growth sistemu", "Engagement in the Founder-Led Growth system"),
           subtitle: L(
-            "Founder stvara pažnju — sistem pretvara signal u kvalifikovanu listu i toplu poruku.",
-            "The founder creates attention — the system turns signal into a qualified list and warm message.",
+            "Founder stvara pažnju, sistem pretvara signal u kvalifikovanu listu i toplu poruku.",
+            "The founder creates attention, the system turns signal into a qualified list and warm message.",
           ),
           stages: [
             L("Post", "Post"),
@@ -196,7 +196,7 @@ export const lesson7RichContent: RichLessonContent = {
               "Founder-Led Growth radi jer founder stvara kontekst pre outreach-a. Ali kontekst pomaže samo ako ga koristiš.",
               "Ako neko angažuje tvoj content o specifičnom problemu, to ti daje razlog da nastaviš razgovor.",
               "LinkedIn social selling smernice definišu social selling kao korišćenje društvenih mreža za povezivanje i gradnju odnosa sa prospect-ima. Social Selling Index uključuje pronalaženje pravih ljudi, engagement sa uvidima i gradnju odnosa.",
-              "LinkedIn takođe preporučuje prioritet toplih leadova u outreach-u — posebno ljudi koji su već interagovali sa postovima ili posetili profil — i personalizaciju poruka referenciranjem nečeg specifičnog o primaocu.",
+              "LinkedIn takođe preporučuje prioritet toplih leadova u outreach-u, posebno ljudi koji su već interagovali sa postovima ili posetili profil, i personalizaciju poruka referenciranjem nečeg specifičnog o primaocu.",
               "To je srž ove lekcije. Ne tretiraj engagement kao vanity. Tretiraj ga kao relationship data.",
               "Ali budi oprezan. Ne svaki engagement je lead. Neki ljudi lajkuju sve. Neki komentari su od peer-ova. Neki followeri nisu kupci. Neki profile view-ovi su irelevantni. Neki content privlači pogrešnu publiku.",
               "Cilj nije najveća outreach lista. Cilj je najrelevantnija.",
@@ -219,24 +219,24 @@ export const lesson7RichContent: RichLessonContent = {
               value: L("3", "3"),
               label: L("Filtera", "Filters"),
               description: L(
-                "Fit · Intent · Context — pre nego što pošalješ outreach.",
-                "Fit · Intent · Context — before you send outreach.",
+                "Fit · Intent · Context, pre nego što pošalješ outreach.",
+                "Fit · Intent · Context, before you send outreach.",
               ),
             },
             {
-              value: L("24–48h", "24–48h"),
+              value: L("24-48h", "24-48h"),
               label: L("Capture prozor", "Capture window"),
               description: L(
-                "Review engagement svakih 24–48h — signali brzo gube vrednost.",
-                "Review engagement every 24–48h — signals lose value quickly.",
+                "Review engagement svakih 24-48h, signali brzo gube vrednost.",
+                "Review engagement every 24-48h, signals lose value quickly.",
               ),
             },
             {
               value: L("21", "21"),
               label: L("Od 172", "From 172"),
               description: L(
-                "Primer: 172 engagement-a → ~21 ICP fit — kvalifikacija je ključ.",
-                "Example: 172 engagements → ~21 ICP fit — qualification is the key.",
+                "Primer: 172 engagement-a → ~21 ICP fit, kvalifikacija je ključ.",
+                "Example: 172 engagements → ~21 ICP fit, qualification is the key.",
               ),
             },
           ],
@@ -245,8 +245,8 @@ export const lesson7RichContent: RichLessonContent = {
           type: "pipeline-flow",
           title: L("Od vanity engagement-a do buying signala", "From vanity engagement to buying signal"),
           subtitle: L(
-            "Ne svaki lajk zaslužuje poruku — signal strength određuje akciju.",
-            "Not every like deserves a message — signal strength determines action.",
+            "Ne svaki lajk zaslužuje poruku, signal strength određuje akciju.",
+            "Not every like deserves a message, signal strength determines action.",
           ),
           stages: [
             L("Lajk", "Like"),
@@ -278,14 +278,14 @@ export const lesson7RichContent: RichLessonContent = {
         {
           type: "bullets",
           items: P(
-            ["Fit — da li je osoba ili account blizu tvog ICP-a?", "Intent — da li su pokazali smislen interes ili samo lagani engagement?", "Context — da li tvoj outreach može da referencira nešto stvarno i korisno?"],
-            ["Fit — Is this person or account close to your ICP?", "Intent — Did they show meaningful interest, or just light engagement?", "Context — Can your outreach reference something real and useful?"],
+            ["Fit, da li je osoba ili account blizu tvog ICP-a?", "Intent, da li su pokazali smislen interes ili samo lagani engagement?", "Context, da li tvoj outreach može da referencira nešto stvarno i korisno?"],
+            ["Fit - Is this person or account close to your ICP?", "Intent - Did they show meaningful interest, or just light engagement?", "Context - Can your outreach reference something real and useful?"],
           ),
         },
         {
           type: "paragraphs",
           paragraphs: P(
-            ["Ako je odgovor ne — ne šalji outreach još. Ako je odgovor da — poruka može da deluje toplo."],
+            ["Ako je odgovor ne, ne šalji outreach još. Ako je odgovor da, poruka može da deluje toplo."],
             ["If the answer is no, do not send outreach yet. If the answer is yes, the message can feel warm."],
           ),
         },
@@ -301,8 +301,8 @@ export const lesson7RichContent: RichLessonContent = {
           type: "zone-cards",
           title: L("3 filtera pre outreach-a", "3 filters before outreach"),
           subtitle: L(
-            "Sva tri moraju biti „da“ — inače čekaš ili nurture-uješ, ne pitch-uješ.",
-            "All three must be \"yes\" — otherwise wait or nurture, do not pitch.",
+            "Sva tri moraju biti „da“, inače čekaš ili nurture-uješ, ne pitch-uješ.",
+            "All three must be \"yes\", otherwise wait or nurture, do not pitch.",
           ),
           cards: [
             {
@@ -339,8 +339,8 @@ export const lesson7RichContent: RichLessonContent = {
           type: "illustration",
           src: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1400&q=80",
           alt: L(
-            "Dashboard i metrike — razlikuj vanity od buying signala",
-            "Dashboard and metrics — separate vanity from buying signals",
+            "Dashboard i metrike, razlikuj vanity od buying signala",
+            "Dashboard and metrics, separate vanity from buying signals",
           ),
           caption: L(
             "Isti engagement tip ne znači isti intent. Signal map određuje šta uraditi.",
@@ -523,7 +523,7 @@ export const lesson7RichContent: RichLessonContent = {
               ),
               example: L("Touch 2: mini case study. Touch 3: pitanje o njihovom motion-u.", "Touch 2: mini case study. Touch 3: question about their motion."),
               commonMistake: L("„Samo da proverim“ svake 3 dana.", "\"Just checking in\" every 3 days."),
-              tryThis: L("3–5 touchpoint-a iz ICP dokumenta, pauza 5–7 dana.", "3–5 touchpoints from ICP document, 5–7 day gaps."),
+              tryThis: L("3-5 touchpoint-a iz ICP dokumenta, pauza 5-7 dana.", "3-5 touchpoints from ICP document, 5-7 day gaps."),
               highlight: L("Vrednost, ne dosada.", "Value, not annoyance."),
             },
           ],
@@ -590,8 +590,8 @@ export const lesson7RichContent: RichLessonContent = {
           type: "illustration",
           src: "https://images.unsplash.com/photo-1556761175-4b46a572b786?auto=format&fit=crop&w=1400&q=80",
           alt: L(
-            "Tim planira outreach — od capture-a do personalizovane sekvence",
-            "Team planning outreach — from capture to personalized sequence",
+            "Tim planira outreach, od capture-a do personalizovane sekvence",
+            "Team planning outreach, from capture to personalized sequence",
           ),
           caption: L(
             "Sales Navigator + Sheets/Airtable drže listu. Findymail omogućava email follow-up.",
@@ -614,8 +614,8 @@ export const lesson7RichContent: RichLessonContent = {
           type: "pipeline-flow",
           title: L("Engagement-to-Outreach Framework", "Engagement-to-Outreach Framework"),
           subtitle: L(
-            "Preskoči kvalifikaciju — i topao engagement postane spam.",
-            "Skip qualification — and warm engagement becomes spam.",
+            "Preskoči kvalifikaciju, i topao engagement postane spam.",
+            "Skip qualification, and warm engagement becomes spam.",
           ),
           stages: [
             L("Capture", "Capture"),
@@ -669,8 +669,8 @@ export const lesson7RichContent: RichLessonContent = {
                 "Engagement does not equal relevance.",
               ),
               example: L(
-                "Score 172 engagement-a — samo 21 odgovara ICP-u.",
-                "Score 172 engagements — only 21 match the ICP.",
+                "Score 172 engagement-a, samo 21 odgovara ICP-u.",
+                "Score 172 engagements, only 21 match the ICP.",
               ),
               commonMistake: L(
                 "Dozvoliti uzbuđenje od engagement-a da nadjača fit.",
@@ -701,8 +701,8 @@ export const lesson7RichContent: RichLessonContent = {
                 "Clay enriches profile, company, email, and hiring signals.",
               ),
               commonMistake: L(
-                "Enrichment pre kvalifikacije — troši kredite i pravi naduvane liste.",
-                "Enriching before qualifying — wastes credits and creates bloated lists.",
+                "Enrichment pre kvalifikacije, troši kredite i pravi naduvane liste.",
+                "Enriching before qualifying, wastes credits and creates bloated lists.",
               ),
               tryThis: L(
                 "Obogati samo kontakte koji prolaze minimum ICP score.",
@@ -765,7 +765,7 @@ export const lesson7RichContent: RichLessonContent = {
                 "Make the first message resource-first, not meeting-first.",
               ),
               highlight: L(
-                "Prvi DM otvara vrata — ne forsira prodaju.",
+                "Prvi DM otvara vrata, ne forsira prodaju.",
                 "The first DM should open the door, not force the sale.",
               ),
             },
@@ -789,8 +789,8 @@ export const lesson7RichContent: RichLessonContent = {
                 "Turning one LinkedIn like into a 7-email cold sequence.",
               ),
               tryThis: L(
-                "Za topli engagement: kratka 2–3 touch sekvenca.",
-                "For warm engagement, start with a short 2–3 touch sequence.",
+                "Za topli engagement: kratka 2-3 touch sekvenca.",
+                "For warm engagement, start with a short 2-3 touch sequence.",
               ),
               highlight: L(
                 "Sekvenca treba da bude kratka, kontekstualna i poštovana.",
@@ -891,7 +891,7 @@ export const lesson7RichContent: RichLessonContent = {
         },
         {
           type: "pipeline-flow",
-          title: L("Funnel kvalifikacije — primer iz terena", "Qualification funnel — field example"),
+          title: L("Funnel kvalifikacije, primer iz terena", "Qualification funnel, field example"),
           subtitle: L(
             "Brojevi pokazuju zašto capture bez qualify stvara spam.",
             "The numbers show why capture without qualify creates spam.",
@@ -947,8 +947,8 @@ export const lesson7RichContent: RichLessonContent = {
                 "Your warmest list is often hidden in visible engagement.",
               ),
               example: L(
-                "Ručno: review svakih 24–48h. Semi-auto: Sales Navigator liste. Auto: Clay, Trigify workflow-i.",
-                "Manual: review every 24–48 hours. Semi-auto: Sales Navigator lists. Auto: Clay, Trigify workflows.",
+                "Ručno: review svakih 24-48h. Semi-auto: Sales Navigator liste. Auto: Clay, Trigify workflow-i.",
+                "Manual: review every 24-48 hours. Semi-auto: Sales Navigator lists. Auto: Clay, Trigify workflows.",
               ),
               commonMistake: L(
                 "Export svih umesto filtriranja za ICP.",
@@ -959,8 +959,8 @@ export const lesson7RichContent: RichLessonContent = {
                 "Start manual for two weeks. Only automate after you know which signals actually matter.",
               ),
               highlight: L(
-                "Capture je prvi korak — ali ne znači da svako ide na listu.",
-                "Capture is the first step — but not everyone goes on the list.",
+                "Capture je prvi korak, ali ne znači da svako ide na listu.",
+                "Capture is the first step, but not everyone goes on the list.",
               ),
             },
             {
@@ -1031,15 +1031,15 @@ export const lesson7RichContent: RichLessonContent = {
             ["Score", "Meaning", "Action"],
           ),
           rows: [
-            { cells: [L("80–100", "80–100"), L("Visokoprioritetni topli lead", "High-priority warm lead"), L("Dodaj u CRM i pošalji kontekstualni outreach", "Add to CRM and send contextual outreach")] },
-            { cells: [L("60–79", "60–79"), L("Dobar fit", "Good fit"), L("Angažuj više i nurture-uj", "Engage more and nurture")] },
-            { cells: [L("40–59", "40–59"), L("Slab fit", "Weak fit"), L("Samo prati", "Monitor only")] },
+            { cells: [L("80-100", "80-100"), L("Visokoprioritetni topli lead", "High-priority warm lead"), L("Dodaj u CRM i pošalji kontekstualni outreach", "Add to CRM and send contextual outreach")] },
+            { cells: [L("60-79", "60-79"), L("Dobar fit", "Good fit"), L("Angažuj više i nurture-uj", "Engage more and nurture")] },
+            { cells: [L("40-59", "40-59"), L("Slab fit", "Weak fit"), L("Samo prati", "Monitor only")] },
             { cells: [L("Ispod 40", "Under 40"), L("Nerelevantno", "Not relevant"), L("Ignoriši", "Ignore")] },
           ],
         },
         {
           type: "zone-cards",
-          title: L("Signal map — šta uraditi po jačini", "Signal map — what to do by strength"),
+          title: L("Signal map, šta uraditi po jačini", "Signal map, what to do by strength"),
           subtitle: L(
             "Jači signal = brža akcija. Slabiji = prati, ne pitch-uj.",
             "Stronger signal = faster action. Weaker = monitor, do not pitch.",
@@ -1049,13 +1049,13 @@ export const lesson7RichContent: RichLessonContent = {
               zone: L("Lagani signal", "Light signal"),
               eyebrow: L("Monitor", "Monitor"),
               job: L("Prati bez outreach pitch-a.", "Monitor without outreach pitch."),
-              doThis: L("Lajk, profile view, follower van prioriteta — angažuj nazad u komentarima.", "Like, profile view, lower-priority follower — engage back in comments."),
+              doThis: L("Lajk, profile view, follower van prioriteta, angažuj nazad u komentarima.", "Like, profile view, lower-priority follower, engage back in comments."),
               avoid: L("Cold DM posle jednog lajka.", "Cold DM after one like."),
             },
             {
               zone: L("Srednji signal", "Medium signal"),
               eyebrow: L("Topla lista", "Warm list"),
-              job: L("Dodaj na listu — soft resource ili nurture.", "Add to list — soft resource or nurture."),
+              job: L("Dodaj na listu, soft resource ili nurture.", "Add to list, soft resource or nurture."),
               doThis: L("Komentar, ponovljeni lajk, webinar registracija.", "Comment, repeat like, webinar registration."),
               avoid: L("Hard pitch u prvoj poruci.", "Hard pitch in the first message."),
             },
@@ -1087,8 +1087,8 @@ export const lesson7RichContent: RichLessonContent = {
                 "Clay combines data providers, enrichment, intent signals, and CRM data.",
               ),
               commonMistake: L(
-                "Enrichment pre kvalifikacije — troši kredite i pravi naduvane liste.",
-                "Enriching before qualifying — wastes credits and creates bloated lists.",
+                "Enrichment pre kvalifikacije, troši kredite i pravi naduvane liste.",
+                "Enriching before qualifying, wastes credits and creates bloated lists.",
               ),
               tryThis: L(
                 "Obogati samo kontakte koji prolaze minimum ICP score.",
@@ -1135,12 +1135,12 @@ export const lesson7RichContent: RichLessonContent = {
                 "Use the engagement context as the opening: reference interaction → problem → useful asset or question → small ask.",
               ),
               whyItMatters: L(
-                "Prvi DM otvara vrata — ne forsira prodaju.",
+                "Prvi DM otvara vrata, ne forsira prodaju.",
                 "The first DM should open the door, not force the sale.",
               ),
               example: L(
-                "„Hej [Ime] — video sam tvoj komentar na post o founder-led outreach-u. Imamo kratak checklist za pretvaranje engagement-a u listu. Da pošaljem?“",
-                "\"Hey [Name] — saw your comment on the post about founder-led outreach. We built a short checklist for turning LinkedIn engagement into a qualified outreach list. Want me to send it?\"",
+                "„Hej [Ime], video sam tvoj komentar na post o founder-led outreach-u. Imamo kratak checklist za pretvaranje engagement-a u listu. Da pošaljem?“",
+                "\"Hey [Name], saw your comment on the post about founder-led outreach. We built a short checklist for turning LinkedIn engagement into a qualified outreach list. Want me to send it?\"",
               ),
               commonMistake: L(
                 "„Hvala na lajku. Hoćeš call?“ umesto resource-first pristupa.",
@@ -1151,8 +1151,8 @@ export const lesson7RichContent: RichLessonContent = {
                 "Make the first message resource-first, not meeting-first.",
               ),
               highlight: L(
-                "Topli DM nastavlja razgovor — ne prekida ga pitch-om.",
-                "A warm DM continues the conversation — it does not interrupt it with a pitch.",
+                "Topli DM nastavlja razgovor, ne prekida ga pitch-om.",
+                "A warm DM continues the conversation, it does not interrupt it with a pitch.",
               ),
             },
             {
@@ -1175,12 +1175,12 @@ export const lesson7RichContent: RichLessonContent = {
                 "Turning one LinkedIn like into a 7-email cold sequence.",
               ),
               tryThis: L(
-                "Za topli engagement: kratka 2–3 touch sekvenca.",
-                "For warm engagement, start with a short 2–3 touch sequence.",
+                "Za topli engagement: kratka 2-3 touch sekvenca.",
+                "For warm engagement, start with a short 2-3 touch sequence.",
               ),
               highlight: L(
-                "Email podržava LinkedIn — ne zamenjuje kontekst.",
-                "Email supports LinkedIn — it does not replace context.",
+                "Email podržava LinkedIn, ne zamenjuje kontekst.",
+                "Email supports LinkedIn, it does not replace context.",
               ),
             },
             {
@@ -1241,8 +1241,8 @@ export const lesson7RichContent: RichLessonContent = {
               cells: [
                 L("Komentar-based DM", "Comment-based DM"),
                 L(
-                  "„Hej [Ime] — video sam tvoj komentar na post o founder-led outreach-u. Deo oko timing-a je tačno gde mnogi B2B timovi zapinju. Imamo kratak checklist za pretvaranje engagement-a u listu. Da pošaljem?“",
-                  "\"Hey [Name] — saw your comment on the post about founder-led outreach. The part you mentioned around timing is exactly where a lot of B2B teams get stuck. We built a short checklist for turning LinkedIn engagement into a qualified outreach list. Want me to send it?\"",
+                  "„Hej [Ime], video sam tvoj komentar na post o founder-led outreach-u. Deo oko timing-a je tačno gde mnogi B2B timovi zapinju. Imamo kratak checklist za pretvaranje engagement-a u listu. Da pošaljem?“",
+                  "\"Hey [Name], saw your comment on the post about founder-led outreach. The part you mentioned around timing is exactly where a lot of B2B teams get stuck. We built a short checklist for turning LinkedIn engagement into a qualified outreach list. Want me to send it?\"",
                 ),
               ],
             },
@@ -1250,8 +1250,8 @@ export const lesson7RichContent: RichLessonContent = {
               cells: [
                 L("Lajk-based DM", "Like-based DM"),
                 L(
-                  "„Hej [Ime] — primetio sam da si angažovao post o pretvaranju LinkedIn engagement-a u pipeline. Vidimo da founder-led timovi propuštaju handoff između content-a i sales-a. Imam jednostavan signal scoring template ako ti je korisno.“",
-                  "\"Hey [Name] — noticed you engaged with the post about turning LinkedIn engagement into pipeline. We see a lot of founder-led teams miss the handoff between content and sales. I have a simple signal scoring template if useful.\"",
+                  "„Hej [Ime], primetio sam da si angažovao post o pretvaranju LinkedIn engagement-a u pipeline. Vidimo da founder-led timovi propuštaju handoff između content-a i sales-a. Imam jednostavan signal scoring template ako ti je korisno.“",
+                  "\"Hey [Name], noticed you engaged with the post about turning LinkedIn engagement into pipeline. We see a lot of founder-led teams miss the handoff between content and sales. I have a simple signal scoring template if useful.\"",
                 ),
               ],
             },
@@ -1259,8 +1259,8 @@ export const lesson7RichContent: RichLessonContent = {
               cells: [
                 L("Webinar-based DM", "Webinar-based DM"),
                 L(
-                  "„Hej [Ime] — hvala što si bio/la na sesiji o Founder-Led Growth-u. Glasao/la si za outreach/list-building kao najveći bottleneck. Mogu da pošaljem tačan engagement-to-outreach workflow koji koristimo ako želiš.“",
-                  "\"Hey [Name] — thanks for joining the session on Founder-Led Growth. You voted for outreach/list-building as the biggest bottleneck. I can send the exact engagement-to-outreach workflow we use if you want it.\"",
+                  "„Hej [Ime], hvala što si bio/la na sesiji o Founder-Led Growth-u. Glasao/la si za outreach/list-building kao najveći bottleneck. Mogu da pošaljem tačan engagement-to-outreach workflow koji koristimo ako želiš.“",
+                  "\"Hey [Name], thanks for joining the session on Founder-Led Growth. You voted for outreach/list-building as the biggest bottleneck. I can send the exact engagement-to-outreach workflow we use if you want it.\"",
                 ),
               ],
             },
@@ -1345,7 +1345,7 @@ export const lesson7RichContent: RichLessonContent = {
             {
               title: L("Topli leadovi treba da budu prioritet", "Warm leads should be prioritized"),
               body: L(
-                "LinkedIn outreach strategy resurs preporučuje prioritet toplih leadova — ljudi koji su interagovali sa postovima ili posetili profil — i personalizaciju svake poruke sa specifičnim kontekstom.",
+                "LinkedIn outreach strategy resurs preporučuje prioritet toplih leadova, ljudi koji su interagovali sa postovima ili posetili profil, i personalizaciju svake poruke sa specifičnim kontekstom.",
                 "LinkedIn's outreach strategy resource recommends prioritizing warm leads such as people who have interacted with posts or visited your profile, and personalizing every message with specific context.",
               ),
               sourceLabel: L("LinkedIn Outreach Strategies", "LinkedIn Outreach Strategies"),
@@ -1451,10 +1451,10 @@ export const lesson7RichContent: RichLessonContent = {
           caption: L("Nedeljni output target", "Weekly output target"),
           headers: H(["Input", "Output"], ["Input", "Output"]),
           rows: [
-            { cells: [L("100–300 sirovih engagement-a", "100–300 raw engagements"), L("20–50 pregledanih kontakata", "20–50 reviewed contacts")] },
-            { cells: [L("20–50 pregledanih kontakata", "20–50 reviewed contacts"), L("10–25 kvalifikovanih kontakata", "10–25 qualified contacts")] },
-            { cells: [L("10–25 kvalifikovanih kontakata", "10–25 qualified contacts"), L("5–15 kontekstualnih outreach poruka", "5–15 contextual outreach messages")] },
-            { cells: [L("5–15 poruka", "5–15 messages"), L("2–5 razgovora", "2–5 conversations")] },
+            { cells: [L("100-300 sirovih engagement-a", "100-300 raw engagements"), L("20-50 pregledanih kontakata", "20-50 reviewed contacts")] },
+            { cells: [L("20-50 pregledanih kontakata", "20-50 reviewed contacts"), L("10-25 kvalifikovanih kontakata", "10-25 qualified contacts")] },
+            { cells: [L("10-25 kvalifikovanih kontakata", "10-25 qualified contacts"), L("5-15 kontekstualnih outreach poruka", "5-15 contextual outreach messages")] },
+            { cells: [L("5-15 poruka", "5-15 messages"), L("2-5 razgovora", "2-5 conversations")] },
           ],
         },
         {
@@ -1492,8 +1492,8 @@ export const lesson7RichContent: RichLessonContent = {
               cells: [
                 L("LinkedIn profil", "LinkedIn profile"),
                 L(
-                  "„Hej [Ime] — primetio sam da si angažovao post o founder profilima. Profili dobijaju view-ove, ali ne objašnjavaju ponudu dovoljno jasno. Imam kratak founder profile checklist ako ti je korisno.“",
-                  "\"Hey [Name] — noticed you engaged with the post about founder profiles. Profiles are getting views, but they do not explain the offer clearly enough to create replies. I have a quick founder profile checklist if useful.\"",
+                  "„Hej [Ime], primetio sam da si angažovao post o founder profilima. Profili dobijaju view-ove, ali ne objašnjavaju ponudu dovoljno jasno. Imam kratak founder profile checklist ako ti je korisno.“",
+                  "\"Hey [Name], noticed you engaged with the post about founder profiles. Profiles are getting views, but they do not explain the offer clearly enough to create replies. I have a quick founder profile checklist if useful.\"",
                 ),
               ],
             },
@@ -1501,8 +1501,8 @@ export const lesson7RichContent: RichLessonContent = {
               cells: [
                 L("Content strategija", "Content strategy"),
                 L(
-                  "„Hej [Ime] — video sam da si angažovao content strategy post. Mnogi founder-i postuju konzistentno ali ne stvaraju pipeline jer content nije vezan za ICP bol. Mogu da pošaljem content pillar template ako ti je korisno.“",
-                  "\"Hey [Name] — saw you engaged with the content strategy post. A lot of founders post consistently but still do not create pipeline because the content is not tied to ICP pain. I can send the content pillar template if helpful.\"",
+                  "„Hej [Ime], video sam da si angažovao content strategy post. Mnogi founder-i postuju konzistentno ali ne stvaraju pipeline jer content nije vezan za ICP bol. Mogu da pošaljem content pillar template ako ti je korisno.“",
+                  "\"Hey [Name], saw you engaged with the content strategy post. A lot of founders post consistently but still do not create pipeline because the content is not tied to ICP pain. I can send the content pillar template if helpful.\"",
                 ),
               ],
             },
@@ -1510,8 +1510,8 @@ export const lesson7RichContent: RichLessonContent = {
               cells: [
                 L("Outreach", "Outreach"),
                 L(
-                  "„Hej [Ime] — primetio sam da si angažovao post o toplom outreach-u. Glavni problem: timovi tretiraju engagement kao vanity umesto da ga pretvore u kvalifikovanu listu. Imam jednostavan engagement scoring template ako ti je korisno.“",
-                  "\"Hey [Name] — noticed you engaged with the post about warm outreach. The main issue we see is that teams treat engagement as vanity instead of turning it into a qualified list. I have a simple engagement scoring template if useful.\"",
+                  "„Hej [Ime], primetio sam da si angažovao post o toplom outreach-u. Glavni problem: timovi tretiraju engagement kao vanity umesto da ga pretvore u kvalifikovanu listu. Imam jednostavan engagement scoring template ako ti je korisno.“",
+                  "\"Hey [Name], noticed you engaged with the post about warm outreach. The main issue we see is that teams treat engagement as vanity instead of turning it into a qualified list. I have a simple engagement scoring template if useful.\"",
                 ),
               ],
             },
@@ -1519,8 +1519,8 @@ export const lesson7RichContent: RichLessonContent = {
               cells: [
                 L("CRM", "CRM"),
                 L(
-                  "„Hej [Ime] — video sam da si angažovao CRM tracking post. Ovde founder-led pipeline obično nestaje — signal postoji, ali nema next action. Mogu da pošaljem CRM field setup ako ti je korisno.“",
-                  "\"Hey [Name] — saw you engaged with the CRM tracking post. This is usually where founder-led pipeline gets lost: the signal exists, but no next action is created. I can send the CRM field setup if useful.\"",
+                  "„Hej [Ime], video sam da si angažovao CRM tracking post. Ovde founder-led pipeline obično nestaje, signal postoji, ali nema next action. Mogu da pošaljem CRM field setup ako ti je korisno.“",
+                  "\"Hey [Name], saw you engaged with the CRM tracking post. This is usually where founder-led pipeline gets lost: the signal exists, but no next action is created. I can send the CRM field setup if useful.\"",
                 ),
               ],
             },
@@ -1631,8 +1631,8 @@ export const lesson7RichContent: RichLessonContent = {
                 "Staging list for capture, ICP scoring, segmentation, and next actions",
               ),
               whyItFits: L(
-                "Brz start — idealno za nedeljni engagement review pre CRM-a.",
-                "Fast start — ideal for weekly engagement review before CRM.",
+                "Brz start, idealno za nedeljni engagement review pre CRM-a.",
+                "Fast start, ideal for weekly engagement review before CRM.",
               ),
               alternative: L("Airtable, Notion", "Airtable, Notion"),
             },
@@ -1644,8 +1644,8 @@ export const lesson7RichContent: RichLessonContent = {
                 "Structured base for signals, segments, enrichment status, and outreach tasks",
               ),
               whyItFits: L(
-                "Views i filteri po signal strength — lakše od flat spreadsheet-a na većim listama.",
-                "Views and filters by signal strength — easier than flat spreadsheets at scale.",
+                "Views i filteri po signal strength, lakše od flat spreadsheet-a na većim listama.",
+                "Views and filters by signal strength, easier than flat spreadsheets at scale.",
               ),
               alternative: L("Google Sheets, Notion", "Google Sheets, Notion"),
             },
@@ -1683,8 +1683,8 @@ export const lesson7RichContent: RichLessonContent = {
                 "Find and verify business email addresses for multichannel follow-up",
               ),
               whyItFits: L(
-                "Kad je LinkedIn DM otvorio vrata — email nastavlja razgovor sa istim kontekstom.",
-                "When LinkedIn DM opens the door — email continues the conversation with the same context.",
+                "Kad je LinkedIn DM otvorio vrata, email nastavlja razgovor sa istim kontekstom.",
+                "When LinkedIn DM opens the door, email continues the conversation with the same context.",
               ),
               alternative: L("Dropcontact, Apollo, Hunter, Prospeo", "Dropcontact, Apollo, Hunter, Prospeo"),
             },
@@ -1765,8 +1765,8 @@ export const lesson7RichContent: RichLessonContent = {
           type: "illustration",
           src: "https://images.unsplash.com/photo-1551836022-d5d88e1238ae?auto=format&fit=crop&w=1400&q=80",
           alt: L(
-            "Sastanak i planiranje — nedeljni engagement-to-outreach ritual",
-            "Meeting and planning — weekly engagement-to-outreach ritual",
+            "Sastanak i planiranje, nedeljni engagement-to-outreach ritual",
+            "Meeting and planning, weekly engagement-to-outreach ritual",
           ),
           caption: L(
             "Jedan post → capture u Sheets → qualify → enrich → segment → kontekstualni DM.",
@@ -1781,24 +1781,24 @@ export const lesson7RichContent: RichLessonContent = {
               value: L("80", "80"),
               label: L("Engagement", "Engagements"),
               description: L(
-                "Primer: 80 reakcija na post — sirovina za capture.",
-                "Example: 80 reactions on a post — raw material for capture.",
+                "Primer: 80 reakcija na post, sirovina za capture.",
+                "Example: 80 reactions on a post, raw material for capture.",
               ),
             },
             {
               value: L("18", "18"),
               label: L("ICP fit", "ICP fit"),
               description: L(
-                "Posle filtera — samo oni idu na enrich i outreach.",
-                "After filters — only these go to enrich and outreach.",
+                "Posle filtera, samo oni idu na enrich i outreach.",
+                "After filters, only these go to enrich and outreach.",
               ),
             },
             {
-              value: L("2–3", "2–3"),
+              value: L("2-3", "2-3"),
               label: L("Touch sekvenca", "Touch sequence"),
               description: L(
-                "LinkedIn DM → email (Findymail) → kratak follow-up — ne 7-email cold.",
-                "LinkedIn DM → email (Findymail) → short follow-up — not 7-email cold.",
+                "LinkedIn DM → email (Findymail) → kratak follow-up, ne 7-email cold.",
+                "LinkedIn DM → email (Findymail) → short follow-up, not 7-email cold.",
               ),
             },
           ],
@@ -2096,7 +2096,7 @@ Ugao poruke:
 
 5. LinkedIn DM template
 
-Hej [Ime] — primetio sam da si angažovao post o [tema].
+Hej [Ime], primetio sam da si angažovao post o [tema].
 
 Vidimo ovo često kod [ICP]:
 [problem].
@@ -2270,7 +2270,7 @@ Message angle:
 
 5. LinkedIn DM template
 
-Hey [Name] — noticed you engaged with the post about [topic].
+Hey [Name], noticed you engaged with the post about [topic].
 
 We see this a lot with [ICP]:
 [problem].
@@ -2381,8 +2381,8 @@ Pipeline stage:
     {
       question: L("Koliko često pregledati LinkedIn engagement?", "How often should we review LinkedIn engagement?"),
       answer: L(
-        "Nedeljno je jak početni ritam. Za aktivne founder-e ili timove sa webinarima i čestim postovima, pregledaj svakih 24–48 sati da topli signali ne ohlade.",
-        "Weekly is a strong starting rhythm. For active founders or teams running webinars and frequent posts, review every 24–48 hours so warm signals do not go cold.",
+        "Nedeljno je jak početni ritam. Za aktivne founder-e ili timove sa webinarima i čestim postovima, pregledaj svakih 24-48 sati da topli signali ne ohlade.",
+        "Weekly is a strong starting rhythm. For active founders or teams running webinars and frequent posts, review every 24-48 hours so warm signals do not go cold.",
       ),
     },
     {
@@ -2394,34 +2394,34 @@ Pipeline stage:
     },
   ],
   sources: [
-    { title: L("LinkedIn Sales Solutions — Social Selling", "LinkedIn Sales Solutions — Social Selling"), url: "https://business.linkedin.com/sales-solutions/social-selling" },
-    { title: L("LinkedIn Sales Solutions — Social Selling Index / SSI", "LinkedIn Sales Solutions — Social Selling Index / SSI"), url: "https://business.linkedin.com/sell/resources/SSI" },
+    { title: L("LinkedIn Sales Solutions - Social Selling", "LinkedIn Sales Solutions - Social Selling"), url: "https://business.linkedin.com/sales-solutions/social-selling" },
+    { title: L("LinkedIn Sales Solutions - Social Selling Index / SSI", "LinkedIn Sales Solutions - Social Selling Index / SSI"), url: "https://business.linkedin.com/sell/resources/SSI" },
     { title: L("LinkedIn Sales Navigator", "LinkedIn Sales Navigator"), url: "https://business.linkedin.com/sell/sales-navigator" },
-    { title: L("LinkedIn Sales Solutions — Deep Sales Playbook", "LinkedIn Sales Solutions — Deep Sales Playbook"), url: "https://business.linkedin.com/sales-solutions/deep-sales-playbook" },
-    { title: L("LinkedIn — Outreach Strategies for Sales Demo Requests", "LinkedIn — Outreach Strategies for Sales Demo Requests"), url: "https://www.linkedin.com/top-content/marketing/linkedin-marketing-guide/linkedin-outreach-strategies-for-sales-demo-requests/" },
-    { title: L("Clay — Product / Data Enrichment Platform", "Clay — Product / Data Enrichment Platform"), url: "https://www.clay.com/" },
-    { title: L("Clay — Tutorials", "Clay — Tutorials"), url: "https://www.clay.com/university" },
-    { title: L("HeyReach — Outreach Strategies", "HeyReach — Outreach Strategies"), url: "https://www.heyreach.io/blog/outreach-strategies" },
-    { title: L("HeyReach — How to Automate LinkedIn Outreach Using Clay, HeyReach and n8n", "HeyReach — How to Automate LinkedIn Outreach Using Clay, HeyReach and n8n"), url: "https://www.heyreach.io/blog/how-to-automate-linkedin-outreach" },
-    { title: L("HeyReach — LinkedIn Automation Tool", "HeyReach — LinkedIn Automation Tool"), url: "https://www.heyreach.io/" },
-    { title: L("lemlist — Learn Why Multichannel Outreach Matters", "lemlist — Learn Why Multichannel Outreach Matters"), url: "https://help.lemlist.com/en/articles/4664179-learn-why-multichannel-outreach-matters" },
-    { title: L("lemlist — Choose a Multichannel Sequence to Build", "lemlist — Choose a Multichannel Sequence to Build"), url: "https://help.lemlist.com/en/articles/4565994-choose-a-multichannel-sequence-to-build" },
-    { title: L("lemlist — AI Outbound Platform", "lemlist — AI Outbound Platform"), url: "https://www.lemlist.com/" },
-    { title: L("Warmly — How To Build A Lead List In Clay For Cold Outreach", "Warmly — How To Build A Lead List In Clay For Cold Outreach"), url: "https://www.warmly.ai/p/blog/how-to-build-a-lead-list-in-clay" },
+    { title: L("LinkedIn Sales Solutions - Deep Sales Playbook", "LinkedIn Sales Solutions - Deep Sales Playbook"), url: "https://business.linkedin.com/sales-solutions/deep-sales-playbook" },
+    { title: L("LinkedIn - Outreach Strategies for Sales Demo Requests", "LinkedIn - Outreach Strategies for Sales Demo Requests"), url: "https://www.linkedin.com/top-content/marketing/linkedin-marketing-guide/linkedin-outreach-strategies-for-sales-demo-requests/" },
+    { title: L("Clay - Product / Data Enrichment Platform", "Clay - Product / Data Enrichment Platform"), url: "https://www.clay.com/" },
+    { title: L("Clay - Tutorials", "Clay - Tutorials"), url: "https://www.clay.com/university" },
+    { title: L("HeyReach - Outreach Strategies", "HeyReach - Outreach Strategies"), url: "https://www.heyreach.io/blog/outreach-strategies" },
+    { title: L("HeyReach - How to Automate LinkedIn Outreach Using Clay, HeyReach and n8n", "HeyReach - How to Automate LinkedIn Outreach Using Clay, HeyReach and n8n"), url: "https://www.heyreach.io/blog/how-to-automate-linkedin-outreach" },
+    { title: L("HeyReach - LinkedIn Automation Tool", "HeyReach - LinkedIn Automation Tool"), url: "https://www.heyreach.io/" },
+    { title: L("lemlist - Learn Why Multichannel Outreach Matters", "lemlist - Learn Why Multichannel Outreach Matters"), url: "https://help.lemlist.com/en/articles/4664179-learn-why-multichannel-outreach-matters" },
+    { title: L("lemlist - Choose a Multichannel Sequence to Build", "lemlist - Choose a Multichannel Sequence to Build"), url: "https://help.lemlist.com/en/articles/4565994-choose-a-multichannel-sequence-to-build" },
+    { title: L("lemlist - AI Outbound Platform", "lemlist - AI Outbound Platform"), url: "https://www.lemlist.com/" },
+    { title: L("Warmly - How To Build A Lead List In Clay For Cold Outreach", "Warmly - How To Build A Lead List In Clay For Cold Outreach"), url: "https://www.warmly.ai/p/blog/how-to-build-a-lead-list-in-clay" },
   ],
   relatedLessons: {
     previous: {
       slug: "linkedin-commenting-strategy",
       title: L(
-        "Lekcija 6 — Kako koristiti komentarisanje na LinkedInu za vidljivost kod ICP-a",
-        "Lesson 6 — How to Use LinkedIn Commenting for Visibility With Your ICP",
+        "Lekcija 6 - Kako koristiti komentarisanje na LinkedInu za vidljivost kod ICP-a",
+        "Lesson 6 - How to Use LinkedIn Commenting for Visibility With Your ICP",
       ),
     },
     next: {
       slug: "webinars-founder-led-growth",
       title: L(
-        "Lekcija 8 — Kako koristiti webinare kao deo Founder-Led Growth sistema",
-        "Lesson 8 — How to Use Webinars as Part of Founder-Led Growth",
+        "Lekcija 8 - Kako koristiti webinare kao deo Founder-Led Growth sistema",
+        "Lesson 8 - How to Use Webinars as Part of Founder-Led Growth",
       ),
       note: L(
         "Sledeća lekcija pokazuje kako koristiti webinare kao dublji conversion layer.",
@@ -2432,50 +2432,50 @@ Pipeline stage:
       {
         slug: "what-founder-led-growth-is",
         title: L(
-          "Lekcija 1 — Šta je Founder-Led Growth",
-          "Lesson 1 — What Founder-Led Growth Is and Why It Works for B2B Companies",
+          "Lekcija 1 - Šta je Founder-Led Growth",
+          "Lesson 1 - What Founder-Led Growth Is and Why It Works for B2B Companies",
         ),
       },
       {
         slug: "how-to-define-your-icp",
         title: L(
-          "Lekcija 2 — Kako definisati ICP",
-          "Lesson 2 — How to Define Your ICP for Founder-Led Growth",
+          "Lekcija 2 - Kako definisati ICP",
+          "Lesson 2 - How to Define Your ICP for Founder-Led Growth",
         ),
       },
       {
         slug: "linkedin-profile-optimization-founder",
         title: L(
-          "Lekcija 3 — Kako optimizovati LinkedIn profil founder-a",
-          "Lesson 3 — How to Optimize a Founder's LinkedIn Profile for B2B Lead Generation",
+          "Lekcija 3 - Kako optimizovati LinkedIn profil founder-a",
+          "Lesson 3 - How to Optimize a Founder's LinkedIn Profile for B2B Lead Generation",
         ),
       },
       {
         slug: "linkedin-content-strategy-founder",
         title: L(
-          "Lekcija 4 — Kako napraviti LinkedIn content strategiju za founder-a",
-          "Lesson 4 — How to Build a LinkedIn Content Strategy for a Founder",
+          "Lekcija 4 - Kako napraviti LinkedIn content strategiju za founder-a",
+          "Lesson 4 - How to Build a LinkedIn Content Strategy for a Founder",
         ),
       },
       {
         slug: "write-educational-linkedin-posts",
         title: L(
-          "Lekcija 5 — Kako pisati edukativne LinkedIn postove",
-          "Lesson 5 — How to Write Educational LinkedIn Posts That Build Authority",
+          "Lekcija 5 - Kako pisati edukativne LinkedIn postove",
+          "Lesson 5 - How to Write Educational LinkedIn Posts That Build Authority",
         ),
       },
       {
         slug: "crm-za-founder-led-growth",
         title: L(
-          "Lekcija 10 — CRM za Founder-Led Growth",
-          "Lesson 10 — How to Track Founder-Led Growth Activities in Your CRM",
+          "Lekcija 10 - CRM za Founder-Led Growth",
+          "Lesson 10 - How to Track Founder-Led Growth Activities in Your CRM",
         ),
       },
       {
         slug: "buying-signals-b2b-sales",
         title: L(
-          "Lekcija 11 — Buying signali",
-          "Lesson 11 — What Buying Signals Are and How to Use Them in B2B Sales",
+          "Lekcija 11 - Buying signali",
+          "Lesson 11 - What Buying Signals Are and How to Use Them in B2B Sales",
         ),
       },
     ],

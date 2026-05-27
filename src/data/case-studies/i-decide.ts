@@ -41,7 +41,7 @@ export const iDecideCaseStudy: CaseStudyDetail = {
         },
         {
           sr: "Njihov Amazon bestseller „I Decide“ predstavljen je na Fox-u, ABC-u i u Forbes-u. Knjiga je ispunjena pričama ljudi koji su doneli onu jednu odluku koja im je promenila život iz negativnog u pozitivan, a kako same kažu: mali srećan vodič za život po sopstvenim pravilima.",
-          en: "Their Amazon bestseller “I Decide” was featured on Fox, ABC, and Forbes. The book is filled with stories of people who made the one decision that shifted their lives from negative to positive — as they put it, a little happy guide to living life on your own terms.",
+          en: "Their Amazon bestseller “I Decide” was featured on Fox, ABC, and Forbes. The book is filled with stories of people who made the one decision that shifted their lives from negative to positive, as they put it, a little happy guide to living life on your own terms.",
         },
         {
           sr: "Međutim, pojavio se jedan izazov...",
@@ -51,8 +51,8 @@ export const iDecideCaseStudy: CaseStudyDetail = {
       image: {
         src: `${IMG}/hero.jpg`,
         alt: {
-          sr: "Lisa i Erin — I Decide",
-          en: "Lisa and Erin — I Decide",
+          sr: "Lisa i Erin - I Decide",
+          en: "Lisa and Erin - I Decide",
         },
         fit: "cover",
       },
@@ -62,8 +62,8 @@ export const iDecideCaseStudy: CaseStudyDetail = {
       title: { sr: "Izazov", en: "The challenge" },
       paragraphs: [
         {
-          sr: "Napisati knjigu je jedno, ali promovisati je je nešto potpuno drugo. Monetizacija knjiga predstavlja veliki izazov za svakoga ko nije svetski poznata ličnost — a čak i njima prodaja knjiga može biti teška zbog visokih troškova promocije i malih profitnih marži.",
-          en: "Writing a book is one thing; promoting it is entirely another. Book monetization is a major challenge for anyone who isn’t a global celebrity — and even for them, book sales can be tough due to high promotion costs and thin profit margins.",
+          sr: "Napisati knjigu je jedno, ali promovisati je je nešto potpuno drugo. Monetizacija knjiga predstavlja veliki izazov za svakoga ko nije svetski poznata ličnost, a čak i njima prodaja knjiga može biti teška zbog visokih troškova promocije i malih profitnih marži.",
+          en: "Writing a book is one thing; promoting it is entirely another. Book monetization is a major challenge for anyone who isn’t a global celebrity, and even for them, book sales can be tough due to high promotion costs and thin profit margins.",
         },
         {
           sr: "Pored toga, većina ljudi danas radije konzumira video sadržaj. Zato smo im predstavili jednu ideju...",
@@ -130,12 +130,12 @@ export const iDecideCaseStudy: CaseStudyDetail = {
       title: { sr: "Kreacija digitalnog kursa", en: "Digital course creation" },
       paragraphs: [
         {
-          sr: "Dogovorili smo se da je najbolji pristup da njihovu knjigu „I Decide“ pretvorimo u konkretne, primenljive korake kroz program „Get Unstuck in 10 Days“. Ovaj kurs je namenjen svima koji se osećaju “zaglavljenim” u bilo kojoj oblasti života — bilo da su to zdravlje, finansije ili odnosi.",
-          en: "We agreed the best approach was to turn their “I Decide” book into concrete, actionable steps through the “Get Unstuck in 10 Days” program. The course is for anyone who feels stuck in any area of life — health, finances, or relationships.",
+          sr: "Dogovorili smo se da je najbolji pristup da njihovu knjigu „I Decide“ pretvorimo u konkretne, primenljive korake kroz program „Get Unstuck in 10 Days“. Ovaj kurs je namenjen svima koji se osećaju “zaglavljenim” u bilo kojoj oblasti života, bilo da su to zdravlje, finansije ili odnosi.",
+          en: "We agreed the best approach was to turn their “I Decide” book into concrete, actionable steps through the “Get Unstuck in 10 Days” program. The course is for anyone who feels stuck in any area of life, health, finances, or relationships.",
         },
         {
           sr: "Kurs smo podelili u 10 modula, gde svaki modul predstavlja jedan dan sa strategijama za izlazak iz stagnacije. U okviru svakog modula polaznici dobijaju i konkretne vežbe koje mogu da preuzmu i rade. Cilj nije bio samo da ljudi slušaju Lisa & Erin, već da ih to zaista pokrene na akciju.",
-          en: "We split the course into 10 modules — one day each with strategies to break out of stagnation. Each module includes exercises participants can download and complete. The goal wasn’t just for people to listen to Lisa & Erin, but to take real action.",
+          en: "We split the course into 10 modules, one day each with strategies to break out of stagnation. Each module includes exercises participants can download and complete. The goal wasn’t just for people to listen to Lisa & Erin, but to take real action.",
         },
         {
           sr: "Zajedno smo radili na skriptama za svaki modul, zatim smo snimili kompletan kurs i odradili montažu. Istovremeno smo počeli da rešavamo i izazov kreiranja aplikacije pod nazivom „I Decide Darlings“.",
@@ -156,7 +156,7 @@ export const iDecideCaseStudy: CaseStudyDetail = {
         },
         {
           sr: "Vremenom smo preuzeli i upravljanje njihovim podcastom „The I Decide Darlings“, gde se bavimo zakazivanjem gostiju i pomažemo gostima da se tehnički pripreme za intervju kako bi sve proteklo glatko od početka do kraja.",
-          en: "Over time we also took over their “The I Decide Darlings” podcast — booking guests and helping them prepare technically so every episode runs smoothly start to finish.",
+          en: "Over time we also took over their “The I Decide Darlings” podcast, booking guests and helping them prepare technically so every episode runs smoothly start to finish.",
         },
       ],
     },
@@ -224,7 +224,7 @@ export const iDecideCaseStudy: CaseStudyDetail = {
     paragraphs: [
       {
         sr: "Ovu fazu nazivamo test faza, gde se isključivo fokusiramo na podatke. Naš cilj je da utvrdimo koje reklame daju najbolje rezultate i koja landing stranica najbolje konvertuje. Kada to otkrijemo, skaliramo naše reklamne kampanje kako bismo postigli maksimalni potencijal prihoda.",
-        en: "We call this the test phase, focused purely on data. Our goal is to identify which ads perform best and which landing page converts highest — then scale campaigns to maximize revenue potential.",
+        en: "We call this the test phase, focused purely on data. Our goal is to identify which ads perform best and which landing page converts highest, then scale campaigns to maximize revenue potential.",
       },
     ],
   },

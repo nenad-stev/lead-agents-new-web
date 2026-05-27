@@ -5,8 +5,8 @@ export const relevanceAiTool: SalesTool = {
   name: "Relevance AI",
   logo: "/images/sales-tools/relevance-ai.png",
   tagline: {
-    sr: "AI workforce — no-code agenti za prodaju, research i GTM automatizaciju",
-    en: "AI workforce — no-code agents for sales, research, and GTM automation",
+    sr: "AI workforce, no-code agenti za prodaju, research i GTM automatizaciju",
+    en: "AI workforce, no-code agents for sales, research, and GTM automation",
   },
   categoryId: "prospecting",
   category: { sr: "Prospecting", en: "Prospecting" },
@@ -32,12 +32,12 @@ export const relevanceAiTool: SalesTool = {
   recommended: true,
   rating: { g2: 4.5, g2Reviews: 120 },
   overview: {
-    sr: "Relevance AI je platforma za izgradnju AI workforce-a bez koda: kreirate agente prirodnim jezikom, povezujete alate (CRM, email, scraping) i puštate ih da rade research, enrichment i follow-up — uz odvojenu naplatu Actions (izvršenja) i Vendor Credits (LLM troškovi).",
-    en: "Relevance AI is a no-code platform for building an AI workforce: create agents in natural language, connect tools (CRM, email, scraping), and let them run research, enrichment, and follow-up — with separate billing for Actions (executions) and Vendor Credits (LLM costs).",
+    sr: "Relevance AI je platforma za izgradnju AI workforce-a bez koda: kreirate agente prirodnim jezikom, povezujete alate (CRM, email, scraping) i puštate ih da rade research, enrichment i follow-up, uz odvojenu naplatu Actions (izvršenja) i Vendor Credits (LLM troškovi).",
+    en: "Relevance AI is a no-code platform for building an AI workforce: create agents in natural language, connect tools (CRM, email, scraping), and let them run research, enrichment, and follow-up, with separate billing for Actions (executions) and Vendor Credits (LLM costs).",
   },
   overviewExtended: {
-    sr: "Za RevOps i GTM Ops: BDR agent, account research, lead scoring workflow. Free: 200 Actions/mes + 1.000 Vendor Credits jednokratno. Pro od $19/mes (god.) — 2.500 Actions, $20 Vendor Credits. Team od $234/mes (god.) — 7.000 Actions, meeting agenti, A/B test. Nije Clay zamena — više „pokreni agenta“ nego „tabela leadova“.",
-    en: "For RevOps and GTM Ops: BDR agents, account research, lead scoring workflows. Free: 200 Actions/mo + 1,000 Vendor Credits one-time. Pro from $19/mo (annual) — 2,500 Actions, $20 Vendor Credits. Team from $234/mo (annual) — 7,000 Actions, meeting agents, A/B testing. Not a Clay replacement — more \"run an agent\" than \"lead spreadsheet.\"",
+    sr: "Za RevOps i GTM Ops: BDR agent, account research, lead scoring workflow. Free: 200 Actions/mes + 1.000 Vendor Credits jednokratno. Pro od $19/mes (god.), 2.500 Actions, $20 Vendor Credits. Team od $234/mes (god.), 7.000 Actions, meeting agenti, A/B test. Nije Clay zamena, više „pokreni agenta“ nego „tabela leadova“.",
+    en: "For RevOps and GTM Ops: BDR agents, account research, lead scoring workflows. Free: 200 Actions/mo + 1,000 Vendor Credits one-time. Pro from $19/mo (annual), 2,500 Actions, $20 Vendor Credits. Team from $234/mo (annual), 7,000 Actions, meeting agents, A/B testing. Not a Clay replacement, more \"run an agent\" than \"lead spreadsheet.\"",
   },
   idealFor: {
     sr: [
@@ -58,19 +58,19 @@ export const relevanceAiTool: SalesTool = {
   keyFeatures: {
     sr: [
       "No-code agent builder (prirodnim jezikom)",
-      "Workforces — timovi agenta",
+      "Workforces, timovi agenta",
       "Schedule & bulk runs",
       "WhatsApp, LinkedIn, Telegram triggeri (Pro+)",
       "Calling & meeting agenti (Team+)",
-      "BYOK — bez markup-a na LLM",
+      "BYOK, bez markup-a na LLM",
     ],
     en: [
       "No-code agent builder (natural language)",
-      "Workforces — teams of agents",
+      "Workforces, teams of agents",
       "Schedule & bulk runs",
       "WhatsApp, LinkedIn, Telegram triggers (Pro+)",
       "Calling & meeting agents (Team+)",
-      "BYOK — no markup on LLM costs",
+      "BYOK, no markup on LLM costs",
     ],
   },
   quickFacts: [
@@ -98,8 +98,8 @@ export const relevanceAiTool: SalesTool = {
       en: "Actions + Vendor Credits · rollover on paid",
     },
     trial: {
-      sr: "Free — 200 Actions/mes",
-      en: "Free — 200 Actions/mo",
+      sr: "Free - 200 Actions/mes",
+      en: "Free - 200 Actions/mo",
     },
     plans: [
       {
@@ -271,14 +271,14 @@ export const relevanceAiTool: SalesTool = {
   },
   pros: {
     sr: [
-      "Bez koda — ops tim može sam da gradi",
+      "Bez koda, ops tim može sam da gradi",
       "Transparentna podela Actions vs LLM troškova",
       "BYOK smanjuje Vendor Credit trošak",
       "Bogat katalog gotovih GTM template-a",
       "Skalira od jednog agenta do workforce-a",
     ],
     en: [
-      "No code — ops teams can build themselves",
+      "No code, ops teams can build themselves",
       "Transparent split of Actions vs LLM costs",
       "BYOK reduces Vendor Credit spend",
       "Rich catalog of ready-made GTM templates",
@@ -306,8 +306,8 @@ export const relevanceAiTool: SalesTool = {
       slug: "n8n",
       name: "n8n",
       description: {
-        sr: "Workflow automatizacija — manje AI-native.",
-        en: "Workflow automation — less AI-native.",
+        sr: "Workflow automatizacija, manje AI-native.",
+        en: "Workflow automation, less AI-native.",
       },
       startingPrice: { sr: "od €20", en: "from €20" },
       trial: { sr: "Besplatno", en: "Free trial" },
@@ -317,8 +317,8 @@ export const relevanceAiTool: SalesTool = {
       slug: "clay",
       name: "Clay",
       description: {
-        sr: "GTM tabela — enrichment pre agenta.",
-        en: "GTM table — enrichment before agents.",
+        sr: "GTM tabela, enrichment pre agenta.",
+        en: "GTM table, enrichment before agents.",
       },
       startingPrice: { sr: "od $149", en: "from $149" },
       trial: { sr: "14 dana", en: "14 days" },
@@ -365,15 +365,15 @@ export const relevanceAiTool: SalesTool = {
     {
       question: { sr: "Da li je besplatan?", en: "Is it free?" },
       answer: {
-        sr: "Da — Free plan sa 200 Actions mesečno i 1.000 Vendor Credits pri registraciji. Bez kreditne kartice. Za više — Pro ili Team.",
-        en: "Yes — Free plan with 200 monthly Actions and 1,000 Vendor Credits at signup. No credit card. For more — Pro or Team.",
+        sr: "Da - Free plan sa 200 Actions mesečno i 1.000 Vendor Credits pri registraciji. Bez kreditne kartice. Za više - Pro ili Team.",
+        en: "Yes - Free plan with 200 monthly Actions and 1,000 Vendor Credits at signup. No credit card. For more - Pro or Team.",
       },
     },
     {
       question: { sr: "Zašto izabrati Relevance AI?", en: "Why choose Relevance AI?" },
       answer: {
-        sr: "Kada vam treba AI workforce (BDR, research, ops) koji tim može graditi bez developera — sa triggerima na LinkedIn/WhatsApp i mogućnošću voice meeting agenta na Team planu.",
-        en: "When you need an AI workforce (BDR, research, ops) your team can build without developers — with LinkedIn/WhatsApp triggers and voice meeting agents on Team.",
+        sr: "Kada vam treba AI workforce (BDR, research, ops) koji tim može graditi bez developera, sa triggerima na LinkedIn/WhatsApp i mogućnošću voice meeting agenta na Team planu.",
+        en: "When you need an AI workforce (BDR, research, ops) your team can build without developers, with LinkedIn/WhatsApp triggers and voice meeting agents on Team.",
       },
     },
     {
@@ -382,15 +382,15 @@ export const relevanceAiTool: SalesTool = {
         en: "How is it different from Clay?",
       },
       answer: {
-        sr: "Clay je spreadsheet-first enrichment. Relevance AI je agent-first automatizacija — agent odlučuje korake, poziva alate, šalje follow-up. Često se koriste zajedno: Clay → Relevance agent → Instantly.",
-        en: "Clay is spreadsheet-first enrichment. Relevance AI is agent-first automation — the agent decides steps, calls tools, sends follow-up. Often used together: Clay → Relevance agent → Instantly.",
+        sr: "Clay je spreadsheet-first enrichment. Relevance AI je agent-first automatizacija, agent odlučuje korake, poziva alate, šalje follow-up. Često se koriste zajedno: Clay → Relevance agent → Instantly.",
+        en: "Clay is spreadsheet-first enrichment. Relevance AI is agent-first automation, the agent decides steps, calls tools, sends follow-up. Often used together: Clay → Relevance agent → Instantly.",
       },
     },
     {
       question: { sr: "Da li ima API?", en: "Does it have an API?" },
       answer: {
-        sr: "Da — REST API i Python SDK za pokretanje agenata i integraciju u vaš stack. Top-up: $80/1.000 Actions, $20/10.000 Vendor Credits.",
-        en: "Yes — REST API and Python SDK to trigger agents and integrate into your stack. Top-ups: $80/1,000 Actions, $20/10,000 Vendor Credits.",
+        sr: "Da - REST API i Python SDK za pokretanje agenata i integraciju u vaš stack. Top-up: $80/1.000 Actions, $20/10.000 Vendor Credits.",
+        en: "Yes - REST API and Python SDK to trigger agents and integrate into your stack. Top-ups: $80/1,000 Actions, $20/10,000 Vendor Credits.",
       },
     },
     {

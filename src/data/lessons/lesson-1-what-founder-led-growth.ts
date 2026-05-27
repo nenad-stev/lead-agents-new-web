@@ -40,7 +40,7 @@ const video2 = {
 export const lesson1RichContent: RichLessonContent = {
   meta: {
     stage: L("Strategija i pozicioniranje", "Strategy & Positioning"),
-    readingTime: L("18–22 min", "18–22 min"),
+    readingTime: L("18-22 min", "18-22 min"),
     difficulty: L("Početnik", "Beginner"),
     outcome: L(
       "Razumećeš kako Founder-Led Growth povezuje LinkedIn, content, engagement, webinare, outreach, CRM, ads i intent signale u jedan predvidljiv B2B pipeline sistem.",
@@ -72,7 +72,7 @@ export const lesson1RichContent: RichLessonContent = {
         "Most founders think they need more leads. So they buy a list. They hire an SDR. They send cold emails. They automate LinkedIn messages. Then they wonder why the market feels cold.",
         "The problem is not always volume. The problem is context.",
         "Your buyer has never heard your point of view. They do not know what you believe. They do not know why your company is different. They do not trust your message yet. So when your outreach lands, it feels like interruption.",
-        "Founder-Led Growth fixes that — not by turning the founder into an influencer, but by turning the founder into the most trusted distribution channel in the company.",
+        "Founder-Led Growth fixes that, not by turning the founder into an influencer, but by turning the founder into the most trusted distribution channel in the company.",
       ],
     ),
     callout: L(
@@ -131,12 +131,12 @@ export const lesson1RichContent: RichLessonContent = {
           type: "illustration",
           src: "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&w=1400&q=80",
           alt: L(
-            "Founder na sastanku sa B2B kupcem — kontekst pre prodaje",
-            "Founder in a B2B meeting — context before the sales pitch",
+            "Founder na sastanku sa B2B kupcem, kontekst pre prodaje",
+            "Founder in a B2B meeting, context before the sales pitch",
           ),
           caption: L(
-            "Founder-Led Growth počinje razgovorom o problemu i poverenju — ne cold pitch-om.",
-            "Founder-Led Growth starts with problem context and trust — not a cold pitch.",
+            "Founder-Led Growth počinje razgovorom o problemu i poverenju, ne cold pitch-om.",
+            "Founder-Led Growth starts with problem context and trust, not a cold pitch.",
           ),
           credit: L("Foto: Unsplash", "Photo: Unsplash"),
         },
@@ -185,8 +185,8 @@ export const lesson1RichContent: RichLessonContent = {
           type: "illustration",
           src: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1400&q=80",
           alt: L(
-            "Dashboard i CRM izveštaji — merenje founder-led pipeline-a",
-            "Dashboard and CRM reports — measuring founder-led pipeline",
+            "Dashboard i CRM izveštaji, merenje founder-led pipeline-a",
+            "Dashboard and CRM reports, measuring founder-led pipeline",
           ),
           caption: L(
             "Kada su kanali povezani, vidiš koji touchpoint stvara razgovore i revenue.",
@@ -243,10 +243,10 @@ export const lesson1RichContent: RichLessonContent = {
             { cells: [L("1", "1"), L("Strategija", "Strategy"), L("Zašto FLG i kako sve stoji zajedno", "Why FLG and how it fits together")] },
             { cells: [L("2", "2"), L("ICP", "ICP"), L("Kome pomažeš", "Who you help")] },
             { cells: [L("3", "3"), L("Profil", "Profile"), L("5 sekundi jasnoće za ICP", "5-second clarity for ICP")] },
-            { cells: [L("4–7", "4–7"), L("Outreach + signali", "Outreach + signals"), L("Cold outreach, buying signali, engagement", "Cold outreach, buying signals, engagement")] },
-            { cells: [L("4–6", "4–6"), L("Content engine", "Content engine"), L("Intervjui, klipovi, postovi (ne dnevno pisanje)", "Interviews, clips, posts (not daily writing)")] },
-            { cells: [L("8–9", "8–9"), L("Webinar + Ads", "Webinar + Ads"), L("Webinar intent, TLA skaliranje", "Webinar intent, TLA scaling")] },
-            { cells: [L("10–12", "10–12"), L("CRM + signali + sistem", "CRM + signals + system"), L("Merenje, intent, inbound-to-outbound", "Measurement, intent, inbound-to-outbound")] },
+            { cells: [L("4-7", "4-7"), L("Outreach + signali", "Outreach + signals"), L("Cold outreach, buying signali, engagement", "Cold outreach, buying signals, engagement")] },
+            { cells: [L("4-6", "4-6"), L("Content engine", "Content engine"), L("Intervjui, klipovi, postovi (ne dnevno pisanje)", "Interviews, clips, posts (not daily writing)")] },
+            { cells: [L("8-9", "8-9"), L("Webinar + Ads", "Webinar + Ads"), L("Webinar intent, TLA skaliranje", "Webinar intent, TLA scaling")] },
+            { cells: [L("10-12", "10-12"), L("CRM + signali + sistem", "CRM + signals + system"), L("Merenje, intent, inbound-to-outbound", "Measurement, intent, inbound-to-outbound")] },
           ],
         },
       ],
@@ -261,12 +261,12 @@ export const lesson1RichContent: RichLessonContent = {
           paragraphs: P(
             [
               "Lični brending meri reach, follower-e i engagement. Founder-Led Growth meri razgovore, sastanke, SQL i prihod.",
-              "Možeš imati jak lični brend i prazan CRM. Možeš imati skroman reach i pun pipeline — ako je ICP tačan i sistem povezan.",
+              "Možeš imati jak lični brend i prazan CRM. Možeš imati skroman reach i pun pipeline, ako je ICP tačan i sistem povezan.",
               "Razlika nije u tome da li founder postuje. Razlika je u tome da li svaki touchpoint vodi ka komercijalnom sledećem koraku.",
             ],
             [
               "Personal branding measures reach, followers, and engagement. Founder-Led Growth measures conversations, meetings, SQL, and revenue.",
-              "You can have a strong personal brand and an empty CRM. You can have modest reach and a full pipeline — if the ICP is right and the system is connected.",
+              "You can have a strong personal brand and an empty CRM. You can have modest reach and a full pipeline, if the ICP is right and the system is connected.",
               "The difference is not whether the founder posts. The difference is whether every touchpoint leads to a commercial next step.",
             ],
           ),
@@ -327,12 +327,12 @@ export const lesson1RichContent: RichLessonContent = {
             [
               "U ranim i srednjim B2B fazama founder obično ima najdublji uvid u tržište. Zna bol kupca, prigovore, zašto deal-ovi stoje, šta proizvod ili usluga stvarno mogu.",
               "Može reći stvari koje brand stranica ne može. Zato founder content često prolazi bolje od poliranog korporativnog sadržaja. Kupci brže veruju ljudima nego firmama.",
-              "Founder ne mora zauvek biti ceo sales tima — ali mora oblikovati sales narativ, posebno pre zrelog GTM mehanizma.",
+              "Founder ne mora zauvek biti ceo sales tima, ali mora oblikovati sales narativ, posebno pre zrelog GTM mehanizma.",
             ],
             [
               "In early and mid-stage B2B companies, the founder usually has the deepest market insight. They know buyer pain, objections, why deals stall, and what the product or service can actually do.",
               "They can say things a brand page cannot. That is why founder-led content often lands better than polished corporate content. Buyers trust people faster than companies.",
-              "The founder does not need to be the whole sales team forever — but they do need to shape the sales narrative, especially before the company has a mature GTM machine.",
+              "The founder does not need to be the whole sales team forever, but they do need to shape the sales narrative, especially before the company has a mature GTM machine.",
             ],
           ),
         },
@@ -348,12 +348,12 @@ export const lesson1RichContent: RichLessonContent = {
           type: "paragraphs",
           paragraphs: P(
             [
-              "Demo ne kreira potražnju — hvata je. Pre demo-a kupac mora da veruje da je problem stvaran, hitan, da stari način košta, da tvoj POV ima smisla, da si kredibilan i da razgovor neće biti gubitak vremena.",
-              "Founder-Led Growth gradi ta uverenja pre poziva. Zato content ima smisla — ne motivacioni content, ne selfiji, ne generični „5 saveta“. Vežban, oštar, problem-aware content.",
+              "Demo ne kreira potražnju, hvata je. Pre demo-a kupac mora da veruje da je problem stvaran, hitan, da stari način košta, da tvoj POV ima smisla, da si kredibilan i da razgovor neće biti gubitak vremena.",
+              "Founder-Led Growth gradi ta uverenja pre poziva. Zato content ima smisla, ne motivacioni content, ne selfiji, ne generični „5 saveta“. Vežban, oštar, problem-aware content.",
             ],
             [
               "A demo does not create demand. A demo captures demand. Before a demo, the buyer needs to believe the problem is real and urgent, the old way is costing them, your point of view makes sense, you are credible, and talking to you will not waste their time.",
-              "Founder-Led Growth builds those beliefs before the call. That is why content matters — not motivational content or random tips. Useful, sharp, problem-aware content.",
+              "Founder-Led Growth builds those beliefs before the call. That is why content matters, not motivational content or random tips. Useful, sharp, problem-aware content.",
             ],
           ),
         },
@@ -391,14 +391,14 @@ export const lesson1RichContent: RichLessonContent = {
           type: "paragraphs",
           paragraphs: P(
             [
-              "Većina B2B firmi previše fokusira hvatanje potražnje — chase ljude koji su već spremni. To je skupo jer svi jurcaju iste kupce.",
+              "Većina B2B firmi previše fokusira hvatanje potražnje, chase ljude koji su već spremni. To je skupo jer svi jurcaju iste kupce.",
               "Founder-Led Growth takođe kreira potražnju: founder uči tržište kako da misli o problemu, objašnjava šta kupci propuštaju, pokazuje cenu neaktivnosti, daje jezik za internu diskusiju.",
-              "Mnogi kupci danas nisu in-market. Posao nije samo naći spremne sada — već postati poznat pre nego što budu spremni. John Dawes 95:5 pravilo: do 95% firmi možda nije in-market u datom trenutku — zato founder content gradi memoriju pre buying window-a.",
+              "Mnogi kupci danas nisu in-market. Posao nije samo naći spremne sada, već postati poznat pre nego što budu spremni. John Dawes 95:5 pravilo: do 95% firmi možda nije in-market u datom trenutku, zato founder content gradi memoriju pre buying window-a.",
             ],
             [
-              "Most B2B companies over-focus on demand capture — chasing buyers already ready to buy. That is expensive because every competitor chases the same buyers.",
+              "Most B2B companies over-focus on demand capture, chasing buyers already ready to buy. That is expensive because every competitor chases the same buyers.",
               "Founder-Led Growth also creates demand. The founder teaches the market how to think about the problem, explains what buyers are missing, shows the cost of inaction, and gives language for internal discussions.",
-              "Many buyers are not in-market today. The job is not only to find people ready now — it is to become familiar before they are ready. John Dawes' 95:5 rule: up to 95% of firms may not be in-market at any given time — so founder content should build memory before the buying window opens.",
+              "Many buyers are not in-market today. The job is not only to find people ready now, it is to become familiar before they are ready. John Dawes' 95:5 rule: up to 95% of firms may not be in-market at any given time, so founder content should build memory before the buying window opens.",
             ],
           ),
         },
@@ -409,16 +409,16 @@ export const lesson1RichContent: RichLessonContent = {
               value: L("95%", "95%"),
               label: L("Future buyers", "Future buyers"),
               description: L(
-                "Nisu in-market sada — treba im memorija pre buying window-a (LinkedIn B2B Institute, 95-5 Rule).",
-                "Not in-market now — they need memory before the buying window (LinkedIn B2B Institute, 95-5 Rule).",
+                "Nisu in-market sada, treba im memorija pre buying window-a (LinkedIn B2B Institute, 95-5 Rule).",
+                "Not in-market now, they need memory before the buying window (LinkedIn B2B Institute, 95-5 Rule).",
               ),
             },
             {
               value: L("5%", "5%"),
               label: L("In-market sada", "In-market now"),
               description: L(
-                "Spremni za kupovinu — ovde sales i outbound imaju najviše smisla.",
-                "Ready to buy — this is where sales and outbound matter most.",
+                "Spremni za kupovinu, ovde sales i outbound imaju najviše smisla.",
+                "Ready to buy, this is where sales and outbound matter most.",
               ),
             },
           ],
@@ -479,8 +479,8 @@ export const lesson1RichContent: RichLessonContent = {
           type: "framework-intro",
           title: L("Najjednostavniji način da razumeš Founder-Led Growth", "The simplest way to understand Founder-Led Growth"),
           description: L(
-            "Pet koraka i sedam operativnih koraka ispod pretvaraju vidljivost u predvidljiv pipeline — od konteksta pre outreach-a do CRM discipline.",
-            "Five stages and seven operational steps below turn visibility into predictable pipeline — from context before outreach to CRM discipline.",
+            "Pet koraka i sedam operativnih koraka ispod pretvaraju vidljivost u predvidljiv pipeline, od konteksta pre outreach-a do CRM discipline.",
+            "Five stages and seven operational steps below turn visibility into predictable pipeline, from context before outreach to CRM discipline.",
           ),
         },
         {
@@ -572,7 +572,7 @@ export const lesson1RichContent: RichLessonContent = {
             },
             {
               step: 4,
-              title: L("Engagement — ulazak u svet kupca", "Use engagement to enter the buyer's world"),
+              title: L("Engagement, ulazak u svet kupca", "Use engagement to enter the buyer's world"),
               whatToDo: L(
                 "Svakodnevno komentariši postove ICP kupaca, eksperata, partnera i target accounta.",
                 "Comment daily on posts from ICP buyers, industry experts, partners, and target accounts.",
@@ -590,7 +590,7 @@ export const lesson1RichContent: RichLessonContent = {
                 "Commenting on creator posts with huge reach but no buyer relevance.",
               ),
               tryThis: L(
-                "Lista od 50 ICP-relevantnih ljudi — komentariši 10 radnih dana 2 nedelje zaredom.",
+                "Lista od 50 ICP-relevantnih ljudi, komentariši 10 radnih dana 2 nedelje zaredom.",
                 "Build a list of 50 ICP-relevant people and comment on 10 of them every weekday for 2 weeks.",
               ),
               highlight: L(
@@ -610,7 +610,7 @@ export const lesson1RichContent: RichLessonContent = {
                 "Engagement tells you who is leaning in. Outreach should follow behavior.",
               ),
               example: L(
-                "VP Operations lajkuje tri posta o automatizaciji, ide na webinar, poseti profil — dobija kontekstualan DM, ne cold pitch.",
+                "VP Operations lajkuje tri posta o automatizaciji, ide na webinar, poseti profil, dobija kontekstualan DM, ne cold pitch.",
                 "A VP of Operations likes three posts about workflow automation, attends a webinar, and visits the founder profile. That person should get a contextual DM, not a cold pitch.",
               ),
               commonMistake: L(
@@ -618,8 +618,8 @@ export const lesson1RichContent: RichLessonContent = {
                 "Treating every like as a buying signal.",
               ),
               tryThis: L(
-                "Tri nivoa signala: light, active, buying-intent — i definisana akcija za svaki.",
-                "Create three signal levels: light engagement, active engagement, buying-intent engagement — then define what action happens at each level.",
+                "Tri nivoa signala: light, active, buying-intent, i definisana akcija za svaki.",
+                "Create three signal levels: light engagement, active engagement, buying-intent engagement, then define what action happens at each level.",
               ),
               highlight: L(
                 "Lajk nije lead. Obrazac je signal.",
@@ -638,8 +638,8 @@ export const lesson1RichContent: RichLessonContent = {
                 "Contextual outreach feels like a continuation, not an interruption.",
               ),
               example: L(
-                "„Video sam tvoj komentar o sales handoff-u. Kod B2B timova 20–80 ljudi ownership je nejasan. Da podelim checklist koji koristimo?“",
-                "'Saw your comment on the post about sales handoff. We're seeing the same issue with 20–80 person B2B teams: leads exist, but ownership is unclear. Worth sharing the checklist we use?'",
+                "„Video sam tvoj komentar o sales handoff-u. Kod B2B timova 20-80 ljudi ownership je nejasan. Da podelim checklist koji koristimo?“",
+                "'Saw your comment on the post about sales handoff. We're seeing the same issue with 20-80 person B2B teams: leads exist, but ownership is unclear. Worth sharing the checklist we use?'",
               ),
               commonMistake: L(
                 "Generička poruka sa imenom i firmom kao „personalizacija“.",
@@ -767,10 +767,10 @@ export const lesson1RichContent: RichLessonContent = {
             {
               title: L("Kupci istražuju pre razgovora sa prodajom", "Buyers research before they talk to sales"),
               body: L(
-                "Gartner navodi da 75% B2B kupaca preferira rep-free iskustvo, ali i da sam digitalni self-service može povećati buyer's remorse — potrebna je i digitalna edukacija i ljudsko poverenje.",
-                "Gartner states that 75% of B2B buyers prefer a rep-free sales experience, but also notes that digital self-service alone can increase purchase regret — supporting the need for both digital education and human trust.",
+                "Gartner navodi da 75% B2B kupaca preferira rep-free iskustvo, ali i da sam digitalni self-service može povećati buyer's remorse, potrebna je i digitalna edukacija i ljudsko poverenje.",
+                "Gartner states that 75% of B2B buyers prefer a rep-free sales experience, but also notes that digital self-service alone can increase purchase regret, supporting the need for both digital education and human trust.",
               ),
-              sourceLabel: L("Gartner — B2B Buying Journey", "Gartner — B2B Buying Journey"),
+              sourceLabel: L("Gartner - B2B Buying Journey", "Gartner - B2B Buying Journey"),
               sourceUrl: "https://www.gartner.com/en/sales/insights/b2b-buying-journey",
             },
             {
@@ -779,7 +779,7 @@ export const lesson1RichContent: RichLessonContent = {
                 "Edelman / LinkedIn 2025 B2B Thought Leadership Impact Report: thought leadership gradi poverenje, alignment i otvara vrata u složenim buying grupama.",
                 "Edelman / LinkedIn's 2025 B2B Thought Leadership Impact Report explains that thought leadership builds trust, drives alignment, and opens doors in complex buying groups.",
               ),
-              sourceLabel: L("Edelman / LinkedIn — 2025 Report", "Edelman / LinkedIn — 2025 Report"),
+              sourceLabel: L("Edelman / LinkedIn - 2025 Report", "Edelman / LinkedIn - 2025 Report"),
               sourceUrl: "https://www.edelman.com/expertise/Business-Marketing/2025-b2b-thought-leadership-report",
             },
             {
@@ -788,17 +788,17 @@ export const lesson1RichContent: RichLessonContent = {
                 "TrustRadius 2024 B2B Buying Disconnect: 78% kupaca na shortlist-u biralo proizvode koje su već čuli pre istraživanja; kod enterprise 86%.",
                 "TrustRadius 2024 B2B Buying Disconnect Report: 78% of buyers creating shortlists selected products they had heard of before starting research; for enterprise buyers, 86%.",
               ),
-              sourceLabel: L("TrustRadius — 2024 Report", "TrustRadius — 2024 Report"),
+              sourceLabel: L("TrustRadius - 2024 Report", "TrustRadius - 2024 Report"),
               sourceUrl:
                 "https://go.trustradius.com/rs/827-FOI-687/images/2024%20B2B%20Buying%20Disconnect%20Year%20of%20the%20Brand%20Crisis.pdf",
             },
             {
               title: L("Većina kupaca nije in-market sada", "Most buyers are not in-market right now"),
               body: L(
-                "John Dawes 95:5 pravilo: do 95% firmi možda nije in-market u datom trenutku — marketing i founder content treba da grade memoriju pre prozora kupovine.",
-                "John Dawes' 95:5 rule: up to 95% of firms may not be in-market at any given time — marketing and founder content should build memory before the buying window opens.",
+                "John Dawes 95:5 pravilo: do 95% firmi možda nije in-market u datom trenutku, marketing i founder content treba da grade memoriju pre prozora kupovine.",
+                "John Dawes' 95:5 rule: up to 95% of firms may not be in-market at any given time, marketing and founder content should build memory before the buying window opens.",
               ),
-              sourceLabel: L("John Dawes — The 95:5 Rule", "John Dawes — The 95:5 Rule"),
+              sourceLabel: L("John Dawes - The 95:5 Rule", "John Dawes - The 95:5 Rule"),
               sourceUrl: "https://johndawes.info/the-955-rule/",
             },
           ],
@@ -834,10 +834,10 @@ export const lesson1RichContent: RichLessonContent = {
           rows: [
             {
               cells: [
-                L("B2B agencije 20–100", "B2B agencies 20–100"),
+                L("B2B agencije 20-100", "B2B agencies 20-100"),
                 L("Founder i dalje vodi prodaju", "Founder still drives most sales"),
                 L("Znanje founder-a je zarobljeno", "Founder knowledge is trapped"),
-                L("Sales nije bottleneck — dokumentacija jeste", "Sales is not the bottleneck — documentation is"),
+                L("Sales nije bottleneck, dokumentacija jeste", "Sales is not the bottleneck, documentation is"),
                 L("Founder-led pipeline", "Founder-led pipeline"),
                 L("RevOps / founder peers", "RevOps / founder peers"),
                 L("Referral sistem", "Referral system"),
@@ -902,7 +902,7 @@ export const lesson1RichContent: RichLessonContent = {
               cells: [
                 L("Edukacija problema", "Problem education"),
                 L("Pokaži šta je pokvareno", "Show what is broken"),
-                L("Outbound ne pada zbog copy-ja — kupci nemaju kontekst.", "Your outbound is not failing because of copy. Buyers have no context."),
+                L("Outbound ne pada zbog copy-ja, kupci nemaju kontekst.", "Your outbound is not failing because of copy. Buyers have no context."),
               ],
             },
             {
@@ -925,10 +925,10 @@ export const lesson1RichContent: RichLessonContent = {
           type: "bullets",
           items: P(
             [
-              "Nedeljni ritam: 2 edukativna posta, 1 POV post, 10–15 ICP komentara radnim danima, 1 soft CTA nedeljno, CRM review petkom.",
+              "Nedeljni ritam: 2 edukativna posta, 1 POV post, 10-15 ICP komentara radnim danima, 1 soft CTA nedeljno, CRM review petkom.",
             ],
             [
-              "Weekly rhythm: 2 educational posts, 1 founder POV post, 10–15 ICP comments weekdays, 1 soft CTA weekly, Friday CRM review.",
+              "Weekly rhythm: 2 educational posts, 1 founder POV post, 10-15 ICP comments weekdays, 1 soft CTA weekly, Friday CRM review.",
             ],
           ),
         },
@@ -983,7 +983,7 @@ export const lesson1RichContent: RichLessonContent = {
           type: "callout",
           variant: "accent",
           text: L(
-            "Lajk nije buying signal. Pet interakcija u dve nedelje od target accounta — jeste.",
+            "Lajk nije buying signal. Pet interakcija u dve nedelje od target accounta, jeste.",
             "A like is not a buying signal. Five interactions across two weeks from a target account is worth attention.",
           ),
         },
@@ -996,7 +996,7 @@ export const lesson1RichContent: RichLessonContent = {
             ],
             [
               "7. First outreach workflow: (1) reference context, (2) name the problem, (3) offer something useful, (4) keep the ask small.",
-              "Example: 'Noticed you engaged with the post about founder-led pipeline. We see this with B2B service firms — referrals work but aren't predictable. I have a short checklist for where founder-led systems leak pipeline. Want me to send it?'",
+              "Example: 'Noticed you engaged with the post about founder-led pipeline. We see this with B2B service firms, referrals work but aren't predictable. I have a short checklist for where founder-led systems leak pipeline. Want me to send it?'",
             ],
           ),
         },
@@ -1090,7 +1090,7 @@ export const lesson1RichContent: RichLessonContent = {
               "Tim doda kupca u HubSpot sa „Founder touchpoint: LinkedIn comment“.",
               "Kupac se registruje na webinar.",
               "Make/Zapier pošalje registraciju u HubSpot i kreira follow-up task.",
-              "Founder follow-up posle webinara — kontekstualan DM.",
+              "Founder follow-up posle webinara, kontekstualan DM.",
               "Zakazan sales poziv.",
               "Deal source: „Founder-Led Growth“.",
             ],
@@ -1106,7 +1106,7 @@ export const lesson1RichContent: RichLessonContent = {
             ],
           ),
           highlight: L(
-            "To je sistem — ne nasumično postovanje ni nasumičan outreach.",
+            "To je sistem, ne nasumično postovanje ni nasumičan outreach.",
             "That is the system. Not random posting. Not random outreach. A connected pipeline workflow.",
           ),
         },
@@ -1202,8 +1202,8 @@ export const lesson1RichContent: RichLessonContent = {
           type: "template",
           title: L("Kopiraj i popuni", "Copy and fill in"),
           content: L(
-            `1. ICP\n\nPomažemo:\n[tip firme] sa [veličina / industrija] koji imaju problem [problem].\n\nPrimer:\nPomažemo B2B service firmama 10–50 ljudi koje previše zavise od referral-a i founder odnosa za pipeline.\n\n2. Buyer problem\n\nSkup problem je:\n[problem na jeziku kupca]\n\nPrimer:\nFounder je i dalje glavni izvor poverenja, ali nema ponovljiv sistem da to pretvori u pipeline.\n\n3. Founder POV\n\nVećina kupaca veruje:\n[uobičajeno uverenje]\n\nMi verujemo:\n[oštrije / kontrarno uverenje]\n\nPrimer:\nVećina misli da treba više outreach volumena. Mi verujemo da treba više konteksta pre outreach-a.\n\n4. LinkedIn obećanje profila\n\nPomažemo [ICP] da postignu [ishod] bez [bol].\n\n5. Content pilari\n\nPilar 1: [edukacija problema]\nPilar 2: [POV]\nPilar 3: [dokaz / praksa]\n\n6. Engagement lista\n\n- [persona 1]\n- [persona 2]\n- [partner]\n- [ekspert]\n- [advocate]\n\n7. Signali\n\nLight: [lajkovi, views, follows]\nMedium: [komentari, repeat, webinar reg]\nStrong: [DM, webinar live, pricing visit]\n\n8. Outreach trigger\n\nKada neko: [signal]\nPošalji: [kontekstualna poruka]\n\n9. CRM polja\n\nLead source | Founder touchpoint | Content topic | Signal level | Last interaction | Next action | Pipeline stage\n\n10. Nedeljna pitanja review-a\n\n- Koji content je privukao ICP?\n- Koji komentari su otvorili razgovore?\n- Koji signali su postali sastanci?\n- Šta radimo više sledeće nedelje?`,
-            `1. ICP\n\nWe help:\n[company type] with [team size / revenue / industry] who struggle with [problem].\n\nExample:\nWe help 10–50 person B2B service firms that rely too heavily on referrals and founder relationships for pipeline.\n\n2. Buyer problem\n\nThe expensive problem is:\n[describe in buyer language]\n\nExample:\nThe founder is still the main source of trust, but there is no repeatable system for turning that trust into pipeline.\n\n3. Founder point of view\n\nMost buyers believe:\n[common belief]\n\nWe believe:\n[contrarian / sharper belief]\n\nExample:\nMost founders believe they need more outreach volume. We believe they need more context before outreach.\n\n4. LinkedIn profile promise\n\nHelping [ICP] achieve [outcome] without [pain / failed alternative].\n\n5. Content pillars\n\nPillar 1: [problem education]\nPillar 2: [point of view]\nPillar 3: [proof / practical breakdown]\n\n6. Engagement list\n\n- [buyer persona 1]\n- [buyer persona 2]\n- [partner persona]\n- [industry expert]\n- [customer advocate]\n\n7. Signals to track\n\nLight: [likes, follows, profile views]\nMedium: [comments, repeat engagement, webinar registration]\nStrong: [DM, webinar attendance, pricing/demo visit, buying question]\n\n8. Outreach trigger\n\nWhen someone: [signal]\nSend: [contextual message]\n\n9. CRM fields\n\nLead source | Founder touchpoint | Content topic | Signal level | Last interaction | Next action | Pipeline stage\n\n10. Weekly review questions\n\n- Which content attracted ICP buyers?\n- Which comments created conversations?\n- Which signals turned into meetings?\n- What should we do more of next week?`,
+            `1. ICP\n\nPomažemo:\n[tip firme] sa [veličina / industrija] koji imaju problem [problem].\n\nPrimer:\nPomažemo B2B service firmama 10-50 ljudi koje previše zavise od referral-a i founder odnosa za pipeline.\n\n2. Buyer problem\n\nSkup problem je:\n[problem na jeziku kupca]\n\nPrimer:\nFounder je i dalje glavni izvor poverenja, ali nema ponovljiv sistem da to pretvori u pipeline.\n\n3. Founder POV\n\nVećina kupaca veruje:\n[uobičajeno uverenje]\n\nMi verujemo:\n[oštrije / kontrarno uverenje]\n\nPrimer:\nVećina misli da treba više outreach volumena. Mi verujemo da treba više konteksta pre outreach-a.\n\n4. LinkedIn obećanje profila\n\nPomažemo [ICP] da postignu [ishod] bez [bol].\n\n5. Content pilari\n\nPilar 1: [edukacija problema]\nPilar 2: [POV]\nPilar 3: [dokaz / praksa]\n\n6. Engagement lista\n\n- [persona 1]\n- [persona 2]\n- [partner]\n- [ekspert]\n- [advocate]\n\n7. Signali\n\nLight: [lajkovi, views, follows]\nMedium: [komentari, repeat, webinar reg]\nStrong: [DM, webinar live, pricing visit]\n\n8. Outreach trigger\n\nKada neko: [signal]\nPošalji: [kontekstualna poruka]\n\n9. CRM polja\n\nLead source | Founder touchpoint | Content topic | Signal level | Last interaction | Next action | Pipeline stage\n\n10. Nedeljna pitanja review-a\n\n- Koji content je privukao ICP?\n- Koji komentari su otvorili razgovore?\n- Koji signali su postali sastanci?\n- Šta radimo više sledeće nedelje?`,
+            `1. ICP\n\nWe help:\n[company type] with [team size / revenue / industry] who struggle with [problem].\n\nExample:\nWe help 10-50 person B2B service firms that rely too heavily on referrals and founder relationships for pipeline.\n\n2. Buyer problem\n\nThe expensive problem is:\n[describe in buyer language]\n\nExample:\nThe founder is still the main source of trust, but there is no repeatable system for turning that trust into pipeline.\n\n3. Founder point of view\n\nMost buyers believe:\n[common belief]\n\nWe believe:\n[contrarian / sharper belief]\n\nExample:\nMost founders believe they need more outreach volume. We believe they need more context before outreach.\n\n4. LinkedIn profile promise\n\nHelping [ICP] achieve [outcome] without [pain / failed alternative].\n\n5. Content pillars\n\nPillar 1: [problem education]\nPillar 2: [point of view]\nPillar 3: [proof / practical breakdown]\n\n6. Engagement list\n\n- [buyer persona 1]\n- [buyer persona 2]\n- [partner persona]\n- [industry expert]\n- [customer advocate]\n\n7. Signals to track\n\nLight: [likes, follows, profile views]\nMedium: [comments, repeat engagement, webinar registration]\nStrong: [DM, webinar attendance, pricing/demo visit, buying question]\n\n8. Outreach trigger\n\nWhen someone: [signal]\nSend: [contextual message]\n\n9. CRM fields\n\nLead source | Founder touchpoint | Content topic | Signal level | Last interaction | Next action | Pipeline stage\n\n10. Weekly review questions\n\n- Which content attracted ICP buyers?\n- Which comments created conversations?\n- Which signals turned into meetings?\n- What should we do more of next week?`,
           ),
         },
       ],
@@ -1213,14 +1213,14 @@ export const lesson1RichContent: RichLessonContent = {
     {
       question: L("Šta je Founder-Led Growth?", "What is Founder-Led Growth?"),
       answer: L(
-        "B2B pipeline sistem gde founder koristi ekspertizu, LinkedIn, content, engagement, webinare, outreach, CRM, ads i intent signale da gradi poverenje i prodajne razgovore. Nije lični brending — lični brending je vidljivost; Founder-Led Growth je prihod.",
-        "A B2B pipeline system where the founder uses market expertise, LinkedIn presence, content, engagement, webinars, outreach, CRM, ads, and intent signals to create trust and sales conversations. It is not just personal branding — personal branding focuses on visibility; Founder-Led Growth focuses on revenue.",
+        "B2B pipeline sistem gde founder koristi ekspertizu, LinkedIn, content, engagement, webinare, outreach, CRM, ads i intent signale da gradi poverenje i prodajne razgovore. Nije lični brending, lični brending je vidljivost; Founder-Led Growth je prihod.",
+        "A B2B pipeline system where the founder uses market expertise, LinkedIn presence, content, engagement, webinars, outreach, CRM, ads, and intent signals to create trust and sales conversations. It is not just personal branding, personal branding focuses on visibility; Founder-Led Growth focuses on revenue.",
       ),
     },
     {
       question: L("Zašto Founder-Led Growth radi za B2B?", "Why does Founder-Led Growth work for B2B companies?"),
       answer: L(
-        "Jer B2B kupci istražuju pre prodaje — traže poverenje, dokaz i relevantnost. Founder-Led Growth pomaže da se pojaviš u toj fazi.",
+        "Jer B2B kupci istražuju pre prodaje, traže poverenje, dokaz i relevantnost. Founder-Led Growth pomaže da se pojaviš u toj fazi.",
         "Because B2B buyers research before they speak to sales. They look for trust, proof, and relevance. Founder-Led Growth helps your company show up during that research phase.",
       ),
     },
@@ -1234,8 +1234,8 @@ export const lesson1RichContent: RichLessonContent = {
     {
       question: L("Razlika od cold outbound-a?", "How is Founder-Led Growth different from cold outbound?"),
       answer: L(
-        "Cold outbound počinje porukom. Founder-Led Growth počinje kontekstom — iz content-a, komentara, webinara, intent signala. Outreach postoji, ali je topliji i bolje tempiran.",
-        "Cold outbound starts with the message. Founder-Led Growth starts with context — from content, comments, webinars, intent signals. Outreach still exists; it is just warmer, sharper, and better timed.",
+        "Cold outbound počinje porukom. Founder-Led Growth počinje kontekstom, iz content-a, komentara, webinara, intent signala. Outreach postoji, ali je topliji i bolje tempiran.",
+        "Cold outbound starts with the message. Founder-Led Growth starts with context, from content, comments, webinars, intent signals. Outreach still exists; it is just warmer, sharper, and better timed.",
       ),
     },
     {
@@ -1248,75 +1248,75 @@ export const lesson1RichContent: RichLessonContent = {
     {
       question: L("Kada predati timu?", "When should a founder hand this off to a team?"),
       answer: L(
-        "Founder može delegirati produkciju, research, format, CRM update, webinar ops i reporting — ali ne i POV prerano. Founder ne mora sve zauvek, ali njegovo mišljenje mora oblikovati sistem.",
-        "The founder can delegate production, research, formatting, CRM updates, webinar operations, and reporting — but should not fully delegate the point of view too early. The founder does not need to do everything forever, but the founder's thinking must shape the system.",
+        "Founder može delegirati produkciju, research, format, CRM update, webinar ops i reporting, ali ne i POV prerano. Founder ne mora sve zauvek, ali njegovo mišljenje mora oblikovati sistem.",
+        "The founder can delegate production, research, formatting, CRM updates, webinar operations, and reporting, but should not fully delegate the point of view too early. The founder does not need to do everything forever, but the founder's thinking must shape the system.",
       ),
     },
   ],
   sources: [
     {
-      title: L("Gartner — B2B Buying Journey", "Gartner — B2B Buying Journey"),
+      title: L("Gartner - B2B Buying Journey", "Gartner - B2B Buying Journey"),
       url: "https://www.gartner.com/en/sales/insights/b2b-buying-journey",
     },
     {
-      title: L("Edelman / LinkedIn — 2025 B2B Thought Leadership Impact Report", "Edelman / LinkedIn — 2025 B2B Thought Leadership Impact Report"),
+      title: L("Edelman / LinkedIn - 2025 B2B Thought Leadership Impact Report", "Edelman / LinkedIn - 2025 B2B Thought Leadership Impact Report"),
       url: "https://www.edelman.com/expertise/Business-Marketing/2025-b2b-thought-leadership-report",
     },
     {
-      title: L("LinkedIn Marketing Blog — Hidden Buyers / Thought Leadership", "LinkedIn Marketing Blog — Hidden Buyers / Thought Leadership"),
+      title: L("LinkedIn Marketing Blog - Hidden Buyers / Thought Leadership", "LinkedIn Marketing Blog - Hidden Buyers / Thought Leadership"),
       url: "https://www.linkedin.com/business/marketing/blog/research-and-insights/b2b-thought-leadership-influence-hidden-buyers",
     },
     {
-      title: L("TrustRadius — 2024 B2B Buying Disconnect Report", "TrustRadius — 2024 B2B Buying Disconnect Report"),
+      title: L("TrustRadius - 2024 B2B Buying Disconnect Report", "TrustRadius - 2024 B2B Buying Disconnect Report"),
       url: "https://go.trustradius.com/rs/827-FOI-687/images/2024%20B2B%20Buying%20Disconnect%20Year%20of%20the%20Brand%20Crisis.pdf",
     },
     {
-      title: L("Ipsos — LinkedIn Sales Solutions Deep Sales Study", "Ipsos — LinkedIn Sales Solutions Deep Sales Study"),
+      title: L("Ipsos - LinkedIn Sales Solutions Deep Sales Study", "Ipsos - LinkedIn Sales Solutions Deep Sales Study"),
       url: "https://www.ipsos.com/en-us/linkedin-sales-solutions-deep-sales-study",
     },
     {
-      title: L("LinkedIn Sales Solutions — Deep Sales Playbook", "LinkedIn Sales Solutions — Deep Sales Playbook"),
+      title: L("LinkedIn Sales Solutions - Deep Sales Playbook", "LinkedIn Sales Solutions - Deep Sales Playbook"),
       url: "https://business.linkedin.com/sales-solutions/deep-sales-playbook",
     },
     {
-      title: L("John Dawes — The 95:5 Rule", "John Dawes — The 95:5 Rule"),
+      title: L("John Dawes - The 95:5 Rule", "John Dawes - The 95:5 Rule"),
       url: "https://johndawes.info/the-955-rule/",
     },
     {
-      title: L("LinkedIn B2B Institute — How B2B Brands Grow", "LinkedIn B2B Institute — How B2B Brands Grow"),
+      title: L("LinkedIn B2B Institute - How B2B Brands Grow", "LinkedIn B2B Institute - How B2B Brands Grow"),
       url: "https://business.linkedin.com/advertise/resources/b2b-institute/how-b2b-brands-grow",
     },
     {
-      title: L("Y Combinator — The Sales Playbook for Founders", "Y Combinator — The Sales Playbook for Founders"),
+      title: L("Y Combinator - The Sales Playbook for Founders", "Y Combinator - The Sales Playbook for Founders"),
       url: "https://www.ycombinator.com/library/Mo-the-sales-playbook-for-founders",
     },
     {
-      title: L("Y Combinator — Enterprise Sales for Founders", "Y Combinator — Enterprise Sales for Founders"),
+      title: L("Y Combinator - Enterprise Sales for Founders", "Y Combinator - Enterprise Sales for Founders"),
       url: "https://www.ycombinator.com/library/LF-enterprise-sales-for-founders",
     },
   ],
   relatedLessons: {
     next: {
       slug: "how-to-define-your-icp",
-      title: L("Lekcija 2 — Definisanje ICP-a", "Lesson 2 — How to Define Your ICP for Founder-Led Growth"),
+      title: L("Lekcija 2 - Definisanje ICP-a", "Lesson 2 - How to Define Your ICP for Founder-Led Growth"),
       note: L("Sledeći korak u playbook-u.", "Next step in the playbook."),
     },
     related: [
       {
         slug: "linkedin-profile-optimization-founder",
-        title: L("Lekcija 3 — LinkedIn profil founder-a", "Lesson 3 — Optimize a Founder's LinkedIn Profile"),
+        title: L("Lekcija 3 - LinkedIn profil founder-a", "Lesson 3 - Optimize a Founder's LinkedIn Profile"),
       },
       {
         slug: "linkedin-content-strategy-founder",
-        title: L("Lekcija 4 — LinkedIn content strategija", "Lesson 4 — LinkedIn Content Strategy for Founders"),
+        title: L("Lekcija 4 - LinkedIn content strategija", "Lesson 4 - LinkedIn Content Strategy for Founders"),
       },
       {
         slug: "crm-za-founder-led-growth",
-        title: L("Lekcija 10 — CRM za Founder-Led Growth", "Lesson 10 — Track Founder-Led Growth in CRM"),
+        title: L("Lekcija 10 - CRM za Founder-Led Growth", "Lesson 10 - Track Founder-Led Growth in CRM"),
       },
       {
         slug: "buying-signals-b2b-sales",
-        title: L("Lekcija 11 — Buying signals", "Lesson 11 — Buying Signals in B2B Sales"),
+        title: L("Lekcija 11 - Buying signals", "Lesson 11 - Buying Signals in B2B Sales"),
       },
     ],
   },

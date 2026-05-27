@@ -23,7 +23,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   }
 
   return {
-    title: `${tool.name} — Pregled, cene i alternative | Lead Agents`,
+    title: `${tool.name}, Pregled, cene i alternative | Lead Agents`,
     description: tool.overview[locale],
   };
 }

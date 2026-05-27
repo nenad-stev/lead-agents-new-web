@@ -11,7 +11,7 @@ type AnimateInViewProps = {
   className?: string;
   /** Stagger delay in ms */
   delay?: number;
-  /** Start animation when this much of element is visible (0–1) */
+  /** Start animation when this much of element is visible (0-1) */
   threshold?: number;
 };
 

@@ -129,8 +129,8 @@ export const apolloTool: SalesTool = {
   setup: {
     complexity: { sr: "Srednja", en: "Medium" },
     description: {
-      sr: "Brz onboarding — povežete email, definišete ICP i pokrećete prvu listu za nekoliko sati.",
-      en: "Fast onboarding — connect email, define ICP, and launch your first list within hours.",
+      sr: "Brz onboarding, povežete email, definišete ICP i pokrećete prvu listu za nekoliko sati.",
+      en: "Fast onboarding, connect email, define ICP, and launch your first list within hours.",
     },
   },
   pros: {

@@ -5,8 +5,8 @@ export const adcreativeTool: SalesTool = {
   name: "AdCreative.ai",
   logo: "/images/sales-tools/adcreative.png",
   tagline: {
-    sr: "AI ad kreativi — baneri, copy, video i product shoot za Meta i Google",
-    en: "AI ad creatives — banners, copy, video, and product shoots for Meta and Google",
+    sr: "AI ad kreativi, baneri, copy, video i product shoot za Meta i Google",
+    en: "AI ad creatives, banners, copy, video, and product shoots for Meta and Google",
   },
   categoryId: "paid-ads",
   category: { sr: "Paid reklame", en: "Paid ads" },
@@ -32,8 +32,8 @@ export const adcreativeTool: SalesTool = {
   recommended: true,
   rating: { g2: 4.6, g2Reviews: 320 },
   overview: {
-    sr: "AdCreative.ai generiše oglase optimizovane za konverziju: statični baneri, AI copy, product photoshoot i video — trenirano na podacima sa $35B+ u ad spend-u. Krediti se troše na download; generisanje je neograničeno.",
-    en: "AdCreative.ai generates conversion-optimized ads: static banners, AI copy, product photoshoots, and video — trained on $35B+ in ad performance data. Credits are spent on downloads; generation is unlimited.",
+    sr: "AdCreative.ai generiše oglase optimizovane za konverziju: statični baneri, AI copy, product photoshoot i video, trenirano na podacima sa $35B+ u ad spend-u. Krediti se troše na download; generisanje je neograničeno.",
+    en: "AdCreative.ai generates conversion-optimized ads: static banners, AI copy, product photoshoots, and video, trained on $35B+ in ad performance data. Credits are spent on downloads; generation is unlimited.",
   },
   overviewExtended: {
     sr: "Za e-commerce, agencije i SMB paid timove. Starter ($39/mes, 10 kredita) pokriva slike i copy; Professional ($249) otključava video, batch, creative scoring i compliance. Ultimate ($999) za više brendova i agency scale. 7-dnevni trial (10 kredita, bez kartice). Godišnje -50%, kvartalno -25%.",
@@ -274,14 +274,14 @@ export const adcreativeTool: SalesTool = {
   },
   pros: {
     sr: [
-      "Brzo — kreativi za minute, ne dane",
+      "Brzo, kreativi za minute, ne dane",
       "Trenirano na ogromnom ad performance dataset-u",
       "Neograničeno generisanje pre download-a",
       "Integracije sa Meta i Google Ads",
       "Jasan ROI za paid timove bez agencije",
     ],
     en: [
-      "Fast — creatives in minutes, not days",
+      "Fast, creatives in minutes, not days",
       "Trained on a massive ad performance dataset",
       "Unlimited generation before download",
       "Meta and Google Ads integrations",
@@ -291,14 +291,14 @@ export const adcreativeTool: SalesTool = {
   cons: {
     sr: [
       "Video i batch tek od $249/mes",
-      "Krediti se ne prenose — troše se na download",
+      "Krediti se ne prenose, troše se na download",
       "Nije zamena za Canva dizajn opšte namene",
       "Enterprise API samo na custom planu",
       "Ultimate plan skup za manje agencije",
     ],
     en: [
       "Video and batch only from $249/mo",
-      "Credits do not roll over — spent on download",
+      "Credits do not roll over, spent on download",
       "Not a general-purpose Canva replacement",
       "Enterprise API only on custom plans",
       "Ultimate plan is expensive for smaller agencies",
@@ -309,8 +309,8 @@ export const adcreativeTool: SalesTool = {
       slug: "unbounce",
       name: "Unbounce",
       description: {
-        sr: "Landing stranice — drugačiji deo funnel-a.",
-        en: "Landing pages — different part of the funnel.",
+        sr: "Landing stranice, drugačiji deo funnel-a.",
+        en: "Landing pages, different part of the funnel.",
       },
       startingPrice: { sr: "od $29", en: "from $29" },
       trial: { sr: "14 dana", en: "14 days" },
@@ -320,8 +320,8 @@ export const adcreativeTool: SalesTool = {
       slug: "instantly",
       name: "Instantly",
       description: {
-        sr: "Cold email — paid + outbound stack.",
-        en: "Cold email — paid plus outbound stack.",
+        sr: "Cold email, paid + outbound stack.",
+        en: "Cold email, paid plus outbound stack.",
       },
       startingPrice: { sr: "od $37", en: "from $37" },
       trial: { sr: "14 dana", en: "14 days" },
@@ -331,8 +331,8 @@ export const adcreativeTool: SalesTool = {
       slug: "clay",
       name: "Clay",
       description: {
-        sr: "GTM data — ne generiše ad kreative.",
-        en: "GTM data — does not generate ad creatives.",
+        sr: "GTM data, ne generiše ad kreative.",
+        en: "GTM data, does not generate ad creatives.",
       },
       startingPrice: { sr: "od $149", en: "from $149" },
       trial: { sr: "14 dana", en: "14 days" },
@@ -361,22 +361,22 @@ export const adcreativeTool: SalesTool = {
     {
       question: { sr: "Šta je kredit?", en: "What is a credit?" },
       answer: {
-        sr: "Kredit se troši kada preuzmete (download) finalni kreativ. Generisanje varijanti je neograničeno — možete testirati mnogo verzija pre nego što potrošite kredit na export.",
-        en: "A credit is spent when you download a final creative. Generating variants is unlimited — test many versions before spending a credit on export.",
+        sr: "Kredit se troši kada preuzmete (download) finalni kreativ. Generisanje varijanti je neograničeno, možete testirati mnogo verzija pre nego što potrošite kredit na export.",
+        en: "A credit is spent when you download a final creative. Generating variants is unlimited, test many versions before spending a credit on export.",
       },
     },
     {
       question: { sr: "Da li ima besplatan trial?", en: "Is there a free trial?" },
       answer: {
-        sr: "Da — 7 dana sa pristupom Pro funkcijama i 10 kredita, bez kreditne kartice.",
-        en: "Yes — 7 days with Pro feature access and 10 credits, no credit card required.",
+        sr: "Da - 7 dana sa pristupom Pro funkcijama i 10 kredita, bez kreditne kartice.",
+        en: "Yes - 7 days with Pro feature access and 10 credits, no credit card required.",
       },
     },
     {
       question: { sr: "Zašto izabrati AdCreative?", en: "Why choose AdCreative?" },
       answer: {
-        sr: "Kada vam trebaju performance-oriented ad kreativi brzo, sa insight-ima iz stvarnih kampanja i bez full-time dizajnera — posebno za e-commerce i agencije sa više klijenata.",
-        en: "When you need performance-oriented ad creatives fast, with insights from real campaigns and without a full-time designer — especially for e-commerce and multi-client agencies.",
+        sr: "Kada vam trebaju performance-oriented ad kreativi brzo, sa insight-ima iz stvarnih kampanja i bez full-time dizajnera, posebno za e-commerce i agencije sa više klijenata.",
+        en: "When you need performance-oriented ad creatives fast, with insights from real campaigns and without a full-time designer, especially for e-commerce and multi-client agencies.",
       },
     },
     {
@@ -402,8 +402,8 @@ export const adcreativeTool: SalesTool = {
         en: "Do you need Professional for video?",
       },
       answer: {
-        sr: "Da — product video, ad video, storytelling i batch creatives su na Professional ($249) ili Ultimate planu. Starter je primarno za statične kreative i copy.",
-        en: "Yes — product video, ad video, storytelling, and batch creatives are on Professional ($249) or Ultimate. Starter is primarily for static creatives and copy.",
+        sr: "Da, product video, ad video, storytelling i batch creatives su na Professional ($249) ili Ultimate planu. Starter je primarno za statične kreative i copy.",
+        en: "Yes, product video, ad video, storytelling, and batch creatives are on Professional ($249) or Ultimate. Starter is primarily for static creatives and copy.",
       },
     },
     {
@@ -412,8 +412,8 @@ export const adcreativeTool: SalesTool = {
         en: "Does it have an API?",
       },
       answer: {
-        sr: "Javni self-serve API nije istaknut — Enterprise uključuje API/DAM integracije i tailored modele. Za većinu timova dovoljne su native Meta/Google integracije.",
-        en: "A public self-serve API is not prominently listed — Enterprise includes API/DAM integrations and tailored models. For most teams, native Meta/Google integrations are enough.",
+        sr: "Javni self-serve API nije istaknut - Enterprise uključuje API/DAM integracije i tailored modele. Za većinu timova dovoljne su native Meta/Google integracije.",
+        en: "A public self-serve API is not prominently listed - Enterprise includes API/DAM integrations and tailored models. For most teams, native Meta/Google integrations are enough.",
       },
     },
   ],

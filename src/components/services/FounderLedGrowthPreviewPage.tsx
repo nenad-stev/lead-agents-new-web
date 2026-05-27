@@ -208,8 +208,8 @@ export function FounderLedGrowthPreviewPage({
             </h2>
             <p className="mt-4 max-w-2xl text-lg text-muted">
               {locale === "sr"
-                ? "Tri stuba koji se hrane međusobno — ne tri odvojena projekta."
-                : "Three pillars that feed each other — not three separate projects."}
+                ? "Tri stuba koji se hrane međusobno, ne tri odvojena projekta."
+                : "Three pillars that feed each other, not three separate projects."}
             </p>
 
             <div className="flg-preview-flow mt-12" aria-hidden>
@@ -224,7 +224,7 @@ export function FounderLedGrowthPreviewPage({
           </div>
         </section>
 
-        {/* Pillars — alternating editorial blocks */}
+        {/* Pillars, alternating editorial blocks */}
         <section className="border-t border-border/40">
           {service.steps!.items.map((step, index) => {
             const media = pillarMedia[index];
@@ -307,7 +307,7 @@ export function FounderLedGrowthPreviewPage({
           </div>
         </section>
 
-        {/* Results slider — Lisa & Mladen */}
+        {/* Results slider - Lisa & Mladen */}
         <section className="flg-preview-section border-t border-border/40">
           <div className="mx-auto max-w-6xl px-6 md:px-8">
             <FlgResultsSlider
@@ -337,8 +337,8 @@ export function FounderLedGrowthPreviewPage({
                 </p>
                 <h2 className="mt-3 text-2xl font-bold text-foreground md:text-3xl">
                   {locale === "sr"
-                    ? "12 lekcija — besplatno, korak po korak"
-                    : "12 lessons — free, step by step"}
+                    ? "12 lekcija, besplatno, korak po korak"
+                    : "12 lessons, free, step by step"}
                 </h2>
                 <p className="mt-4 text-muted">
                   {locale === "sr"
@@ -386,8 +386,8 @@ export function FounderLedGrowthPreviewPage({
           description={
             service.consultation.ctaSubtitle?.[locale] ??
             (locale === "sr"
-              ? "Pokreni rast svoje firme — bez obaveza, samo jasan plan."
-              : "Start growing your business — no obligation, just a clear plan.")
+              ? "Pokreni rast svoje firme, bez obaveza, samo jasan plan."
+              : "Start growing your business, no obligation, just a clear plan.")
           }
           primaryHref={contactHref}
           primaryLabel={t(service.consultation.ctaButton, locale)}

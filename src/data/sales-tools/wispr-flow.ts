@@ -5,8 +5,8 @@ export const wisprFlowTool: SalesTool = {
   name: "Wispr Flow",
   logo: "/images/sales-tools/wispr-flow.png",
   tagline: {
-    sr: "Voice-to-text — 4× brže pisanje emailova, CRM nota i LinkedIn poruka",
-    en: "Voice-to-text — 4× faster emails, CRM notes, and LinkedIn messages",
+    sr: "Voice-to-text - 4× brže pisanje emailova, CRM nota i LinkedIn poruka",
+    en: "Voice-to-text - 4× faster emails, CRM notes, and LinkedIn messages",
   },
   categoryId: "voice-ai",
   category: { sr: "AI glas", en: "Voice AI" },
@@ -32,12 +32,12 @@ export const wisprFlowTool: SalesTool = {
   recommended: true,
   rating: { g2: 4.8, g2Reviews: 150 },
   overview: {
-    sr: "Wispr Flow pretvara govor u doteran tekst u bilo kojoj aplikaciji — Gmail, Slack, HubSpot, Notion — sa AI koji uklanja „eee“, ispravlja gramatiku i pamti vaš stil. Idealno za founder-e koji pišu outreach i follow-up glasom.",
-    en: "Wispr Flow turns speech into polished text in any app — Gmail, Slack, HubSpot, Notion — with AI that removes filler words, fixes grammar, and learns your style. Ideal for founders writing outreach and follow-ups by voice.",
+    sr: "Wispr Flow pretvara govor u doteran tekst u bilo kojoj aplikaciji - Gmail, Slack, HubSpot, Notion, sa AI koji uklanja „eee“, ispravlja gramatiku i pamti vaš stil. Idealno za founder-e koji pišu outreach i follow-up glasom.",
+    en: "Wispr Flow turns speech into polished text in any app - Gmail, Slack, HubSpot, Notion, with AI that removes filler words, fixes grammar, and learns your style. Ideal for founders writing outreach and follow-ups by voice.",
   },
   overviewExtended: {
-    sr: "Flow Basic **besplatno** (~2.000 reči/ned). Flow Pro **$15/mes** ($12 godišnje) — unlimited dictation. Tim/Enterprise: kontakt sales (bulk, SSO, HIPAA). 14-dan Pro trial pri signup-u. Nije meeting recorder — koristite uz tl;dv za pozive; Wispr za brzo kucanje poruka između sastanaka.",
-    en: "Flow Basic **free** (~2,000 words/week). Flow Pro **$15/mo** ($12 annual) — unlimited dictation. Team/Enterprise: contact sales (bulk, SSO, HIPAA). 14-day Pro trial on signup. Not a meeting recorder — pair with tl;dv for calls; Wispr for fast typing between meetings.",
+    sr: "Flow Basic **besplatno** (~2.000 reči/ned). Flow Pro **$15/mes** ($12 godišnje), unlimited dictation. Tim/Enterprise: kontakt sales (bulk, SSO, HIPAA). 14-dan Pro trial pri signup-u. Nije meeting recorder, koristite uz tl;dv za pozive; Wispr za brzo kucanje poruka između sastanaka.",
+    en: "Flow Basic **free** (~2,000 words/week). Flow Pro **$15/mo** ($12 annual), unlimited dictation. Team/Enterprise: contact sales (bulk, SSO, HIPAA). 14-day Pro trial on signup. Not a meeting recorder, pair with tl;dv for calls; Wispr for fast typing between meetings.",
   },
   idealFor: {
     sr: [
@@ -80,7 +80,7 @@ export const wisprFlowTool: SalesTool = {
     },
     {
       label: { sr: "Pro", en: "Pro" },
-      value: { sr: "$12–15 / mes", en: "$12–15 / mo" },
+      value: { sr: "$12-15 / mes", en: "$12-15 / mo" },
     },
     {
       label: { sr: "Probni period", en: "Trial" },
@@ -263,8 +263,8 @@ export const wisprFlowTool: SalesTool = {
       slug: "elevenlabs",
       name: "ElevenLabs",
       description: {
-        sr: "TTS & voice clone — druga namena.",
-        en: "TTS & voice clone — different use case.",
+        sr: "TTS & voice clone, druga namena.",
+        en: "TTS & voice clone, different use case.",
       },
       startingPrice: { sr: "od $0", en: "from $0" },
       trial: { sr: "Free tier", en: "Free tier" },
@@ -274,8 +274,8 @@ export const wisprFlowTool: SalesTool = {
       slug: "tldv",
       name: "tl;dv",
       description: {
-        sr: "Meeting notes — komplement.",
-        en: "Meeting notes — complement.",
+        sr: "Meeting notes, komplement.",
+        en: "Meeting notes, complement.",
       },
       startingPrice: { sr: "od $0", en: "from $0" },
       trial: { sr: "Free plan", en: "Free plan" },
@@ -285,8 +285,8 @@ export const wisprFlowTool: SalesTool = {
       slug: "instantly",
       name: "Instantly",
       description: {
-        sr: "Email slanje — posle dictation-a.",
-        en: "Email sending — after dictation.",
+        sr: "Email slanje, posle dictation-a.",
+        en: "Email sending, after dictation.",
       },
       startingPrice: { sr: "od $37", en: "from $37" },
       trial: { sr: "14 dana", en: "14 days" },
@@ -308,22 +308,22 @@ export const wisprFlowTool: SalesTool = {
     {
       question: { sr: "Koliko košta Wispr Flow?", en: "How much does Wispr Flow cost?" },
       answer: {
-        sr: "Basic $0 (~2k reči/ned). Pro $15/mes ili $12/mes godišnje (~$144/god). Business/Enterprise — kontakt sales. Studenti: 3 meseca free + 50% off Pro.",
-        en: "Basic $0 (~2k words/wk). Pro $15/mo or $12/mo annual (~$144/yr). Business/Enterprise — contact sales. Students: 3 months free + 50% off Pro.",
+        sr: "Basic $0 (~2k reči/ned). Pro $15/mes ili $12/mes godišnje (~$144/god). Business/Enterprise, kontakt sales. Studenti: 3 meseca free + 50% off Pro.",
+        en: "Basic $0 (~2k words/wk). Pro $15/mo or $12/mo annual (~$144/yr). Business/Enterprise, contact sales. Students: 3 months free + 50% off Pro.",
       },
     },
     {
       question: { sr: "Da li ima besplatan plan?", en: "Is there a free plan?" },
       answer: {
-        sr: "Da — Flow Basic je trajno besplatan sa nedeljnim limitom. Plus 14-dnevni Flow Pro trial pri prvom signup-u, bez kartice.",
-        en: "Yes — Flow Basic is permanently free with a weekly cap. Plus a 14-day Flow Pro trial on first signup, no card.",
+        sr: "Da - Flow Basic je trajno besplatan sa nedeljnim limitom. Plus 14-dnevni Flow Pro trial pri prvom signup-u, bez kartice.",
+        en: "Yes - Flow Basic is permanently free with a weekly cap. Plus a 14-day Flow Pro trial on first signup, no card.",
       },
     },
     {
       question: { sr: "Zašto izabrati Wispr Flow?", en: "Why choose Wispr Flow?" },
       answer: {
-        sr: "Kada pišete 50+ emailova/poruka dnevno i želite brzinu bez gubljenja kvaliteta teksta — posebno za founder-led outbound.",
-        en: "When you write 50+ emails/messages daily and want speed without losing text quality — especially for founder-led outbound.",
+        sr: "Kada pišete 50+ emailova/poruka dnevno i želite brzinu bez gubljenja kvaliteta teksta, posebno za founder-led outbound.",
+        en: "When you write 50+ emails/messages daily and want speed without losing text quality, especially for founder-led outbound.",
       },
     },
     {
@@ -336,8 +336,8 @@ export const wisprFlowTool: SalesTool = {
     {
       question: { sr: "Da li ima API?", en: "Does it have an API?" },
       answer: {
-        sr: "Fokus je na desktop/mobile app — enterprise plan nudi compliance i integracije preko sales tima; nije developer-first API platforma.",
-        en: "Focus is desktop/mobile app — enterprise plan offers compliance and integrations via sales; not a developer-first API platform.",
+        sr: "Fokus je na desktop/mobile app, enterprise plan nudi compliance i integracije preko sales tima; nije developer-first API platforma.",
+        en: "Focus is desktop/mobile app, enterprise plan offers compliance and integrations via sales; not a developer-first API platform.",
       },
     },
   ],

@@ -32,12 +32,12 @@ export const taplioTool: SalesTool = {
   recommended: true,
   rating: { g2: 4.6, g2Reviews: 180 },
   overview: {
-    sr: "Taplio je all-in-one LinkedIn alat za founder-e i B2B timove: AI pomaže da pišete postove, planirate objave, pratite performanse i gradite engagement — bez skakanja između Docs-a, Canva-e i native LinkedIn-a.",
-    en: "Taplio is an all-in-one LinkedIn tool for founders and B2B teams: AI helps you write posts, plan publishing, track performance, and build engagement — without jumping between Docs, Canva, and native LinkedIn.",
+    sr: "Taplio je all-in-one LinkedIn alat za founder-e i B2B timove: AI pomaže da pišete postove, planirate objave, pratite performanse i gradite engagement, bez skakanja između Docs-a, Canva-e i native LinkedIn-a.",
+    en: "Taplio is an all-in-one LinkedIn tool for founders and B2B teams: AI helps you write posts, plan publishing, track performance, and build engagement, without jumping between Docs, Canva, and native LinkedIn.",
   },
   overviewExtended: {
-    sr: "AI je treniran na stotinama miliona LinkedIn postova, a biblioteka od 5M+ viralnih objava daje inspiraciju po niši. Starter plan ($39) je za scheduling i analitiku bez AI kredita; za AI pisanje i komentare treba Standard ($65) ili Pro ($199) sa lead bazom i naprednom automatizacijom. Nije CRM ni email outreach alat — Taplio je content engine koji se lepo kombinuje sa Clay, Attio i La Growth Machine u Founder-Led Growth stack-u.",
-    en: "AI is trained on hundreds of millions of LinkedIn posts, and a library of 5M+ viral posts gives niche-specific inspiration. The Starter plan ($39) covers scheduling and analytics without AI credits; AI writing and commenting require Standard ($65) or Pro ($199) with a lead database and advanced automation. It is not a CRM or email outreach tool — Taplio is a content engine that pairs well with Clay, Attio, and La Growth Machine in a Founder-Led Growth stack.",
+    sr: "AI je treniran na stotinama miliona LinkedIn postova, a biblioteka od 5M+ viralnih objava daje inspiraciju po niši. Starter plan ($39) je za scheduling i analitiku bez AI kredita; za AI pisanje i komentare treba Standard ($65) ili Pro ($199) sa lead bazom i naprednom automatizacijom. Nije CRM ni email outreach alat - Taplio je content engine koji se lepo kombinuje sa Clay, Attio i La Growth Machine u Founder-Led Growth stack-u.",
+    en: "AI is trained on hundreds of millions of LinkedIn posts, and a library of 5M+ viral posts gives niche-specific inspiration. The Starter plan ($39) covers scheduling and analytics without AI credits; AI writing and commenting require Standard ($65) or Pro ($199) with a lead database and advanced automation. It is not a CRM or email outreach tool - Taplio is a content engine that pairs well with Clay, Attio, and La Growth Machine in a Founder-Led Growth stack.",
   },
   idealFor: {
     sr: [
@@ -252,14 +252,14 @@ export const taplioTool: SalesTool = {
   },
   cons: {
     sr: [
-      "Starter ($39) nema AI kredite — samo scheduling",
+      "Starter ($39) nema AI kredite, samo scheduling",
       "Za ozbiljan AI workflow minimum je $65/mesec",
       "Fokus isključivo na LinkedIn (nema X/email u Taplio-u)",
       "Automation na Pro nivou zahteva pažnju prema LinkedIn pravilima",
       "Nije zamena za CRM ili cold email alate",
     ],
     en: [
-      "Starter ($39) has no AI credits — scheduling only",
+      "Starter ($39) has no AI credits, scheduling only",
       "Serious AI workflow starts at $65/month minimum",
       "LinkedIn-only focus (no X/email inside Taplio)",
       "Pro automation requires care around LinkedIn policies",
@@ -315,29 +315,29 @@ export const taplioTool: SalesTool = {
         en: "Does the Starter plan include AI?",
       },
       answer: {
-        sr: "Ne — Starter uključuje scheduling, viralnu biblioteku i analitiku, ali nema AI expert mode kredite. Za AI pisanje postova treba Standard ili Pro.",
-        en: "No — Starter includes scheduling, the viral library, and analytics, but no AI expert mode credits. AI post writing requires Standard or Pro.",
+        sr: "Ne - Starter uključuje scheduling, viralnu biblioteku i analitiku, ali nema AI expert mode kredite. Za AI pisanje postova treba Standard ili Pro.",
+        en: "No - Starter includes scheduling, the viral library, and analytics, but no AI expert mode credits. AI post writing requires Standard or Pro.",
       },
     },
     {
       question: { sr: "Da li Taplio ima probni period?", en: "Does Taplio offer a trial?" },
       answer: {
-        sr: "Da — 7 dana trial sa punim Pro pristupom (sve funkcije i neograničeni krediti tokom trial-a). Nakon toga birate plan; otkazivanje je u Settings → Billing.",
-        en: "Yes — a 7-day trial with full Pro access (all features and unlimited credits during the trial). Then you pick a plan; cancel anytime in Settings → Billing.",
+        sr: "Da - 7 dana trial sa punim Pro pristupom (sve funkcije i neograničeni krediti tokom trial-a). Nakon toga birate plan; otkazivanje je u Settings → Billing.",
+        en: "Yes, a 7-day trial with full Pro access (all features and unlimited credits during the trial). Then you pick a plan; cancel anytime in Settings → Billing.",
       },
     },
     {
       question: { sr: "Zašto izabrati Taplio?", en: "Why choose Taplio?" },
       answer: {
-        sr: "Kada founder ili mali tim želi da sistematski objavljuje na LinkedIn-u — sa inspiracijom, AI pomoći, scheduling-om i analitikom — bez ručnog haosa. Idealno za Founder-Led Growth content fazu.",
-        en: "When a founder or small team wants to publish systematically on LinkedIn — with inspiration, AI help, scheduling, and analytics — without manual chaos. Ideal for the Founder-Led Growth content phase.",
+        sr: "Kada founder ili mali tim želi da sistematski objavljuje na LinkedIn-u, sa inspiracijom, AI pomoći, scheduling-om i analitikom, bez ručnog haosa. Idealno za Founder-Led Growth content fazu.",
+        en: "When a founder or small team wants to publish systematically on LinkedIn, with inspiration, AI help, scheduling, and analytics, without manual chaos. Ideal for the Founder-Led Growth content phase.",
       },
     },
     {
       question: { sr: "Da li je Taplio siguran za LinkedIn?", en: "Is Taplio safe for LinkedIn?" },
       answer: {
-        sr: "Taplio dizajnira automatizacije da prate normalne LinkedIn obrasce (objave, komentari, engagement). Ipak, agresivna automatizacija na Pro planu zahteva oprez — pratite LinkedIn limite i Terms of Service.",
-        en: "Taplio designs automations to follow normal LinkedIn patterns (posts, comments, engagement). Still, aggressive Pro-level automation needs caution — respect LinkedIn limits and Terms of Service.",
+        sr: "Taplio dizajnira automatizacije da prate normalne LinkedIn obrasce (objave, komentari, engagement). Ipak, agresivna automatizacija na Pro planu zahteva oprez, pratite LinkedIn limite i Terms of Service.",
+        en: "Taplio designs automations to follow normal LinkedIn patterns (posts, comments, engagement). Still, aggressive Pro-level automation needs caution, respect LinkedIn limits and Terms of Service.",
       },
     },
     {

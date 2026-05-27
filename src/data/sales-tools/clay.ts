@@ -32,12 +32,12 @@ export const clayTool: SalesTool = {
   recommended: true,
   rating: { g2: 4.9, g2Reviews: 1200 },
   overview: {
-    sr: "Clay je radna površina za GTM timove: u jednoj tabeli spajate 150+ data provajdera, AI istraživanje (Claygent), signale i automatizacije — bez ručnog prebacivanja CSV-ova i API ključeva po alatima.",
-    en: "Clay is a workspace for GTM teams: in one table you connect 150+ data providers, AI research (Claygent), signals, and automations — without manually juggling CSVs and API keys across tools.",
+    sr: "Clay je radna površina za GTM timove: u jednoj tabeli spajate 150+ data provajdera, AI istraživanje (Claygent), signale i automatizacije, bez ručnog prebacivanja CSV-ova i API ključeva po alatima.",
+    en: "Clay is a workspace for GTM teams: in one table you connect 150+ data providers, AI research (Claygent), signals, and automations, without manually juggling CSVs and API keys across tools.",
   },
   overviewExtended: {
-    sr: "Tipičan flow: uvezete listu ili LinkedIn search, pokrenete waterfall za email/telefon, obogatite firmografiju, dodate AI personalizaciju i pošaljete u Lemlist, Instantly ili CRM. Nije zamena za pun CRM ili masivan email sender — Clay je mozak koji priprema i održava podatke u pokretu.",
-    en: "Typical flow: import a list or LinkedIn search, run a waterfall for email/phone, enrich firmographics, add AI personalization, and push to Lemlist, Instantly, or your CRM. It is not a full CRM or high-volume email sender — Clay is the brain that prepares and keeps data in motion.",
+    sr: "Tipičan flow: uvezete listu ili LinkedIn search, pokrenete waterfall za email/telefon, obogatite firmografiju, dodate AI personalizaciju i pošaljete u Lemlist, Instantly ili CRM. Nije zamena za pun CRM ili masivan email sender - Clay je mozak koji priprema i održava podatke u pokretu.",
+    en: "Typical flow: import a list or LinkedIn search, run a waterfall for email/phone, enrich firmographics, add AI personalization, and push to Lemlist, Instantly, or your CRM. It is not a full CRM or high-volume email sender - Clay is the brain that prepares and keeps data in motion.",
   },
   idealFor: {
     sr: [
@@ -58,19 +58,19 @@ export const clayTool: SalesTool = {
   keyFeatures: {
     sr: [
       "Waterfall enrichment preko 150+ provajdera",
-      "Claygent — AI web research i custom kolone",
+      "Claygent - AI web research i custom kolone",
       "Signali: job change, news, web intent, social",
       "CRM auto-sync i hygiene (HubSpot, Salesforce…)",
       "Sequencer i integracije sa outreach alatima",
-      "Sculptor — workflow-i prirodnim jezikom",
+      "Sculptor, workflow-i prirodnim jezikom",
     ],
     en: [
       "Waterfall enrichment across 150+ providers",
-      "Claygent — AI web research and custom columns",
+      "Claygent - AI web research and custom columns",
       "Signals: job change, news, web intent, social",
       "CRM auto-sync and hygiene (HubSpot, Salesforce…)",
       "Sequencer and outreach tool integrations",
-      "Sculptor — workflows in natural language",
+      "Sculptor, workflows in natural language",
     ],
   },
   quickFacts: [
@@ -262,30 +262,30 @@ export const clayTool: SalesTool = {
     sr: [
       "Jedno mesto za 150+ data izvora i waterfall logiku",
       "Claygent za research koji drugi alati ne pokrivaju",
-      "Fleksibilni workflow-i — od liste do CRM/outreach-a",
+      "Fleksibilni workflow-i, od liste do CRM/outreach-a",
       "Neograničeni korisnici na svim planovima",
       "Jaka zajednica (Clay University, Slack)",
     ],
     en: [
       "One place for 150+ data sources and waterfall logic",
       "Claygent for research other tools do not cover",
-      "Flexible workflows — from list to CRM/outreach",
+      "Flexible workflows, from list to CRM/outreach",
       "Unlimited users on all plans",
       "Strong community (Clay University, Slack)",
     ],
   },
   cons: {
     sr: [
-      "Kriva učenja — nije plug-and-play za početnike",
+      "Kriva učenja, nije plug-and-play za početnike",
       "Cena raste sa actions i data kreditima",
-      "Nije outreach platforma — treba vam sender pored",
+      "Nije outreach platforma, treba vam sender pored",
       "Najbolji CRM i intent feature-i tek na Growth+",
       "Kompleksno planiranje potrošnje kredita",
     ],
     en: [
-      "Steep learning curve — not plug-and-play for beginners",
+      "Steep learning curve, not plug-and-play for beginners",
       "Cost scales with actions and data credits",
-      "Not an outreach platform — you still need a sender",
+      "Not an outreach platform, you still need a sender",
       "Best CRM and intent features start on Growth+",
       "Credit usage takes planning to control spend",
     ],
@@ -295,8 +295,8 @@ export const clayTool: SalesTool = {
       slug: "relevance-ai",
       name: "Relevance AI",
       description: {
-        sr: "AI agenti — automatizacija posle Clay enrichment-a.",
-        en: "AI agents — automation after Clay enrichment.",
+        sr: "AI agenti, automatizacija posle Clay enrichment-a.",
+        en: "AI agents, automation after Clay enrichment.",
       },
       startingPrice: { sr: "od $0", en: "from $0" },
       trial: { sr: "Free plan", en: "Free plan" },
@@ -339,8 +339,8 @@ export const clayTool: SalesTool = {
       slug: "apollo",
       name: "Apollo",
       description: {
-        sr: "Baza + outreach u jednom — manje custom workflow-a.",
-        en: "Database plus outreach in one — less custom workflow.",
+        sr: "Baza + outreach u jednom, manje custom workflow-a.",
+        en: "Database plus outreach in one, less custom workflow.",
       },
       startingPrice: { sr: "od $49", en: "from $49" },
       trial: { sr: "14 dana", en: "14 days" },
@@ -384,8 +384,8 @@ export const clayTool: SalesTool = {
     {
       question: { sr: "Koliko košta Clay?", en: "How much does Clay cost?" },
       answer: {
-        sr: "Free plan je $0 (500 actions, 100 data kredita). Launch od ~$134–167/mesec, Growth od ~$359–446/mesec, Enterprise po dogovoru. Naplata kombinuje platform actions i data kredite za provajdere.",
-        en: "The free plan is $0 (500 actions, 100 data credits). Launch from ~$134–167/month, Growth from ~$359–446/month, Enterprise is custom. Billing combines platform actions and data credits for providers.",
+        sr: "Free plan je $0 (500 actions, 100 data kredita). Launch od ~$134-167/mesec, Growth od ~$359-446/mesec, Enterprise po dogovoru. Naplata kombinuje platform actions i data kredite za provajdere.",
+        en: "The free plan is $0 (500 actions, 100 data credits). Launch from ~$134-167/month, Growth from ~$359-446/month, Enterprise is custom. Billing combines platform actions and data credits for providers.",
       },
     },
     {
@@ -398,29 +398,29 @@ export const clayTool: SalesTool = {
     {
       question: { sr: "Da li Clay ima probni period?", en: "Does Clay offer a trial?" },
       answer: {
-        sr: "Da — 14-dnevni trial na paid planovima, plus trajni Free plan bez kartice za eksperimentisanje.",
-        en: "Yes — a 14-day trial on paid plans, plus a permanent free plan with no card required to experiment.",
+        sr: "Da - 14-dnevni trial na paid planovima, plus trajni Free plan bez kartice za eksperimentisanje.",
+        en: "Yes, a 14-day trial on paid plans, plus a permanent free plan with no card required to experiment.",
       },
     },
     {
       question: { sr: "Zašto izabrati Clay?", en: "Why choose Clay?" },
       answer: {
-        sr: "Kada vam treba custom GTM logika — waterfall, AI research, signali i sync u CRM/outreach — a ne samo jedan fiksni data vendor.",
-        en: "When you need custom GTM logic — waterfalls, AI research, signals, and sync to CRM/outreach — not just one fixed data vendor.",
+        sr: "Kada vam treba custom GTM logika, waterfall, AI research, signali i sync u CRM/outreach, a ne samo jedan fiksni data vendor.",
+        en: "When you need custom GTM logic, waterfalls, AI research, signals, and sync to CRM/outreach, not just one fixed data vendor.",
       },
     },
     {
       question: { sr: "Da li Clay šalje emailove?", en: "Does Clay send emails?" },
       answer: {
-        sr: "Ima ugrađeni sequencer i integracije sa Lemlist, Instantly, Outreach i drugima — Clay priprema podatke i pokreće kampanje, ali većina timova i dalje koristi dedicirani sender za skalu.",
-        en: "It has a built-in sequencer and integrations with Lemlist, Instantly, Outreach, and others — Clay prepares data and triggers campaigns, but most teams still use a dedicated sender for scale.",
+        sr: "Ima ugrađeni sequencer i integracije sa Lemlist, Instantly, Outreach i drugima - Clay priprema podatke i pokreće kampanje, ali većina timova i dalje koristi dedicirani sender za skalu.",
+        en: "It has a built-in sequencer and integrations with Lemlist, Instantly, Outreach, and others - Clay prepares data and triggers campaigns, but most teams still use a dedicated sender for scale.",
       },
     },
     {
       question: { sr: "Da li Clay ima API?", en: "Does Clay have an API?" },
       answer: {
-        sr: "Da — HTTP API, webhook-i, CRM integracije i MCP server za povezivanje sa AI alatima i internim sistemima.",
-        en: "Yes — HTTP API, webhooks, CRM integrations, and an MCP server to connect with AI tools and internal systems.",
+        sr: "Da - HTTP API, webhook-i, CRM integracije i MCP server za povezivanje sa AI alatima i internim sistemima.",
+        en: "Yes - HTTP API, webhooks, CRM integrations, and an MCP server to connect with AI tools and internal systems.",
       },
     },
     {

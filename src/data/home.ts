@@ -6,8 +6,8 @@ export const homeFlagshipService = {
     en: "A complete B2B growth system on LinkedIn",
   },
   description: {
-    sr: "Jedan integrisani sistem koji spaja outbound, sadržaj koji gradi autoritet i LinkedIn Ads — umesto fragmentisanih agencija i alata. Mi vodimo celu strategiju, implementaciju i optimizaciju dok vi zatvarate sastanke.",
-    en: "One integrated system combining outbound, authority-building content, and LinkedIn Ads — instead of fragmented agencies and tools. We run strategy, implementation, and optimization while you close deals.",
+    sr: "Jedan integrisani sistem koji spaja outbound, sadržaj koji gradi autoritet i LinkedIn Ads, umesto fragmentisanih agencija i alata. Mi vodimo celu strategiju, implementaciju i optimizaciju dok vi zatvarate sastanke.",
+    en: "One integrated system combining outbound, authority-building content, and LinkedIn Ads, instead of fragmented agencies and tools. We run strategy, implementation, and optimization while you close deals.",
   },
   pillars: [
     {
@@ -192,19 +192,19 @@ export const homeDifferentiators = {
   },
   paragraphs: {
     sr: [
-      "Iskreno — baš ništa. Ali volimo da mislimo da smo opušteni ljudi, pa bi trebalo da bude zabavno raditi sa nama.",
+      "Iskreno, baš ništa. Ali volimo da mislimo da smo opušteni ljudi, pa bi trebalo da bude zabavno raditi sa nama.",
       "Šalu na stranu, svaki projekat tretiramo kao da je naš sopstveni. Videli smo mnogo toga u prodaji i marketingu tokom poslednjih 12 godina, a cela industrija se baš dosta promenila.",
       "Ono što nas izdvaja jeste naš pristup Founder Led Growth-u. Fokusiramo se na izgradnju autoriteta vlasnika i vaših top ljudi kroz sadržaj koji gradi poverenje, povezujemo ih sa drugim ekspertima u industriji i koristimo pametni, AI-driven LinkedIn outreach da angažujemo idealne klijente i punimo vaš pipeline.",
     ],
     en: [
-      "Honestly — nothing at all. But we like to think we're easygoing people, so working with us should be fun.",
+      "Honestly, nothing at all. But we like to think we're easygoing people, so working with us should be fun.",
       "Jokes aside, we treat every project as if it were our own. We've seen a lot in sales and marketing over the last 12 years, and the industry has changed dramatically.",
       "What sets us apart is our Founder Led Growth approach. We build authority for founders and top team members through trust-building content, connect them with industry experts, and use smart, AI-driven LinkedIn outreach to engage ideal clients and fill your pipeline.",
     ],
   },
   motto: {
-    sr: "Ako ne uživaš u poslu, koja je onda poenta? — naš moto koji živimo svaki dan.",
-    en: "If you do not enjoy your work, what is the point? — our motto we live by every day.",
+    sr: "Ako ne uživaš u poslu, koja je onda poenta?, naš moto koji živimo svaki dan.",
+    en: "If you do not enjoy your work, what is the point?, our motto we live by every day.",
   },
 } as const;
 

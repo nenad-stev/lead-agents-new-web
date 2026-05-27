@@ -32,7 +32,7 @@ export function SalesToolDetailPage({ locale, dictionary, tool }: SalesToolDetai
 
   const comparisonRows = tool.pricing.comparison.map((row) => [
     t(row.feature, locale),
-    ...tool.pricing.plans.map((plan) => t(row.values[plan.id] ?? { sr: "—", en: "—" }, locale)),
+    ...tool.pricing.plans.map((plan) => t(row.values[plan.id] ?? { sr: ", ", en: ", " }, locale)),
   ]);
 
   const alternativeHeaders = [
@@ -235,7 +235,7 @@ export function SalesToolDetailPage({ locale, dictionary, tool }: SalesToolDetai
                 <ul className="mt-4 space-y-2 text-sm text-muted">
                   {tool.cons[locale].map((item) => (
                     <li key={item} className="flex gap-2">
-                      <span className="text-muted">−</span>
+                      <span className="text-muted">-</span>
                       {item}
                     </li>
                   ))}

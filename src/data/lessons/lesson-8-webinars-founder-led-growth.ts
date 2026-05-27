@@ -6,8 +6,8 @@ const H = (sr: string[], en: string[]) => sr.map((s, i) => ({ sr: s, en: en[i] }
 
 const video1 = {
   title: L(
-    "The Call-Booking Webinar — Funnel That Converts",
-    "The Call-Booking Webinar — Funnel That Converts",
+    "The Call-Booking Webinar - Funnel That Converts",
+    "The Call-Booking Webinar - Funnel That Converts",
   ),
   channel: L("YouTube", "YouTube"),
   description: L(
@@ -21,8 +21,8 @@ const video1 = {
 
 const video2 = {
   title: L(
-    "LinkedIn Content Strategy Framework 2026 — Webinar Demand",
-    "LinkedIn Content Strategy Framework 2026 — Webinar Demand",
+    "LinkedIn Content Strategy Framework 2026 - Webinar Demand",
+    "LinkedIn Content Strategy Framework 2026 - Webinar Demand",
   ),
   channel: L("YouTube", "YouTube"),
   description: L(
@@ -47,7 +47,7 @@ const video3 = {
 };
 
 const video4 = {
-  title: L("LinkedIn Sales Navigator — Webinar Attendees & Lead Lists", "LinkedIn Sales Navigator — Webinar Attendees & Lead Lists"),
+  title: L("LinkedIn Sales Navigator - Webinar Attendees & Lead Lists", "LinkedIn Sales Navigator - Webinar Attendees & Lead Lists"),
   channel: L("YouTube", "YouTube"),
   description: L(
     "Korisno za kvalifikaciju registranata, list building i follow-up posle webinara.",
@@ -61,7 +61,7 @@ const video4 = {
 export const lesson8RichContent: RichLessonContent = {
   meta: {
     stage: L("Webinar Engine", "Webinar Engine"),
-    readingTime: L("12–15 min", "12–15 min"),
+    readingTime: L("12-15 min", "12-15 min"),
     difficulty: L("Srednji nivo", "Intermediate"),
     outcome: L(
       "Izgradićeš webinar sistem koji pretvara founder ekspertizu u high-intent registracije, korisnu edukaciju kupca, segmentiran follow-up i kvalifikovan pipeline.",
@@ -85,9 +85,9 @@ export const lesson8RichContent: RichLessonContent = {
         "Webinar nije nešto što promovišeš dve nedelje i zaboraviš.",
         "U Founder-Led Growth-u webinar ima vrlo specifičan posao: pretvoriti pažnju u nameru.",
         "LinkedIn postovi stvaraju awareness. Profil gradi poverenje. Komentari stvaraju familiarity. Outreach pokreće razgovore.",
-        "Ali webinar radi nešto dublje — daje kupcima 30–45 minuta sa tvojim razmišljanjem.",
+        "Ali webinar radi nešto dublje, daje kupcima 30-45 minuta sa tvojim razmišljanjem.",
         "Čuju founder-a kako objašnjava problem. Vide okvir. Postavljaju pitanja. Glasanje u anketama. Otkrivaju šta im je važno.",
-        "To nije samo content. To su first-party intent podaci — ali samo ako ga strukturiraš kako treba.",
+        "To nije samo content. To su first-party intent podaci, ali samo ako ga strukturiraš kako treba.",
         "Webinar bez follow-up-a je samo content. Webinar sa segmentacijom, CRM tracking-om i kontekstualnim outreach-om postaje pipeline.",
       ],
       [
@@ -96,15 +96,15 @@ export const lesson8RichContent: RichLessonContent = {
         "A webinar is not just something you promote for two weeks and forget.",
         "In Founder-Led Growth, a webinar has a very specific job: turn attention into intent.",
         "LinkedIn posts create awareness. Your profile builds trust. Comments create familiarity. Outreach starts conversations.",
-        "But a webinar does something deeper — it gives buyers 30–45 minutes with your thinking.",
+        "But a webinar does something deeper, it gives buyers 30-45 minutes with your thinking.",
         "They hear the founder explain the problem. They see the framework. They ask questions. They vote in polls. They reveal what they care about.",
-        "That is not just content. That is first-party intent data — but only if you structure it correctly.",
+        "That is not just content. That is first-party intent data, but only if you structure it correctly.",
         "A webinar without follow-up is just content. A webinar with segmentation, CRM tracking, and contextual outreach becomes pipeline.",
       ],
     ),
     callout: L(
-      "Pipeline asset, ne jednokratni event — webinar skuplja first-party intent podatke.",
-      "Pipeline asset, not a one-off event — webinars collect first-party intent data.",
+      "Pipeline asset, ne jednokratni event, webinar skuplja first-party intent podatke.",
+      "Pipeline asset, not a one-off event, webinars collect first-party intent data.",
     ),
   },
   toc: [
@@ -159,12 +159,12 @@ export const lesson8RichContent: RichLessonContent = {
           type: "illustration",
           src: "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&w=1400&q=80",
           alt: L(
-            "Live webinar — founder pred publikom, intent engine",
-            "Live webinar — founder in front of audience, intent engine",
+            "Live webinar, founder pred publikom, intent engine",
+            "Live webinar, founder in front of audience, intent engine",
           ),
           caption: L(
-            "Webinar nije event koji zaboraviš — to je pipeline asset koji skuplja first-party intent.",
-            "A webinar is not an event you forget — it is a pipeline asset that collects first-party intent.",
+            "Webinar nije event koji zaboraviš, to je pipeline asset koji skuplja first-party intent.",
+            "A webinar is not an event you forget, it is a pipeline asset that collects first-party intent.",
           ),
           credit: L("Foto: Unsplash", "Photo: Unsplash"),
         },
@@ -172,8 +172,8 @@ export const lesson8RichContent: RichLessonContent = {
           type: "pipeline-flow",
           title: L("Webinar u Founder-Led Growth sistemu", "Webinar in the Founder-Led Growth system"),
           subtitle: L(
-            "Content gradi demand — webinar hvata intent — follow-up pretvara u pipeline.",
-            "Content builds demand — the webinar captures intent — follow-up turns it into pipeline.",
+            "Content gradi demand, webinar hvata intent, follow-up pretvara u pipeline.",
+            "Content builds demand, the webinar captures intent, follow-up turns it into pipeline.",
           ),
           stages: [
             L("Content", "Content"),
@@ -198,14 +198,14 @@ export const lesson8RichContent: RichLessonContent = {
             [
               "Founder-Led Growth treba dublji conversion layer. Postovi su odlični za pažnju. Komentari za familiarity. DM-ovi za početak razgovora.",
               "Webinari omogućavaju kupcima da dožive tvoju ekspertizu na dubljem nivou.",
-              "ON24-ov 2025 Webinar Benchmarks izveštaj kaže da webinar engagement raste, prosečno prisustvo je poraslo, a on-demand gledanje čini veliki deo učesnika. ON24 ističe da interaktivni alati — ankete, download-i, ankete, CTA — pomažu webinare da utiču na odluke o kupovini.",
+              "ON24-ov 2025 Webinar Benchmarks izveštaj kaže da webinar engagement raste, prosečno prisustvo je poraslo, a on-demand gledanje čini veliki deo učesnika. ON24 ističe da interaktivni alati, ankete, download-i, ankete, CTA, pomažu webinare da utiču na odluke o kupovini.",
               "Livestorm opisuje webinare kao korisne za live angažovanje prospect-a, follow-up email-ove i webinar funnels koji nastavljaju da generišu leadove posle live sesije.",
               "Zato webinari odgovaraju Founder-Led Growth-u. Nisu samo lead magneti. Oni su intent engine-i.",
             ],
             [
               "Founder-Led Growth needs a deeper conversion layer. Posts are great for attention. Comments for familiarity. DMs for starting conversations.",
               "Webinars let buyers experience your expertise at a deeper level.",
-              "ON24's 2025 Webinar Benchmarks report says webinar engagement is growing, average attendance increased, and on-demand viewing accounts for a large share of attendees. ON24 highlights that interactive tools — polls, downloads, surveys, CTAs — help webinars influence buying decisions.",
+              "ON24's 2025 Webinar Benchmarks report says webinar engagement is growing, average attendance increased, and on-demand viewing accounts for a large share of attendees. ON24 highlights that interactive tools, polls, downloads, surveys, CTAs, help webinars influence buying decisions.",
               "Livestorm describes webinars as useful for engaging prospects live, follow-up emails, and webinar funnels that keep generating leads after the live session.",
               "That is exactly why webinars fit Founder-Led Growth. They are not just lead magnets. They are intent engines.",
             ],
@@ -218,24 +218,24 @@ export const lesson8RichContent: RichLessonContent = {
               value: L("45", "45"),
               label: L("Minuta live", "Live minutes"),
               description: L(
-                "Dovoljno dubine da kupac doživi founder POV — ne samo post.",
-                "Enough depth for buyers to experience founder POV — not just a post.",
+                "Dovoljno dubine da kupac doživi founder POV, ne samo post.",
+                "Enough depth for buyers to experience founder POV, not just a post.",
               ),
             },
             {
-              value: L("2–3", "2–3"),
+              value: L("2-3", "2-3"),
               label: L("Ankete", "Polls"),
               description: L(
-                "Intent capture tokom sesije — svaki odgovor = CRM polje.",
-                "Intent capture during the session — each answer = CRM field.",
+                "Intent capture tokom sesije, svaki odgovor = CRM polje.",
+                "Intent capture during the session, each answer = CRM field.",
               ),
             },
             {
               value: L("24h", "24h"),
               label: L("Follow-up", "Follow-up"),
               description: L(
-                "Prvi follow-up dok je sesija sveža — intent brzo opada.",
-                "First follow-up while the session is fresh — intent decays fast.",
+                "Prvi follow-up dok je sesija sveža, intent brzo opada.",
+                "First follow-up while the session is fresh, intent decays fast.",
               ),
             },
           ],
@@ -275,7 +275,7 @@ export const lesson8RichContent: RichLessonContent = {
           type: "paragraphs",
           paragraphs: P(
             [
-              "Ako webinar samo edukuje — to je content. Ako samo pitch-uje — gubi poverenje.",
+              "Ako webinar samo edukuje, to je content. Ako samo pitch-uje, gubi poverenje.",
               "Prava struktura radi oba: dovoljno uči da gradi poverenje, dovoljno pokazuje da stvara želju, dovoljno pita da identifikuje intent, dovoljno brzo prati da stvara pipeline.",
             ],
             [
@@ -318,14 +318,14 @@ export const lesson8RichContent: RichLessonContent = {
               zone: L("Capture intent", "Capture intent"),
               eyebrow: L("Ankete + Q&A", "Polls + Q&A"),
               job: L("Otkrij šta kupcu stvarno treba.", "Reveal what the buyer actually needs."),
-              doThis: L("2–3 ankete + chat + CTA klik.", "2–3 polls + chat + CTA click."),
+              doThis: L("2-3 ankete + chat + CTA klik.", "2-3 polls + chat + CTA click."),
               avoid: L("Ankete bez CRM polja.", "Polls without CRM fields."),
             },
             {
               zone: L("Segmentiraj", "Segment"),
               eyebrow: L("Follow-up", "Follow-up"),
               job: L("Različito ponašanje = različita poruka.", "Different behavior = different message."),
-              doThis: L("No-show / attended / pitanje / CTA — 4 putanje.", "No-show / attended / question / CTA — 4 paths."),
+              doThis: L("No-show / attended / pitanje / CTA - 4 putanje.", "No-show / attended / question / CTA - 4 paths."),
               avoid: L("Jedan „hvala na učešću“ email svima.", "One \"thanks for attending\" email to everyone."),
             },
           ],
@@ -340,8 +340,8 @@ export const lesson8RichContent: RichLessonContent = {
         {
           type: "paragraphs",
           paragraphs: P(
-            ["Webinar sedi između content-a i prodaje. Zato je moćan — daje dovoljno vrednosti za poverenje i dovoljno interakcije da otkrije intent."],
-            ["A webinar sits between content and sales. That is why it is powerful — it gives enough value to trust you and enough interaction to reveal intent."],
+            ["Webinar sedi između content-a i prodaje. Zato je moćan, daje dovoljno vrednosti za poverenje i dovoljno interakcije da otkrije intent."],
+            ["A webinar sits between content and sales. That is why it is powerful, it gives enough value to trust you and enough interaction to reveal intent."],
           ),
         },
         {
@@ -372,13 +372,13 @@ export const lesson8RichContent: RichLessonContent = {
               variant: "accent",
               items: P(
                 [
-                  "30–45 min sa founder POV-om",
+                  "30-45 min sa founder POV-om",
                   "Ankete + pitanja = first-party data",
                   "Segmentiran follow-up",
                   "Repurpose u content + outreach",
                 ],
                 [
-                  "30–45 min with founder POV",
+                  "30-45 min with founder POV",
                   "Polls + questions = first-party data",
                   "Segmented follow-up",
                   "Repurpose into content + outreach",
@@ -413,12 +413,12 @@ export const lesson8RichContent: RichLessonContent = {
           type: "illustration",
           src: "https://images.unsplash.com/photo-1475721027840-f489ca8d60d2?auto=format&fit=crop&w=1400&q=80",
           alt: L(
-            "Predavanje i prezentacija — live teaching deo webinara",
-            "Presentation and speaking — the live teaching part of the webinar",
+            "Predavanje i prezentacija, live teaching deo webinara",
+            "Presentation and speaking, the live teaching part of the webinar",
           ),
           caption: L(
-            "Zoom ili Livestorm host-uje live — Tally skuplja registracije — Riverside/Descript repurposuju snimak.",
-            "Zoom or Livestorm hosts live — Tally captures registrations — Riverside/Descript repurpose the recording.",
+            "Zoom ili Livestorm host-uje live - Tally skuplja registracije - Riverside/Descript repurposuju snimak.",
+            "Zoom or Livestorm hosts live - Tally captures registrations - Riverside/Descript repurpose the recording.",
           ),
           credit: L("Foto: Unsplash", "Photo: Unsplash"),
         },
@@ -437,8 +437,8 @@ export const lesson8RichContent: RichLessonContent = {
           type: "pipeline-flow",
           title: L("Founder-Led Webinar Framework", "Founder-Led Webinar Framework"),
           subtitle: L(
-            "Od buyer pain-a do pipeline-a — follow-up sistem je gde se konvertuje.",
-            "From buyer pain to pipeline — the follow-up system is where conversion happens.",
+            "Od buyer pain-a do pipeline-a, follow-up sistem je gde se konvertuje.",
+            "From buyer pain to pipeline, the follow-up system is where conversion happens.",
           ),
           stages: [
             L("ICP Pain", "ICP Pain"),
@@ -497,7 +497,7 @@ export const lesson8RichContent: RichLessonContent = {
               title: L("Intent Capture", "Intent Capture"),
               whatToDo: L("Koristi ankete, pitanja, chat, download-e, CTA klikove i ponašanje prisustva.", "Use polls, questions, chat, downloads, CTA clicks, and attendance behavior."),
               whyItMatters: L("Interakcija otkriva šta kupcu stvarno treba.", "Interaction reveals what the buyer actually needs."),
-              example: L("2–3 ankete + Q&A + CTA za checklist ili konsultaciju.", "2–3 polls + Q&A + CTA for checklist or consultation."),
+              example: L("2-3 ankete + Q&A + CTA za checklist ili konsultaciju.", "2-3 polls + Q&A + CTA for checklist or consultation."),
               commonMistake: L("Ankete kao gimmick bez CRM polja.", "Polls as gimmicks without CRM fields."),
               tryThis: L("Svaki poll answer = CRM polje + follow-up ugao.", "Every poll answer = CRM field + follow-up angle."),
               highlight: L("Webinar bez intent capture-a je samo broadcast.", "A webinar without intent capture is just a broadcast."),
@@ -541,18 +541,18 @@ export const lesson8RichContent: RichLessonContent = {
       blocks: [
         {
           type: "pipeline-flow",
-          title: L("45-min struktura — šta se dešava kada", "45-min structure — what happens when"),
+          title: L("45-min struktura, šta se dešava kada", "45-min structure, what happens when"),
           subtitle: L(
-            "Vizuelni ritam drži pažnju — pitch dolazi posle edukacije.",
-            "Visual rhythm keeps attention — pitch comes after education.",
+            "Vizuelni ritam drži pažnju, pitch dolazi posle edukacije.",
+            "Visual rhythm keeps attention, pitch comes after education.",
           ),
           stages: [
-            L("0–3 Kontekst", "0–3 Context"),
-            L("3–15 Bol + POV", "3–15 Pain + POV"),
-            L("15–30 Framework", "15–30 Framework"),
-            L("30–40 Case", "30–40 Case"),
-            L("40–43 CTA", "40–43 CTA"),
-            L("43–45 Q&A", "43–45 Q&A"),
+            L("0-3 Kontekst", "0-3 Context"),
+            L("3-15 Bol + POV", "3-15 Pain + POV"),
+            L("15-30 Framework", "15-30 Framework"),
+            L("30-40 Case", "30-40 Case"),
+            L("40-43 CTA", "40-43 CTA"),
+            L("43-45 Q&A", "43-45 Q&A"),
           ],
         },
         {
@@ -616,7 +616,7 @@ export const lesson8RichContent: RichLessonContent = {
               title: L("Strukturiraj webinar kao sales asset", "Structure the webinar like a useful sales asset"),
               whatToDo: L("Koristi jednostavnu 45-minutnu strukturu.", "Use a simple 45-minute structure."),
               whyItMatters: L("Struktura drži pažnju i gradi poverenje.", "Structure keeps attention and builds trust."),
-              example: L("0–3 kontekst, 3–8 bol, 8–15 reframe, 15–30 framework, 30–36 case, 36–40 implementacija, 40–43 soft CTA, 43–45 Q&A.", "0–3 context, 3–8 pain, 8–15 reframe, 15–30 framework, 30–36 case, 36–40 implementation, 40–43 soft CTA, 43–45 Q&A."),
+              example: L("0-3 kontekst, 3-8 bol, 8-15 reframe, 15-30 framework, 30-36 case, 36-40 implementacija, 40-43 soft CTA, 43-45 Q&A.", "0-3 context, 3-8 pain, 8-15 reframe, 15-30 framework, 30-36 case, 36-40 implementation, 40-43 soft CTA, 43-45 Q&A."),
               commonMistake: L("Prvih 15 minuta company intro.", "First 15 minutes as company intro."),
               tryThis: L("Predstavi buyer problem pre firme.", "Introduce the buyer problem before the company."),
               highlight: L("Pitch pre edukacije = izgubljeno poverenje.", "Pitch before teaching = lost trust."),
@@ -634,7 +634,7 @@ export const lesson8RichContent: RichLessonContent = {
             {
               step: 4,
               title: L("Koristi ankete za intent", "Use polls to capture intent"),
-              whatToDo: L("Dodaj 2–3 ankete tokom webinara.", "Add 2–3 polls during the webinar."),
+              whatToDo: L("Dodaj 2-3 ankete tokom webinara.", "Add 2-3 polls during the webinar."),
               whyItMatters: L("Ankete pokazuju šta kupcu treba i kako da pratiš.", "Polls show what the buyer needs and how to follow up."),
               example: L("Najveći bottleneck, kako prate engagement, šta im treba posle sesije.", "Biggest bottleneck, how they track engagement, what they need after the session."),
               commonMistake: L("Ankete kao engagement gimmick.", "Polls as engagement gimmicks."),
@@ -678,19 +678,19 @@ export const lesson8RichContent: RichLessonContent = {
           caption: L("45-min struktura webinara", "45-minute webinar structure"),
           headers: H(["Vreme", "Sekcija", "Cilj"], ["Time", "Section", "Goal"]),
           rows: [
-            { cells: [L("0–3 min", "0–3 min"), L("Postavi kontekst", "Set context"), L("Za koga je i koji problem rešava", "Who it is for and what problem it solves")] },
-            { cells: [L("3–8 min", "3–8 min"), L("Imenuj bol", "Name the pain"), L("Pokaži da razumeš svet kupca", "Show you understand the buyer's world")] },
-            { cells: [L("8–15 min", "8–15 min"), L("Reframe", "Reframe"), L("Objasni zašto stari pristup puca", "Explain why the old way breaks")] },
-            { cells: [L("15–30 min", "15–30 min"), L("Framework", "Framework"), L("Nauči sistem", "Teach the system")] },
-            { cells: [L("30–36 min", "30–36 min"), L("Primer / case", "Example / case"), L("Učini konkretnim", "Make it concrete")] },
-            { cells: [L("36–40 min", "36–40 min"), L("Implementacija", "Implementation"), L("Pokaži sledeće korake", "Show what to do next")] },
-            { cells: [L("40–43 min", "40–43 min"), L("Soft CTA", "Soft CTA"), L("Checklist, konsultacija ili sledeći korak", "Checklist, consultation, or next step")] },
-            { cells: [L("43–45 min", "43–45 min"), L("Q&A setup", "Q&A setup"), L("Skupljaj pitanja i intent", "Collect questions and intent")] },
+            { cells: [L("0-3 min", "0-3 min"), L("Postavi kontekst", "Set context"), L("Za koga je i koji problem rešava", "Who it is for and what problem it solves")] },
+            { cells: [L("3-8 min", "3-8 min"), L("Imenuj bol", "Name the pain"), L("Pokaži da razumeš svet kupca", "Show you understand the buyer's world")] },
+            { cells: [L("8-15 min", "8-15 min"), L("Reframe", "Reframe"), L("Objasni zašto stari pristup puca", "Explain why the old way breaks")] },
+            { cells: [L("15-30 min", "15-30 min"), L("Framework", "Framework"), L("Nauči sistem", "Teach the system")] },
+            { cells: [L("30-36 min", "30-36 min"), L("Primer / case", "Example / case"), L("Učini konkretnim", "Make it concrete")] },
+            { cells: [L("36-40 min", "36-40 min"), L("Implementacija", "Implementation"), L("Pokaži sledeće korake", "Show what to do next")] },
+            { cells: [L("40-43 min", "40-43 min"), L("Soft CTA", "Soft CTA"), L("Checklist, konsultacija ili sledeći korak", "Checklist, consultation, or next step")] },
+            { cells: [L("43-45 min", "43-45 min"), L("Q&A setup", "Q&A setup"), L("Skupljaj pitanja i intent", "Collect questions and intent")] },
           ],
         },
         {
           type: "table",
-          caption: L("Promocija — timeline", "Promotion timeline"),
+          caption: L("Promocija, timeline", "Promotion timeline"),
           headers: H(["Timeline", "Content"], ["Timeline", "Content"]),
           rows: [
             { cells: [L("14 dana pre", "14 days before"), L("Problem education post", "Problem education post")] },
@@ -881,7 +881,7 @@ export const lesson8RichContent: RichLessonContent = {
           rows: [
             { cells: [L("Headline", "Headline"), L("[webinar one-liner]", "[webinar one-liner]")] },
             { cells: [L("Subheadline", "Subheadline"), L("Praktična sesija za [ICP] koji se bore sa [problem]", "A practical session for [ICP] who struggle with [problem]")] },
-            { cells: [L("You'll learn", "You'll learn"), L("3–5 bullet-a šta će naučiti", "3–5 bullets of what they will learn")] },
+            { cells: [L("You'll learn", "You'll learn"), L("3-5 bullet-a šta će naučiti", "3-5 bullets of what they will learn")] },
             { cells: [L("Bonus", "Bonus"), L("[checklist/template] posle sesije", "[checklist/template] after the session")] },
             { cells: [L("CTA", "CTA"), L("Save my seat / Rezerviši mesto", "Save my seat")] },
           ],
@@ -959,7 +959,7 @@ export const lesson8RichContent: RichLessonContent = {
               name: "Tally",
               logo: "/images/sales-tools/tally.png",
               usedFor: L("Registration forme, kvalifikaciona pitanja i pre-webinar ankete", "Registration forms, qualification questions, and pre-webinar surveys"),
-              whyItFits: L("Brz setup — capture-uje ulogu, firmu i bottleneck pre live sesije.", "Fast setup — captures role, company, and bottleneck before the live session."),
+              whyItFits: L("Brz setup, capture-uje ulogu, firmu i bottleneck pre live sesije.", "Fast setup, captures role, company, and bottleneck before the live session."),
               alternative: L("Typeform, HubSpot forms, Livestorm forms", "Typeform, HubSpot forms, Livestorm forms"),
             },
             {
@@ -1003,8 +1003,8 @@ export const lesson8RichContent: RichLessonContent = {
           type: "illustration",
           src: "https://images.unsplash.com/photo-1511578314322-379afb4768ee?auto=format&fit=crop&w=1400&q=80",
           alt: L(
-            "Online događaj i registracija — od Tally forme do live sesije",
-            "Online event and registration — from Tally form to live session",
+            "Online događaj i registracija, od Tally forme do live sesije",
+            "Online event and registration, from Tally form to live session",
           ),
           caption: L(
             "Tally → Zoom/Livestorm → ankete → segment → CRM → Riverside/Descript repurposing.",
@@ -1019,16 +1019,16 @@ export const lesson8RichContent: RichLessonContent = {
               value: L("5", "5"),
               label: L("LinkedIn postova", "LinkedIn posts"),
               description: L(
-                "Promocija pre webinara — content zagreva temu.",
-                "Pre-webinar promotion — content warms the topic.",
+                "Promocija pre webinara, content zagreva temu.",
+                "Pre-webinar promotion, content warms the topic.",
               ),
             },
             {
               value: L("3", "3"),
               label: L("Follow-up putanje", "Follow-up paths"),
               description: L(
-                "Minimum: no-show, attended, high-intent — pripremi pre live-a.",
-                "Minimum: no-show, attended, high-intent — prepare before going live.",
+                "Minimum: no-show, attended, high-intent, pripremi pre live-a.",
+                "Minimum: no-show, attended, high-intent, prepare before going live.",
               ),
             },
             {
@@ -1050,7 +1050,7 @@ export const lesson8RichContent: RichLessonContent = {
               "Tim pretvara bol u oštru webinar temu.",
               "Founder promoviše webinar sa 5 LinkedIn postova.",
               "Registration forma capture-uje ulogu, firmu i najveći bottleneck.",
-              "Webinar podučava framework i koristi 2–3 ankete.",
+              "Webinar podučava framework i koristi 2-3 ankete.",
               "Učesnici se segmentiraju po ponašanju.",
               "No-show dobija replay.",
               "Učesnici dobijaju checklist.",
@@ -1064,7 +1064,7 @@ export const lesson8RichContent: RichLessonContent = {
               "Team turns the pain into a sharp webinar title.",
               "Founder promotes the webinar with 5 LinkedIn posts.",
               "Registration form captures role, company, and biggest bottleneck.",
-              "Webinar teaches the framework and uses 2–3 polls.",
+              "Webinar teaches the framework and uses 2-3 polls.",
               "Attendees are segmented by behavior.",
               "No-shows get replay.",
               "Attendees get checklist.",
@@ -1163,7 +1163,7 @@ export const lesson8RichContent: RichLessonContent = {
               "Kreiraj registration page sa jasnim learning outcomes.",
               "Izgradi 5-post LinkedIn promociju.",
               "Pripremi 45-min webinar strukturu.",
-              "Dodaj 2–3 poll pitanja.",
+              "Dodaj 2-3 poll pitanja.",
               "Pripremi follow-up email-ove pre live-a.",
               "Segmentiraj no-show, učesnike, one koji su pitali i CTA klikere.",
               "Dodaj webinar polja u CRM.",
@@ -1176,7 +1176,7 @@ export const lesson8RichContent: RichLessonContent = {
               "Create a registration page with clear learning outcomes.",
               "Build a 5-post LinkedIn promotion sequence.",
               "Prepare a 45-minute webinar structure.",
-              "Add 2–3 poll questions.",
+              "Add 2-3 poll questions.",
               "Prepare follow-up emails before going live.",
               "Segment no-shows, attendees, question askers, and CTA clickers.",
               "Add webinar fields to CRM.",
@@ -1232,14 +1232,14 @@ Save my seat
 
 3. Webinar structure
 
-0–3 min: Set context
-3–8 min: Name the pain
-8–15 min: Reframe
-15–30 min: Teach the framework
-30–36 min: Example / case
-36–40 min: Implementation steps
-40–43 min: Soft CTA
-43–45 min: Q&A setup
+0-3 min: Set context
+3-8 min: Name the pain
+8-15 min: Reframe
+15-30 min: Teach the framework
+30-36 min: Example / case
+36-40 min: Implementation steps
+40-43 min: Soft CTA
+43-45 min: Q&A setup
 
 4. Polls
 
@@ -1318,14 +1318,14 @@ Save my seat
 
 3. Webinar structure
 
-0–3 min: Set context
-3–8 min: Name the pain
-8–15 min: Reframe
-15–30 min: Teach the framework
-30–36 min: Example / case
-36–40 min: Implementation steps
-40–43 min: Soft CTA
-43–45 min: Q&A setup
+0-3 min: Set context
+3-8 min: Name the pain
+8-15 min: Reframe
+15-30 min: Teach the framework
+30-36 min: Example / case
+36-40 min: Implementation steps
+40-43 min: Soft CTA
+43-45 min: Q&A setup
 
 4. Polls
 
@@ -1391,8 +1391,8 @@ Stage: engaged / warm list / qualified / opportunity / nurture`,
     {
       question: L("Koliko dug treba da traje webinar?", "How long should a Founder-Led Growth webinar be?"),
       answer: L(
-        "Praktična dužina je 30–45 minuta — dovoljno da naučiš korisni framework i capture-uješ intent, ali dovoljno kratko da poštuješ vreme kupca.",
-        "A practical length is 30–45 minutes — long enough to teach a useful framework and capture intent, but short enough to respect the buyer's time.",
+        "Praktična dužina je 30-45 minuta, dovoljno da naučiš korisni framework i capture-uješ intent, ali dovoljno kratko da poštuješ vreme kupca.",
+        "A practical length is 30-45 minutes, long enough to teach a useful framework and capture intent, but short enough to respect the buyer's time.",
       ),
     },
     {
@@ -1418,30 +1418,30 @@ Stage: engaged / warm list / qualified / opportunity / nurture`,
     },
   ],
   sources: [
-    { title: L("ON24 — 2025 Webinar Benchmarks Key Takeaways", "ON24 — 2025 Webinar Benchmarks Key Takeaways"), url: "https://www.on24.com/blog/key-takeaways-from-the-2025-webinar-benchmarks-report/" },
-    { title: L("Livestorm — B2B Lead Generation Best Practices", "Livestorm — B2B Lead Generation Best Practices"), url: "https://livestorm.co/blog/b2b-lead-generation-best-practices" },
-    { title: L("Livestorm — Why Webinars Are Critical for B2B in 2026", "Livestorm — Why Webinars Are Critical for B2B in 2026"), url: "https://livestorm.co/blog/why-webinars-are-critical-for-b2b" },
-    { title: L("Zoom — How To Host A Webinar", "Zoom — How To Host A Webinar"), url: "https://www.zoom.com/en/products/webinars/resources/hosting-a-virtual-event-guide/" },
-    { title: L("Zoom — Online Event Best Practices PDF", "Zoom — Online Event Best Practices PDF"), url: "https://assets.zoom.us/docs/user-guides/Zoom-Online-Event-Best-Practices.pdf" },
-    { title: L("MarketingProfs — B2B Webinar Benchmarks", "MarketingProfs — B2B Webinar Benchmarks"), url: "https://www.marketingprofs.com/charts/2025/52917/b2b-webinar-benchmarks-conversion-attendance-personalization" },
-    { title: L("Leadfeeder — B2B Webinar Strategies", "Leadfeeder — B2B Webinar Strategies"), url: "https://www.leadfeeder.com/blog/lead-generation/b2b-webinar-strategies/" },
-    { title: L("Martech — How to Use HubSpot to Improve Your Webinar Strategy", "Martech — How to Use HubSpot to Improve Your Webinar Strategy"), url: "https://martech.org/how-to-use-hubspot-to-improve-your-webinar-strategy/" },
-    { title: L("Livestorm — Lead Generation Funnel", "Livestorm — Lead Generation Funnel"), url: "https://livestorm.co/blog/lead-generation-funnel" },
-    { title: L("HubSpot — Webinar Resources", "HubSpot — Webinar Resources"), url: "https://www.hubspot.com/resources/webinar" },
+    { title: L("ON24 - 2025 Webinar Benchmarks Key Takeaways", "ON24 - 2025 Webinar Benchmarks Key Takeaways"), url: "https://www.on24.com/blog/key-takeaways-from-the-2025-webinar-benchmarks-report/" },
+    { title: L("Livestorm - B2B Lead Generation Best Practices", "Livestorm - B2B Lead Generation Best Practices"), url: "https://livestorm.co/blog/b2b-lead-generation-best-practices" },
+    { title: L("Livestorm - Why Webinars Are Critical for B2B in 2026", "Livestorm - Why Webinars Are Critical for B2B in 2026"), url: "https://livestorm.co/blog/why-webinars-are-critical-for-b2b" },
+    { title: L("Zoom - How To Host A Webinar", "Zoom - How To Host A Webinar"), url: "https://www.zoom.com/en/products/webinars/resources/hosting-a-virtual-event-guide/" },
+    { title: L("Zoom - Online Event Best Practices PDF", "Zoom - Online Event Best Practices PDF"), url: "https://assets.zoom.us/docs/user-guides/Zoom-Online-Event-Best-Practices.pdf" },
+    { title: L("MarketingProfs - B2B Webinar Benchmarks", "MarketingProfs - B2B Webinar Benchmarks"), url: "https://www.marketingprofs.com/charts/2025/52917/b2b-webinar-benchmarks-conversion-attendance-personalization" },
+    { title: L("Leadfeeder - B2B Webinar Strategies", "Leadfeeder - B2B Webinar Strategies"), url: "https://www.leadfeeder.com/blog/lead-generation/b2b-webinar-strategies/" },
+    { title: L("Martech - How to Use HubSpot to Improve Your Webinar Strategy", "Martech - How to Use HubSpot to Improve Your Webinar Strategy"), url: "https://martech.org/how-to-use-hubspot-to-improve-your-webinar-strategy/" },
+    { title: L("Livestorm - Lead Generation Funnel", "Livestorm - Lead Generation Funnel"), url: "https://livestorm.co/blog/lead-generation-funnel" },
+    { title: L("HubSpot - Webinar Resources", "HubSpot - Webinar Resources"), url: "https://www.hubspot.com/resources/webinar" },
   ],
   relatedLessons: {
     previous: {
       slug: "linkedin-engagement-outreach-list",
       title: L(
-        "Lekcija 7 — Kako pretvoriti LinkedIn engagement u outreach listu",
-        "Lesson 7 — How to Turn LinkedIn Engagement Into an Outreach List",
+        "Lekcija 7 - Kako pretvoriti LinkedIn engagement u outreach listu",
+        "Lesson 7 - How to Turn LinkedIn Engagement Into an Outreach List",
       ),
     },
     next: {
       slug: "linkedin-ads-thought-leader-ads",
       title: L(
-        "Lekcija 9 — Kako koristiti LinkedIn Ads da pojačaš Founder-Led Growth",
-        "Lesson 9 — How to Use LinkedIn Ads to Boost Founder-Led Growth",
+        "Lekcija 9 - Kako koristiti LinkedIn Ads da pojačaš Founder-Led Growth",
+        "Lesson 9 - How to Use LinkedIn Ads to Boost Founder-Led Growth",
       ),
       note: L(
         "Sledeća lekcija pokazuje kako LinkedIn Ads pojačavaju founder content, webinar registracije i retargeting.",
@@ -1449,12 +1449,12 @@ Stage: engaged / warm list / qualified / opportunity / nurture`,
       ),
     },
     related: [
-      { slug: "what-founder-led-growth-is", title: L("Lekcija 1 — Šta je Founder-Led Growth", "Lesson 1 — What Founder-Led Growth Is and Why It Works for B2B Companies") },
-      { slug: "linkedin-content-strategy-founder", title: L("Lekcija 4 — LinkedIn content strategija za founder-a", "Lesson 4 — How to Build a LinkedIn Content Strategy for a Founder") },
-      { slug: "write-educational-linkedin-posts", title: L("Lekcija 5 — Edukativni LinkedIn postovi", "Lesson 5 — How to Write Educational LinkedIn Posts That Build Authority") },
-      { slug: "linkedin-commenting-strategy", title: L("Lekcija 6 — LinkedIn komentarisanje", "Lesson 6 — How to Use LinkedIn Commenting for Visibility With Your ICP") },
-      { slug: "crm-za-founder-led-growth", title: L("Lekcija 10 — CRM za Founder-Led Growth", "Lesson 10 — How to Track Founder-Led Growth Activities in Your CRM") },
-      { slug: "buying-signals-b2b-sales", title: L("Lekcija 11 — Buying signali", "Lesson 11 — What Buying Signals Are and How to Use Them in B2B Sales") },
+      { slug: "what-founder-led-growth-is", title: L("Lekcija 1 - Šta je Founder-Led Growth", "Lesson 1 - What Founder-Led Growth Is and Why It Works for B2B Companies") },
+      { slug: "linkedin-content-strategy-founder", title: L("Lekcija 4 - LinkedIn content strategija za founder-a", "Lesson 4 - How to Build a LinkedIn Content Strategy for a Founder") },
+      { slug: "write-educational-linkedin-posts", title: L("Lekcija 5 - Edukativni LinkedIn postovi", "Lesson 5 - How to Write Educational LinkedIn Posts That Build Authority") },
+      { slug: "linkedin-commenting-strategy", title: L("Lekcija 6 - LinkedIn komentarisanje", "Lesson 6 - How to Use LinkedIn Commenting for Visibility With Your ICP") },
+      { slug: "crm-za-founder-led-growth", title: L("Lekcija 10 - CRM za Founder-Led Growth", "Lesson 10 - How to Track Founder-Led Growth Activities in Your CRM") },
+      { slug: "buying-signals-b2b-sales", title: L("Lekcija 11 - Buying signali", "Lesson 11 - What Buying Signals Are and How to Use Them in B2B Sales") },
     ],
   },
   cta: {

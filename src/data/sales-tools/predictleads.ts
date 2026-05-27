@@ -5,8 +5,8 @@ export const predictleadsTool: SalesTool = {
   name: "PredictLeads",
   logo: "/images/sales-tools/predictleads.png",
   tagline: {
-    sr: "Company intelligence — signali, technographics i intent preko API-ja",
-    en: "Company intelligence — signals, technographics, and intent via API",
+    sr: "Company intelligence, signali, technographics i intent preko API-ja",
+    en: "Company intelligence, signals, technographics, and intent via API",
   },
   categoryId: "prospecting",
   category: { sr: "Prospecting", en: "Prospecting" },
@@ -32,8 +32,8 @@ export const predictleadsTool: SalesTool = {
   recommended: true,
   rating: { g2: 4.6, g2Reviews: 95 },
   overview: {
-    sr: "PredictLeads je B2B company intelligence sloj: strukturirani podaci o kompanijama, vestima, finansiranjima, job posting-ima i technographics — preko REST API-ja, webhook-ova, flat file exporta i MCP servera za AI agente.",
-    en: "PredictLeads is a B2B company intelligence layer: structured data on companies, news, funding, job postings, and technographics — via REST API, webhooks, flat-file exports, and an MCP server for AI agents.",
+    sr: "PredictLeads je B2B company intelligence sloj: strukturirani podaci o kompanijama, vestima, finansiranjima, job posting-ima i technographics, preko REST API-ja, webhook-ova, flat file exporta i MCP servera za AI agente.",
+    en: "PredictLeads is a B2B company intelligence layer: structured data on companies, news, funding, job postings, and technographics, via REST API, webhooks, flat-file exports, and an MCP server for AI agents.",
   },
   overviewExtended: {
     sr: "100 besplatnih API kredita mesečno. Većina poziva = 1 kredit (do 1.000 zapisa po odgovoru). Pay-as-you-go od $40/mes minimum ($0.04/kredit), sa volumenom do $0.002. Follow kompanije = 1 kredit/mes po firmi. Enterprise: puni flat file + webhook pristup od 2015. Idealno kao enrichment u Clay/CRM stack-u.",
@@ -57,7 +57,7 @@ export const predictleadsTool: SalesTool = {
   },
   keyFeatures: {
     sr: [
-      "100M+ kompanija — firmographics & hijerarhija",
+      "100M+ kompanija, firmographics & hijerarhija",
       "News events (29 kategorija signala)",
       "Job openings sa opisima i platom",
       "Technographics (~83M kompanija)",
@@ -65,7 +65,7 @@ export const predictleadsTool: SalesTool = {
       "Follow + real-time webhooks",
     ],
     en: [
-      "100M+ companies — firmographics & hierarchy",
+      "100M+ companies, firmographics & hierarchy",
       "News events (29 signal categories)",
       "Job openings with descriptions & salary",
       "Technographics (~83M companies)",
@@ -129,21 +129,21 @@ export const predictleadsTool: SalesTool = {
         name: { sr: "Pay-as-you-go", en: "Pay-as-you-go" },
         price: { sr: "od $40 / mesec", en: "from $40 / month" },
         billingNote: {
-          sr: "$0.04–$0.002 po kreditu · min $40",
-          en: "$0.04–$0.002 per credit · $40 min",
+          sr: "$0.04-$0.002 po kreditu · min $40",
+          en: "$0.04-$0.002 per credit · $40 min",
         },
         highlights: {
           sr: [
-            "101–5k kredita: $0.04",
-            "5k–100k: $0.02–$0.01",
-            "100k+: $0.004–$0.002",
+            "101-5k kredita: $0.04",
+            "5k-100k: $0.02-$0.01",
+            "100k+: $0.004-$0.002",
             "Follow firme: 1 kredit/mes",
             "Priority / 24-7 support na višim tier-ima",
           ],
           en: [
-            "101–5k credits: $0.04",
-            "5k–100k: $0.02–$0.01",
-            "100k+: $0.004–$0.002",
+            "101-5k credits: $0.04",
+            "5k-100k: $0.02-$0.01",
+            "100k+: $0.004-$0.002",
             "Follow companies: 1 credit/mo",
             "Priority / 24-7 support on higher tiers",
           ],
@@ -185,7 +185,7 @@ export const predictleadsTool: SalesTool = {
         feature: { sr: "Cena po kreditu", en: "Price per credit" },
         values: {
           free: { sr: "$0", en: "$0" },
-          payg: { sr: "$0.04–$0.002", en: "$0.04–$0.002" },
+          payg: { sr: "$0.04-$0.002", en: "$0.04-$0.002" },
           enterprise: { sr: "Custom", en: "Custom" },
         },
       },
@@ -232,14 +232,14 @@ export const predictleadsTool: SalesTool = {
   },
   pros: {
     sr: [
-      "Jedan poziv = do 1.000 zapisa (1 kredit) — efikasno",
+      "Jedan poziv = do 1.000 zapisa (1 kredit), efikasno",
       "Širok spektar signala (vesti, poslovi, tech stack)",
       "Odličan za Clay i AI agent (MCP)",
       "100 besplatnih kredita za evaluaciju",
       "Fokus na rastuće kompanije i ranije signale",
     ],
     en: [
-      "One call = up to 1,000 records (1 credit) — efficient",
+      "One call = up to 1,000 records (1 credit), efficient",
       "Broad signal coverage (news, jobs, tech stack)",
       "Great for Clay and AI agents (MCP)",
       "100 free credits to evaluate",
@@ -248,14 +248,14 @@ export const predictleadsTool: SalesTool = {
   },
   cons: {
     sr: [
-      "Nije UI-first prospecting alat — API/data layer",
+      "Nije UI-first prospecting alat - API/data layer",
       "Krediti ne prelaze u sledeći mesec",
       "Discovery endpoint naplaćuje po rezultatu",
       "Enterprise flat files zahtevaju sales razgovor",
       "Zahteva engineering ili Clay za operativni tim",
     ],
     en: [
-      "Not a UI-first prospecting tool — API/data layer",
+      "Not a UI-first prospecting tool - API/data layer",
       "Credits do not roll over month to month",
       "Discovery endpoints bill per result",
       "Enterprise flat files require a sales conversation",
@@ -289,8 +289,8 @@ export const predictleadsTool: SalesTool = {
       slug: "rb2b",
       name: "RB2B",
       description: {
-        sr: "Visitor ID na sajtu — drugačiji signal.",
-        en: "Website visitor ID — different signal type.",
+        sr: "Visitor ID na sajtu, drugačiji signal.",
+        en: "Website visitor ID, different signal type.",
       },
       startingPrice: { sr: "od $0", en: "from $0" },
       trial: { sr: "150 rez. free", en: "150 res. free" },
@@ -326,15 +326,15 @@ export const predictleadsTool: SalesTool = {
     {
       question: { sr: "Da li ima besplatan plan?", en: "Is there a free plan?" },
       answer: {
-        sr: "Da — 100 API kredita svakog meseca nakon registracije. Dovoljno za test integracije i kvaliteta podataka pre plaćene potrošnje.",
-        en: "Yes — 100 API credits every month after signup. Enough to test integration and data quality before paid usage.",
+        sr: "Da - 100 API kredita svakog meseca nakon registracije. Dovoljno za test integracije i kvaliteta podataka pre plaćene potrošnje.",
+        en: "Yes - 100 API credits every month after signup. Enough to test integration and data quality before paid usage.",
       },
     },
     {
       question: { sr: "Zašto izabrati PredictLeads?", en: "Why choose PredictLeads?" },
       answer: {
-        sr: "Kada vam trebaju strukturirani company signali (hiring, funding, tech adoption, partnerships) u API obliku — posebno za signal-based outbound i AI workflow-e, ne statična kontakt baza.",
-        en: "When you need structured company signals (hiring, funding, tech adoption, partnerships) as API data — especially for signal-based outbound and AI workflows, not a static contact database.",
+        sr: "Kada vam trebaju strukturirani company signali (hiring, funding, tech adoption, partnerships) u API obliku, posebno za signal-based outbound i AI workflow-e, ne statična kontakt baza.",
+        en: "When you need structured company signals (hiring, funding, tech adoption, partnerships) as API data, especially for signal-based outbound and AI workflows, not a static contact database.",
       },
     },
     {
@@ -350,8 +350,8 @@ export const predictleadsTool: SalesTool = {
     {
       question: { sr: "Da li PredictLeads ima API?", en: "Does PredictLeads have an API?" },
       answer: {
-        sr: "Da — REST API, webhooks za follow kompanije, flat file delivery (Enterprise) i MCP server za AI agente (Claude, ChatGPT, itd.).",
-        en: "Yes — REST API, webhooks for followed companies, flat-file delivery (Enterprise), and an MCP server for AI agents (Claude, ChatGPT, etc.).",
+        sr: "Da - REST API, webhooks za follow kompanije, flat file delivery (Enterprise) i MCP server za AI agente (Claude, ChatGPT, itd.).",
+        en: "Yes - REST API, webhooks for followed companies, flat-file delivery (Enterprise), and an MCP server for AI agents (Claude, ChatGPT, etc.).",
       },
     },
     {
@@ -360,8 +360,8 @@ export const predictleadsTool: SalesTool = {
         en: "How does it fit with Clay?",
       },
       answer: {
-        sr: "Clay često koristi PredictLeads kao izvor signala u kolonama — npr. nova zaposlenja, funding, promena tech stack-a — pre nego što pokrenete personalizovan outreach.",
-        en: "Clay often uses PredictLeads as a signal source in columns — e.g. new hires, funding, tech stack changes — before launching personalized outreach.",
+        sr: "Clay često koristi PredictLeads kao izvor signala u kolonama, npr. nova zaposlenja, funding, promena tech stack-a, pre nego što pokrenete personalizovan outreach.",
+        en: "Clay often uses PredictLeads as a signal source in columns, e.g. new hires, funding, tech stack changes, before launching personalized outreach.",
       },
     },
     {

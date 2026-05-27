@@ -6,8 +6,8 @@ export const coldSalesOutreach: ServicePage = {
   slug: "cold-sales-outreach",
   meta: {
     title: {
-      sr: "Cold Sales Outreach — Automatizovani prodajni sistem | Lead Agents",
-      en: "Cold Sales Outreach — Automated sales system | Lead Agents",
+      sr: "Cold Sales Outreach - Automatizovani prodajni sistem | Lead Agents",
+      en: "Cold Sales Outreach - Automated sales system | Lead Agents",
     },
     description: {
       sr: "Postavljamo automatizovani cold sales outreach: ICP, baze leadova, alati, poruke i vođenje kampanja koje pune kalendar sastancima.",
@@ -68,8 +68,8 @@ export const coldSalesOutreach: ServicePage = {
       {
         title: { sr: "Vođenje kampanja", en: "Campaign management" },
         description: {
-          sr: "Strateški pokrećemo i vodimo outreach kampanje — leadovi, follow-up i konverzije.",
-          en: "We strategically launch and manage outreach — leads, follow-ups, and conversions.",
+          sr: "Strateški pokrećemo i vodimo outreach kampanje, leadovi, follow-up i konverzije.",
+          en: "We strategically launch and manage outreach, leads, follow-ups, and conversions.",
         },
       },
     ],
@@ -90,21 +90,21 @@ export const coldSalesOutreach: ServicePage = {
         en: "For those who dislike prospecting or lack a salesperson who can reach ideal clients.",
       },
       {
-        sr: "Za timove koji razumeju da su prodaja i brojevi povezani — i žele prilagođen automatizovani sistem koji zakazuje sastanke umesto njih.",
-        en: "For teams who know sales and numbers go together — and want a tailored automated system that books meetings for them.",
+        sr: "Za timove koji razumeju da su prodaja i brojevi povezani, i žele prilagođen automatizovani sistem koji zakazuje sastanke umesto njih.",
+        en: "For teams who know sales and numbers go together, and want a tailored automated system that books meetings for them.",
       },
     ],
   },
   highlight: {
-    sr: "Testirali smo desetine prodajnih alata — kako ti ne bi morao.",
-    en: "We have tested dozens of sales tools — so you do not have to.",
+    sr: "Testirali smo desetine prodajnih alata, kako ti ne bi morao.",
+    en: "We have tested dozens of sales tools, so you do not have to.",
   },
   highlightLink: {
     label: { sr: "Pogledaj prodajne alate →", en: "Browse sales tools →" },
     href: "/prodajni-alati",
   },
   process: {
-    title: { sr: "Naš proces — korak po korak", en: "Our process — step by step" },
+    title: { sr: "Naš proces, korak po korak", en: "Our process, step by step" },
     items: [
       {
         step: "01",
@@ -134,8 +134,8 @@ export const coldSalesOutreach: ServicePage = {
         step: "04",
         title: { sr: "Vođenje kampanja", en: "Running campaigns" },
         description: {
-          sr: "Prodajna mašina radi za tebe — odgovaramo na poruke, vodimo follow-up. Ti ideš na sastanke.",
-          en: "Your sales engine runs for you — we reply, manage follow-ups. You take the meetings.",
+          sr: "Prodajna mašina radi za tebe, odgovaramo na poruke, vodimo follow-up. Ti ideš na sastanke.",
+          en: "Your sales engine runs for you, we reply, manage follow-ups. You take the meetings.",
         },
       },
     ],

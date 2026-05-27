@@ -5,8 +5,8 @@ export const artisanTool: SalesTool = {
   name: "Artisan",
   logo: "/images/sales-tools/artisan.png",
   tagline: {
-    sr: "AI BDR Ava — autonomni outbound od research-a do sastanka",
-    en: "AI BDR Ava — autonomous outbound from research to meeting",
+    sr: "AI BDR Ava, autonomni outbound od research-a do sastanka",
+    en: "AI BDR Ava, autonomous outbound from research to meeting",
   },
   categoryId: "prospecting",
   category: { sr: "Prospecting", en: "Prospecting" },
@@ -32,12 +32,12 @@ export const artisanTool: SalesTool = {
   recommended: true,
   rating: { g2: 4.5, g2Reviews: 95 },
   overview: {
-    sr: "Artisan (Ava) je AI digitalni BDR: pronalazi leadove, radi dubinski research, personalizuje email i LinkedIn outreach, odgovara na reply-jeve i bookuje sastanke — umesto da SDR ručno radi isti ciklus.",
-    en: "Artisan (Ava) is an AI digital BDR: finds leads, runs deep research, personalizes email and LinkedIn outreach, handles replies, and books meetings — instead of an SDR doing the same loop manually.",
+    sr: "Artisan (Ava) je AI digitalni BDR: pronalazi leadove, radi dubinski research, personalizuje email i LinkedIn outreach, odgovara na reply-jeve i bookuje sastanke, umesto da SDR ručno radi isti ciklus.",
+    en: "Artisan (Ava) is an AI digital BDR: finds leads, runs deep research, personalizes email and LinkedIn outreach, handles replies, and books meetings, instead of an SDR doing the same loop manually.",
   },
   overviewExtended: {
-    sr: "Free plan (300 kredita/mes) za list building. Intern **$250/mes** (12k kredita) pokreće autonomne kampanje + HubSpot sync. Employee **$600/mes** (30k) za Salesforce i advanced campaign tipove. Trial: 10k kredita (~$300) bez kartice. Nije Clay — fokus je „zaposlite“ AI BDR-a, ne spreadsheet enrichment.",
-    en: "Free plan (300 credits/mo) for list building. Intern **$250/mo** (12k credits) runs autonomous campaigns + HubSpot sync. Employee **$600/mo** (30k) adds Salesforce and advanced campaign types. Trial: 10k credits (~$300), no card. Not Clay — the focus is hiring an AI BDR, not spreadsheet enrichment.",
+    sr: "Free plan (300 kredita/mes) za list building. Intern **$250/mes** (12k kredita) pokreće autonomne kampanje + HubSpot sync. Employee **$600/mes** (30k) za Salesforce i advanced campaign tipove. Trial: 10k kredita (~$300) bez kartice. Nije Clay, fokus je „zaposlite“ AI BDR-a, ne spreadsheet enrichment.",
+    en: "Free plan (300 credits/mo) for list building. Intern **$250/mo** (12k credits) runs autonomous campaigns + HubSpot sync. Employee **$600/mo** (30k) adds Salesforce and advanced campaign types. Trial: 10k credits (~$300), no card. Not Clay, the focus is hiring an AI BDR, not spreadsheet enrichment.",
   },
   idealFor: {
     sr: [
@@ -57,7 +57,7 @@ export const artisanTool: SalesTool = {
   },
   keyFeatures: {
     sr: [
-      "Ava — autonomni AI BDR",
+      "Ava, autonomni AI BDR",
       "Agent swarm research",
       "Autonomous replies & meeting booking",
       "Website visitor de-anonymization",
@@ -65,7 +65,7 @@ export const artisanTool: SalesTool = {
       "Power dialer add-on ($67/seat)",
     ],
     en: [
-      "Ava — autonomous AI BDR",
+      "Ava, autonomous AI BDR",
       "Agent swarm research",
       "Autonomous replies & meeting booking",
       "Website visitor de-anonymization",
@@ -306,8 +306,8 @@ export const artisanTool: SalesTool = {
       slug: "relevance-ai",
       name: "Relevance AI",
       description: {
-        sr: "Custom AI agenti — više DIY.",
-        en: "Custom AI agents — more DIY.",
+        sr: "Custom AI agenti, više DIY.",
+        en: "Custom AI agents, more DIY.",
       },
       startingPrice: { sr: "od $0", en: "from $0" },
       trial: { sr: "Free plan", en: "Free plan" },
@@ -317,8 +317,8 @@ export const artisanTool: SalesTool = {
       slug: "instantly",
       name: "Instantly",
       description: {
-        sr: "Cold email infra — više kontrole.",
-        en: "Cold email infra — more control.",
+        sr: "Cold email infra, više kontrole.",
+        en: "Cold email infra, more control.",
       },
       startingPrice: { sr: "od $37", en: "from $37" },
       trial: { sr: "14 dana", en: "14 days" },
@@ -358,15 +358,15 @@ export const artisanTool: SalesTool = {
     {
       question: { sr: "Šta je Ava?", en: "What is Ava?" },
       answer: {
-        sr: "Ava je AI BDR agent Artisan platforme — radi prospecting, personalizaciju, slanje, follow-up na reply-jeve i booking sastanaka u autonomnom režimu.",
-        en: "Ava is Artisan's AI BDR agent — prospecting, personalization, sending, reply follow-up, and meeting booking in autonomous mode.",
+        sr: "Ava je AI BDR agent Artisan platforme, radi prospecting, personalizaciju, slanje, follow-up na reply-jeve i booking sastanaka u autonomnom režimu.",
+        en: "Ava is Artisan's AI BDR agent, prospecting, personalization, sending, reply follow-up, and meeting booking in autonomous mode.",
       },
     },
     {
       question: { sr: "Da li ima besplatan trial?", en: "Is there a free trial?" },
       answer: {
-        sr: "Da — novi account dobija 10.000 kredita (~$300 vrednosti) na 30 dana, bez kartice. Bez kartice na kraju → pad na Free (300/mes), kampanje pauzirane.",
-        en: "Yes — new accounts get 10,000 credits (~$300 value) for 30 days, no card. No card at end → downgrade to Free (300/mo), campaigns paused.",
+        sr: "Da, novi account dobija 10.000 kredita (~$300 vrednosti) na 30 dana, bez kartice. Bez kartice na kraju → pad na Free (300/mes), kampanje pauzirane.",
+        en: "Yes, new accounts get 10,000 credits (~$300 value) for 30 days, no card. No card at end → downgrade to Free (300/mo), campaigns paused.",
       },
     },
     {

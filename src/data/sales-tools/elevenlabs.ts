@@ -5,8 +5,8 @@ export const elevenlabsTool: SalesTool = {
   name: "ElevenLabs",
   logo: "/images/sales-tools/elevenlabs.png",
   tagline: {
-    sr: "AI glas — TTS, voice clone i konverzacijski agenti za outbound i podršku",
-    en: "AI voice — TTS, voice cloning, and conversational agents for outbound and support",
+    sr: "AI glas - TTS, voice clone i konverzacijski agenti za outbound i podršku",
+    en: "AI voice - TTS, voice cloning, and conversational agents for outbound and support",
   },
   categoryId: "voice-ai",
   category: { sr: "AI glas", en: "Voice AI" },
@@ -32,12 +32,12 @@ export const elevenlabsTool: SalesTool = {
   recommended: true,
   rating: { g2: 4.7, g2Reviews: 180 },
   overview: {
-    sr: "ElevenLabs pretvara tekst u prirodan, emotivan govor — plus kloniranje glasa, dubbing na 29+ jezika i low-latency agente za telefon ili chat. Krediti pokrivaju TTS, STT, muziku i sound effects.",
-    en: "ElevenLabs turns text into natural, expressive speech — plus voice cloning, dubbing into 29+ languages, and low-latency agents for phone or chat. Credits cover TTS, STT, music, and sound effects.",
+    sr: "ElevenLabs pretvara tekst u prirodan, emotivan govor, plus kloniranje glasa, dubbing na 29+ jezika i low-latency agente za telefon ili chat. Krediti pokrivaju TTS, STT, muziku i sound effects.",
+    en: "ElevenLabs turns text into natural, expressive speech, plus voice cloning, dubbing into 29+ languages, and low-latency agents for phone or chat. Credits cover TTS, STT, music, and sound effects.",
   },
   overviewExtended: {
-    sr: "Za GTM: personalizovani voice note u LinkedIn/email sekvencama, AI demo glas za video (AdCreative/HeyGen), ili inbound/outbound voice agent preko API-ja. Free plan (10k kredita) za test; Creator ($22/mes, 121k kredita) za ozbiljan volume. Nije sequencer ni CRM — audio sloj u vašem stack-u, često preko n8n ili custom integracije.",
-    en: "For GTM: personalized voice notes in LinkedIn/email sequences, AI demo voice for video (AdCreative/HeyGen), or inbound/outbound voice agents via API. Free plan (10k credits) to test; Creator ($22/mo, 121k credits) for real volume. Not a sequencer or CRM — an audio layer in your stack, often via n8n or custom integration.",
+    sr: "Za GTM: personalizovani voice note u LinkedIn/email sekvencama, AI demo glas za video (AdCreative/HeyGen), ili inbound/outbound voice agent preko API-ja. Free plan (10k kredita) za test; Creator ($22/mes, 121k kredita) za ozbiljan volume. Nije sequencer ni CRM, audio sloj u vašem stack-u, često preko n8n ili custom integracije.",
+    en: "For GTM: personalized voice notes in LinkedIn/email sequences, AI demo voice for video (AdCreative/HeyGen), or inbound/outbound voice agents via API. Free plan (10k credits) to test; Creator ($22/mo, 121k credits) for real volume. Not a sequencer or CRM, an audio layer in your stack, often via n8n or custom integration.",
   },
   idealFor: {
     sr: [
@@ -59,7 +59,7 @@ export const elevenlabsTool: SalesTool = {
     sr: [
       "Expressive TTS (Flash, Multilingual v2/v3)",
       "Instant & Professional voice clone",
-      "ElevenAgents — konverzacijski agenti",
+      "ElevenAgents, konverzacijski agenti",
       "Scribe STT (bulk i realtime)",
       "Dubbing Studio & Voice Changer",
       "Studio projekti + komercijalna licenca (Starter+)",
@@ -67,7 +67,7 @@ export const elevenlabsTool: SalesTool = {
     en: [
       "Expressive TTS (Flash, Multilingual v2/v3)",
       "Instant & Professional voice clone",
-      "ElevenAgents — conversational agents",
+      "ElevenAgents, conversational agents",
       "Scribe STT (bulk and realtime)",
       "Dubbing Studio & Voice Changer",
       "Studio projects + commercial license (Starter+)",
@@ -98,8 +98,8 @@ export const elevenlabsTool: SalesTool = {
       en: "Monthly credits · rollover up to 2 months",
     },
     trial: {
-      sr: "Free — 10k kredita/mes",
-      en: "Free — 10k credits/mo",
+      sr: "Free - 10k kredita/mes",
+      en: "Free - 10k credits/mo",
     },
     plans: [
       {
@@ -371,14 +371,14 @@ export const elevenlabsTool: SalesTool = {
       "Krediti zavise od modela (Flash je jeftiniji od Multilingual v2)",
       "Free plan nema komercijalnu licencu",
       "Voice agenti u produkciji traže Business+ za latency",
-      "Nije gotov outbound alat — treba vam sequencer",
+      "Nije gotov outbound alat, treba vam sequencer",
       "Professional clone zahteva viši plan",
     ],
     en: [
       "Credits vary by model (Flash is cheaper than Multilingual v2)",
       "Free plan has no commercial license",
       "Production voice agents often need Business+ for latency",
-      "Not a ready-made outbound tool — you need a sequencer",
+      "Not a ready-made outbound tool, you need a sequencer",
       "Professional clone requires a higher plan",
     ],
   },
@@ -387,8 +387,8 @@ export const elevenlabsTool: SalesTool = {
       slug: "lemlist",
       name: "Lemlist",
       description: {
-        sr: "Multichannel outreach — voice note kao kanal.",
-        en: "Multichannel outreach — voice notes as a channel.",
+        sr: "Multichannel outreach, voice note kao kanal.",
+        en: "Multichannel outreach, voice notes as a channel.",
       },
       startingPrice: { sr: "od $39", en: "from $39" },
       trial: { sr: "14 dana", en: "14 days" },
@@ -409,8 +409,8 @@ export const elevenlabsTool: SalesTool = {
       slug: "adcreative",
       name: "AdCreative.ai",
       description: {
-        sr: "Video oglasi — drugačiji format od čistog audio.",
-        en: "Video ads — different format from pure audio.",
+        sr: "Video oglasi, drugačiji format od čistog audio.",
+        en: "Video ads, different format from pure audio.",
       },
       startingPrice: { sr: "od $39", en: "from $39" },
       trial: { sr: "7 dana", en: "7 days" },
@@ -420,8 +420,8 @@ export const elevenlabsTool: SalesTool = {
       slug: "instantly",
       name: "Instantly",
       description: {
-        sr: "Cold email — audio kao attachment u sekvenci.",
-        en: "Cold email — audio as an attachment in sequences.",
+        sr: "Cold email, audio kao attachment u sekvenci.",
+        en: "Cold email, audio as an attachment in sequences.",
       },
       startingPrice: { sr: "od $37", en: "from $37" },
       trial: { sr: "14 dana", en: "14 days" },
@@ -439,22 +439,22 @@ export const elevenlabsTool: SalesTool = {
     {
       question: { sr: "Šta je kredit?", en: "What is a credit?" },
       answer: {
-        sr: "Krediti se troše po generisanju — broj zavisi od modela (npr. Flash/Turbo je jeftiniji po karakteru od Multilingual v2). STT se naplaćuje po audio minutu, agenti po minutu poziva (~$0.08/min Speech Engine).",
-        en: "Credits are spent per generation — cost depends on the model (e.g. Flash/Turbo is cheaper per character than Multilingual v2). STT bills per audio minute; agents bill per call minute (~$0.08/min Speech Engine).",
+        sr: "Krediti se troše po generisanju, broj zavisi od modela (npr. Flash/Turbo je jeftiniji po karakteru od Multilingual v2). STT se naplaćuje po audio minutu, agenti po minutu poziva (~$0.08/min Speech Engine).",
+        en: "Credits are spent per generation, cost depends on the model (e.g. Flash/Turbo is cheaper per character than Multilingual v2). STT bills per audio minute; agents bill per call minute (~$0.08/min Speech Engine).",
       },
     },
     {
       question: { sr: "Da li je besplatan?", en: "Is it free?" },
       answer: {
-        sr: "Da — Free plan sa 10k kredita mesečno, bez kartice. Nema komercijalne licence i traži atribuciju. Za ozbiljan outbound uzmi Starter ($6) ili Creator ($22).",
-        en: "Yes — Free plan with 10k credits per month, no card required. No commercial license and attribution is required. For serious outbound, use Starter ($6) or Creator ($22).",
+        sr: "Da - Free plan sa 10k kredita mesečno, bez kartice. Nema komercijalne licence i traži atribuciju. Za ozbiljan outbound uzmi Starter ($6) ili Creator ($22).",
+        en: "Yes - Free plan with 10k credits per month, no card required. No commercial license and attribution is required. For serious outbound, use Starter ($6) or Creator ($22).",
       },
     },
     {
       question: { sr: "Zašto izabrati ElevenLabs?", en: "Why choose ElevenLabs?" },
       answer: {
-        sr: "Kada vam treba najrealističniji glas za voice note prospecting, lokalizovan sadržaj ili voice agente — sa jednim API-jem umesto kombinovanja Murf + posebnog STT + posebnog telefonskog vendora.",
-        en: "When you need the most realistic voice for voice note prospecting, localized content, or voice agents — with one API instead of combining Murf + a separate STT tool + a separate phone vendor.",
+        sr: "Kada vam treba najrealističniji glas za voice note prospecting, lokalizovan sadržaj ili voice agente, sa jednim API-jem umesto kombinovanja Murf + posebnog STT + posebnog telefonskog vendora.",
+        en: "When you need the most realistic voice for voice note prospecting, localized content, or voice agents, with one API instead of combining Murf + a separate STT tool + a separate phone vendor.",
       },
     },
     {
@@ -480,8 +480,8 @@ export const elevenlabsTool: SalesTool = {
     {
       question: { sr: "Da li ima API?", en: "Does it have an API?" },
       answer: {
-        sr: "Da — TTS (Flash od $0.05/1k karaktera), STT (Scribe), Speech Engine za agente, dubbing, voice changer. Pro+ za PCM 44.1kHz. Pay-as-you-go bez pretplate je moguć.",
-        en: "Yes — TTS (Flash from $0.05/1k chars), STT (Scribe), Speech Engine for agents, dubbing, voice changer. Pro+ for 44.1kHz PCM. Pay-as-you-go without a subscription is available.",
+        sr: "Da - TTS (Flash od $0.05/1k karaktera), STT (Scribe), Speech Engine za agente, dubbing, voice changer. Pro+ za PCM 44.1kHz. Pay-as-you-go bez pretplate je moguć.",
+        en: "Yes - TTS (Flash from $0.05/1k chars), STT (Scribe), Speech Engine for agents, dubbing, voice changer. Pro+ for 44.1kHz PCM. Pay-as-you-go without a subscription is available.",
       },
     },
     {

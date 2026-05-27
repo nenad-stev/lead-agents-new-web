@@ -1,6 +1,6 @@
 export const en = {
   meta: {
-    title: "Lead Agents — Sales & Marketing Agency",
+    title: "Lead Agents - Sales & Marketing Agency",
     description:
       "We help B2B companies sell their services on LinkedIn through a Founder Led Growth system.",
   },
@@ -18,7 +18,7 @@ export const en = {
     servicesFeatured: "Flagship service",
     viewAllServices: "View all services",
     educationPlaybookDesc:
-      "Founder Led Growth methodology — lessons, phases, and practical steps for B2B growth on LinkedIn.",
+      "Founder Led Growth methodology, lessons, phases, and practical steps for B2B growth on LinkedIn.",
     educationCaseStudiesDesc:
       "Real projects, numbers, and lessons from working with startups and established B2B teams.",
     lessonsCount: "lessons",
@@ -34,19 +34,19 @@ export const en = {
   },
   intro: {
     title: "What we can do for you",
-    text: "It is not only about what we do — but how we combine it to match your goals and deliver measurable results.",
+    text: "It is not only about what we do, but how we combine it to match your goals and deliver measurable results.",
   },
   home: {
     clientsTitle: "clients we've worked with",
     clientsSubtitle:
-      "From startups to established B2B teams — Founder Led Growth, outreach, and LinkedIn strategy.",
+      "From startups to established B2B teams - Founder Led Growth, outreach, and LinkedIn strategy.",
     clientsImpact:
       "Five years in · over $120M in pipeline for the teams we partner with.",
     clientsMoreLabel: "more clients",
     caseStudyEyebrow: "Case study",
     caseStudyTitle: "How we turned a bestseller into a digital course",
     caseStudyDescription:
-      "From idea to launch — we share the full story. Complete strategy, tools, and results.",
+      "From idea to launch, we share the full story. Complete strategy, tools, and results.",
     caseStudyCta: "Read the full case study",
     testimonialsTitle: "We finally convinced our clients to say something nice about us 😉",
     testimonialsSubtitle: "They told us!",
@@ -64,7 +64,7 @@ export const en = {
   services: {
     title: "What we can do for you",
     subtitle:
-      "We start with the complete Founder Led Growth system — then add specialized services based on your goals.",
+      "We start with the complete Founder Led Growth system, then add specialized services based on your goals.",
   },
   cta: {
     eyebrow: "Free consultation",
@@ -107,9 +107,9 @@ export const en = {
       title: "Best B2B sales tools directory",
       eyebrow: "Sales tools",
       description:
-        "Tools for prospecting, outreach, CRM, and sales automation — picked and tested in our campaigns.",
+        "Tools for prospecting, outreach, CRM, and sales automation, picked and tested in our campaigns.",
       subtitle:
-        "Compare pricing, features, and alternatives — tools we actually use in campaigns.",
+        "Compare pricing, features, and alternatives, tools we actually use in campaigns.",
       searchPlaceholder: "Search for a tool...",
       filterCategories: "Categories",
       featuredTitle: "Recommended tools",
@@ -124,15 +124,15 @@ export const en = {
       comingSoon: "The tools catalog is expanding.",
     },
     contact: {
-      metaTitle: "Contact — Lead Agents",
+      metaTitle: "Contact - Lead Agents",
       metaDescription:
-        "Get in touch with the Lead Agents team. Book a meeting or send us a message — we will get back to you shortly.",
+        "Get in touch with the Lead Agents team. Book a meeting or send us a message, we will get back to you shortly.",
       title: "Book a meeting",
       heroSubtitle:
         "Send a message through the form or book a time slot directly in the calendar.",
       bookMeetingCta: "Book a time slot",
       bookingTitle: "Book online",
-      bookingSubtitle: "30-minute meeting — pick an available slot in the calendar.",
+      bookingSubtitle: "30-minute meeting, pick an available slot in the calendar.",
       detailsTitle: "Contact details",
       detailsSubtitle: "Feel free to reach out in any of the following ways",
       emailLabel: "Email",

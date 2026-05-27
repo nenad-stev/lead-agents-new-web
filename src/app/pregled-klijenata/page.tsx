@@ -6,7 +6,7 @@ import { ClientsSection } from "@/components/home/ClientsSection";
 import { getDictionary } from "@/lib/i18n";
 
 export const metadata: Metadata = {
-  title: "Pregled — sekcija klijenata | Lead Agents",
+  title: "Pregled, sekcija klijenata | Lead Agents",
   description: "Privremena stranica za pregled nove sekcije sa logotipima klijenata.",
   robots: { index: false, follow: false },
 };
@@ -22,7 +22,7 @@ export default function PregledKlijenataPage() {
       <main>
         <div className="border-b border-border/60 bg-card/40 px-6 py-8 text-center md:px-8">
           <p className="text-sm text-muted">
-            Privremeni pregled nove sekcije — nije u meniju. Na početnoj je ista komponenta ispod
+            Privremeni pregled nove sekcije, nije u meniju. Na početnoj je ista komponenta ispod
             hero-a.
           </p>
         </div>

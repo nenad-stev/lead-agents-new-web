@@ -5,8 +5,8 @@ export const tldvTool: SalesTool = {
   name: "tl;dv",
   logo: "/images/sales-tools/tldv.png",
   tagline: {
-    sr: "AI meeting recorder — transkripcija na srpskom, CRM sync i sales coaching",
-    en: "AI meeting recorder — Serbian transcription, CRM sync, and sales coaching",
+    sr: "AI meeting recorder, transkripcija na srpskom, CRM sync i sales coaching",
+    en: "AI meeting recorder - Serbian transcription, CRM sync, and sales coaching",
   },
   categoryId: "conversation-intelligence",
   category: { sr: "Conversation intelligence", en: "Conversation intelligence" },
@@ -32,12 +32,12 @@ export const tldvTool: SalesTool = {
   recommended: true,
   rating: { g2: 4.6, g2Reviews: 400 },
   overview: {
-    sr: "tl;dv snima, transkribuje i sumira sales i interne sastanke na Zoom, Google Meet i MS Teams — sa AI beleškama koje idu direktno u HubSpot/Salesforce. **Podržava srpski jezik** putem Premium Whisper modela (auto-detekcija na Business+ planu).",
-    en: "tl;dv records, transcribes, and summarizes sales and internal meetings on Zoom, Google Meet, and MS Teams — with AI notes pushed to HubSpot/Salesforce. **Supports Serbian** via the Premium Whisper model (auto-detection on Business+).",
+    sr: "tl;dv snima, transkribuje i sumira sales i interne sastanke na Zoom, Google Meet i MS Teams, sa AI beleškama koje idu direktno u HubSpot/Salesforce. **Podržava srpski jezik** putem Premium Whisper modela (auto-detekcija na Business+ planu).",
+    en: "tl;dv records, transcribes, and summarizes sales and internal meetings on Zoom, Google Meet, and MS Teams, with AI notes pushed to HubSpot/Salesforce. **Supports Serbian** via the Premium Whisper model (auto-detection on Business+).",
   },
   overviewExtended: {
-    sr: "Free plan za test. Pro **$29/user/mes** ($18 godišnje) — unlimited AI notes. Business **$98** ($59 godišnje) — native CRM, sales coaching, **Whisper za srpski i višejezične pozive**. Nije CRM — sloj iznad vašeg stack-a; uparite sa Attention za enterprise AI agente.",
-    en: "Free plan to test. Pro **$29/user/mo** ($18 annual) — unlimited AI notes. Business **$98** ($59 annual) — native CRM, sales coaching, **Whisper for Serbian and multilingual calls**. Not a CRM — a layer on your stack; pair with Attention for enterprise AI agents.",
+    sr: "Free plan za test. Pro **$29/user/mes** ($18 godišnje), unlimited AI notes. Business **$98** ($59 godišnje), native CRM, sales coaching, **Whisper za srpski i višejezične pozive**. Nije CRM, sloj iznad vašeg stack-a; uparite sa Attention za enterprise AI agente.",
+    en: "Free plan to test. Pro **$29/user/mo** ($18 annual), unlimited AI notes. Business **$98** ($59 annual), native CRM, sales coaching, **Whisper for Serbian and multilingual calls**. Not a CRM, a layer on your stack; pair with Attention for enterprise AI agents.",
   },
   idealFor: {
     sr: [
@@ -166,7 +166,7 @@ export const tldvTool: SalesTool = {
         },
         highlights: {
           sr: [
-            "**Whisper — srpski auto-detekcija**",
+            "**Whisper, srpski auto-detekcija**",
             "Native Salesforce & HubSpot",
             "Sales coaching & playbooks",
             "Multi-meeting AI reports",
@@ -174,7 +174,7 @@ export const tldvTool: SalesTool = {
             "Deal intelligence",
           ],
           en: [
-            "**Whisper — Serbian auto-detection**",
+            "**Whisper - Serbian auto-detection**",
             "Native Salesforce & HubSpot",
             "Sales coaching & playbooks",
             "Multi-meeting AI reports",
@@ -333,8 +333,8 @@ export const tldvTool: SalesTool = {
       slug: "instantly",
       name: "Instantly",
       description: {
-        sr: "Outbound — pre discovery poziva.",
-        en: "Outbound — before discovery calls.",
+        sr: "Outbound, pre discovery poziva.",
+        en: "Outbound, before discovery calls.",
       },
       startingPrice: { sr: "od $37", en: "from $37" },
       trial: { sr: "14 dana", en: "14 days" },
@@ -355,15 +355,15 @@ export const tldvTool: SalesTool = {
     {
       question: { sr: "Koliko košta tl;dv?", en: "How much does tl;dv cost?" },
       answer: {
-        sr: "Free $0. Pro $29/mes ($18 godišnje). Business $98/mes ($59 godišnje) — Whisper + CRM. Enterprise custom. Trenutno ~40% popusta na godišnje planove.",
-        en: "Free $0. Pro $29/mo ($18 annual). Business $98/mo ($59 annual) — Whisper + CRM. Enterprise custom. Currently ~40% off annual plans.",
+        sr: "Free $0. Pro $29/mes ($18 godišnje). Business $98/mes ($59 godišnje), Whisper + CRM. Enterprise custom. Trenutno ~40% popusta na godišnje planove.",
+        en: "Free $0. Pro $29/mo ($18 annual). Business $98/mo ($59 annual), Whisper + CRM. Enterprise custom. Currently ~40% off annual plans.",
       },
     },
     {
       question: { sr: "Zašto izabrati tl;dv?", en: "Why choose tl;dv?" },
       answer: {
-        sr: "Kada vam treba meeting intelligence sa javnom cenom, free startom i srpskom transkripcijom — bez enterprise sales ciklusa kao kod Gong/Attention.",
-        en: "When you need meeting intelligence with public pricing, a free start, and Serbian transcription — without the enterprise sales cycle of Gong/Attention.",
+        sr: "Kada vam treba meeting intelligence sa javnom cenom, free startom i srpskom transkripcijom, bez enterprise sales ciklusa kao kod Gong/Attention.",
+        en: "When you need meeting intelligence with public pricing, a free start, and Serbian transcription, without the enterprise sales cycle of Gong/Attention.",
       },
     },
     {
@@ -376,8 +376,8 @@ export const tldvTool: SalesTool = {
     {
       question: { sr: "Da li ima API?", en: "Does it have an API?" },
       answer: {
-        sr: "Da — tl;dv API (v1alpha1) za transkripte, snimke i integracije u vaš stack.",
-        en: "Yes — tl;dv API (v1alpha1) for transcripts, recordings, and integrations into your stack.",
+        sr: "Da, tl;dv API (v1alpha1) za transkripte, snimke i integracije u vaš stack.",
+        en: "Yes, tl;dv API (v1alpha1) for transcripts, recordings, and integrations into your stack.",
       },
     },
   ],

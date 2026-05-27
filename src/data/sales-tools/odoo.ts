@@ -5,8 +5,8 @@ export const odooTool: SalesTool = {
   name: "Odoo",
   logo: "/images/sales-tools/odoo.png",
   tagline: {
-    sr: "All-in-one ERP — CRM, prodaja, inventar i računovodstvo u jednoj platformi",
-    en: "All-in-one ERP — CRM, sales, inventory, and accounting in one platform",
+    sr: "All-in-one ERP - CRM, prodaja, inventar i računovodstvo u jednoj platformi",
+    en: "All-in-one ERP - CRM, sales, inventory, and accounting in one platform",
   },
   categoryId: "crm",
   category: { sr: "CRM", en: "CRM" },
@@ -32,12 +32,12 @@ export const odooTool: SalesTool = {
   recommended: true,
   rating: { g2: 4.3, g2Reviews: 800 },
   overview: {
-    sr: "Odoo je open-source poslovna platforma sa desetinama aplikacija: CRM, prodaja, nabavka, inventar, HR, website — jedna baza podataka, jedan UI, bez vendor lock-in-a na Community izdanju.",
-    en: "Odoo is an open-source business platform with dozens of apps: CRM, sales, purchasing, inventory, HR, website — one database, one UI, no vendor lock-in on the Community edition.",
+    sr: "Odoo je open-source poslovna platforma sa desetinama aplikacija: CRM, prodaja, nabavka, inventar, HR, website, jedna baza podataka, jedan UI, bez vendor lock-in-a na Community izdanju.",
+    en: "Odoo is an open-source business platform with dozens of apps: CRM, sales, purchasing, inventory, HR, website, one database, one UI, no vendor lock-in on the Community edition.",
   },
   overviewExtended: {
-    sr: "Enterprise **Standard ~$25/user/mes** (godišnje) — svi app-ovi, Odoo Online hosting. **Custom ~$37/user** — Studio, multi-company, API, Odoo.sh. **One App Free** — jedna aplikacija (npr. samo CRM) besplatno. Community 100% free (self-host). Nije cold outreach alat — koristite kao operativni sistem firme uz Instantly za outbound.",
-    en: "Enterprise **Standard ~$25/user/mo** (annual) — all apps, Odoo Online hosting. **Custom ~$37/user** — Studio, multi-company, API, Odoo.sh. **One App Free** — one app (e.g. CRM only) free. Community 100% free (self-host). Not a cold outreach tool — use as your company OS alongside Instantly for outbound.",
+    sr: "Enterprise **Standard ~$25/user/mes** (godišnje), svi app-ovi, Odoo Online hosting. **Custom ~$37/user**, Studio, multi-company, API, Odoo.sh. **One App Free**, jedna aplikacija (npr. samo CRM) besplatno. Community 100% free (self-host). Nije cold outreach alat, koristite kao operativni sistem firme uz Instantly za outbound.",
+    en: "Enterprise **Standard ~$25/user/mo** (annual), all apps, Odoo Online hosting. **Custom ~$37/user**, Studio, multi-company, API, Odoo.sh. **One App Free**, one app (e.g. CRM only) free. Community 100% free (self-host). Not a cold outreach tool, use as your company OS alongside Instantly for outbound.",
   },
   idealFor: {
     sr: [
@@ -60,7 +60,7 @@ export const odooTool: SalesTool = {
       "40+ integrisanih aplikacija",
       "UI < 90ms response",
       "Community (LGPL) + Enterprise",
-      "Odoo Studio — no-code customizacija",
+      "Odoo Studio, no-code customizacija",
       "Global partner mreža",
       "External API (Custom+)",
     ],
@@ -68,7 +68,7 @@ export const odooTool: SalesTool = {
       "40+ integrated applications",
       "UI < 90ms response",
       "Community (LGPL) + Enterprise",
-      "Odoo Studio — no-code customization",
+      "Odoo Studio, no-code customization",
       "Global partner network",
       "External API (Custom+)",
     ],
@@ -230,20 +230,20 @@ export const odooTool: SalesTool = {
   setup: {
     complexity: { sr: "Napredni", en: "Advanced" },
     description: {
-      sr: "Trial ili One App Free → aktivirajte CRM + Sales → import kontakata → podesite pipeline → partner za Custom ako treba inventar/računovodstvo. Implementacija 2–8 nedelja zavisno od scope-a. Community za dev timove sa self-host iskustvom.",
-      en: "Trial or One App Free → enable CRM + Sales → import contacts → set pipeline → partner for Custom if inventory/accounting needed. Implementation 2–8 weeks depending on scope. Community for dev teams with self-host experience.",
+      sr: "Trial ili One App Free → aktivirajte CRM + Sales → import kontakata → podesite pipeline → partner za Custom ako treba inventar/računovodstvo. Implementacija 2-8 nedelja zavisno od scope-a. Community za dev timove sa self-host iskustvom.",
+      en: "Trial or One App Free → enable CRM + Sales → import contacts → set pipeline → partner for Custom if inventory/accounting needed. Implementation 2-8 weeks depending on scope. Community for dev teams with self-host experience.",
     },
   },
   pros: {
     sr: [
-      "Jedna cena — svi moduli",
+      "Jedna cena, svi moduli",
       "Open-source Community opcija",
       "Brz UI i integracija modula",
       "Velika globalna zajednica",
       "Jeftiniji od SAP/NetSuite TCO",
     ],
     en: [
-      "One price — all modules",
+      "One price, all modules",
       "Open-source Community option",
       "Fast UI and module integration",
       "Large global community",
@@ -282,8 +282,8 @@ export const odooTool: SalesTool = {
       slug: "nocrm",
       name: "noCRM",
       description: {
-        sr: "Lagani sales CRM — bez ERP-a.",
-        en: "Light sales CRM — no ERP.",
+        sr: "Lagani sales CRM, bez ERP-a.",
+        en: "Light sales CRM, no ERP.",
       },
       startingPrice: { sr: "od €11", en: "from €11" },
       trial: { sr: "15 dana", en: "15 days" },
@@ -304,8 +304,8 @@ export const odooTool: SalesTool = {
       slug: "instantly",
       name: "Instantly",
       description: {
-        sr: "Outbound — komplement Odoo CRM-u.",
-        en: "Outbound — complements Odoo CRM.",
+        sr: "Outbound, komplement Odoo CRM-u.",
+        en: "Outbound, complements Odoo CRM.",
       },
       startingPrice: { sr: "od $37", en: "from $37" },
       trial: { sr: "14 dana", en: "14 days" },
@@ -337,15 +337,15 @@ export const odooTool: SalesTool = {
     {
       question: { sr: "Odoo vs HubSpot?", en: "Odoo vs HubSpot?" },
       answer: {
-        sr: "HubSpot je GTM/marketing SaaS. Odoo je ERP sa CRM modulom — širi scope, više implementacije, jeftiniji all-in-one za operacije.",
-        en: "HubSpot is GTM/marketing SaaS. Odoo is ERP with CRM — broader scope, more implementation, cheaper all-in-one for operations.",
+        sr: "HubSpot je GTM/marketing SaaS. Odoo je ERP sa CRM modulom, širi scope, više implementacije, jeftiniji all-in-one za operacije.",
+        en: "HubSpot is GTM/marketing SaaS. Odoo is ERP with CRM, broader scope, more implementation, cheaper all-in-one for operations.",
       },
     },
     {
       question: { sr: "Da li ima API?", en: "Does it have an API?" },
       answer: {
-        sr: "Da — External API na Custom planu; XML-RPC/JSON-RPC na Community i Enterprise za integracije.",
-        en: "Yes — External API on Custom plan; XML-RPC/JSON-RPC on Community and Enterprise for integrations.",
+        sr: "Da - External API na Custom planu; XML-RPC/JSON-RPC na Community i Enterprise za integracije.",
+        en: "Yes - External API on Custom plan; XML-RPC/JSON-RPC on Community and Enterprise for integrations.",
       },
     },
   ],

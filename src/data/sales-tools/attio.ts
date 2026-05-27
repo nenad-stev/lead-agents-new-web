@@ -30,12 +30,12 @@ export const attioTool: SalesTool = {
   recommended: true,
   rating: { g2: 4.8, g2Reviews: 120 },
   overview: {
-    sr: "Attio je AI-powered CRM dizajniran da prodajnim i marketing timovima pomogne da upravljaju klijentskim podacima i revenue workflow-ima. Ističe se fleksibilnošću — prilagođava se vašim procesima umesto da vas forsira u rigidne šablone.",
-    en: "Attio is an AI-powered CRM designed to help sales and marketing teams manage customer data and revenue workflows. It stands out for its flexibility — adapting to your processes instead of forcing rigid templates.",
+    sr: "Attio je AI-powered CRM dizajniran da prodajnim i marketing timovima pomogne da upravljaju klijentskim podacima i revenue workflow-ima. Ističe se fleksibilnošću, prilagođava se vašim procesima umesto da vas forsira u rigidne šablone.",
+    en: "Attio is an AI-powered CRM designed to help sales and marketing teams manage customer data and revenue workflows. It stands out for its flexibility, adapting to your processes instead of forcing rigid templates.",
   },
   overviewExtended: {
-    sr: "Idealno za B2B SaaS kompanije i rastuće startape. Attio se ističe u outreach-u, praćenju dealova i nurturing-u leadova uz AI uvide. Sinhronizuje email, kalendar i druge izvore podataka — rezultate vidite skoro odmah nakon setup-a. Integracije: Gmail, Slack, data warehouse-i i sales engagement alati.",
-    en: "Ideal for B2B SaaS companies and growing startups. Attio excels at outreach, deal tracking, and lead nurturing with AI insights. It syncs email, calendar, and other data sources — you see results almost immediately after setup. Integrations include Gmail, Slack, data warehouses, and sales engagement tools.",
+    sr: "Idealno za B2B SaaS kompanije i rastuće startape. Attio se ističe u outreach-u, praćenju dealova i nurturing-u leadova uz AI uvide. Sinhronizuje email, kalendar i druge izvore podataka, rezultate vidite skoro odmah nakon setup-a. Integracije: Gmail, Slack, data warehouse-i i sales engagement alati.",
+    en: "Ideal for B2B SaaS companies and growing startups. Attio excels at outreach, deal tracking, and lead nurturing with AI insights. It syncs email, calendar, and other data sources, you see results almost immediately after setup. Integrations include Gmail, Slack, data warehouses, and sales engagement tools.",
   },
   idealFor: {
     sr: ["Startapi", "Scale-up kompanije", "SMB timovi", "GTM builderi"],
@@ -88,7 +88,7 @@ export const attioTool: SalesTool = {
   pricing: {
     startingPrice: { sr: "$36 / mesec", en: "$36 / month" },
     billing: { sr: "Po korisniku, mesečno ili godišnje", en: "Per user, monthly or annually" },
-    trial: { sr: "Dostupan — 14 dana Pro plana", en: "Available — 14-day Pro trial" },
+    trial: { sr: "Dostupan - 14 dana Pro plana", en: "Available - 14-day Pro trial" },
     plans: [
       {
         id: "free",
@@ -118,7 +118,7 @@ export const attioTool: SalesTool = {
         name: { sr: "Plus", en: "Plus" },
         price: { sr: "$29 / korisnik", en: "$29 / user" },
         billingNote: {
-          sr: "Mesečno ili godišnje (−20%)",
+          sr: "Mesečno ili godišnje (-20%)",
           en: "Monthly or annually (save 20%)",
         },
         highlights: {
@@ -141,7 +141,7 @@ export const attioTool: SalesTool = {
         name: { sr: "Pro", en: "Pro" },
         price: { sr: "$69 / korisnik", en: "$69 / user" },
         billingNote: {
-          sr: "Mesečno ili godišnje (−20%)",
+          sr: "Mesečno ili godišnje (-20%)",
           en: "Monthly or annually (save 20%)",
         },
         highlights: {
@@ -264,13 +264,13 @@ export const attioTool: SalesTool = {
   },
   pros: {
     sr: [
-      "Fleksibilan data model — prilagođava se vašem procesu",
+      "Fleksibilan data model, prilagođava se vašem procesu",
       "Brz setup u odnosu na klasične CRM-ove",
       "Snažna automatizacija i AI funkcije",
       "Moderan, čist interfejs",
     ],
     en: [
-      "Flexible data model — adapts to your process",
+      "Flexible data model, adapts to your process",
       "Faster setup than legacy CRMs",
       "Strong automation and AI features",
       "Modern, clean interface",
@@ -293,8 +293,8 @@ export const attioTool: SalesTool = {
       slug: "apollo",
       name: "Apollo",
       description: {
-        sr: "Baza leadova i outreach — dobar par uz CRM.",
-        en: "Lead database and outreach — pairs well with a CRM.",
+        sr: "Baza leadova i outreach, dobar par uz CRM.",
+        en: "Lead database and outreach, pairs well with a CRM.",
       },
       startingPrice: { sr: "od $49 / mesec", en: "from $49 / month" },
       trial: { sr: "14 dana", en: "14 days" },
@@ -315,7 +315,7 @@ export const attioTool: SalesTool = {
       slug: "instantly",
       name: "Instantly",
       description: {
-        sr: "Cold email na skali — neograničeni inbox-ovi.",
+        sr: "Cold email na skali, neograničeni inbox-ovi.",
         en: "High-volume cold email with unlimited inboxes.",
       },
       startingPrice: { sr: "od $37 / mesec", en: "from $37 / month" },
@@ -363,8 +363,8 @@ export const attioTool: SalesTool = {
     {
       question: { sr: "Da li Attio ima API?", en: "Does Attio have an API?" },
       answer: {
-        sr: "Da — API omogućava custom integracije i automatizacije kroz vaš tech stack.",
-        en: "Yes — the API enables custom integrations and automations across your tech stack.",
+        sr: "Da - API omogućava custom integracije i automatizacije kroz vaš tech stack.",
+        en: "Yes, the API enables custom integrations and automations across your tech stack.",
       },
     },
     {

@@ -5,8 +5,8 @@ export const apifyTool: SalesTool = {
   name: "Apify",
   logo: "/images/sales-tools/apify.png",
   tagline: {
-    sr: "Web scraping i automatizacija — hiljade Actor-a, API i proxy infrastruktura",
-    en: "Web scraping and automation — thousands of Actors, API, and proxy infrastructure",
+    sr: "Web scraping i automatizacija, hiljade Actor-a, API i proxy infrastruktura",
+    en: "Web scraping and automation, thousands of Actors, API, and proxy infrastructure",
   },
   categoryId: "prospecting",
   category: { sr: "Prospecting", en: "Prospecting" },
@@ -32,12 +32,12 @@ export const apifyTool: SalesTool = {
   recommended: true,
   rating: { g2: 4.7, g2Reviews: 210 },
   overview: {
-    sr: "Apify je cloud platforma za izvlačenje podataka sa weba: pokrećete gotove scrapere (Actors) iz Store-a ili pišete sopstvene — bez održavanja servera, proxy-ja i skaliranja.",
-    en: "Apify is a cloud platform for extracting web data: run ready-made scrapers (Actors) from the Store or build your own — without maintaining servers, proxies, or scaling infrastructure.",
+    sr: "Apify je cloud platforma za izvlačenje podataka sa weba: pokrećete gotove scrapere (Actors) iz Store-a ili pišete sopstvene, bez održavanja servera, proxy-ja i skaliranja.",
+    en: "Apify is a cloud platform for extracting web data: run ready-made scrapers (Actors) from the Store or build your own, without maintaining servers, proxies, or scaling infrastructure.",
   },
   overviewExtended: {
-    sr: "Za GTM timove: LinkedIn, Google Maps, marketplace listingi, job boardovi — podaci u JSON/CSV ili direktno u Clay, Zapier, Google Sheets. Naplata je pretplata + pay-as-you-go (compute units, proxy GB, storage). Nije CRM ni outreach alat — koristi se da napunite pipeline podacima.",
-    en: "For GTM teams: LinkedIn, Google Maps, marketplace listings, job boards — output as JSON/CSV or straight into Clay, Zapier, Google Sheets. Billing is subscription plus pay-as-you-go (compute units, proxy GB, storage). Not a CRM or outreach tool — use it to feed your pipeline with data.",
+    sr: "Za GTM timove: LinkedIn, Google Maps, marketplace listingi, job boardovi, podaci u JSON/CSV ili direktno u Clay, Zapier, Google Sheets. Naplata je pretplata + pay-as-you-go (compute units, proxy GB, storage). Nije CRM ni outreach alat, koristi se da napunite pipeline podacima.",
+    en: "For GTM teams: LinkedIn, Google Maps, marketplace listings, job boards, output as JSON/CSV or straight into Clay, Zapier, Google Sheets. Billing is subscription plus pay-as-you-go (compute units, proxy GB, storage). Not a CRM or outreach tool, use it to feed your pipeline with data.",
   },
   idealFor: {
     sr: [
@@ -163,7 +163,7 @@ export const apifyTool: SalesTool = {
             "Priority chat support",
             "128 GB RAM · 128 concurrent runs",
             "Jeftiniji proxy i CU",
-            "Startup program (−30%)",
+            "Startup program (-30%)",
           ],
           en: [
             "Silver Store discount",
@@ -249,7 +249,7 @@ export const apifyTool: SalesTool = {
       {
         feature: { sr: "Store discount", en: "Store discount" },
         values: {
-          free: { sr: "—", en: "—" },
+          free: { sr: ", ", en: ", " },
           starter: { sr: "Bronze", en: "Bronze" },
           scale: { sr: "Silver", en: "Silver" },
           business: { sr: "Gold", en: "Gold" },
@@ -312,8 +312,8 @@ export const apifyTool: SalesTool = {
       slug: "apollo",
       name: "Apollo",
       description: {
-        sr: "Gotova B2B baza — bez custom scrapinga.",
-        en: "Ready-made B2B database — no custom scraping.",
+        sr: "Gotova B2B baza, bez custom scrapinga.",
+        en: "Ready-made B2B database, no custom scraping.",
       },
       startingPrice: { sr: "od $49", en: "from $49" },
       trial: { sr: "14 dana", en: "14 days" },
@@ -323,8 +323,8 @@ export const apifyTool: SalesTool = {
       slug: "fullenrich",
       name: "FullEnrich",
       description: {
-        sr: "Enrichment email/telefon — nakon što imate listu.",
-        en: "Email/phone enrichment — after you have a list.",
+        sr: "Enrichment email/telefon, nakon što imate listu.",
+        en: "Email/phone enrichment, after you have a list.",
       },
       startingPrice: { sr: "od $29", en: "from $29" },
       trial: { sr: "50 kredita", en: "50 credits" },
@@ -360,15 +360,15 @@ export const apifyTool: SalesTool = {
     {
       question: { sr: "Da li Apify ima besplatan plan?", en: "Does Apify have a free plan?" },
       answer: {
-        sr: "Da — $5 platform kredita mesečno, bez kartice. Dovoljno za testiranje manjih Actor run-ova i učenje platforme.",
-        en: "Yes — $5 in platform credits per month, no card required. Enough to test smaller Actor runs and learn the platform.",
+        sr: "Da, $5 platform kredita mesečno, bez kartice. Dovoljno za testiranje manjih Actor run-ova i učenje platforme.",
+        en: "Yes, $5 in platform credits per month, no card required. Enough to test smaller Actor runs and learn the platform.",
       },
     },
     {
       question: { sr: "Zašto izabrati Apify?", en: "Why choose Apify?" },
       answer: {
-        sr: "Kada vam treba fresh web data sa sajtova gde nema gotove B2B baze — LinkedIn postovi, Google Maps, marketplace listingi, custom izvori — uz scheduling i API.",
-        en: "When you need fresh web data from sites without a ready-made B2B database — LinkedIn posts, Google Maps, marketplace listings, custom sources — with scheduling and API.",
+        sr: "Kada vam treba fresh web data sa sajtova gde nema gotove B2B baze - LinkedIn postovi, Google Maps, marketplace listingi, custom izvori, uz scheduling i API.",
+        en: "When you need fresh web data from sites without a ready-made B2B database - LinkedIn posts, Google Maps, marketplace listings, custom sources, with scheduling and API.",
       },
     },
     {
@@ -384,8 +384,8 @@ export const apifyTool: SalesTool = {
     {
       question: { sr: "Da li Apify ima API?", en: "Does Apify have an API?" },
       answer: {
-        sr: "Da — pun REST API za pokretanje, scheduling, monitoring Actor-a i upravljanje dataset-ima. Integracije sa Zapier, Make, Google Sheets, Clay i sl.",
-        en: "Yes — full REST API to run, schedule, and monitor Actors and manage datasets. Integrations with Zapier, Make, Google Sheets, Clay, and more.",
+        sr: "Da, pun REST API za pokretanje, scheduling, monitoring Actor-a i upravljanje dataset-ima. Integracije sa Zapier, Make, Google Sheets, Clay i sl.",
+        en: "Yes, full REST API to run, schedule, and monitor Actors and manage datasets. Integrations with Zapier, Make, Google Sheets, Clay, and more.",
       },
     },
     {
@@ -394,8 +394,8 @@ export const apifyTool: SalesTool = {
         en: "How does it fit with Clay?",
       },
       answer: {
-        sr: "Clay često koristi Apify Actors kao izvor u waterfall kolonama — izvučete podatke u Apify, zatim obogatite i personalizujete u Clay tabeli pre exporta u outreach alat.",
-        en: "Clay often uses Apify Actors as a source in waterfall columns — extract in Apify, then enrich and personalize in a Clay table before exporting to outreach tools.",
+        sr: "Clay često koristi Apify Actors kao izvor u waterfall kolonama, izvučete podatke u Apify, zatim obogatite i personalizujete u Clay tabeli pre exporta u outreach alat.",
+        en: "Clay often uses Apify Actors as a source in waterfall columns, extract in Apify, then enrich and personalize in a Clay table before exporting to outreach tools.",
       },
     },
     {

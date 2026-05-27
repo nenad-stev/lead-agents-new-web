@@ -82,7 +82,7 @@ const video5 = {
 export const lesson4RichContent: RichLessonContent = {
   meta: {
     stage: L("Content Engine", "Content Engine"),
-    readingTime: L("18–22 min", "18–22 min"),
+    readingTime: L("18-22 min", "18-22 min"),
     difficulty: L("Početnik do srednjeg nivoa", "Beginner to intermediate"),
     outcome: L(
       "Izgradićeš content sistem zasnovan na intervjuima (ne na dnevnom pisanju founder-a) koji podiže reply rate na outreach i vodi ka sastancima.",
@@ -182,12 +182,12 @@ export const lesson4RichContent: RichLessonContent = {
           type: "illustration",
           src: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?auto=format&fit=crop&w=1400&q=80",
           alt: L(
-            "Content kalendar i planiranje — founder content sistem, ne nasumične ideje",
-            "Content calendar and planning — a founder content system, not random ideas",
+            "Content kalendar i planiranje, founder content sistem, ne nasumične ideje",
+            "Content calendar and planning, a founder content system, not random ideas",
           ),
           caption: L(
-            "Strategija znači ponavljanje pravih poruka u pravom ritmu — ne jurenje inspiracije.",
-            "Strategy means repeating the right messages on the right rhythm — not chasing inspiration.",
+            "Strategija znači ponavljanje pravih poruka u pravom ritmu, ne jurenje inspiracije.",
+            "Strategy means repeating the right messages on the right rhythm, not chasing inspiration.",
           ),
           credit: L("Foto: Unsplash", "Photo: Unsplash"),
         },
@@ -219,13 +219,13 @@ export const lesson4RichContent: RichLessonContent = {
           type: "paragraphs",
           paragraphs: P(
             [
-              "Founder-Led Growth zavisi od market edukacije. Većina B2B kupaca nije spremna da kupi danas — ali i dalje uči. Primećuju probleme. Porede pristupe. Pitaju kolege. Gledaju ko razume tržište. Grade poverenje pre nego što pričaju sa sales-om.",
+              "Founder-Led Growth zavisi od market edukacije. Većina B2B kupaca nije spremna da kupi danas, ali i dalje uči. Primećuju probleme. Porede pristupe. Pitaju kolege. Gledaju ko razume tržište. Grade poverenje pre nego što pričaju sa sales-om.",
               "Founder content je način da uđeš u taj proces. LinkedIn B2B content marketing smernice kažu da B2B content treba da pomaže ljudima da reše poslovne probleme i rade posao bolje, dok ih vodi ka brendu i rešenju. Strategija treba da počne od publike, konkurenata, ciljeva, merenja, customer journey-a i izgradnje odnosa.",
-              "Edelman i LinkedIn 2025 B2B Thought Leadership Impact Report kaže da thought leadership nije samo content marketing — već strateški alat za gradnju poverenja, usklađivanje i otvaranje vrata gde tradicionalna prodaja može da padne.",
-              "To je uloga founder content-a: daje kupcima jezik; čini problem vidljivim; pokazuje cenu neakcije; uči tržište kako da misli; čini outreach nastavkom, ne prekidom. Ali strategija mora biti održiva. Ako founder sagori posle 3 nedelje, to nije strategija — to je kampanja.",
+              "Edelman i LinkedIn 2025 B2B Thought Leadership Impact Report kaže da thought leadership nije samo content marketing, već strateški alat za gradnju poverenja, usklađivanje i otvaranje vrata gde tradicionalna prodaja može da padne.",
+              "To je uloga founder content-a: daje kupcima jezik; čini problem vidljivim; pokazuje cenu neakcije; uči tržište kako da misli; čini outreach nastavkom, ne prekidom. Ali strategija mora biti održiva. Ako founder sagori posle 3 nedelje, to nije strategija, to je kampanja.",
             ],
             [
-              "Founder-Led Growth depends on market education. Most B2B buyers are not ready to buy today — but they are still learning. They are noticing problems. They are comparing approaches. They are asking peers. They are watching who understands the market. They are building trust before they speak to sales.",
+              "Founder-Led Growth depends on market education. Most B2B buyers are not ready to buy today, but they are still learning. They are noticing problems. They are comparing approaches. They are asking peers. They are watching who understands the market. They are building trust before they speak to sales.",
               "Your founder content is how you enter that process. LinkedIn's B2B content marketing guidance says B2B content should help people solve business problems and do their jobs better while guiding them toward your brand and solution. Strategy should start with audience, competitors, objectives, measurement, customer journey, and relationship-building.",
               "Edelman and LinkedIn's 2025 B2B Thought Leadership Impact Report says thought leadership is not just content marketing. It is a strategic tool for building trust, driving alignment, and opening doors where traditional sales may fall short.",
               "That is the role of founder content. It gives buyers language. It makes the problem visible. It shows the cost of inaction. It teaches the market how to think. It makes outreach feel like a continuation, not an interruption. But the strategy has to be sustainable. If the founder burns out after 3 weeks, it is not a strategy. It is a campaign.",
@@ -260,7 +260,7 @@ export const lesson4RichContent: RichLessonContent = {
               ),
             },
             {
-              value: L("3–5", "3–5"),
+              value: L("3-5", "3-5"),
               label: L("Pilari", "Pillars"),
               description: L(
                 "Ponavljajuće topic area-e umesto nasumičnih tema.",
@@ -271,8 +271,8 @@ export const lesson4RichContent: RichLessonContent = {
               value: L("2+", "2+"),
               label: L("Posta / nedelja", "Posts / week"),
               description: L(
-                "Realističan početak — bolje konzistentno nego intenzivno pa tišina.",
-                "A realistic start — consistent beats intense then silent.",
+                "Realističan početak, bolje konzistentno nego intenzivno pa tišina.",
+                "A realistic start, consistent beats intense then silent.",
               ),
             },
           ],
@@ -289,7 +289,7 @@ export const lesson4RichContent: RichLessonContent = {
           paragraphs: P(
             [
               "Founder LinkedIn content strategija treba da radi četiri posla: 1) Edukuje ICP. 2) Gradi poverenje u founder point of view. 3) Stvara kontekst pre outreach-a. 4) Generiše signale za pipeline sistem.",
-              "Cilj nije „biti aktivan na LinkedIn-u“. Cilj je postati poznat po problemu koji tvoja kompanija rešava. Content ne treba da bude nasumičan — treba da ponavlja iste core ideje iz različnih uglova dok tržište ne počne da te povezuje sa problemom, POV-om i rešenjem.",
+              "Cilj nije „biti aktivan na LinkedIn-u“. Cilj je postati poznat po problemu koji tvoja kompanija rešava. Content ne treba da bude nasumičan, treba da ponavlja iste core ideje iz različnih uglova dok tržište ne počne da te povezuje sa problemom, POV-om i rešenjem.",
               "Većina founder-a prestane prerano jer im ponavljanje deluje dosadno. Ali ponavljanje je način na koji se tržište seća. Umoran si od svoje poruke pre nego što je kupac uopšte primetio.",
             ],
             [
@@ -338,14 +338,14 @@ export const lesson4RichContent: RichLessonContent = {
                   "Juri viralne formate",
                   "Meri lajkove i impresije",
                   "Nema veze sa ICP-om",
-                  "Burnout posle 2–3 nedelje",
+                  "Burnout posle 2-3 nedelje",
                 ],
                 [
                   "Posts when an idea \"hits\"",
                   "Chases viral formats",
                   "Measures likes and impressions",
                   "No connection to ICP",
-                  "Burnout after 2–3 weeks",
+                  "Burnout after 2-3 weeks",
                 ],
               ),
             },
@@ -401,8 +401,8 @@ export const lesson4RichContent: RichLessonContent = {
           type: "illustration",
           src: "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?auto=format&fit=crop&w=1400&q=80",
           alt: L(
-            "Founder piše LinkedIn post — strategija, ne nasumičan brainstorm",
-            "Founder writing a LinkedIn post — strategy, not a random brainstorm",
+            "Founder piše LinkedIn post, strategija, ne nasumičan brainstorm",
+            "Founder writing a LinkedIn post, strategy, not a random brainstorm",
           ),
           caption: L(
             "Okvir pretvara ekspertizu u ponovljiv engine: bol → POV → pilari → formati → ritam → signali.",
@@ -417,7 +417,7 @@ export const lesson4RichContent: RichLessonContent = {
             "ICP Pain → Founder POV → Content Pillars → Repeatable Formats → Weekly Rhythm → Pipeline Signals",
           ),
           description: L(
-            "Ovo je content sistem — ne brainstorm, ne lista ideja, već ponovljivi engine.",
+            "Ovo je content sistem, ne brainstorm, ne lista ideja, već ponovljivi engine.",
             "This is the content system. Not a brainstorm. Not a list of ideas. A repeatable engine.",
           ),
         },
@@ -425,8 +425,8 @@ export const lesson4RichContent: RichLessonContent = {
           type: "pipeline-flow",
           title: L("Founder Content Strategy Framework", "Founder Content Strategy Framework"),
           subtitle: L(
-            "Svaki korak gradi na prethodnom — preskakanje ICP bola vodi do vague content-a.",
-            "Each step builds on the last — skipping ICP pain leads to vague content.",
+            "Svaki korak gradi na prethodnom, preskakanje ICP bola vodi do vague content-a.",
+            "Each step builds on the last, skipping ICP pain leads to vague content.",
           ),
           stages: [
             L("ICP Pain", "ICP Pain"),
@@ -472,7 +472,7 @@ export const lesson4RichContent: RichLessonContent = {
               step: 2,
               title: L("Founder POV", "Founder POV"),
               whatToDo: L(
-                "Definiši šta founder veruje — oštrije, jasnije ili korisnije od očiglednog saveta.",
+                "Definiši šta founder veruje, oštrije, jasnije ili korisnije od očiglednog saveta.",
                 "Define what the founder believes that is sharper, clearer, or more useful than the obvious advice.",
               ),
               whyItMatters: L(
@@ -500,8 +500,8 @@ export const lesson4RichContent: RichLessonContent = {
               step: 3,
               title: L("Content Pillars", "Content Pillars"),
               whatToDo: L(
-                "Pretvori bol i POV u 3–5 ponavljajućih topic area-a.",
-                "Turn the pain and POV into 3–5 recurring topic areas.",
+                "Pretvori bol i POV u 3-5 ponavljajućih topic area-a.",
+                "Turn the pain and POV into 3-5 recurring topic areas.",
               ),
               whyItMatters: L(
                 "Pilari sprečavaju nasumično postovanje i smanjuju stres planiranja.",
@@ -516,8 +516,8 @@ export const lesson4RichContent: RichLessonContent = {
                 "Creating pillars around your services instead of buyer problems.",
               ),
               tryThis: L(
-                "Izaberi 4 pilara i napiši 10 post ideja za svaki — to je 40 ideja bez inspiracije.",
-                "Choose 4 pillars and write 10 post ideas for each — that gives you 40 ideas without chasing inspiration.",
+                "Izaberi 4 pilara i napiši 10 post ideja za svaki, to je 40 ideja bez inspiracije.",
+                "Choose 4 pillars and write 10 post ideas for each, that gives you 40 ideas without chasing inspiration.",
               ),
               highlight: L(
                 "Pilari su filter za svaku content odluku.",
@@ -620,10 +620,10 @@ export const lesson4RichContent: RichLessonContent = {
       blocks: [
         {
           type: "zone-cards",
-          title: L("5 content pilara — šta objavljujes i zašto", "5 content pillars — what you publish and why"),
+          title: L("5 content pilara, šta objavljujes i zašto", "5 content pillars, what you publish and why"),
           subtitle: L(
             "Svaki pilar ima jedan posao u market edukaciji. Rotiraj ih, ne mešaj nasumično.",
-            "Each pillar has one job in market education. Rotate them — do not mix randomly.",
+            "Each pillar has one job in market education. Rotate them, do not mix randomly.",
           ),
           cards: [
             {
@@ -698,8 +698,8 @@ export const lesson4RichContent: RichLessonContent = {
               step: 2,
               title: L("Definiši founder point of view", "Define the founder's point of view"),
               whatToDo: L(
-                "Kreiraj 5–10 uverenja za koja founder želi da bude poznat.",
-                "Create 5–10 beliefs the founder wants to be known for.",
+                "Kreiraj 5-10 uverenja za koja founder želi da bude poznat.",
+                "Create 5-10 beliefs the founder wants to be known for.",
               ),
               whyItMatters: L(
                 "Strategija bez POV-a postaje savet koji se lako ignoriše. POV stvara kontrast.",
@@ -724,7 +724,7 @@ export const lesson4RichContent: RichLessonContent = {
             },
             {
               step: 3,
-              title: L("Izgradi 3–5 content pilara", "Build 3–5 content pillars"),
+              title: L("Izgradi 3-5 content pilara", "Build 3-5 content pillars"),
               whatToDo: L(
                 "Pretvori ICP bolove i founder POV u ponavljajuće pilare.",
                 "Turn ICP pains and founder POVs into recurring pillars.",
@@ -827,8 +827,8 @@ export const lesson4RichContent: RichLessonContent = {
                 "Consistency beats intensity.",
               ),
               example: L(
-                "Pon: problem education. Uto/Čet: 10–15 ICP komentara. Sre: founder POV. Pet: practical ili proof. Nedeljno: soft CTA. Mesečno: deep asset.",
-                "Mon: problem education. Tue/Thu: 10–15 ICP comments. Wed: founder POV. Fri: practical or proof. Weekly: soft CTA. Monthly: deep asset.",
+                "Pon: problem education. Uto/Čet: 10-15 ICP komentara. Sre: founder POV. Pet: practical ili proof. Nedeljno: soft CTA. Mesečno: deep asset.",
+                "Mon: problem education. Tue/Thu: 10-15 ICP comments. Wed: founder POV. Fri: practical or proof. Weekly: soft CTA. Monthly: deep asset.",
               ),
               commonMistake: L(
                 "Kadenca zasnovana na ambiciji umesto realnosti.",
@@ -851,9 +851,9 @@ export const lesson4RichContent: RichLessonContent = {
           headers: H(["Dan", "Tip content-a", "Cilj"], ["Day", "Content type", "Goal"]),
           rows: [
             { cells: [L("Ponedeljak", "Monday"), L("Problem education post", "Problem education post"), L("Učini ICP bol vidljivim", "Make ICP pain visible")] },
-            { cells: [L("Utorak", "Tuesday"), L("10–15 ICP komentara", "10–15 ICP comments"), L("Targetirana vidljivost", "Create targeted visibility")] },
+            { cells: [L("Utorak", "Tuesday"), L("10-15 ICP komentara", "10-15 ICP comments"), L("Targetirana vidljivost", "Create targeted visibility")] },
             { cells: [L("Sreda", "Wednesday"), L("Founder POV post", "Founder POV post"), L("Gradi market narativ", "Build market narrative")] },
-            { cells: [L("Četvrtak", "Thursday"), L("10–15 ICP komentara", "10–15 ICP comments"), L("Pokreni razgovore", "Start conversations")] },
+            { cells: [L("Četvrtak", "Thursday"), L("10-15 ICP komentara", "10-15 ICP comments"), L("Pokreni razgovore", "Start conversations")] },
             { cells: [L("Petak", "Friday"), L("Practical breakdown ili proof", "Practical breakdown or proof"), L("Pokaži kako sistem radi", "Show how the system works")] },
             { cells: [L("Nedeljno", "Weekly"), L("1 soft CTA", "1 soft CTA"), L("Pomeri zainteresovane na sledeći korak", "Move interested people to next step")] },
             { cells: [L("Mesečno", "Monthly"), L("1 deeper asset", "1 deeper asset"), L("Webinar, guide, checklist, case study", "Webinar, guide, checklist, case study")] },
@@ -861,7 +861,7 @@ export const lesson4RichContent: RichLessonContent = {
         },
         {
           type: "pipeline-flow",
-          title: L("Repurposing flow — jedan snimak, više asset-a", "Repurposing flow — one recording, many assets"),
+          title: L("Repurposing flow, jedan snimak, više asset-a", "Repurposing flow, one recording, many assets"),
           subtitle: L(
             "Riverside + Descript pretvaraju founder razgovor u nedeljni content paket.",
             "Riverside + Descript turn one founder conversation into a weekly content package.",
@@ -941,8 +941,8 @@ export const lesson4RichContent: RichLessonContent = {
                 "Posting helpful content with no next step.",
               ),
               tryThis: L(
-                "Jedan soft CTA nedeljno i jedan jači CTA svake 2–4 nedelje.",
-                "Use one soft CTA per week and one stronger CTA every 2–4 weeks.",
+                "Jedan soft CTA nedeljno i jedan jači CTA svake 2-4 nedelje.",
+                "Use one soft CTA per week and one stronger CTA every 2-4 weeks.",
               ),
               highlight: L(
                 "Content prvo uči. Zatim vodi sledeći korak.",
@@ -974,7 +974,7 @@ export const lesson4RichContent: RichLessonContent = {
                 "Use existing founder knowledge as raw material: sales calls, questions, objections, webinars, CRM notes.",
               ),
               whyItMatters: L(
-                "Najbolji founder content već postoji u razgovorima — samo ga treba izvući.",
+                "Najbolji founder content već postoji u razgovorima, samo ga treba izvući.",
                 "The best founder content usually already exists inside conversations. You just need to extract it.",
               ),
               example: L(
@@ -982,8 +982,8 @@ export const lesson4RichContent: RichLessonContent = {
                 "30-minute weekly founder interview → 3 posts, 1 short video, newsletter section, webinar angle, 5 comments, 1 outreach opener.",
               ),
               commonMistake: L(
-                "Traženje od founder-a da „smisli content“ — to stvara pritisak.",
-                "Asking the founder to sit down and \"think of content\" — that creates pressure.",
+                "Traženje od founder-a da „smisli content“, to stvara pritisak.",
+                "Asking the founder to sit down and \"think of content\", that creates pressure.",
               ),
               tryThis: L(
                 "Snimi intervju. Pitaj: šta su kupci pitali? Koji prigovor se ponavlja? Šta bi rekao founder-u pre nego što proba?",
@@ -1105,8 +1105,8 @@ export const lesson4RichContent: RichLessonContent = {
             {
               title: L("Dokumentovana strategija je bitna", "Documented strategy matters"),
               body: L(
-                "LinkedIn B2B content marketing vodič ističe da strategija treba da uključi publiku, konkurente, ciljeve, merenje, customer journey i izgradnju odnosa — sa istraživanjem da top performeri češće imaju dokumentovanu content strategiju.",
-                "LinkedIn's B2B content marketing guide highlights that strategy should include audience, competitors, objectives, measurement, customer journey, and relationship-building — with research showing top performers are more likely to have a documented content strategy.",
+                "LinkedIn B2B content marketing vodič ističe da strategija treba da uključi publiku, konkurente, ciljeve, merenje, customer journey i izgradnju odnosa, sa istraživanjem da top performeri češće imaju dokumentovanu content strategiju.",
+                "LinkedIn's B2B content marketing guide highlights that strategy should include audience, competitors, objectives, measurement, customer journey, and relationship-building, with research showing top performers are more likely to have a documented content strategy.",
               ),
               sourceLabel: L("LinkedIn Marketing Solutions", "LinkedIn Marketing Solutions"),
               sourceUrl: "https://www.linkedin.com/business/marketing/blog/content-marketing/the-ultimate-guide-to-improve-your-b2b-content-marketing-strategy",
@@ -1153,16 +1153,16 @@ export const lesson4RichContent: RichLessonContent = {
           type: "paragraphs",
           paragraphs: P(
             [
-              "Pilar 1 — Problem education: pokaži kupcu šta je pokvareno. Teme: zašto outbound pada bez konteksta; zašto referenci nisu predvidljiv sistem; zašto founder-led sales zapne; zašto CRM gubi warm LinkedIn signale.",
-              "Pilar 2 — Founder POV: nauči tržište kako misliš. Teme: ne kreni od outreach-a; profil je sales infrastruktura; like nije lead; ekspertiza ne treba da ostane privatna.",
-              "Pilar 3 — Practical breakdowns: pokaži implementaciju. Teme: 5 CRM polja; komentari u warm listu; webinar follow-up; soft CTA.",
-              "Pilar 4 — Proof i priče: gradi trust kroz primere. Teme: webinar tema → sales razgovori; rewrite profila; before/after outreach; lekcije iz neuspešne kampanje.",
+              "Pilar 1 - Problem education: pokaži kupcu šta je pokvareno. Teme: zašto outbound pada bez konteksta; zašto referenci nisu predvidljiv sistem; zašto founder-led sales zapne; zašto CRM gubi warm LinkedIn signale.",
+              "Pilar 2 - Founder POV: nauči tržište kako misliš. Teme: ne kreni od outreach-a; profil je sales infrastruktura; like nije lead; ekspertiza ne treba da ostane privatna.",
+              "Pilar 3 - Practical breakdowns: pokaži implementaciju. Teme: 5 CRM polja; komentari u warm listu; webinar follow-up; soft CTA.",
+              "Pilar 4 - Proof i priče: gradi trust kroz primere. Teme: webinar tema → sales razgovori; rewrite profila; before/after outreach; lekcije iz neuspešne kampanje.",
             ],
             [
-              "Pillar 1 — Problem education: show the buyer what is broken. Topics: why outbound fails without context; why referrals are not a predictable pipeline system; why founder-led sales gets stuck; why CRM loses warm LinkedIn signals.",
-              "Pillar 2 — Founder POV: teach the market how you think. Topics: don't start with outreach; profile is sales infrastructure; a like is not a lead; expertise should not stay private.",
-              "Pillar 3 — Practical breakdowns: show how to implement. Topics: 5 CRM fields; comments into warm list; webinar follow-up; soft CTA.",
-              "Pillar 4 — Proof and stories: build trust through examples. Topics: webinar topic → sales conversations; profile rewrite; before/after outreach; lessons from a failed campaign.",
+              "Pillar 1 - Problem education: show the buyer what is broken. Topics: why outbound fails without context; why referrals are not a predictable pipeline system; why founder-led sales gets stuck; why CRM loses warm LinkedIn signals.",
+              "Pillar 2 - Founder POV: teach the market how you think. Topics: don't start with outreach; profile is sales infrastructure; a like is not a lead; expertise should not stay private.",
+              "Pillar 3 - Practical breakdowns: show how to implement. Topics: 5 CRM fields; comments into warm list; webinar follow-up; soft CTA.",
+              "Pillar 4 - Proof and stories: build trust through examples. Topics: webinar topic → sales conversations; profile rewrite; before/after outreach; lessons from a failed campaign.",
             ],
           ),
         },
@@ -1179,9 +1179,9 @@ export const lesson4RichContent: RichLessonContent = {
           headers: H(["Dan", "Aktivnost", "Output"], ["Day", "Activity", "Output"]),
           rows: [
             { cells: [L("Ponedeljak", "Monday"), L("Problem education post", "Problem education post"), L("Učini buyer bol vidljivim", "Make buyer pain visible")] },
-            { cells: [L("Utorak", "Tuesday"), L("ICP engagement", "ICP engagement"), L("10–15 korisnih komentara", "10–15 useful comments")] },
+            { cells: [L("Utorak", "Tuesday"), L("ICP engagement", "ICP engagement"), L("10-15 korisnih komentara", "10-15 useful comments")] },
             { cells: [L("Sreda", "Wednesday"), L("Founder POV post", "Founder POV post"), L("Gradi market narativ", "Build market narrative")] },
-            { cells: [L("Četvrtak", "Thursday"), L("ICP engagement", "ICP engagement"), L("10–15 korisnih komentara", "10–15 useful comments")] },
+            { cells: [L("Četvrtak", "Thursday"), L("ICP engagement", "ICP engagement"), L("10-15 korisnih komentara", "10-15 useful comments")] },
             { cells: [L("Petak", "Friday"), L("Practical breakdown / proof", "Practical breakdown / proof"), L("Pokaži implementaciju ili rezultat", "Show implementation or result")] },
             { cells: [L("Nedeljno", "Weekly"), L("Soft CTA", "Soft CTA"), L("Pomeri zainteresovane na sledeći korak", "Move interested people to next step")] },
             { cells: [L("Mesečno", "Monthly"), L("Deep asset", "Deep asset"), L("Webinar, guide, checklist, case study", "Webinar, guide, checklist, case study")] },
@@ -1419,8 +1419,8 @@ export const lesson4RichContent: RichLessonContent = {
               value: L("30 min", "30 min"),
               label: L("Founder snimak", "Founder recording"),
               description: L(
-                "Jedan Riverside intervju nedeljno — sirovina za ceo content paket.",
-                "One Riverside interview per week — raw material for the full content package.",
+                "Jedan Riverside intervju nedeljno, sirovina za ceo content paket.",
+                "One Riverside interview per week, raw material for the full content package.",
               ),
             },
             {
@@ -1471,7 +1471,7 @@ export const lesson4RichContent: RichLessonContent = {
             ],
           ),
           highlight: L(
-            "Ovako founder content postaje sistem — ne dnevna kreativna borba.",
+            "Ovako founder content postaje sistem, ne dnevna kreativna borba.",
             "This is how founder content becomes a system. Not a daily creative struggle.",
           ),
         },
@@ -1572,7 +1572,7 @@ export const lesson4RichContent: RichLessonContent = {
             [
               "Nabroj top 10 bolova o kojima tvoj ICP priča.",
               "Napiši 5 founder POV izjava.",
-              "Izaberi 3–5 content pilara.",
+              "Izaberi 3-5 content pilara.",
               "Izaberi 5 ponovljivih formata postova.",
               "Kreiraj minimum viable nedeljni content ritam.",
               "Izgradi Notion, Airtable ili Sheets content backlog.",
@@ -1586,7 +1586,7 @@ export const lesson4RichContent: RichLessonContent = {
             [
               "List the top 10 pains your ICP talks about.",
               "Write 5 founder POV statements.",
-              "Choose 3–5 content pillars.",
+              "Choose 3-5 content pillars.",
               "Pick 5 repeatable post formats.",
               "Create a minimum viable weekly content rhythm.",
               "Build a Notion, Airtable, or Sheets content backlog.",
@@ -1845,15 +1845,15 @@ Event CTA: Join the next Founder-Led Growth webinar.
     {
       question: L("Šta je LinkedIn content strategija za founder-e?", "What is a LinkedIn content strategy for founders?"),
       answer: L(
-        "To je ponovljiv sistem za pretvaranje founder ekspertize u postove, komentare, video, webinare i asset-e koji edukuju ICP, grade trust i podržavaju pipeline — ne postovanje kad dođe inspiracija.",
-        "It is a repeatable system for turning founder expertise into posts, comments, videos, webinars, and assets that educate the ICP, build trust, and support pipeline — not posting when inspiration hits.",
+        "To je ponovljiv sistem za pretvaranje founder ekspertize u postove, komentare, video, webinare i asset-e koji edukuju ICP, grade trust i podržavaju pipeline, ne postovanje kad dođe inspiracija.",
+        "It is a repeatable system for turning founder expertise into posts, comments, videos, webinars, and assets that educate the ICP, build trust, and support pipeline, not posting when inspiration hits.",
       ),
     },
     {
       question: L("Koliko često founder treba da postuje na LinkedIn-u?", "How often should a founder post on LinkedIn?"),
       answer: L(
-        "Dobar početak je 2–3 posta nedeljno i 10 promišljenih ICP komentara po radnom danu. Tačna kadenca je manje bitna od konzistentnosti — bolje 2x nedeljno 6 meseci nego svaki dan 2 nedelje pa nestajanje.",
-        "A good starting point is 2–3 posts per week and 10 thoughtful ICP comments per weekday. The exact cadence matters less than consistency — better to post twice per week for six months than daily for two weeks and then disappear.",
+        "Dobar početak je 2-3 posta nedeljno i 10 promišljenih ICP komentara po radnom danu. Tačna kadenca je manje bitna od konzistentnosti, bolje 2x nedeljno 6 meseci nego svaki dan 2 nedelje pa nestajanje.",
+        "A good starting point is 2-3 posts per week and 10 thoughtful ICP comments per weekday. The exact cadence matters less than consistency, better to post twice per week for six months than daily for two weeks and then disappear.",
       ),
     },
     {
@@ -1866,22 +1866,22 @@ Event CTA: Join the next Founder-Led Growth webinar.
     {
       question: L("Kako izbeći founder content burnout?", "How do you avoid founder content burnout?"),
       answer: L(
-        "Koristi sistem: nedeljni founder intervju, ideje iz sales call-ova, ponovljivi formati, repurposing, content backlog — ne počinjanje svakog posta od prazne stranice.",
-        "Use a system: weekly founder interview, ideas from sales calls, repeatable formats, repurposing, content backlog — do not start every post from a blank page.",
+        "Koristi sistem: nedeljni founder intervju, ideje iz sales call-ova, ponovljivi formati, repurposing, content backlog, ne počinjanje svakog posta od prazne stranice.",
+        "Use a system: weekly founder interview, ideas from sales calls, repeatable formats, repurposing, content backlog, do not start every post from a blank page.",
       ),
     },
     {
       question: L("Da li svaki LinkedIn post treba da ima CTA?", "Should every LinkedIn post have a CTA?"),
       answer: L(
-        "Ne. Ne svaki post treba hard CTA. Ali nedeljni sistem treba jasne sledeće korake — soft CTA često, jači CTA kad post prirodno podržava.",
-        "No. Not every post needs a hard CTA. But the weekly system should include clear next steps — soft CTAs often, stronger CTAs when the post naturally supports them.",
+        "Ne. Ne svaki post treba hard CTA. Ali nedeljni sistem treba jasne sledeće korake, soft CTA često, jači CTA kad post prirodno podržava.",
+        "No. Not every post needs a hard CTA. But the weekly system should include clear next steps, soft CTAs often, stronger CTAs when the post naturally supports them.",
       ),
     },
     {
       question: L("Koje metrike treba pratiti?", "What metrics should we track?"),
       answer: L(
-        "ICP komentare, profile view-ove od target kupaca, DM-ove, kvalitet followera, Featured klikove, webinar registracije, CRM kontakte, sales call uticaj i pipeline uticaj — ne samo lajkove i impresije.",
-        "ICP comments, profile views from target buyers, DMs, follower quality, Featured asset clicks, webinar registrations, CRM contacts, sales calls influenced, and pipeline influenced — not just likes and impressions.",
+        "ICP komentare, profile view-ove od target kupaca, DM-ove, kvalitet followera, Featured klikove, webinar registracije, CRM kontakte, sales call uticaj i pipeline uticaj, ne samo lajkove i impresije.",
+        "ICP comments, profile views from target buyers, DMs, follower quality, Featured asset clicks, webinar registrations, CRM contacts, sales calls influenced, and pipeline influenced, not just likes and impressions.",
       ),
     },
     {
@@ -1893,32 +1893,32 @@ Event CTA: Join the next Founder-Led Growth webinar.
     },
   ],
   sources: [
-    { title: L("LinkedIn Marketing Solutions — Ultimate Guide to Improve Your B2B Content Marketing Strategy", "LinkedIn Marketing Solutions — Ultimate Guide to Improve Your B2B Content Marketing Strategy"), url: "https://www.linkedin.com/business/marketing/blog/content-marketing/the-ultimate-guide-to-improve-your-b2b-content-marketing-strategy" },
-    { title: L("Edelman / LinkedIn — 2025 B2B Thought Leadership Impact Report", "Edelman / LinkedIn — 2025 B2B Thought Leadership Impact Report"), url: "https://www.edelman.com/expertise/Business-Marketing/2025-b2b-thought-leadership-report" },
-    { title: L("LinkedIn Marketing Blog — Thought Leadership and Hidden Buyers", "LinkedIn Marketing Blog — Thought Leadership and Hidden Buyers"), url: "https://www.linkedin.com/business/marketing/blog/research-and-insights/b2b-thought-leadership-influence-hidden-buyers" },
-    { title: L("LinkedIn Marketing Blog — B2B Content Marketing Types", "LinkedIn Marketing Blog — B2B Content Marketing Types"), url: "https://www.linkedin.com/business/marketing/blog/content-marketing/b2b-content-marketing-types" },
-    { title: L("LinkedIn Marketing Blog — How to Create a Content Strategy for Thought Leadership", "LinkedIn Marketing Blog — How to Create a Content Strategy for Thought Leadership"), url: "https://www.linkedin.com/business/marketing/blog/content-marketing/how-to-create-a-content-strategy-for-thought-leadership" },
-    { title: L("LinkedIn Marketing Blog — Real Examples That Showcase B2B Thought Leadership Success", "LinkedIn Marketing Blog — Real Examples That Showcase B2B Thought Leadership Success"), url: "https://www.linkedin.com/business/marketing/blog/content-marketing/examples-of-thought-leadership-content-b2b" },
+    { title: L("LinkedIn Marketing Solutions - Ultimate Guide to Improve Your B2B Content Marketing Strategy", "LinkedIn Marketing Solutions - Ultimate Guide to Improve Your B2B Content Marketing Strategy"), url: "https://www.linkedin.com/business/marketing/blog/content-marketing/the-ultimate-guide-to-improve-your-b2b-content-marketing-strategy" },
+    { title: L("Edelman / LinkedIn - 2025 B2B Thought Leadership Impact Report", "Edelman / LinkedIn - 2025 B2B Thought Leadership Impact Report"), url: "https://www.edelman.com/expertise/Business-Marketing/2025-b2b-thought-leadership-report" },
+    { title: L("LinkedIn Marketing Blog - Thought Leadership and Hidden Buyers", "LinkedIn Marketing Blog - Thought Leadership and Hidden Buyers"), url: "https://www.linkedin.com/business/marketing/blog/research-and-insights/b2b-thought-leadership-influence-hidden-buyers" },
+    { title: L("LinkedIn Marketing Blog - B2B Content Marketing Types", "LinkedIn Marketing Blog - B2B Content Marketing Types"), url: "https://www.linkedin.com/business/marketing/blog/content-marketing/b2b-content-marketing-types" },
+    { title: L("LinkedIn Marketing Blog - How to Create a Content Strategy for Thought Leadership", "LinkedIn Marketing Blog - How to Create a Content Strategy for Thought Leadership"), url: "https://www.linkedin.com/business/marketing/blog/content-marketing/how-to-create-a-content-strategy-for-thought-leadership" },
+    { title: L("LinkedIn Marketing Blog - Real Examples That Showcase B2B Thought Leadership Success", "LinkedIn Marketing Blog - Real Examples That Showcase B2B Thought Leadership Success"), url: "https://www.linkedin.com/business/marketing/blog/content-marketing/examples-of-thought-leadership-content-b2b" },
     { title: L("LinkedIn B2B Institute", "LinkedIn B2B Institute"), url: "https://business.linkedin.com/advertise/resources/b2b-institute" },
-    { title: L("HubSpot — How to Use LinkedIn for Business Marketing", "HubSpot — How to Use LinkedIn for Business Marketing"), url: "https://offers.hubspot.com/how-to-use-linkedin-business-marketing" },
-    { title: L("Huble — How to Build a B2B Content Marketing Strategy", "Huble — How to Build a B2B Content Marketing Strategy"), url: "https://huble.com/blog/how-to-build-a-b2b-content-marketing-strategy" },
-    { title: L("AuthoredUp — LinkedIn Content Strategy", "AuthoredUp — LinkedIn Content Strategy"), url: "https://authoredup.com/blog/linkedin-content-strategy" },
-    { title: L("Content Marketing Institute — B2B Content Marketing Trends", "Content Marketing Institute — B2B Content Marketing Trends"), url: "https://contentmarketinginstitute.com/b2b-research/b2b-content-marketing-trends-research" },
+    { title: L("HubSpot - How to Use LinkedIn for Business Marketing", "HubSpot - How to Use LinkedIn for Business Marketing"), url: "https://offers.hubspot.com/how-to-use-linkedin-business-marketing" },
+    { title: L("Huble - How to Build a B2B Content Marketing Strategy", "Huble - How to Build a B2B Content Marketing Strategy"), url: "https://huble.com/blog/how-to-build-a-b2b-content-marketing-strategy" },
+    { title: L("AuthoredUp - LinkedIn Content Strategy", "AuthoredUp - LinkedIn Content Strategy"), url: "https://authoredup.com/blog/linkedin-content-strategy" },
+    { title: L("Content Marketing Institute - B2B Content Marketing Trends", "Content Marketing Institute - B2B Content Marketing Trends"), url: "https://contentmarketinginstitute.com/b2b-research/b2b-content-marketing-trends-research" },
     { title: L("AuthoredUp Chrome Web Store", "AuthoredUp Chrome Web Store"), url: "https://chromewebstore.google.com/detail/authoredup-%E2%80%93-no-1-linkedi/dkkmpkpjimkollpfgbbglcikcmgmdlhn" },
   ],
   relatedLessons: {
     previous: {
       slug: "linkedin-profile-optimization-founder",
       title: L(
-        "Lekcija 3 — Kako optimizovati LinkedIn profil founder-a za B2B lead generation",
-        "Lesson 3 — How to Optimize a Founder's LinkedIn Profile for B2B Lead Generation",
+        "Lekcija 3 - Kako optimizovati LinkedIn profil founder-a za B2B lead generation",
+        "Lesson 3 - How to Optimize a Founder's LinkedIn Profile for B2B Lead Generation",
       ),
     },
     next: {
       slug: "write-educational-linkedin-posts",
       title: L(
-        "Lekcija 5 — Kako pisati edukativne LinkedIn postove koji grade autoritet",
-        "Lesson 5 — How to Write Educational LinkedIn Posts That Build Authority",
+        "Lekcija 5 - Kako pisati edukativne LinkedIn postove koji grade autoritet",
+        "Lesson 5 - How to Write Educational LinkedIn Posts That Build Authority",
       ),
       note: L(
         "Sledeća lekcija pokazuje kako pisati postove koji grade autoritet i pomeraju kupce ka akciji.",
@@ -1929,43 +1929,43 @@ Event CTA: Join the next Founder-Led Growth webinar.
       {
         slug: "what-founder-led-growth-is",
         title: L(
-          "Lekcija 1 — Šta je Founder-Led Growth",
-          "Lesson 1 — What Founder-Led Growth Is and Why It Works for B2B Companies",
+          "Lekcija 1 - Šta je Founder-Led Growth",
+          "Lesson 1 - What Founder-Led Growth Is and Why It Works for B2B Companies",
         ),
       },
       {
         slug: "how-to-define-your-icp",
         title: L(
-          "Lekcija 2 — Kako definisati ICP",
-          "Lesson 2 — How to Define Your ICP for Founder-Led Growth",
+          "Lekcija 2 - Kako definisati ICP",
+          "Lesson 2 - How to Define Your ICP for Founder-Led Growth",
         ),
       },
       {
         slug: "linkedin-commenting-strategy",
         title: L(
-          "Lekcija 6 — LinkedIn komentarisanje",
-          "Lesson 6 — How to Use LinkedIn Commenting to Get Visibility With Your ICP",
+          "Lekcija 6 - LinkedIn komentarisanje",
+          "Lesson 6 - How to Use LinkedIn Commenting to Get Visibility With Your ICP",
         ),
       },
       {
         slug: "linkedin-engagement-outreach-list",
         title: L(
-          "Lekcija 7 — Engagement u outreach listu",
-          "Lesson 7 — How to Turn LinkedIn Engagement Into an Outreach List",
+          "Lekcija 7 - Engagement u outreach listu",
+          "Lesson 7 - How to Turn LinkedIn Engagement Into an Outreach List",
         ),
       },
       {
         slug: "crm-za-founder-led-growth",
         title: L(
-          "Lekcija 10 — CRM za Founder-Led Growth",
-          "Lesson 10 — How to Track Founder-Led Growth Activities in Your CRM",
+          "Lekcija 10 - CRM za Founder-Led Growth",
+          "Lesson 10 - How to Track Founder-Led Growth Activities in Your CRM",
         ),
       },
       {
         slug: "buying-signals-b2b-sales",
         title: L(
-          "Lekcija 11 — Buying signali",
-          "Lesson 11 — What Buying Signals Are and How to Use Them in B2B Sales",
+          "Lekcija 11 - Buying signali",
+          "Lesson 11 - What Buying Signals Are and How to Use Them in B2B Sales",
         ),
       },
     ],

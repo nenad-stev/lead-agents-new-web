@@ -6,8 +6,8 @@ export const founderLedGrowth: ServicePage = {
   slug: "founder-led-growth",
   meta: {
     title: {
-      sr: "Founder Led Growth — Metodologija | Lead Agents",
-      en: "Founder Led Growth — Methodology | Lead Agents",
+      sr: "Founder Led Growth - Metodologija | Lead Agents",
+      en: "Founder Led Growth - Methodology | Lead Agents",
     },
     description: {
       sr: "Skalirajte B2B prodaju kroz outbound, LinkedIn sadržaj i precizno targetirane LinkedIn Ads kampanje.",
@@ -94,8 +94,8 @@ export const founderLedGrowth: ServicePage = {
       en: "What you get when you book a call",
     },
     subtitle: {
-      sr: "Besplatna strategijska sesija prilagođena tvom biznisu — bez generičkih saveta.",
-      en: "A free strategy session tailored to your business — no generic advice.",
+      sr: "Besplatna strategijska sesija prilagođena tvom biznisu, bez generičkih saveta.",
+      en: "A free strategy session tailored to your business, no generic advice.",
     },
     items: [
       {

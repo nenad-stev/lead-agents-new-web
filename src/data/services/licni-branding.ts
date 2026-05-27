@@ -7,12 +7,12 @@ export const licniBranding: ServicePage = {
   slug: "licni-branding",
   meta: {
     title: {
-      sr: "Lični branding — Izgradnja ličnog brenda | Lead Agents",
-      en: "Personal Branding — Build your personal brand | Lead Agents",
+      sr: "Lični branding - Izgradnja ličnog brenda | Lead Agents",
+      en: "Personal Branding - Build your personal brand | Lead Agents",
     },
     description: {
-      sr: "20+ objava mesečno uz 2–3 sata snimanja. Identitet, sadržaj, podkast, kampanje i krizni menadžment za preduzetnike i kreatore.",
-      en: "20+ posts per month with just 2–3 hours of filming. Identity, content, podcast, campaigns, and crisis support for founders and creators.",
+      sr: "20+ objava mesečno uz 2-3 sata snimanja. Identitet, sadržaj, podkast, kampanje i krizni menadžment za preduzetnike i kreatore.",
+      en: "20+ posts per month with just 2-3 hours of filming. Identity, content, podcast, campaigns, and crisis support for founders and creators.",
     },
   },
   hero: {
@@ -22,8 +22,8 @@ export const licniBranding: ServicePage = {
       en: "We will help you build your personal brand",
     },
     description: {
-      sr: "Dobijaćeš 20+ objava za društvene mreže svakog meseca, uz samo 2–3 sata ulaganja mesečno u snimanje sadržaja. Idealno za osnivače, koučeve i konsultante koji razumeju moć video sadržaja i kvalitetnog ličnog brenda, ali nemaju vremena da sami proizvode sadržaj. Ljudi sa jakim ličnim brendom mogu da naplate i do 11× više za svoje usluge.",
-      en: "You get 20+ social posts every month with just 2–3 hours of filming per month. Built for founders, coaches, and consultants who understand video and personal brand — but do not have time to produce it themselves. People with a strong personal brand can charge up to 11× more for their services.",
+      sr: "Dobijaćeš 20+ objava za društvene mreže svakog meseca, uz samo 2-3 sata ulaganja mesečno u snimanje sadržaja. Idealno za osnivače, koučeve i konsultante koji razumeju moć video sadržaja i kvalitetnog ličnog brenda, ali nemaju vremena da sami proizvode sadržaj. Ljudi sa jakim ličnim brendom mogu da naplate i do 11× više za svoje usluge.",
+      en: "You get 20+ social posts every month with just 2-3 hours of filming per month. Built for founders, coaches, and consultants who understand video and personal brand, but do not have time to produce it themselves. People with a strong personal brand can charge up to 11× more for their services.",
     },
     primaryCta: { sr: "Zakaži konsultaciju", en: "Book a consultation" },
     secondaryCta: { sr: "Pogledaj rezultate", en: "See results" },
@@ -59,7 +59,7 @@ export const licniBranding: ServicePage = {
         title: { sr: "Vođenje podkasta", en: "Podcast management" },
         description: {
           sr: "Preuzimamo kompletan proces produkcije podkasta, od snimanja do promocije, kako bismo podigli vidljivost brenda.",
-          en: "We handle the full podcast production process — from recording to promotion — to grow your brand visibility.",
+          en: "We handle the full podcast production process, from recording to promotion, to grow your brand visibility.",
         },
       },
       {
@@ -110,8 +110,8 @@ export const licniBranding: ServicePage = {
       },
     ],
     description: {
-      sr: "Naša usluga ličnog brenda namenjena je pojedincima i kompanijama koji žele da unaprede svoje online prisustvo i izgrade snažan identitet brenda. Bilo da si zauzet preduzetnik, kreator sadržaja ili stručnjak u svojoj industriji, tu smo da pojednostavimo tvoju strategiju za društvene mreže, osmislimo sadržaj koji privlači pažnju i profesionalno vodimo tvoj podkast. Od snimanja kvalitetnih intervjua do promocije tvog brenda na različitim platformama, pružamo ti podršku, sistem i ekspertizu koji su potrebni da se izdvojiš u današnjem digitalnom svetu — bilo da tek gradiš svoj brend ili želiš da podigneš postojeći na viši nivo.",
-      en: "Our personal branding service is for individuals and companies who want to strengthen their online presence and build a powerful brand identity. Whether you are a busy entrepreneur, content creator, or industry expert, we simplify your social strategy, craft attention-grabbing content, and professionally run your podcast. From quality interviews to cross-platform promotion, we provide the support, systems, and expertise you need to stand out in today's digital world — whether you are just starting out or leveling up an existing brand.",
+      sr: "Naša usluga ličnog brenda namenjena je pojedincima i kompanijama koji žele da unaprede svoje online prisustvo i izgrade snažan identitet brenda. Bilo da si zauzet preduzetnik, kreator sadržaja ili stručnjak u svojoj industriji, tu smo da pojednostavimo tvoju strategiju za društvene mreže, osmislimo sadržaj koji privlači pažnju i profesionalno vodimo tvoj podkast. Od snimanja kvalitetnih intervjua do promocije tvog brenda na različitim platformama, pružamo ti podršku, sistem i ekspertizu koji su potrebni da se izdvojiš u današnjem digitalnom svetu, bilo da tek gradiš svoj brend ili želiš da podigneš postojeći na viši nivo.",
+      en: "Our personal branding service is for individuals and companies who want to strengthen their online presence and build a powerful brand identity. Whether you are a busy entrepreneur, content creator, or industry expert, we simplify your social strategy, craft attention-grabbing content, and professionally run your podcast. From quality interviews to cross-platform promotion, we provide the support, systems, and expertise you need to stand out in today's digital world, whether you are just starting out or leveling up an existing brand.",
     },
   },
   highlight: {
@@ -119,7 +119,7 @@ export const licniBranding: ServicePage = {
     en: "It has never been easier for your brand to stand out.",
   },
   process: {
-    title: { sr: "Naš proces — korak po korak", en: "Our process — step by step" },
+    title: { sr: "Naš proces, korak po korak", en: "Our process, step by step" },
     items: [
       {
         step: "01",

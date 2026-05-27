@@ -38,7 +38,7 @@ export function RelatedLessonsBlock({
           <div className="playbook-lesson-related__card playbook-lesson-related__card--muted">
             <span className="playbook-lesson-related__label">{previousLabel}</span>
             <span className="playbook-lesson-related__title">
-              {locale === "sr" ? "— Ovo je prva lekcija" : "— This is the first lesson"}
+              {locale === "sr" ? ",  Ovo je prva lekcija" : ",  This is the first lesson"}
             </span>
           </div>
         )}
@@ -54,7 +54,7 @@ export function RelatedLessonsBlock({
           <div className="playbook-lesson-related__card playbook-lesson-related__card--muted playbook-lesson-related__card--next">
             <span className="playbook-lesson-related__label">{nextLabel}</span>
             <span className="playbook-lesson-related__title">
-              {locale === "sr" ? "— Ovo je poslednja lekcija" : "— This is the final lesson"}
+              {locale === "sr" ? ",  Ovo je poslednja lekcija" : ",  This is the final lesson"}
             </span>
           </div>
         )}

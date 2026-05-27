@@ -5,8 +5,8 @@ export const rb2bTool: SalesTool = {
   name: "RB2B",
   logo: "/images/sales-tools/rb2b.png",
   tagline: {
-    sr: "Identifikacija posetilaca sajta — ljudi i kompanije u realnom vremenu",
-    en: "Website visitor identification — people and companies in real time",
+    sr: "Identifikacija posetilaca sajta, ljudi i kompanije u realnom vremenu",
+    en: "Website visitor identification, people and companies in real time",
   },
   categoryId: "prospecting",
   category: { sr: "Prospecting", en: "Prospecting" },
@@ -32,12 +32,12 @@ export const rb2bTool: SalesTool = {
   recommended: true,
   rating: { g2: 4.5, g2Reviews: 85 },
   overview: {
-    sr: "RB2B pretvara anonimne posete sajta u imenovane leadove: identifikuje 70–80% US saobraćaja na nivou osobe (ime, titula, LinkedIn, poslovni email) i šalje ih u Slack, Teams ili CRM u realnom vremenu.",
-    en: "RB2B turns anonymous site visits into named leads: it identifies 70–80% of US traffic at the person level (name, title, LinkedIn, work email) and pushes them to Slack, Teams, or your CRM in real time.",
+    sr: "RB2B pretvara anonimne posete sajta u imenovane leadove: identifikuje 70-80% US saobraćaja na nivou osobe (ime, titula, LinkedIn, poslovni email) i šalje ih u Slack, Teams ili CRM u realnom vremenu.",
+    en: "RB2B turns anonymous site visits into named leads: it identifies 70-80% of US traffic at the person level (name, title, LinkedIn, work email) and pushes them to Slack, Teams, or your CRM in real time.",
   },
   overviewExtended: {
-    sr: "Instalacija je pixel u header sajta (~5 min). Hot Leads filtrira ICP posetioce; Hot Pages označava high-intent URL-ove (pricing, demo). Besplatan plan: 150 rezolucija mesečno; 7-dnevni Pro trial sa punim funkcijama. Person-level ID je fokus na SAD — globalno je company-level zbog GDPR.",
-    en: "Setup is a pixel in your site header (~5 minutes). Hot Leads filters ICP visitors; Hot Pages tags high-intent URLs (pricing, demo). Free plan: 150 resolutions per month; 7-day Pro trial with full features. Person-level ID focuses on the US — globally it's company-level due to GDPR.",
+    sr: "Instalacija je pixel u header sajta (~5 min). Hot Leads filtrira ICP posetioce; Hot Pages označava high-intent URL-ove (pricing, demo). Besplatan plan: 150 rezolucija mesečno; 7-dnevni Pro trial sa punim funkcijama. Person-level ID je fokus na SAD, globalno je company-level zbog GDPR.",
+    en: "Setup is a pixel in your site header (~5 minutes). Hot Leads filters ICP visitors; Hot Pages tags high-intent URLs (pricing, demo). Free plan: 150 resolutions per month; 7-day Pro trial with full features. Person-level ID focuses on the US, globally it's company-level due to GDPR.",
   },
   idealFor: {
     sr: [
@@ -262,14 +262,14 @@ export const rb2bTool: SalesTool = {
     sr: [
       "Jedan od najbržih načina da ulovite inbound intent",
       "Person-level podaci za SAD (ne samo firma)",
-      "Real-time alerti u Slack — prodavac reaguje odmah",
+      "Real-time alerti u Slack, prodavac reaguje odmah",
       "Setup za ~5 minuta",
       "Neograničeni korisnici u workspace-u",
     ],
     en: [
       "One of the fastest ways to capture inbound intent",
       "Person-level data for the US (not just company)",
-      "Real-time Slack alerts — reps act immediately",
+      "Real-time Slack alerts, reps act immediately",
       "~5 minute setup",
       "Unlimited users per workspace",
     ],
@@ -277,14 +277,14 @@ export const rb2bTool: SalesTool = {
   cons: {
     sr: [
       "Person-level ID prvenstveno za US tržište",
-      "Naplata po rezoluciji — visok saobraćaj = veći trošak",
+      "Naplata po rezoluciji, visok saobraćaj = veći trošak",
       "Nije zamena za cold outbound ili enrichment alate",
       "Starter nema poslovne emailove ni pun CRM sync",
       "Za EU person-level ID ograničen zbog compliance-a",
     ],
     en: [
       "Person-level ID is primarily for the US market",
-      "Per-resolution billing — high traffic increases cost",
+      "Per-resolution billing, high traffic increases cost",
       "Not a replacement for cold outbound or enrichment tools",
       "Starter lacks work emails and full CRM sync",
       "EU person-level ID is limited for compliance reasons",
@@ -295,8 +295,8 @@ export const rb2bTool: SalesTool = {
       slug: "apollo",
       name: "Apollo",
       description: {
-        sr: "Baza + outreach — drugačiji use case od visitor ID.",
-        en: "Database plus outreach — different use case than visitor ID.",
+        sr: "Baza + outreach, drugačiji use case od visitor ID.",
+        en: "Database plus outreach, different use case than visitor ID.",
       },
       startingPrice: { sr: "od $49", en: "from $49" },
       trial: { sr: "14 dana", en: "14 days" },
@@ -317,8 +317,8 @@ export const rb2bTool: SalesTool = {
       slug: "fullenrich",
       name: "FullEnrich",
       description: {
-        sr: "Obogaćivanje kontakata — nakon što znate ko je posetilac.",
-        en: "Contact enrichment — once you know who visited.",
+        sr: "Obogaćivanje kontakata, nakon što znate ko je posetilac.",
+        en: "Contact enrichment, once you know who visited.",
       },
       startingPrice: { sr: "od $29", en: "from $29" },
       trial: { sr: "50 kredita", en: "50 credits" },
@@ -354,8 +354,8 @@ export const rb2bTool: SalesTool = {
     {
       question: { sr: "Da li RB2B ima besplatan plan?", en: "Does RB2B have a free plan?" },
       answer: {
-        sr: "Da — 150 mesečnih rezolucija bez kartice, plus 7-dnevni trial sa punim Pro funkcijama (LinkedIn, email, integracije).",
-        en: "Yes — 150 monthly resolutions with no card, plus a 7-day trial with full Pro features (LinkedIn, email, integrations).",
+        sr: "Da - 150 mesečnih rezolucija bez kartice, plus 7-dnevni trial sa punim Pro funkcijama (LinkedIn, email, integracije).",
+        en: "Yes - 150 monthly resolutions with no card, plus a 7-day trial with full Pro features (LinkedIn, email, integrations).",
       },
     },
     {
@@ -368,8 +368,8 @@ export const rb2bTool: SalesTool = {
     {
       question: { sr: "Zašto izabrati RB2B?", en: "Why choose RB2B?" },
       answer: {
-        sr: "Kada imate značajan inbound saobraćaj i želite da prodaja zna ko je na sajtu pre nego što popuni formu — posebno decision-maker-i na pricing ili demo stranicama.",
-        en: "When you have meaningful inbound traffic and want sales to know who is on the site before they fill out a form — especially decision-makers on pricing or demo pages.",
+        sr: "Kada imate značajan inbound saobraćaj i želite da prodaja zna ko je na sajtu pre nego što popuni formu, posebno decision-maker-i na pricing ili demo stranicama.",
+        en: "When you have meaningful inbound traffic and want sales to know who is on the site before they fill out a form, especially decision-makers on pricing or demo pages.",
       },
     },
     {
@@ -378,8 +378,8 @@ export const rb2bTool: SalesTool = {
         en: "Does it work outside the US?",
       },
       answer: {
-        sr: "Person-level identifikacija je fokusirana na SAD (70–80% pokrivenosti). Globalno možete dobijati company-level ID. Za EU person-level podatke važe ograničenja zbog GDPR.",
-        en: "Person-level identification focuses on the US (70–80% coverage). Globally you can get company-level ID. EU person-level data is limited due to GDPR.",
+        sr: "Person-level identifikacija je fokusirana na SAD (70-80% pokrivenosti). Globalno možete dobijati company-level ID. Za EU person-level podatke važe ograničenja zbog GDPR.",
+        en: "Person-level identification focuses on the US (70-80% coverage). Globally you can get company-level ID. EU person-level data is limited due to GDPR.",
       },
     },
     {

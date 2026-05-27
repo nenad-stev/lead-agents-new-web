@@ -67,7 +67,7 @@ const video4 = {
 export const lesson6RichContent: RichLessonContent = {
   meta: {
     stage: L("Motor angažmana", "Engagement Engine"),
-    readingTime: L("14–18 min", "14–18 min"),
+    readingTime: L("14-18 min", "14-18 min"),
     difficulty: L("Početnik do srednjeg nivoa", "Beginner to intermediate"),
     outcome: L(
       "Izgradićeš ponovljivu LinkedIn strategiju komentarisanja koja čini founder-a vidljivim kod pravih kupaca, pokreće odnose pre outreach-a i stvara tople signale za pipeline sistem.",
@@ -203,8 +203,8 @@ export const lesson6RichContent: RichLessonContent = {
           type: "illustration",
           src: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1400&q=80",
           alt: L(
-            "Tim u razgovoru — LinkedIn komentari su javni trust touchpoint-i",
-            "Team in conversation — LinkedIn comments are public trust touchpoints",
+            "Tim u razgovoru - LinkedIn komentari su javni trust touchpoint-i",
+            "Team in conversation - LinkedIn comments are public trust touchpoints",
           ),
           caption: L(
             "Komentar nije pozadinska aktivnost. To je ulazak u razgovore koje tvoj ICP već prati.",
@@ -216,8 +216,8 @@ export const lesson6RichContent: RichLessonContent = {
           type: "pipeline-flow",
           title: L("Komentar u Founder-Led Growth sistemu", "Comment in the Founder-Led Growth system"),
           subtitle: L(
-            "Vidljivost pre poruke — outreach zatim deluje kao nastavak, ne prekid.",
-            "Visibility before the message — outreach then feels like a continuation, not an interruption.",
+            "Vidljivost pre poruke, outreach zatim deluje kao nastavak, ne prekid.",
+            "Visibility before the message, outreach then feels like a continuation, not an interruption.",
           ),
           stages: [
             L("ICP post", "ICP post"),
@@ -288,12 +288,12 @@ export const lesson6RichContent: RichLessonContent = {
               value: L("SSI", "SSI"),
               label: L("4 stuba", "4 pillars"),
               description: L(
-                "Brend · ljudi · uvidi · odnosi — komentar podržava sve četiri.",
-                "Brand · people · insights · relationships — commenting supports all four.",
+                "Brend · ljudi · uvidi · odnosi, komentar podržava sve četiri.",
+                "Brand · people · insights · relationships, commenting supports all four.",
               ),
             },
             {
-              value: L("20–30", "20–30"),
+              value: L("20-30", "20-30"),
               label: L("Min / dan", "Min / day"),
               description: L(
                 "Dnevni scan umesto nasumičnog skrolovanja feed-a.",
@@ -304,8 +304,8 @@ export const lesson6RichContent: RichLessonContent = {
               value: L("10", "10"),
               label: L("ICP komentara", "ICP comments"),
               description: L(
-                "10–1–5 ritam na dane objave: komentari → post → komentari.",
-                "10–1–5 rhythm on post days: comments → post → comments.",
+                "10-1-5 ritam na dane objave: komentari → post → komentari.",
+                "10-1-5 rhythm on post days: comments → post → comments.",
               ),
             },
           ],
@@ -386,8 +386,8 @@ export const lesson6RichContent: RichLessonContent = {
           type: "zone-cards",
           title: L("4 tipa komentara koji grade autoritet", "4 comment types that build authority"),
           subtitle: L(
-            "Svaki tip ima jedan posao. Rotiraj ih — ne piši uvek isti obrazac.",
-            "Each type has one job. Rotate them — do not always use the same pattern.",
+            "Svaki tip ima jedan posao. Rotiraj ih, ne piši uvek isti obrazac.",
+            "Each type has one job. Rotate them, do not always use the same pattern.",
           ),
           cards: [
             {
@@ -431,8 +431,8 @@ export const lesson6RichContent: RichLessonContent = {
           type: "illustration",
           src: "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&w=1400&q=80",
           alt: L(
-            "Profesionalni razgovor — strateški komentar vs feed šum",
-            "Professional conversation — strategic comment vs feed noise",
+            "Profesionalni razgovor, strateški komentar vs feed šum",
+            "Professional conversation, strategic comment vs feed noise",
           ),
           caption: L(
             "Nasumičan angažman stvara aktivnost. Strateški komentar stvara prepoznatljivost kod ICP-a.",
@@ -571,8 +571,8 @@ export const lesson6RichContent: RichLessonContent = {
           type: "illustration",
           src: "https://images.unsplash.com/photo-1611162617474-5b21e469e113?auto=format&fit=crop&w=1400&q=80",
           alt: L(
-            "LinkedIn na telefonu — dnevni scan i komentarisanje kod ICP-a",
-            "LinkedIn on phone — daily scan and commenting where your ICP is",
+            "LinkedIn na telefonu, dnevni scan i komentarisanje kod ICP-a",
+            "LinkedIn on phone, daily scan and commenting where your ICP is",
           ),
           caption: L(
             "Sales Navigator nalazi ljude. Notion/Sheets drže listu. LinkedIn je mesto gde se pojavljuješ.",
@@ -595,8 +595,8 @@ export const lesson6RichContent: RichLessonContent = {
           type: "pipeline-flow",
           title: L("LinkedIn Commenting Framework", "LinkedIn Commenting Framework"),
           subtitle: L(
-            "Svaki korak gradi kontekst za sledeći — preskakanje liste vodi u feed šum.",
-            "Each step builds context for the next — skipping the list leads to feed noise.",
+            "Svaki korak gradi kontekst za sledeći, preskakanje liste vodi u feed šum.",
+            "Each step builds context for the next, skipping the list leads to feed noise.",
           ),
           stages: [
             L("Target lista", "Target list"),
@@ -627,7 +627,7 @@ export const lesson6RichContent: RichLessonContent = {
               whyItMatters: L("Pravovremenost je bitna za vidljivost i relevantnost komentara.", "Timeliness matters for comment visibility and relevance."),
               example: L("Pre komentarisanja skeniraj A-prioritet kupce i ICP influencere.", "Scan A-priority buyers and ICP influencers before commenting."),
               commonMistake: L("Komentarisanje starih postova bez aktivne diskusije.", "Commenting on old posts with no active discussion."),
-              tryThis: L("Rezerviši 20–30 minuta radnim danima za engagement scan.", "Block 20–30 minutes per weekday for your engagement scan."),
+              tryThis: L("Rezerviši 20-30 minuta radnim danima za engagement scan.", "Block 20-30 minutes per weekday for your engagement scan."),
               highlight: L("Dnevni scan pobedi nasumično skrolovanje feed-a.", "A daily scan beats random feed scrolling."),
             },
             {
@@ -635,7 +635,7 @@ export const lesson6RichContent: RichLessonContent = {
               title: L("Vredan komentar", "Value Comment"),
               whatToDo: L("Ostavi komentar koji dodaje uvid, ne šum.", "Leave a comment that adds insight, not noise."),
               whyItMatters: L("Korisni komentari grade poverenje i vidljivost kod pravih kupaca.", "Useful comments create trust and visibility with the right buyers."),
-              example: L("Uvid, primer, reframe ili promišljeno pitanje — nikad samo „odličan post“.", "Insight, example, reframe, or thoughtful question — never just \"great post.\""),
+              example: L("Uvid, primer, reframe ili promišljeno pitanje, nikad samo „odličan post“.", "Insight, example, reframe, or thoughtful question, never just \"great post.\""),
               commonMistake: L("Komentari koji samo validiraju autora.", "Writing comments that only validate the author."),
               tryThis: L("Koristi: saglasnost + dodatni uvid + primer/reframe + pitanje.", "Use: agreement + added insight + example/reframe + question."),
               highlight: L("Dobar komentar dodaje vrednost čak i ako niko ne klikne profil.", "A good comment adds value even if nobody clicks your profile."),
@@ -654,7 +654,7 @@ export const lesson6RichContent: RichLessonContent = {
               step: 5,
               title: L("Top signal", "Warm Signal"),
               whatToDo: L("Prati odgovore, profile view-ove, DM-ove i ponovljeni angažman.", "Track replies, profile views, DMs, and repeated engagement."),
-              whyItMatters: L("Komentarisanje mora biti povezano sa pipeline-om — signali pokazuju ko se zagreva.", "Commenting must connect to pipeline — signals tell you who is warming up."),
+              whyItMatters: L("Komentarisanje mora biti povezano sa pipeline-om, signali pokazuju ko se zagreva.", "Commenting must connect to pipeline, signals tell you who is warming up."),
               example: L("Kupac odgovori na komentar → profile view → prati founder-a → angažuje se na founder postu.", "Buyer replies to comment → profile view → follows founder → engages on founder post."),
               commonMistake: L("Svakodnevno komentarisanje bez praćenja ko se vraća angažmanom.", "Commenting daily but not tracking who engages back."),
               tryThis: L("Dodaj CRM polje: Prvi touchpoint: LinkedIn komentar.", "Add CRM field: First touchpoint: LinkedIn comment."),
@@ -665,7 +665,7 @@ export const lesson6RichContent: RichLessonContent = {
               title: L("Kontekstualni outreach", "Contextual Outreach"),
               whatToDo: L("Pošalji poruku samo kad ima dovoljno konteksta.", "Send a message only when there is enough context."),
               whyItMatters: L("Komentarisanje zagreva outreach kad poruka referiše stvarnu interakciju.", "Commenting makes outreach warmer when the message references the real interaction."),
-              example: L("„Hej [Ime] — video sam tvoj komentar na postu o SDR zapošljavanju… Da pošaljem checklist?“", "\"Hey [Name] — saw your comment on the post about SDR hiring… Want me to send the checklist?\""),
+              example: L("„Hej [Ime], video sam tvoj komentar na postu o SDR zapošljavanju… Da pošaljem checklist?“", "\"Hey [Name], saw your comment on the post about SDR hiring… Want me to send the checklist?\""),
               commonMistake: L("Korišćenje komentara da opravdaš prerani pitch.", "Using comments to justify a pitch too early."),
               tryThis: L("Sačekaj odgovor, profile view, follow, angažman na postu ili ponovljen interes za temu.", "Wait for reply, profile view, follow, post engagement, or repeated topic interest."),
               highlight: L("Komentarisanje nije suprotno outreach-u. Ono outreach čini toplijim.", "Commenting is not the opposite of outreach. It is what makes outreach warmer."),
@@ -692,7 +692,7 @@ export const lesson6RichContent: RichLessonContent = {
           cards: [
             {
               title: L("Komentar koji ne radi", "Comment that does not work"),
-              subtitle: L("Šum — čitalac skroluje", "Noise — reader scrolls"),
+              subtitle: L("Šum, čitalac skroluje", "Noise, reader scrolls"),
               variant: "muted",
               items: P(
                 [
@@ -713,7 +713,7 @@ export const lesson6RichContent: RichLessonContent = {
             },
             {
               title: L("Komentar koji radi", "Comment that works"),
-              subtitle: L("Signal — ICP pamti ime", "Signal — ICP remembers your name"),
+              subtitle: L("Signal - ICP pamti ime", "Signal - ICP remembers your name"),
               variant: "accent",
               items: P(
                 [
@@ -736,10 +736,10 @@ export const lesson6RichContent: RichLessonContent = {
         },
         {
           type: "pipeline-flow",
-          title: L("10–1–5 ritam na dan objave", "10–1–5 rhythm on post day"),
+          title: L("10-1-5 ritam na dan objave", "10-1-5 rhythm on post day"),
           subtitle: L(
-            "Zagrej mrežu pre posta — ne objavi i nestani.",
-            "Warm the network before posting — do not publish and disappear.",
+            "Zagrej mrežu pre posta, ne objavi i nestani.",
+            "Warm the network before posting, do not publish and disappear.",
           ),
           stages: [
             L("10 komentara", "10 comments"),
@@ -757,7 +757,7 @@ export const lesson6RichContent: RichLessonContent = {
               title: L("Napravi ICP engagement listu", "Build your ICP engagement list"),
               whatToDo: L("Napravi listu ljudi, kompanija i tema koje znače tvom ICP-u.", "Create a list of people, companies, and topics that matter to your ICP."),
               whyItMatters: L("Ako komentarišeš nasumične postove, dobijaš nasumičnu vidljivost. Strategija komentarisanja počinje dizajnom publike.", "If you comment on random posts, you get random visibility. Your commenting strategy should start with audience design."),
-              example: L("Ako je ICP B2B SaaS kompanije od 10–50 ljudi, uključi SaaS founder-e, VP Sales, RevOps lidere, GTM konsultante i nišne zajednice.", "If your ICP is 10–50 person B2B SaaS companies, include SaaS founders, VP Sales, RevOps leaders, GTM consultants, and niche communities."),
+              example: L("Ako je ICP B2B SaaS kompanije od 10-50 ljudi, uključi SaaS founder-e, VP Sales, RevOps lidere, GTM konsultante i nišne zajednice.", "If your ICP is 10-50 person B2B SaaS companies, include SaaS founders, VP Sales, RevOps leaders, GTM consultants, and niche communities."),
               commonMistake: L("Angažman samo sa velikim kreatorima koji imaju reach, ali nema buyer relevantnosti.", "Engaging only with big creators who have reach but no buyer relevance."),
               tryThis: L("Napravi listu od 100 ICP-relevantnih ljudi: 40 kupaca, 20 influencera, 15 partnera, 15 eksperata, 10 klijenata ili zagovornika.", "Create a list of 100 ICP-relevant people: 40 buyers, 20 influencers, 15 partners, 15 experts, 10 customers or advocates."),
               highlight: L("Ne moraš da komentarišeš svuda. Moraš tamo gde kupci već gledaju.", "You do not need to comment everywhere. You need to comment where your buyers already look."),
@@ -769,7 +769,7 @@ export const lesson6RichContent: RichLessonContent = {
               whyItMatters: L("Ne svaki post zaslužuje tvoje vreme. SWAT.io ističe relevantnost target grupi i pravovremenost kao ključne faktore.", "Not every post deserves your time. SWAT.io highlights relevance to your target group and timeliness as key factors."),
               example: L("Prioritizuj skorašnje ICP pain postove od ljudi koje tvoj ICP prati. Izbegavaj čisto motivacione ili off-topic postove.", "Prioritize recent ICP pain posts from people your ICP follows. Avoid purely motivational or off-topic posts."),
               commonMistake: L("Komentarisanje postova sa velikim reach-om samo zbog reach-a.", "Commenting on high-reach posts just because they have high reach."),
-              tryThis: L("Pre komentarisanja pitaj: „Da li želim da moj ICP vidi moje ime ispod ovog posta?“ Ako ne — preskoči.", "Before commenting, ask: \"Would I want my ICP to see my name under this post?\" If not, skip it."),
+              tryThis: L("Pre komentarisanja pitaj: „Da li želim da moj ICP vidi moje ime ispod ovog posta?“ Ako ne, preskoči.", "Before commenting, ask: \"Would I want my ICP to see my name under this post?\" If not, skip it."),
               highlight: L("Reach bez buyer relevantnosti je bačena vidljivost.", "Reach without buyer relevance is wasted visibility."),
             },
             {
@@ -777,8 +777,8 @@ export const lesson6RichContent: RichLessonContent = {
               title: L("Koristi 4 tipa strateških komentara", "Use the 4 types of strategic comments"),
               whatToDo: L("Koristi ponovljive tipove: uvid, primer, reframe i pitanje.", "Use repeatable comment types: insight, example, reframe, and question."),
               whyItMatters: L("Većina loših komentara je loša jer founder ne zna koju ulogu komentar treba da igra.", "Most bad comments are bad because the founder does not know what role the comment should play."),
-              example: L("Uvid: „CRM handoff je mesto gde se top namera ili gubi ili umnožava.“ Primer: „Videli smo ovo kod founder-led tima — mali reach, ali 3 sales razgovora.“", "Insight: \"CRM handoff is where warm intent compounds or dies.\" Example: \"We saw this with a founder-led team — low impressions but 3 sales conversations.\""),
-              commonMistake: L("Komentari koji samo validiraju autora — „Odlična poenta“ bez dodate vrednosti.", "Writing comments that only validate the author — \"Great point\" without adding value."),
+              example: L("Uvid: „CRM handoff je mesto gde se top namera ili gubi ili umnožava.“ Primer: „Videli smo ovo kod founder-led tima, mali reach, ali 3 sales razgovora.“", "Insight: \"CRM handoff is where warm intent compounds or dies.\" Example: \"We saw this with a founder-led team, low impressions but 3 sales conversations.\""),
+              commonMistake: L("Komentari koji samo validiraju autora, „Odlična poenta“ bez dodate vrednosti.", "Writing comments that only validate the author, \"Great point\" without adding value."),
               tryThis: L("Struktura: „Slažem se sa [specifična poenta]. Dodao bih [uvid]. Bitno je jer [zašto]. Zanima me kako gledaš na [pitanje].“", "Structure: \"Agree with [specific point]. I'd add [insight]. This matters because [why]. Curious how you think about [question].\""),
               highlight: L("Dobar komentar dodaje vrednost čak i ako niko ne klikne profil.", "A good comment adds value even if nobody clicks your profile."),
             },
@@ -789,7 +789,7 @@ export const lesson6RichContent: RichLessonContent = {
               whyItMatters: L("Komentarisanje zagreva founder mrežu i pokreće razgovore pre postovanja.", "Commenting warms up the founder's network and starts conversations before posting."),
               example: L("10 ICP komentara pre posta → objavi founder post → odgovori na rane komentare → još 5 ICP komentara posle.", "10 ICP comments before posting → publish founder post → reply to early comments → 5 more ICP comments after."),
               commonMistake: L("Objavi i pasivno čekaj.", "Publishing and waiting passively."),
-              tryThis: L("Na dane objave koristi 10–1–5 ritam: 10 ICP komentara, 1 founder post, 5 ICP komentara.", "On posting days, use the 10–1–5 rhythm: 10 ICP comments, 1 founder post, 5 ICP comments."),
+              tryThis: L("Na dane objave koristi 10-1-5 ritam: 10 ICP komentara, 1 founder post, 5 ICP komentara.", "On posting days, use the 10-1-5 rhythm: 10 ICP comments, 1 founder post, 5 ICP comments."),
               highlight: L("Ne samo postuj i nestani. LinkedIn je platforma za razgovor.", "Do not just post and disappear. LinkedIn is a conversation platform."),
             },
             {
@@ -797,7 +797,7 @@ export const lesson6RichContent: RichLessonContent = {
               title: L("Koristi komentare za testiranje content uglova", "Use comments to test content angles"),
               whatToDo: L("Koristi komentare kao nisku frikciju za test ideja pre nego što postanu postovi.", "Use comments as a low-friction way to test ideas before turning them into posts."),
               whyItMatters: L("Komentar je mala opklada. Odgovori, profile view-ovi ili DM-ovi mogu signalizirati pun post, webinar ili outreach ugao.", "A comment is a small bet. Replies, profile views, or DMs may signal a full post, webinar, or outreach angle."),
-              example: L("Komentar o kupcima koji dobijaju poruke pre konteksta — ako ICP kupci odgovore, pretvori u post i outreach opener.", "Comment about buyers getting messages before context — if ICP buyers respond, turn it into a post and outreach opener."),
+              example: L("Komentar o kupcima koji dobijaju poruke pre konteksta, ako ICP kupci odgovore, pretvori u post i outreach opener.", "Comment about buyers getting messages before context, if ICP buyers respond, turn it into a post and outreach opener."),
               commonMistake: L("Tretiranje komentara kao aktivnosti bez vrednosti.", "Treating comments as throwaway activity."),
               tryThis: L("Čuvaj najbolje komentare svake nedelje. Najbolja 3 pretvori u postove.", "Save your best comments every week. Turn the best 3 into posts."),
               highlight: L("Komentari nisu samo angažman. To je validacija ideja.", "Comments are not just engagement. They are idea validation."),
@@ -817,7 +817,7 @@ export const lesson6RichContent: RichLessonContent = {
               title: L("Pretvori ponovljeni angažman u kontekstualni outreach", "Turn repeated engagement into contextual outreach"),
               whatToDo: L("Šalji outreach samo kad ima dovoljno konteksta.", "Send outreach only when there is enough context."),
               whyItMatters: L("Komentarisanje zagreva outreach kad poruka referiše stvarnu interakciju.", "Commenting makes outreach warmer when the message references the real interaction."),
-              example: L("„Hej [Ime] — video sam tvoj komentar na postu o SDR zapošljavanju… Imam kratak checklist. Da pošaljem?“", "\"Hey [Name] — saw your comment on the post about SDR hiring… I have a short checklist. Want me to send it?\""),
+              example: L("„Hej [Ime], video sam tvoj komentar na postu o SDR zapošljavanju… Imam kratak checklist. Da pošaljem?“", "\"Hey [Name], saw your comment on the post about SDR hiring… I have a short checklist. Want me to send it?\""),
               commonMistake: L("Korišćenje komentara da opravdaš prerani pitch.", "Using comments to justify a pitch too early."),
               tryThis: L("Sačekaj odgovor, profile view, follow, angažman na postu, pitanje ili ponovljen interes za temu.", "Wait for reply, profile view, follow, post engagement, question, or repeated topic appearance."),
               highlight: L("Outreach treba da deluje kao sledeći korak u razgovoru, ne prvi korak u pitch-u.", "Outreach should feel like the next step in a conversation, not the first step in a pitch."),
@@ -882,8 +882,8 @@ export const lesson6RichContent: RichLessonContent = {
                 L("Komentar uvida", "Insight comment"),
                 L("Dodaje koristan point", "Adds a useful point"),
                 L(
-                  "„Deo koji većina timova propušta: CRM handoff nije admin — tu se top namera ili gubi ili umnožava.“",
-                  "\"The part most teams miss is that CRM handoff is not admin — it is where warm intent either compounds or dies.\"",
+                  "„Deo koji većina timova propušta: CRM handoff nije admin, tu se top namera ili gubi ili umnožava.“",
+                  "\"The part most teams miss is that CRM handoff is not admin, it is where warm intent either compounds or dies.\"",
                 ),
               ],
             },
@@ -934,16 +934,16 @@ export const lesson6RichContent: RichLessonContent = {
               value: L("4", "4"),
               label: L("Tipa komentara", "Comment types"),
               description: L(
-                "Uvid · primer · reframe · pitanje — rotiraj svake nedelje.",
-                "Insight · example · reframe · question — rotate weekly.",
+                "Uvid · primer · reframe · pitanje, rotiraj svake nedelje.",
+                "Insight · example · reframe · question, rotate weekly.",
               ),
             },
             {
               value: L("1", "1"),
               label: L("CRM polje", "CRM field"),
               description: L(
-                "Prvi touchpoint: LinkedIn komentar — da signal ne nestane.",
-                "First touchpoint: LinkedIn comment — so the signal does not disappear.",
+                "Prvi touchpoint: LinkedIn komentar, da signal ne nestane.",
+                "First touchpoint: LinkedIn comment, so the signal does not disappear.",
               ),
             },
           ],
@@ -1040,7 +1040,7 @@ export const lesson6RichContent: RichLessonContent = {
                 "LinkedIn definiše social selling kao korišćenje društvenih mreža za povezivanje i gradnju odnosa sa prospect-ima. Strateško komentarisanje je jedan od najjednostavnijih načina da stvoriš te relationship touchpoint-e pre direktnog outreach-a.",
                 "LinkedIn defines social selling as using social networks to connect and build relationships with prospects. Strategic commenting is one of the simplest ways to create those relationship touchpoints before direct outreach.",
               ),
-              sourceLabel: L("LinkedIn Sales Solutions — Social Selling", "LinkedIn Sales Solutions — Social Selling"),
+              sourceLabel: L("LinkedIn Sales Solutions - Social Selling", "LinkedIn Sales Solutions - Social Selling"),
               sourceUrl: "https://business.linkedin.com/sales-solutions/social-selling",
             },
             {
@@ -1049,7 +1049,7 @@ export const lesson6RichContent: RichLessonContent = {
                 "LinkedIn Social Selling Index gradi se na profesionalnom brendu, pronalaženju pravih ljudi, angažmanu kroz uvide i gradnji odnosa.",
                 "LinkedIn's Social Selling Index is built around establishing a professional brand, finding the right people, engaging with insights, and building relationships.",
               ),
-              sourceLabel: L("LinkedIn Sales Solutions — Social Selling Index / SSI", "LinkedIn Sales Solutions — Social Selling Index / SSI"),
+              sourceLabel: L("LinkedIn Sales Solutions - Social Selling Index / SSI", "LinkedIn Sales Solutions - Social Selling Index / SSI"),
               sourceUrl: "https://business.linkedin.com/sell/resources/SSI",
             },
             {
@@ -1058,7 +1058,7 @@ export const lesson6RichContent: RichLessonContent = {
                 "SWAT.io vodič za LinkedIn komentare ističe relevantnost target grupi i pravovremenost kao ključne faktore za vidljivost kroz komentare.",
                 "SWAT.io's LinkedIn comment strategy guide highlights relevance to the target group and timeliness as key factors when using comments for visibility.",
               ),
-              sourceLabel: L("SWAT.io — LinkedIn Comments", "SWAT.io — LinkedIn Comments"),
+              sourceLabel: L("SWAT.io - LinkedIn Comments", "SWAT.io - LinkedIn Comments"),
               sourceUrl: "https://swat.io/en/engage/linkedin-comments/",
             },
             {
@@ -1067,7 +1067,7 @@ export const lesson6RichContent: RichLessonContent = {
                 "Highspot B2B social selling vodič referiše LinkedIn State of Sales istraživanje i napominje da mnogi sales rep-ovi sada uključuju social selling u dnevni ili nedeljni rad.",
                 "Highspot's B2B social selling guide references LinkedIn's State of Sales research and notes that many sales reps now include social selling in their daily or weekly workload.",
               ),
-              sourceLabel: L("Highspot — Social Selling Guide", "Highspot — Social Selling Guide"),
+              sourceLabel: L("Highspot - Social Selling Guide", "Highspot - Social Selling Guide"),
               sourceUrl: "https://www.highspot.com/blog/social-selling-guide-b2b-sales/",
             },
           ],
@@ -1083,10 +1083,10 @@ export const lesson6RichContent: RichLessonContent = {
           type: "paragraphs",
           paragraphs: P(
             [
-              "Formatiraj ovo kao praktičan playbook. Izgradi sistem u list tool-u i CRM-u — ne samo u glavi.",
+              "Formatiraj ovo kao praktičan playbook. Izgradi sistem u list tool-u i CRM-u, ne samo u glavi.",
             ],
             [
-              "Format this as a practical playbook. Build the system in your list tool and CRM — not only in your head.",
+              "Format this as a practical playbook. Build the system in your list tool and CRM, not only in your head.",
             ],
           ),
         },
@@ -1139,7 +1139,7 @@ export const lesson6RichContent: RichLessonContent = {
               cells: [
                 L("B", "B"),
                 L("Influencer ili partner sa ICP publikom", "Influencer or partner with ICP audience"),
-                L("Proveravaj 2–3 puta nedeljno", "Check 2–3x per week"),
+                L("Proveravaj 2-3 puta nedeljno", "Check 2-3x per week"),
               ],
             },
             {
@@ -1163,14 +1163,14 @@ export const lesson6RichContent: RichLessonContent = {
           items: P(
             [
               "10 komentara po radnom danu;",
-              "20–30 minuta dnevno;",
+              "20-30 minuta dnevno;",
               "5 komentara na ICP kupce;",
               "3 komentara na ICP influencere;",
               "2 komentara na partnere ili eksperte.",
             ],
             [
               "10 comments per weekday;",
-              "20–30 minutes per day;",
+              "20-30 minutes per day;",
               "5 comments on ICP buyers;",
               "3 comments on ICP influencers;",
               "2 comments on partners or experts.",
@@ -1189,7 +1189,7 @@ export const lesson6RichContent: RichLessonContent = {
             { cells: [L("Komentari na influencere", "Influencer comments"), L("15", "15")] },
             { cells: [L("Komentari partnera / eksperata", "Partner / expert comments"), L("10", "10")] },
             { cells: [L("Odgovori u comment thread-ovima", "Replies to comment threads"), L("Dnevno", "Daily")] },
-            { cells: [L("Novi topli kontakti u CRM-u", "New warm contacts added to CRM"), L("5–10", "5–10")] },
+            { cells: [L("Novi topli kontakti u CRM-u", "New warm contacts added to CRM"), L("5-10", "5-10")] },
             { cells: [L("Komentari pretvoreni u ideje za post", "Comments turned into post ideas"), L("3", "3")] },
           ],
         },
@@ -1200,13 +1200,13 @@ export const lesson6RichContent: RichLessonContent = {
               "### 3. Koristi formulu vrednog komentara",
               "Koristi strukturu: Specifična saglasnost ili zapažanje + dodatni uvid + primer ili reframe + promišljeno pitanje.",
               "Šablon: „Slažem se sa tvojom poentom o [specifična ideja]. Jedno bih dodao: [uvid / reframe]. Često vidimo ovo kad [primer]. Zanima me kako gledaš na [pitanje]?“",
-              "Primer: „Slažem se sa tvojom poentom o SDR hiring-u. Jedno bih dodao: SDR-ovi pate kad founder sales motion još nije dokumentovan. Često vidimo u B2B timovima od 10–50 ljudi. Da li ti se ovo obično lomi na targeting-u ili messaging-u prvo?“",
+              "Primer: „Slažem se sa tvojom poentom o SDR hiring-u. Jedno bih dodao: SDR-ovi pate kad founder sales motion još nije dokumentovan. Često vidimo u B2B timovima od 10-50 ljudi. Da li ti se ovo obično lomi na targeting-u ili messaging-u prvo?“",
             ],
             [
               "### 3. Use the value comment formula",
               "Use this structure: Specific agreement or observation + added insight + example or reframe + thoughtful question.",
               "Template: \"Agree with your point on [specific idea]. One thing I'd add: [insight / reframe]. We see this often when [example]. Curious how you think about [question]?\"",
-              "Example: \"Agree with your point on SDR hiring. One thing I'd add: SDRs struggle when the founder sales motion is not documented yet. We see this often in 10–50 person B2B teams. Curious if you usually see this break at targeting or messaging first?\"",
+              "Example: \"Agree with your point on SDR hiring. One thing I'd add: SDRs struggle when the founder sales motion is not documented yet. We see this often in 10-50 person B2B teams. Curious if you usually see this break at targeting or messaging first?\"",
             ],
           ),
         },
@@ -1439,8 +1439,8 @@ export const lesson6RichContent: RichLessonContent = {
           type: "illustration",
           src: "https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=1400&q=80",
           alt: L(
-            "Planiranje i praćenje — od komentara do CRM signala",
-            "Planning and tracking — from comment to CRM signal",
+            "Planiranje i praćenje, od komentara do CRM signala",
+            "Planning and tracking, from comment to CRM signal",
           ),
           caption: L(
             "Notion ili Sheets drže listu. Sales Navigator pronalazi ljude. CRM hvata signale.",
@@ -1455,24 +1455,24 @@ export const lesson6RichContent: RichLessonContent = {
               value: L("10", "10"),
               label: L("Komentara / dan", "Comments / day"),
               description: L(
-                "Korisnih komentara na ICP-relevantne postove — ne feed šum.",
-                "Useful comments on ICP-relevant posts — not feed noise.",
+                "Korisnih komentara na ICP-relevantne postove, ne feed šum.",
+                "Useful comments on ICP-relevant posts, not feed noise.",
               ),
             },
             {
               value: L("2×", "2×"),
               label: L("Touchpoint", "Touchpoint"),
               description: L(
-                "Isti kupac, dva relevantna posta — prepoznatljivost raste.",
-                "Same buyer, two relevant posts — familiarity compounds.",
+                "Isti kupac, dva relevantna posta, prepoznatljivost raste.",
+                "Same buyer, two relevant posts, familiarity compounds.",
               ),
             },
             {
               value: L("1", "1"),
               label: L("Kontekstualni DM", "Contextual DM"),
               description: L(
-                "Tek kad ima odgovor, profile view ili follow — ne posle jednog lajka.",
-                "Only after reply, profile view, or follow — not after one like.",
+                "Tek kad ima odgovor, profile view ili follow, ne posle jednog lajka.",
+                "Only after reply, profile view, or follow, not after one like.",
               ),
             },
           ],
@@ -1577,7 +1577,7 @@ export const lesson6RichContent: RichLessonContent = {
               ),
             },
             {
-              title: L("10–1–5 ritam dana objave", "10–1–5 Posting Day Rhythm"),
+              title: L("10-1-5 ritam dana objave", "10-1-5 Posting Day Rhythm"),
               placement: L("Korak 4", "Step 4"),
               description: L(
                 "10 komentara pre objave, 1 founder post, 5 komentara posle objave.",
@@ -1673,7 +1673,7 @@ Proveravaj dnevno.
 
 B-prioritet:
 Influenceri, partneri i ljudi sa ICP publikom.
-Proveravaj 2–3 puta nedeljno.
+Proveravaj 2-3 puta nedeljno.
 
 C-prioritet:
 Korisni glasovi na tržištu.
@@ -1770,7 +1770,7 @@ angažuj / nurture / DM / pošalji asset / zakaži call
 
 Primer DM-a:
 
-„Hej [Ime] — razmenili smo mišljenja o [tema].
+„Hej [Ime], razmenili smo mišljenja o [tema].
 
 Vidimo isti obrazac kod [ICP]: [problem].
 
@@ -1804,7 +1804,7 @@ Check daily.
 
 B-priority:
 Influencers, partners, and people with ICP audience.
-Check 2–3x per week.
+Check 2-3x per week.
 
 C-priority:
 Useful market voices.
@@ -1901,7 +1901,7 @@ Send contextual outreach only when:
 
 Example DM:
 
-"Hey [Name] — we exchanged thoughts on [topic].
+"Hey [Name], we exchanged thoughts on [topic].
 
 We're seeing the same pattern with [ICP]: [problem].
 
@@ -1965,32 +1965,32 @@ Want me to send it?"`,
     },
   ],
   sources: [
-    { title: L("LinkedIn Sales Solutions — Social Selling", "LinkedIn Sales Solutions — Social Selling"), url: "https://business.linkedin.com/sales-solutions/social-selling" },
-    { title: L("LinkedIn Sales Solutions — Social Selling Index / SSI", "LinkedIn Sales Solutions — Social Selling Index / SSI"), url: "https://business.linkedin.com/sell/resources/SSI" },
+    { title: L("LinkedIn Sales Solutions - Social Selling", "LinkedIn Sales Solutions - Social Selling"), url: "https://business.linkedin.com/sales-solutions/social-selling" },
+    { title: L("LinkedIn Sales Solutions - Social Selling Index / SSI", "LinkedIn Sales Solutions - Social Selling Index / SSI"), url: "https://business.linkedin.com/sell/resources/SSI" },
     { title: L("LinkedIn Sales Navigator", "LinkedIn Sales Navigator"), url: "https://business.linkedin.com/sell/sales-navigator" },
-    { title: L("LinkedIn Sales Solutions — Deep Sales Playbook", "LinkedIn Sales Solutions — Deep Sales Playbook"), url: "https://business.linkedin.com/sales-solutions/deep-sales-playbook" },
-    { title: L("LinkedIn Marketing Solutions — Ultimate Guide to Improve Your B2B Content Marketing Strategy", "LinkedIn Marketing Solutions — Ultimate Guide to Improve Your B2B Content Marketing Strategy"), url: "https://www.linkedin.com/business/marketing/blog/content-marketing/the-ultimate-guide-to-improve-your-b2b-content-marketing-strategy" },
-    { title: L("LinkedIn Marketing Blog — Thought Leadership and Hidden Buyers", "LinkedIn Marketing Blog — Thought Leadership and Hidden Buyers"), url: "https://www.linkedin.com/business/marketing/blog/research-and-insights/b2b-thought-leadership-influence-hidden-buyers" },
-    { title: L("Highspot — Complete Guide to Social Selling for B2B Sales", "Highspot — Complete Guide to Social Selling for B2B Sales"), url: "https://www.highspot.com/blog/social-selling-guide-b2b-sales/" },
-    { title: L("SWAT.io — LinkedIn Comments: Top Strategies for More Visibility", "SWAT.io — LinkedIn Comments: Top Strategies for More Visibility"), url: "https://swat.io/en/engage/linkedin-comments/" },
-    { title: L("PhantomBuster — LinkedIn Social Selling Guide", "PhantomBuster — LinkedIn Social Selling Guide"), url: "https://phantombuster.com/blog/social-selling/linkedin-social-selling/" },
-    { title: L("HeyReach — LinkedIn Social Selling Guide", "HeyReach — LinkedIn Social Selling Guide"), url: "https://www.heyreach.io/blog/linkedin-social-selling" },
-    { title: L("AuthoredUp — LinkedIn Content Strategy", "AuthoredUp — LinkedIn Content Strategy"), url: "https://authoredup.com/blog/linkedin-content-strategy" },
-    { title: L("HubSpot — How to Use LinkedIn for Business Marketing", "HubSpot — How to Use LinkedIn for Business Marketing"), url: "https://offers.hubspot.com/how-to-use-linkedin-business-marketing" },
+    { title: L("LinkedIn Sales Solutions - Deep Sales Playbook", "LinkedIn Sales Solutions - Deep Sales Playbook"), url: "https://business.linkedin.com/sales-solutions/deep-sales-playbook" },
+    { title: L("LinkedIn Marketing Solutions - Ultimate Guide to Improve Your B2B Content Marketing Strategy", "LinkedIn Marketing Solutions - Ultimate Guide to Improve Your B2B Content Marketing Strategy"), url: "https://www.linkedin.com/business/marketing/blog/content-marketing/the-ultimate-guide-to-improve-your-b2b-content-marketing-strategy" },
+    { title: L("LinkedIn Marketing Blog - Thought Leadership and Hidden Buyers", "LinkedIn Marketing Blog - Thought Leadership and Hidden Buyers"), url: "https://www.linkedin.com/business/marketing/blog/research-and-insights/b2b-thought-leadership-influence-hidden-buyers" },
+    { title: L("Highspot - Complete Guide to Social Selling for B2B Sales", "Highspot - Complete Guide to Social Selling for B2B Sales"), url: "https://www.highspot.com/blog/social-selling-guide-b2b-sales/" },
+    { title: L("SWAT.io - LinkedIn Comments: Top Strategies for More Visibility", "SWAT.io - LinkedIn Comments: Top Strategies for More Visibility"), url: "https://swat.io/en/engage/linkedin-comments/" },
+    { title: L("PhantomBuster - LinkedIn Social Selling Guide", "PhantomBuster - LinkedIn Social Selling Guide"), url: "https://phantombuster.com/blog/social-selling/linkedin-social-selling/" },
+    { title: L("HeyReach - LinkedIn Social Selling Guide", "HeyReach - LinkedIn Social Selling Guide"), url: "https://www.heyreach.io/blog/linkedin-social-selling" },
+    { title: L("AuthoredUp - LinkedIn Content Strategy", "AuthoredUp - LinkedIn Content Strategy"), url: "https://authoredup.com/blog/linkedin-content-strategy" },
+    { title: L("HubSpot - How to Use LinkedIn for Business Marketing", "HubSpot - How to Use LinkedIn for Business Marketing"), url: "https://offers.hubspot.com/how-to-use-linkedin-business-marketing" },
   ],
   relatedLessons: {
     previous: {
       slug: "write-educational-linkedin-posts",
       title: L(
-        "Lekcija 5 — Kako pisati edukativne LinkedIn postove koji grade autoritet",
-        "Lesson 5 — How to Write Educational LinkedIn Posts That Build Authority",
+        "Lekcija 5 - Kako pisati edukativne LinkedIn postove koji grade autoritet",
+        "Lesson 5 - How to Write Educational LinkedIn Posts That Build Authority",
       ),
     },
     next: {
       slug: "linkedin-engagement-outreach-list",
       title: L(
-        "Lekcija 7 — Kako pretvoriti LinkedIn engagement u outreach listu",
-        "Lesson 7 — How to Turn LinkedIn Engagement Into an Outreach List",
+        "Lekcija 7 - Kako pretvoriti LinkedIn engagement u outreach listu",
+        "Lesson 7 - How to Turn LinkedIn Engagement Into an Outreach List",
       ),
       note: L(
         "Sledeća lekcija pokazuje kako pretvoriti engagement u outreach listu bez hladnog ili spam osećaja.",
@@ -2001,43 +2001,43 @@ Want me to send it?"`,
       {
         slug: "what-founder-led-growth-is",
         title: L(
-          "Lekcija 1 — Šta je Founder-Led Growth",
-          "Lesson 1 — What Founder-Led Growth Is and Why It Works for B2B Companies",
+          "Lekcija 1 - Šta je Founder-Led Growth",
+          "Lesson 1 - What Founder-Led Growth Is and Why It Works for B2B Companies",
         ),
       },
       {
         slug: "how-to-define-your-icp",
         title: L(
-          "Lekcija 2 — Kako definisati ICP za Founder-Led Growth",
-          "Lesson 2 — How to Define Your ICP for Founder-Led Growth",
+          "Lekcija 2 - Kako definisati ICP za Founder-Led Growth",
+          "Lesson 2 - How to Define Your ICP for Founder-Led Growth",
         ),
       },
       {
         slug: "linkedin-profile-optimization-founder",
         title: L(
-          "Lekcija 3 — Kako optimizovati LinkedIn profil founder-a za B2B lead generation",
-          "Lesson 3 — How to Optimize a Founder's LinkedIn Profile for B2B Lead Generation",
+          "Lekcija 3 - Kako optimizovati LinkedIn profil founder-a za B2B lead generation",
+          "Lesson 3 - How to Optimize a Founder's LinkedIn Profile for B2B Lead Generation",
         ),
       },
       {
         slug: "linkedin-content-strategy-founder",
         title: L(
-          "Lekcija 4 — Kako napraviti LinkedIn content strategiju za founder-a",
-          "Lesson 4 — How to Build a LinkedIn Content Strategy for a Founder",
+          "Lekcija 4 - Kako napraviti LinkedIn content strategiju za founder-a",
+          "Lesson 4 - How to Build a LinkedIn Content Strategy for a Founder",
         ),
       },
       {
         slug: "crm-za-founder-led-growth",
         title: L(
-          "Lekcija 10 — Kako pratiti Founder-Led Growth aktivnosti u CRM-u",
-          "Lesson 10 — How to Track Founder-Led Growth Activities in Your CRM",
+          "Lekcija 10 - Kako pratiti Founder-Led Growth aktivnosti u CRM-u",
+          "Lesson 10 - How to Track Founder-Led Growth Activities in Your CRM",
         ),
       },
       {
         slug: "buying-signals-b2b-sales",
         title: L(
-          "Lekcija 11 — Šta su buying signali i kako ih koristiti u B2B prodaji",
-          "Lesson 11 — What Buying Signals Are and How to Use Them in B2B Sales",
+          "Lekcija 11 - Šta su buying signali i kako ih koristiti u B2B prodaji",
+          "Lesson 11 - What Buying Signals Are and How to Use Them in B2B Sales",
         ),
       },
     ],

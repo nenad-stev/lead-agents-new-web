@@ -476,8 +476,8 @@ export const founderLedGrowthLessons: PlaybookLesson[] = [
       en: "How to Use LinkedIn Ads to Boost Founder-Led Growth",
     },
     description: {
-      sr: "Kada i kako dodati paid boost founder content-u, webinarima i lead magnetima — sa fokusom na Thought Leader Ads.",
-      en: "When and how to add paid boost to founder content, webinars, and lead magnets — with a focus on Thought Leader Ads.",
+      sr: "Kada i kako dodati paid boost founder content-u, webinarima i lead magnetima, sa fokusom na Thought Leader Ads.",
+      en: "When and how to add paid boost to founder content, webinars, and lead magnets, with a focus on Thought Leader Ads.",
     },
     recommendedToolSlugs: ["hubspot", "taplio", "n8n"],
     meta: {

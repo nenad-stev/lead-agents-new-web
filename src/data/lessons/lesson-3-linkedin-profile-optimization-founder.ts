@@ -67,7 +67,7 @@ const video4 = {
 export const lesson3RichContent: RichLessonContent = {
   meta: {
     stage: L("LinkedIn Profile", "LinkedIn Profile"),
-    readingTime: L("15–18 min", "15–18 min"),
+    readingTime: L("15-18 min", "15-18 min"),
     difficulty: L("Početnik do srednjeg nivoa", "Beginner to intermediate"),
     outcome: L(
       "Pretvorićeš LinkedIn profil founder-a u buyer-facing landing stranicu koja objašnjava kome pomažeš, koji problem rešavaš, zašto kupci treba da ti veruju i šta treba da urade sledeće.",
@@ -97,7 +97,7 @@ export const lesson3RichContent: RichLessonContent = {
         "To znači da LinkedIn profil ima jedan posao: pretvoriti radoznalost u poverenje. Ne lajkove. Ne vanity metrike. Ne founder ego. Poverenje.",
         "Jer u Founder-Led Growth-u, profil je most između pažnje i pipeline-a.",
         "Ako je profil vague, čak i dobar content underperform-uje. Ako je profil jasan, svaki post, komentar, DM, webinar i profile view rade jače.",
-        "Ova lekcija pokazuje kako pretvoriti LinkedIn profil founder-a u B2B lead generation asset — ne tako što će biti flashy, već tako što će biti jasan.",
+        "Ova lekcija pokazuje kako pretvoriti LinkedIn profil founder-a u B2B lead generation asset, ne tako što će biti flashy, već tako što će biti jasan.",
       ],
       [
         "Your LinkedIn profile is not a CV.",
@@ -173,8 +173,8 @@ export const lesson3RichContent: RichLessonContent = {
           type: "illustration",
           src: "https://images.unsplash.com/photo-1611944936353-4e8ba551d6f3?auto=format&fit=crop&w=1400&q=80",
           alt: L(
-            "LinkedIn profil na ekranu — landing stranica, ne CV",
-            "LinkedIn profile on screen — a landing page, not a CV",
+            "LinkedIn profil na ekranu, landing stranica, ne CV",
+            "LinkedIn profile on screen, a landing page, not a CV",
           ),
           caption: L(
             "Kupac odlučuje za sekunde: relevantnost, poverenje, sledeći korak.",
@@ -186,8 +186,8 @@ export const lesson3RichContent: RichLessonContent = {
           type: "pipeline-flow",
           title: L("Profil u Founder-Led Growth sistemu", "Profile in the Founder-Led Growth system"),
           subtitle: L(
-            "Svaki kanal vodi nazad na profil — profil vodi ka pipeline-u.",
-            "Every channel sends people back to the profile — the profile feeds pipeline.",
+            "Svaki kanal vodi nazad na profil, profil vodi ka pipeline-u.",
+            "Every channel sends people back to the profile, the profile feeds pipeline.",
           ),
           stages: [
             L("Post", "Post"),
@@ -214,8 +214,8 @@ export const lesson3RichContent: RichLessonContent = {
               "To znači da profil nije samo branding asset. To je sales infrastruktura.",
               "LinkedIn-ovo social selling uputstvo preporučuje kvalitetnu profilnu sliku, headline koji ide dalje od job title-a, summary koji oživljava veštine, social proof i jasan call to action.",
               "LinkedIn takođe kaže da profili sa slikom imaju znatno veću verovatnoću pregleda, i preporučuje prodavcima da jasno objasne šta rade i kako to rade.",
-              "Tačno tako treba da radi founder profil — ne kao CV, već kao trust stranica.",
-              "Ako neko poseti tvoj profil i i dalje ne može da odgovori na: kome pomažeš, koji skup problem rešavaš, zašto da ti veruju, koji dokaz imaš, šta treba da urade sledeće — profil curi pipeline.",
+              "Tačno tako treba da radi founder profil, ne kao CV, već kao trust stranica.",
+              "Ako neko poseti tvoj profil i i dalje ne može da odgovori na: kome pomažeš, koji skup problem rešavaš, zašto da ti veruju, koji dokaz imaš, šta treba da urade sledeće, profil curi pipeline.",
               "Većina founder-a ovde pada. Nateraju kupca da radi previše. Tvoj profil treba da smanji trenje i učini sledeći korak očiglednim.",
             ],
             [
@@ -224,7 +224,7 @@ export const lesson3RichContent: RichLessonContent = {
               "LinkedIn's own social selling guidance recommends using a high-quality profile photo, going beyond job title in the headline, bringing skills to life in the summary, showing social proof, and including a clear call to action.",
               "LinkedIn also says profiles with a picture are significantly more likely to be viewed, and recommends that sellers clearly explain what they do and how they do it.",
               "That is exactly how a founder profile should work. Not as a CV. As a trust page.",
-              "If someone visits your profile and still cannot answer: who you help, what expensive problem you solve, why they should trust you, what proof you have, what they should do next — the profile is leaking pipeline.",
+              "If someone visits your profile and still cannot answer: who you help, what expensive problem you solve, why they should trust you, what proof you have, what they should do next, the profile is leaking pipeline.",
               "Most founders fail here. They make the buyer work too hard. Your profile should reduce friction and make the next step obvious.",
             ],
           ),
@@ -233,8 +233,8 @@ export const lesson3RichContent: RichLessonContent = {
           type: "pipeline-flow",
           title: L("Šta šalje ljude na tvoj profil", "What sends people to your profile"),
           subtitle: L(
-            "Svaki kanal završava na istom mestu — tvom trust layer-u.",
-            "Every channel ends in the same place — your trust layer.",
+            "Svaki kanal završava na istom mestu, tvom trust layer-u.",
+            "Every channel ends in the same place, your trust layer.",
           ),
           stages: [
             L("Post", "Post"),
@@ -270,7 +270,7 @@ export const lesson3RichContent: RichLessonContent = {
         },
         {
           type: "checklist",
-          title: L("10-sekundni test profila — 5 pitanja", "10-second profile test — 5 questions"),
+          title: L("10-sekundni test profila - 5 pitanja", "10-second profile test - 5 questions"),
           items: P(
             [
               "Kome pomažeš? (ICP mora da se prepozna za 2 sekunde)",
@@ -381,8 +381,8 @@ export const lesson3RichContent: RichLessonContent = {
             "Team reviewing LinkedIn profile and banner design",
           ),
           caption: L(
-            "Banner i headline su prvi conversion layer — Canva ili Figma za vizuel, copy za jasnoću.",
-            "Banner and headline are the first conversion layer — Canva or Figma for visuals, copy for clarity.",
+            "Banner i headline su prvi conversion layer - Canva ili Figma za vizuel, copy za jasnoću.",
+            "Banner and headline are the first conversion layer - Canva or Figma for visuals, copy for clarity.",
           ),
           credit: L("Foto: Unsplash", "Photo: Unsplash"),
         },
@@ -405,7 +405,7 @@ export const lesson3RichContent: RichLessonContent = {
           type: "framework-intro",
           title: L("Attention → Relevance → Trust → Proof → Action", "Attention → Relevance → Trust → Proof → Action"),
           description: L(
-            "Tako profil konvertuje — ne objašnjavajući sve, već vodeći kupca kroz jednostavnu sekvencu.",
+            "Tako profil konvertuje, ne objašnjavajući sve, već vodeći kupca kroz jednostavnu sekvencu.",
             "This is how a profile converts. Not by explaining everything. By guiding the buyer through a simple sequence.",
           ),
         },
@@ -436,8 +436,8 @@ export const lesson3RichContent: RichLessonContent = {
                 "Ask: \"Does the banner explain the outcome your ICP wants in 3 seconds?\" If not, rewrite it.",
               ),
               highlight: L(
-                "Banner je najveći vizuelni prostor na profilu — ne troši ga.",
-                "The banner is the largest visual space on the profile — do not waste it.",
+                "Banner je najveći vizuelni prostor na profilu, ne troši ga.",
+                "The banner is the largest visual space on the profile, do not waste it.",
               ),
             },
             {
@@ -448,8 +448,8 @@ export const lesson3RichContent: RichLessonContent = {
                 "The headline tells the buyer: \"This person helps people like me.\"",
               ),
               whyItMatters: L(
-                "Headline se pojavljuje svuda — search, komentari, connection request-ovi, DM-ovi, profile preview, post preview. To nije samo profile copy. To je distribution copy.",
-                "The headline appears everywhere — search results, comments, connection requests, DMs, profile preview, post previews. It is not just profile copy. It is distribution copy.",
+                "Headline se pojavljuje svuda, search, komentari, connection request-ovi, DM-ovi, profile preview, post preview. To nije samo profile copy. To je distribution copy.",
+                "The headline appears everywhere, search results, comments, connection requests, DMs, profile preview, post previews. It is not just profile copy. It is distribution copy.",
               ),
               example: L(
                 "„Helping B2B founders turn LinkedIn, content & outreach into predictable pipeline“ umesto „Founder & CEO at Lead Agents“.",
@@ -520,7 +520,7 @@ export const lesson3RichContent: RichLessonContent = {
                 "Featured section: one educational asset, one proof asset, one conversion asset.",
               ),
               highlight: L(
-                "Featured ne treba da pokaže ono na šta si ponosan — već ono što pomaže kupcu da napravi sledeći korak.",
+                "Featured ne treba da pokaže ono na šta si ponosan, već ono što pomaže kupcu da napravi sledeći korak.",
                 "Your Featured section should not show what you are proud of. It should show what helps the buyer take the next step.",
               ),
             },
@@ -571,7 +571,7 @@ export const lesson3RichContent: RichLessonContent = {
       blocks: [
         {
           type: "zone-cards",
-          title: L("Anatomija profila — šta kupac vidi dok skroluje", "Profile anatomy — what buyers see as they scroll"),
+          title: L("Anatomija profila, šta kupac vidi dok skroluje", "Profile anatomy, what buyers see as they scroll"),
           subtitle: L(
             "Svaka zona ima jedan posao. Ako zona ne radi posao, curi pipeline.",
             "Each zone has one job. If a zone does not do its job, you leak pipeline.",
@@ -580,21 +580,21 @@ export const lesson3RichContent: RichLessonContent = {
             {
               zone: L("Profilna slika", "Profile photo"),
               eyebrow: L("1. sekunda", "1 sec"),
-              job: L("Trust signal — da li izgledaš kredibilno i pristupačno.", "Trust signal — do you look credible and approachable."),
+              job: L("Trust signal, da li izgledaš kredibilno i pristupačno.", "Trust signal, do you look credible and approachable."),
               doThis: L("Jasno lice, čista pozadina, profesionalno ali ljudski.", "Clear face, clean background, professional but human."),
               avoid: L("Grupna slika, selfie, naočare za sunce, previše AI filtera.", "Group photo, casual selfie, sunglasses, over-edited AI look."),
             },
             {
               zone: L("Banner", "Banner"),
               eyebrow: L("3 sekunde", "3 sec"),
-              job: L("Billboard za ICP — outcome + mehanizam.", "Billboard for your ICP — outcome + mechanism."),
+              job: L("Billboard za ICP, outcome + mehanizam.", "Billboard for your ICP, outcome + mechanism."),
               doThis: L("Jedno obećanje, jedna subline, logo, opcioni proof, jedan CTA.", "One promise, one subline, logo, optional proof, one CTA."),
               avoid: L("Apstraktni oblici, samo logo, motivacioni citati.", "Abstract shapes, logo only, motivational quotes."),
             },
             {
               zone: L("Headline", "Headline"),
               eyebrow: L("Svuda", "Everywhere"),
-              job: L("Distribution copy — kome pomažeš i zašto je bitno.", "Distribution copy — who you help and why it matters."),
+              job: L("Distribution copy, kome pomažeš i zašto je bitno.", "Distribution copy, who you help and why it matters."),
               doThis: L("„I help [ICP] achieve [outcome] through [mechanism].“", "\"I help [ICP] achieve [outcome] through [mechanism].\""),
               avoid: L("„Founder & CEO“, buzzwords, „helping businesses grow.“", "\"Founder & CEO\", buzzwords, \"helping businesses grow.\""),
             },
@@ -616,7 +616,7 @@ export const lesson3RichContent: RichLessonContent = {
               zone: L("Experience", "Experience"),
               eyebrow: L("Outcome-i", "Outcomes"),
               job: L("Pokaži business outcomes, ne job duties.", "Show business outcomes, not job duties."),
-              doThis: L("Šta si pomogao klijentima da postignu — u buyer jeziku.", "What you helped clients achieve — in buyer language."),
+              doThis: L("Šta si pomogao klijentima da postignu, u buyer jeziku.", "What you helped clients achieve, in buyer language."),
               avoid: L("Lista odgovornosti, generički opisi pozicija.", "Responsibility lists, generic role descriptions."),
             },
           ],
@@ -625,8 +625,8 @@ export const lesson3RichContent: RichLessonContent = {
           type: "illustration",
           src: "/images/playbook/lesson-3/lara-acosta-linkedin-profile.png",
           alt: L(
-            "Primer optimizovanog LinkedIn profila — Lara Acosta: banner, headline, social proof i CTA",
-            "Example of an optimized LinkedIn profile — Lara Acosta: banner, headline, social proof, and CTA",
+            "Primer optimizovanog LinkedIn profila - Lara Acosta: banner, headline, social proof i CTA",
+            "Example of an optimized LinkedIn profile - Lara Acosta: banner, headline, social proof, and CTA",
           ),
           caption: L(
             "Primer dobrog profila: banner odmah komunicira obećanje i proof, headline je ICP-specifičan, a CTA vodi ka sledećem koraku.",
@@ -677,8 +677,8 @@ export const lesson3RichContent: RichLessonContent = {
                 "A profile written for everyone converts no one.",
               ),
               example: L(
-                "Ako je ICP B2B SaaS 10–50 ljudi gde founder i dalje vodi prodaju, profil ne treba da kaže „I help companies grow.“ Treba da kaže: „Helping B2B SaaS founders turn founder-led sales into a repeatable pipeline system.“",
-                "If the ICP is 10–50 person B2B SaaS teams where the founder still drives sales, the profile should not say \"I help companies grow.\" It should say: \"Helping B2B SaaS founders turn founder-led sales into a repeatable pipeline system.\"",
+                "Ako je ICP B2B SaaS 10-50 ljudi gde founder i dalje vodi prodaju, profil ne treba da kaže „I help companies grow.“ Treba da kaže: „Helping B2B SaaS founders turn founder-led sales into a repeatable pipeline system.“",
+                "If the ICP is 10-50 person B2B SaaS teams where the founder still drives sales, the profile should not say \"I help companies grow.\" It should say: \"Helping B2B SaaS founders turn founder-led sales into a repeatable pipeline system.\"",
               ),
               commonMistake: L(
                 "Pisanje profila pre definisanja ICP-a.",
@@ -745,8 +745,8 @@ export const lesson3RichContent: RichLessonContent = {
                 "Create a banner with: one clear promise, one subline, company logo, optional proof point, simple CTA.",
               ),
               highlight: L(
-                "Banner je billboard za ICP — ne ukras.",
-                "The banner is a billboard for your ICP — not decoration.",
+                "Banner je billboard za ICP, ne ukras.",
+                "The banner is a billboard for your ICP, not decoration.",
               ),
             },
             {
@@ -757,8 +757,8 @@ export const lesson3RichContent: RichLessonContent = {
                 "Write a headline that makes the buyer understand who you help and why it matters. LinkedIn recommends going beyond your job title.",
               ),
               whyItMatters: L(
-                "Headline je distribution copy — pojavljuje se u search-u, komentarima, connection request-ovima, DM-ovima, profile preview-u.",
-                "The headline is distribution copy — it appears in search, comments, connection requests, DMs, and profile previews.",
+                "Headline je distribution copy, pojavljuje se u search-u, komentarima, connection request-ovima, DM-ovima, profile preview-u.",
+                "The headline is distribution copy, it appears in search, comments, connection requests, DMs, and profile previews.",
               ),
               example: L(
                 "Loše: „Founder & CEO at Lead Agents“, „Growth Consultant | Entrepreneur | Speaker“, „Helping businesses grow.“ Bolje: „Helping B2B founders turn LinkedIn, content & outreach into predictable pipeline.“",
@@ -823,8 +823,8 @@ export const lesson3RichContent: RichLessonContent = {
                 "Featured content is where attention becomes conversion.",
               ),
               example: L(
-                "Featured 1: Founder-Led Growth Playbook. Featured 2: Case study — 1,500+ B2B leads from LinkedIn. Featured 3: Webinar registration. Featured 4: Book a consultation.",
-                "Featured 1: Founder-Led Growth Playbook. Featured 2: Case study — How we generated 1,500+ B2B leads from LinkedIn. Featured 3: Webinar registration. Featured 4: Book a consultation.",
+                "Featured 1: Founder-Led Growth Playbook. Featured 2: Case study - 1,500+ B2B leads from LinkedIn. Featured 3: Webinar registration. Featured 4: Book a consultation.",
+                "Featured 1: Founder-Led Growth Playbook. Featured 2: Case study - How we generated 1,500+ B2B leads from LinkedIn. Featured 3: Webinar registration. Featured 4: Book a consultation.",
               ),
               commonMistake: L(
                 "Featuring random postova koji su dobili lajkove ali ne pomeraju kupca ka sales razgovoru.",
@@ -835,7 +835,7 @@ export const lesson3RichContent: RichLessonContent = {
                 "Choose 3 featured assets: one educational asset, one proof asset, one conversion asset.",
               ),
               highlight: L(
-                "Featured ne treba da pokaže ono na šta si ponosan — već ono što pomaže kupcu da napravi sledeći korak.",
+                "Featured ne treba da pokaže ono na šta si ponosan, već ono što pomaže kupcu da napravi sledeći korak.",
                 "Your Featured section should not show what you are proud of. It should show what helps the buyer take the next step.",
               ),
             },
@@ -966,7 +966,7 @@ export const lesson3RichContent: RichLessonContent = {
                 "LinkedIn Sales Solutions preporučuje aktuelnu, visokorezolucionu profilnu sliku i napominje da profili sa slikama imaju znatno veću verovatnoću pregleda.",
                 "LinkedIn Sales Solutions recommends using a current, high-resolution profile picture and notes that profiles with pictures are significantly more likely to be viewed.",
               ),
-              sourceLabel: L("LinkedIn Sales Solutions — Social Selling", "LinkedIn Sales Solutions — Social Selling"),
+              sourceLabel: L("LinkedIn Sales Solutions - Social Selling", "LinkedIn Sales Solutions - Social Selling"),
               sourceUrl: "https://business.linkedin.com/sales-solutions/social-selling",
             },
             {
@@ -975,7 +975,7 @@ export const lesson3RichContent: RichLessonContent = {
                 "LinkedIn Sales Solutions preporučuje da headline ide dalje od job title-a i objašnjava šta radiš i kako to radiš.",
                 "LinkedIn Sales Solutions recommends going beyond a job title in the headline and explaining what you do and how you do it.",
               ),
-              sourceLabel: L("LinkedIn Sales Solutions — Social Selling", "LinkedIn Sales Solutions — Social Selling"),
+              sourceLabel: L("LinkedIn Sales Solutions - Social Selling", "LinkedIn Sales Solutions - Social Selling"),
               sourceUrl: "https://business.linkedin.com/sales-solutions/social-selling",
             },
             {
@@ -984,7 +984,7 @@ export const lesson3RichContent: RichLessonContent = {
                 "LinkedIn Social Selling Index (SSI) je dizajniran oko profesionalnog brenda, pronalaženja pravih ljudi, engagement-a sa insight-ima i gradnje odnosa.",
                 "LinkedIn's Social Selling Index is designed around creating a professional brand, finding the right people, engaging with insights, and building relationships.",
               ),
-              sourceLabel: L("LinkedIn Sales Solutions — Social Selling Index / SSI", "LinkedIn Sales Solutions — Social Selling Index / SSI"),
+              sourceLabel: L("LinkedIn Sales Solutions - Social Selling Index / SSI", "LinkedIn Sales Solutions - Social Selling Index / SSI"),
               sourceUrl: "https://business.linkedin.com/sell/resources/SSI",
             },
             {
@@ -1105,11 +1105,11 @@ export const lesson3RichContent: RichLessonContent = {
           paragraphs: P(
             [
               "Struktura: 1) Počni sa problemom. 2) Imenuj pokvareni stari način. 3) Objasni POV. 4) Objasni šta pomažeš. 5) Dodaj proof. 6) Dodaj CTA.",
-              "Template: „Most [ICP] do not have a [surface problem]. They have a [deeper problem]. They are trying to [old way], but [why it breaks]. That is why we build [your mechanism]. We help [ICP] [outcome] through [system/process]. That usually includes: [component 1–4]. Proof: [short proof point]. If you want to [desired outcome], [CTA].“",
+              "Template: „Most [ICP] do not have a [surface problem]. They have a [deeper problem]. They are trying to [old way], but [why it breaks]. That is why we build [your mechanism]. We help [ICP] [outcome] through [system/process]. That usually includes: [component 1-4]. Proof: [short proof point]. If you want to [desired outcome], [CTA].“",
             ],
             [
               "Structure: 1) Start with the problem. 2) Name the broken old way. 3) Explain your point of view. 4) Explain what you help with. 5) Add proof. 6) Add CTA.",
-              "Template: \"Most [ICP] do not have a [surface problem]. They have a [deeper problem]. They are trying to [old way], but [why it breaks]. That is why we build [your mechanism]. We help [ICP] [outcome] through [system/process]. That usually includes: [component 1–4]. Proof: [short proof point]. If you want to [desired outcome], [CTA].\"",
+              "Template: \"Most [ICP] do not have a [surface problem]. They have a [deeper problem]. They are trying to [old way], but [why it breaks]. That is why we build [your mechanism]. We help [ICP] [outcome] through [system/process]. That usually includes: [component 1-4]. Proof: [short proof point]. If you want to [desired outcome], [CTA].\"",
             ],
           ),
         },
@@ -1248,8 +1248,8 @@ export const lesson3RichContent: RichLessonContent = {
                 "Draft, format, schedule, and analyze LinkedIn posts (which posts drive profile views)",
               ),
               whyItFits: L(
-                "Pomaže da profile activity ostane usklađena sa pozicioniranjem — i da vidiš šta privlači ICP.",
-                "Helps keep profile activity aligned with positioning — and shows what attracts your ICP.",
+                "Pomaže da profile activity ostane usklađena sa pozicioniranjem, i da vidiš šta privlači ICP.",
+                "Helps keep profile activity aligned with positioning, and shows what attracts your ICP.",
               ),
               alternative: L("Native LinkedIn drafts, LinkedIn Creator analytics", "Native LinkedIn drafts, LinkedIn Creator analytics"),
             },
@@ -1408,7 +1408,7 @@ export const lesson3RichContent: RichLessonContent = {
               "Napravi banner sa jednim jasnim outcome-om i jednim CTA-om.",
               "Prepiši headline oko buyer value-a, ne titule.",
               "Prepiši About sekciju: problem → POV → proof → CTA.",
-              "Dodaj 3–4 Featured asset-a: edukacija, proof, webinar, CTA.",
+              "Dodaj 3-4 Featured asset-a: edukacija, proof, webinar, CTA.",
               "Prepiši Experience oko outcome-a i buyer relevantnosti.",
               "Ukloni vague jezik iz profila.",
               "Uskladi recent content sa founder pozicioniranjem.",
@@ -1423,7 +1423,7 @@ export const lesson3RichContent: RichLessonContent = {
               "Create a banner with one clear outcome and one CTA.",
               "Rewrite the headline around buyer value, not title.",
               "Rewrite the About section using problem → POV → proof → CTA.",
-              "Add 3–4 Featured assets: education, proof, webinar, CTA.",
+              "Add 3-4 Featured assets: education, proof, webinar, CTA.",
               "Rewrite Experience around outcomes and buyer relevance.",
               "Remove vague language from the profile.",
               "Align recent content with the founder's positioning.",
@@ -1751,8 +1751,8 @@ Fields to add:
     {
       question: L("Koliko često founder treba da ažurira LinkedIn profil?", "How often should the founder update their LinkedIn profile?"),
       answer: L(
-        "Pregledaj ga svakih 30–60 dana. Ažuriraj kada: ICP se promeni, ponuda se promeni, novi proof postane dostupan, webinar ili lead magnet se promeni, content strategija se promeni, profile view-ovi rastu ali konverzije ne.",
-        "Review it every 30–60 days. Update it when: ICP changes, offer changes, new proof becomes available, webinar or lead magnet changes, content strategy changes, profile views increase but conversions do not.",
+        "Pregledaj ga svakih 30-60 dana. Ažuriraj kada: ICP se promeni, ponuda se promeni, novi proof postane dostupan, webinar ili lead magnet se promeni, content strategija se promeni, profile view-ovi rastu ali konverzije ne.",
+        "Review it every 30-60 days. Update it when: ICP changes, offer changes, new proof becomes available, webinar or lead magnet changes, content strategy changes, profile views increase but conversions do not.",
       ),
     },
     {
@@ -1771,28 +1771,28 @@ Fields to add:
     },
   ],
   sources: [
-    { title: L("LinkedIn Sales Solutions — Social Selling", "LinkedIn Sales Solutions — Social Selling"), url: "https://business.linkedin.com/sales-solutions/social-selling" },
-    { title: L("LinkedIn Sales Solutions — Social Selling Index / SSI", "LinkedIn Sales Solutions — Social Selling Index / SSI"), url: "https://business.linkedin.com/sell/resources/SSI" },
+    { title: L("LinkedIn Sales Solutions - Social Selling", "LinkedIn Sales Solutions - Social Selling"), url: "https://business.linkedin.com/sales-solutions/social-selling" },
+    { title: L("LinkedIn Sales Solutions - Social Selling Index / SSI", "LinkedIn Sales Solutions - Social Selling Index / SSI"), url: "https://business.linkedin.com/sell/resources/SSI" },
     { title: L("LinkedIn Sales Navigator", "LinkedIn Sales Navigator"), url: "https://business.linkedin.com/sell/sales-navigator" },
-    { title: L("LinkedIn Sales Solutions — Deep Sales Playbook", "LinkedIn Sales Solutions — Deep Sales Playbook"), url: "https://business.linkedin.com/sales-solutions/deep-sales-playbook" },
-    { title: L("HubSpot — Social Selling on LinkedIn PDF", "HubSpot — Social Selling on LinkedIn PDF"), url: "https://www.hubspot.com/hubfs/Social%20Selling%20on%20LinkedIn.pdf" },
-    { title: L("PhantomBuster — LinkedIn Social Selling Guide", "PhantomBuster — LinkedIn Social Selling Guide"), url: "https://phantombuster.com/blog/social-selling/linkedin-social-selling/" },
-    { title: L("Leadfeeder — LinkedIn Marketing Strategy", "Leadfeeder — LinkedIn Marketing Strategy"), url: "https://www.leadfeeder.com/blog/paid-marketing/linkedin-marketing-strategy/" },
-    { title: L("Orsys — Social Selling: Optimize Your LinkedIn Profile to Sell Effectively", "Orsys — Social Selling: Optimize Your LinkedIn Profile to Sell Effectively"), url: "https://www.orsys.fr/orsys-lemag/en/social-selling-optimize-linkedin-profile-sell-well/" },
+    { title: L("LinkedIn Sales Solutions - Deep Sales Playbook", "LinkedIn Sales Solutions - Deep Sales Playbook"), url: "https://business.linkedin.com/sales-solutions/deep-sales-playbook" },
+    { title: L("HubSpot - Social Selling on LinkedIn PDF", "HubSpot - Social Selling on LinkedIn PDF"), url: "https://www.hubspot.com/hubfs/Social%20Selling%20on%20LinkedIn.pdf" },
+    { title: L("PhantomBuster - LinkedIn Social Selling Guide", "PhantomBuster - LinkedIn Social Selling Guide"), url: "https://phantombuster.com/blog/social-selling/linkedin-social-selling/" },
+    { title: L("Leadfeeder - LinkedIn Marketing Strategy", "Leadfeeder - LinkedIn Marketing Strategy"), url: "https://www.leadfeeder.com/blog/paid-marketing/linkedin-marketing-strategy/" },
+    { title: L("Orsys - Social Selling: Optimize Your LinkedIn Profile to Sell Effectively", "Orsys - Social Selling: Optimize Your LinkedIn Profile to Sell Effectively"), url: "https://www.orsys.fr/orsys-lemag/en/social-selling-optimize-linkedin-profile-sell-well/" },
   ],
   relatedLessons: {
     previous: {
       slug: "how-to-define-your-icp",
       title: L(
-        "Lekcija 2 — Kako definisati ICP za Founder-Led Growth",
-        "Lesson 2 — How to Define Your ICP for Founder-Led Growth",
+        "Lekcija 2 - Kako definisati ICP za Founder-Led Growth",
+        "Lesson 2 - How to Define Your ICP for Founder-Led Growth",
       ),
     },
     next: {
       slug: "linkedin-content-strategy-founder",
       title: L(
-        "Lekcija 4 — Kako napraviti LinkedIn content strategiju za founder-a",
-        "Lesson 4 — How to Build a LinkedIn Content Strategy for a Founder",
+        "Lekcija 4 - Kako napraviti LinkedIn content strategiju za founder-a",
+        "Lesson 4 - How to Build a LinkedIn Content Strategy for a Founder",
       ),
       note: L(
         "Gradimo content strategiju koja daje ICP-u razlog da veruje pre outreach-a.",
@@ -1803,36 +1803,36 @@ Fields to add:
       {
         slug: "what-founder-led-growth-is",
         title: L(
-          "Lekcija 1 — Šta je Founder-Led Growth",
-          "Lesson 1 — What Founder-Led Growth Is and Why It Works for B2B Companies",
+          "Lekcija 1 - Šta je Founder-Led Growth",
+          "Lesson 1 - What Founder-Led Growth Is and Why It Works for B2B Companies",
         ),
       },
       {
         slug: "write-educational-linkedin-posts",
         title: L(
-          "Lekcija 5 — Kako pisati edukativne LinkedIn postove",
-          "Lesson 5 — How to Write Educational LinkedIn Posts That Build Authority",
+          "Lekcija 5 - Kako pisati edukativne LinkedIn postove",
+          "Lesson 5 - How to Write Educational LinkedIn Posts That Build Authority",
         ),
       },
       {
         slug: "linkedin-commenting-strategy",
         title: L(
-          "Lekcija 6 — LinkedIn komentarisanje",
-          "Lesson 6 — How to Use LinkedIn Commenting to Get Visibility With Your ICP",
+          "Lekcija 6 - LinkedIn komentarisanje",
+          "Lesson 6 - How to Use LinkedIn Commenting to Get Visibility With Your ICP",
         ),
       },
       {
         slug: "linkedin-engagement-outreach-list",
         title: L(
-          "Lekcija 7 — Engagement u outreach listu",
-          "Lesson 7 — How to Turn LinkedIn Engagement Into an Outreach List",
+          "Lekcija 7 - Engagement u outreach listu",
+          "Lesson 7 - How to Turn LinkedIn Engagement Into an Outreach List",
         ),
       },
       {
         slug: "crm-za-founder-led-growth",
         title: L(
-          "Lekcija 10 — CRM za Founder-Led Growth",
-          "Lesson 10 — How to Track Founder-Led Growth Activities in Your CRM",
+          "Lekcija 10 - CRM za Founder-Led Growth",
+          "Lesson 10 - How to Track Founder-Led Growth Activities in Your CRM",
         ),
       },
     ],

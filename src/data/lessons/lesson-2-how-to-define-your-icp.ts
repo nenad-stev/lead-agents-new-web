@@ -53,7 +53,7 @@ const video3 = {
 };
 
 const video4 = {
-  title: L("How to do ICP Research Using AI — Clay Tutorial", "How to do ICP Research Using AI — Clay Tutorial"),
+  title: L("How to do ICP Research Using AI - Clay Tutorial", "How to do ICP Research Using AI - Clay Tutorial"),
   channel: L("Clay", "Clay"),
   description: L(
     "AI i enrichment workflow-i za specifičnije B2B liste na osnovu ICP kriterijuma.",
@@ -70,7 +70,7 @@ const video4 = {
 export const lesson2RichContent: RichLessonContent = {
   meta: {
     stage: L("Strategija i pozicioniranje", "Strategy & Positioning"),
-    readingTime: L("16–20 min", "16–20 min"),
+    readingTime: L("16-20 min", "16-20 min"),
     difficulty: L("Početnik do srednjeg nivoa", "Beginner to intermediate"),
     outcome: L(
       "Izgradićeš jasan Ideal Customer Profile koji usmerava founder content, LinkedIn engagement, outreach, teme webinara, CRM segmentaciju i prioritet pipeline-a.",
@@ -96,7 +96,7 @@ export const lesson2RichContent: RichLessonContent = {
         "To zvuči jasno. Ali nije dovoljno jasno da bi se od toga gradio pipeline.",
         "„B2B firme“ nisu ICP. „SaaS kompanije“ nisu ICP. „Founderi“ nisu ICP. To su tržišta.",
         "ICP je mnogo oštriji. Kaže ti koja preduzeća vredi juriti; koji problemi su hitni; koji triggeri poboljšavaju timing; šta outreach i value-based follow-up treba da kažu; koje signale pokreću re-engagement; šta content treba da edukuje; koje account-e CRM ignoriše.",
-        "Većina Founder-Led Growth sistema pada pre prvog LinkedIn posta — ne zato što founder loše piše content, već zato što firma govori previše ljudima odjednom.",
+        "Većina Founder-Led Growth sistema pada pre prvog LinkedIn posta, ne zato što founder loše piše content, već zato što firma govori previše ljudima odjednom.",
         "Ako je ICP nejasan, content postaje generičan. Generičan content privlači nasumične ljude. Nasumičan engagement pravi slabu outreach listu. Slaba lista znači nepredvidiv pipeline.",
         "Founder-Led Growth počinje jednim pitanjem: Ko je najverovatnije da će da mari, veruje, engage-uje i kupi?",
         "Ova lekcija ti pomaže da na to odgovoriš kako treba.",
@@ -171,12 +171,12 @@ export const lesson2RichContent: RichLessonContent = {
           type: "illustration",
           src: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1400&q=80",
           alt: L(
-            "Analiza podataka i segmentacija — definisanje ICP-a",
-            "Data analysis and segmentation — defining the ICP",
+            "Analiza podataka i segmentacija, definisanje ICP-a",
+            "Data analysis and segmentation, defining the ICP",
           ),
           caption: L(
-            "ICP dolazi iz dokaza o najboljim klijentima — ne iz nagađanja u brainstormingu.",
-            "Your ICP comes from evidence about best customers — not from guessing in a brainstorm.",
+            "ICP dolazi iz dokaza o najboljim klijentima, ne iz nagađanja u brainstormingu.",
+            "Your ICP comes from evidence about best customers, not from guessing in a brainstorm.",
           ),
           credit: L("Foto: Unsplash", "Photo: Unsplash"),
         },
@@ -211,7 +211,7 @@ export const lesson2RichContent: RichLessonContent = {
               "Founder-Led Growth zavisi od relevantnosti. Founder content mora da deluje kao da je napisan za konkretnog kupca. Profil mora da obećava jasnu vrednost konkretnom tržištu. Engagement lista mora da uključuje ljude koji stvarno mogu da utiču na pipeline. Webinar tema mora da privuče prava preduzeća. Outreach mora da referiše stvarne probleme, ne generičku personalizaciju.",
               "To ne može bez jasnog ICP-a.",
               "HubSpot opisuje ICP rad kao način da definišeš tip firme kojoj si najbolje pozicioniran da služiš, pa da aktiviraš taj profil kroz sales i marketing.",
-              "Apollo definiše ICP kao fiktivnu firmu koja kombinuje ključne karakteristike idealnog kupca — firmografiju, veličinu, industriju, lokaciju, prihod i budžet.",
+              "Apollo definiše ICP kao fiktivnu firmu koja kombinuje ključne karakteristike idealnog kupca, firmografiju, veličinu, industriju, lokaciju, prihod i budžet.",
               "To je važno jer Founder-Led Growth nije samo „više postovanja“. To je sistem oko pravih kupaca. Ako je ICP pogrešan, sistem postaje glasniji, ali ne bolji.",
             ],
             [
@@ -243,8 +243,8 @@ export const lesson2RichContent: RichLessonContent = {
           paragraphs: P(
             [
               "ICP nije „ko bi mogao da kupi“. ICP je „oko koga gradimo sistem“.",
-              "Mnoge firme definišu ICP preširoko jer se plaše da propuste prilike — targetiraju sve koji bi mogli da kupe. Founder-Led Growth radi bolje kada se fokusiraš na account-e koji najverovatnije: snažno osećaju bol; brzo razumeju vrednost; imaju budžet ili hitnost; veruju founder ekspertizi; engage-uju se sa edukativnim content-om; prolaze kroz kompleksan sales ciklus; šire se ili referišu vremenom.",
-              "Dobar ICP ne ograničava rast — stvara fokus. Pomaže founder-u da prestane da piše vague postove za sve i da kreira content specifičan za tržište, tako da pravi kupac pomisli: „Ova osoba razume moj svet.“ To je poenta.",
+              "Mnoge firme definišu ICP preširoko jer se plaše da propuste prilike, targetiraju sve koji bi mogli da kupe. Founder-Led Growth radi bolje kada se fokusiraš na account-e koji najverovatnije: snažno osećaju bol; brzo razumeju vrednost; imaju budžet ili hitnost; veruju founder ekspertizi; engage-uju se sa edukativnim content-om; prolaze kroz kompleksan sales ciklus; šire se ili referišu vremenom.",
+              "Dobar ICP ne ograničava rast, stvara fokus. Pomaže founder-u da prestane da piše vague postove za sve i da kreira content specifičan za tržište, tako da pravi kupac pomisli: „Ova osoba razume moj svet.“ To je poenta.",
             ],
             [
               "ICP is not \"who could buy.\" ICP is \"who should we build the system around.\" Many companies define their ICP too broadly because they are afraid of missing opportunities. So they target everyone who could buy.",
@@ -276,8 +276,8 @@ export const lesson2RichContent: RichLessonContent = {
               value: L("Fit", "Fit"),
               label: L("CRM polje", "CRM field"),
               description: L(
-                "High / medium / low — filter za signale i outreach.",
-                "High / medium / low — filter for signals and outreach.",
+                "High / medium / low, filter za signale i outreach.",
+                "High / medium / low, filter for signals and outreach.",
               ),
             },
           ],
@@ -293,8 +293,8 @@ export const lesson2RichContent: RichLessonContent = {
           type: "paragraphs",
           paragraphs: P(
             [
-              "ICP ti kaže koja preduzeća su bitna. Buyer persona ti kaže koji ljudi unutar tih preduzeća su bitni. Treba ti oba — ali nisu ista stvar.",
-              "Većina founder-a ih meša. Kažu: „Naš ICP su CEO-i.“ Ne — CEO je persona. ICP je tip firme gde CEO ima bolan, skup, hitan problem koji tvoja firma rešava bolje od alternativa.",
+              "ICP ti kaže koja preduzeća su bitna. Buyer persona ti kaže koji ljudi unutar tih preduzeća su bitni. Treba ti oba, ali nisu ista stvar.",
+              "Većina founder-a ih meša. Kažu: „Naš ICP su CEO-i.“ Ne - CEO je persona. ICP je tip firme gde CEO ima bolan, skup, hitan problem koji tvoja firma rešava bolje od alternativa.",
             ],
             [
               "Your ICP tells you which companies matter. Your buyer persona tells you which people inside those companies matter. You need both. But they are not the same thing.",
@@ -355,8 +355,8 @@ export const lesson2RichContent: RichLessonContent = {
                 L("ICP", "ICP"),
                 L("Best-fit kompanija / account", "The best-fit company/account"),
                 L(
-                  "B2B SaaS 20–100 zaposlenih, prodaja sales timovima, founder-led sales bez ponovljivog outbound sistema",
-                  "B2B SaaS companies with 20–100 employees, selling to sales teams, with founder-led sales but no repeatable outbound system",
+                  "B2B SaaS 20-100 zaposlenih, prodaja sales timovima, founder-led sales bez ponovljivog outbound sistema",
+                  "B2B SaaS companies with 20-100 employees, selling to sales teams, with founder-led sales but no repeatable outbound system",
                 ),
               ],
             },
@@ -417,8 +417,8 @@ export const lesson2RichContent: RichLessonContent = {
           type: "framework-intro",
           title: L("Best-fit Account → Buyer Pain → Founder POV → Signal → Channel → Sales Motion", "Best-fit Account → Buyer Pain → Founder POV → Signal → Channel → Sales Motion"),
           description: L(
-            "Okvir za ICP koji stvarno vodi rast — ne statičan avatar, već radni sistem od account-a do revenue motion-a.",
-            "A framework for defining an ICP that actually guides growth — not a static customer avatar, but a working system.",
+            "Okvir za ICP koji stvarno vodi rast, ne statičan avatar, već radni sistem od account-a do revenue motion-a.",
+            "A framework for defining an ICP that actually guides growth, not a static customer avatar, but a working system.",
           ),
         },
         {
@@ -436,16 +436,16 @@ export const lesson2RichContent: RichLessonContent = {
                 "Your ICP should not come from brainstorming alone. It should come from evidence.",
               ),
               example: L(
-                "Agencija kaže da radi sa „B2B firmama“. Posle 12 meseci vidi da su najbolji klijenti: B2B service firme 10–50 ljudi, founder-led sales, $1M–$5M prihod, jak delivery tim, bez ponovljivog pipeline sistema, founder aktivan na LinkedIn-u.",
-                "An agency says it works with \"B2B companies.\" After looking at the last 12 months, they realize the best customers are: 10–50 person B2B service firms, founder-led sales motion, $1M–$5M annual revenue, strong delivery team, no repeatable pipeline system, founder active on LinkedIn or willing to be.",
+                "Agencija kaže da radi sa „B2B firmama“. Posle 12 meseci vidi da su najbolji klijenti: B2B service firme 10-50 ljudi, founder-led sales, $1M-$5M prihod, jak delivery tim, bez ponovljivog pipeline sistema, founder aktivan na LinkedIn-u.",
+                "An agency says it works with \"B2B companies.\" After looking at the last 12 months, they realize the best customers are: 10-50 person B2B service firms, founder-led sales motion, $1M-$5M annual revenue, strong delivery team, no repeatable pipeline system, founder active on LinkedIn or willing to be.",
               ),
               commonMistake: L(
                 "Definisanje ICP-a na osnovu koga želiš da prodaješ, a ne kome stvarno najbolje pomažeš.",
                 "Defining ICP based on who you want to sell to, not who you can actually help best.",
               ),
               tryThis: L(
-                "Lista top 10 klijenata — oceni 1–5: revenue potential, retention, ease of sale, speed to value, strategic fit, referral potential, founder interest u problem.",
-                "Create a list of your top 10 customers and score them from 1–5 on: revenue potential, retention potential, ease of sale, speed to value, strategic fit, referral potential, founder interest in the problem.",
+                "Lista top 10 klijenata, oceni 1-5: revenue potential, retention, ease of sale, speed to value, strategic fit, referral potential, founder interest u problem.",
+                "Create a list of your top 10 customers and score them from 1-5 on: revenue potential, retention potential, ease of sale, speed to value, strategic fit, referral potential, founder interest in the problem.",
               ),
               highlight: L(
                 "ICP se obično krije unutar najboljih klijenata.",
@@ -494,7 +494,7 @@ export const lesson2RichContent: RichLessonContent = {
                 "Define who is involved in the buying process. Do not stop at one decision-maker. For B2B deals, the buyer is often a group. Gartner describes B2B buying as a nonlinear journey involving multiple buying jobs: problem identification, solution exploration, requirements building, and supplier selection.",
               ),
               whyItMatters: L(
-                "ICP treba više od titule — treba mapu buying committee-a i šta svaka uloga mora da veruje pre nego što deal krene.",
+                "ICP treba više od titule, treba mapu buying committee-a i šta svaka uloga mora da veruje pre nego što deal krene.",
                 "Your ICP needs more than a title. It needs a buying committee map and what each role must believe before the deal can move.",
               ),
               example: L(
@@ -506,7 +506,7 @@ export const lesson2RichContent: RichLessonContent = {
                 "Writing all content for the CEO and ignoring the people who influence the deal.",
               ),
               tryThis: L(
-                "Za ICP navedi: economic buyer, day-to-day user, technical evaluator, blocker, internal champion, budget approver — i šta svaki mora da veruje.",
+                "Za ICP navedi: economic buyer, day-to-day user, technical evaluator, blocker, internal champion, budget approver, i šta svaki mora da veruje.",
                 "For your ICP, list: economic buyer, day-to-day user, technical evaluator, blocker, internal champion, budget approver. Then define what each person needs to believe before the deal can move forward.",
               ),
               highlight: L(
@@ -522,11 +522,11 @@ export const lesson2RichContent: RichLessonContent = {
                 "Define what makes the timing better. ICP tells you who fits. Triggers tell you when they are more likely to care. Useful triggers include: hiring salespeople, launching a new product, entering a new market, raising funding, new executive hire, low outbound performance, CRM migration, content push, webinar activity, competitor change, regulation pressure, sudden growth, churn problem, sales cycle slowdown.",
               ),
               whyItMatters: L(
-                "Founder-Led Growth ne oslanja se samo na cold timing — koristi kontekst. Kupac sa pravim profilom ali bez triggera može biti nurture. Kupac sa profilom i jakim triggerom može biti outreach-ready.",
+                "Founder-Led Growth ne oslanja se samo na cold timing, koristi kontekst. Kupac sa pravim profilom ali bez triggera može biti nurture. Kupac sa profilom i jakim triggerom može biti outreach-ready.",
                 "Founder-Led Growth does not rely only on cold timing. It uses context. A buyer with the right company profile but no trigger may be a nurture account. A buyer with the right profile and a strong trigger may be outreach-ready.",
               ),
               example: L(
-                "B2B SaaS koji zapošljava VP Sales i 3 SDR-a verovatno razmišlja o pipeline-u — content o founder-led pipeline, ICP jasnoći i CRM tracking-u je relevantniji.",
+                "B2B SaaS koji zapošljava VP Sales i 3 SDR-a verovatno razmišlja o pipeline-u, content o founder-led pipeline, ICP jasnoći i CRM tracking-u je relevantniji.",
                 "A B2B SaaS company hiring a VP Sales and 3 SDRs is probably thinking about pipeline. That makes content about founder-led pipeline, ICP clarity, outbound systems, and CRM tracking more relevant.",
               ),
               commonMistake: L(
@@ -534,8 +534,8 @@ export const lesson2RichContent: RichLessonContent = {
                 "Treating every ICP account the same.",
               ),
               tryThis: L(
-                "Trigger lista sa tri nivoa: light, medium, strong — i definisana akcija za svaki.",
-                "Create a trigger list with three levels: light, medium, strong — then define what action happens at each level.",
+                "Trigger lista sa tri nivoa: light, medium, strong, i definisana akcija za svaki.",
+                "Create a trigger list with three levels: light, medium, strong, then define what action happens at each level.",
               ),
               highlight: L(
                 "Timing je polovina relevantnosti u outreach-u.",
@@ -546,11 +546,11 @@ export const lesson2RichContent: RichLessonContent = {
               step: 5,
               title: L("ICP u content pilare", "Translate ICP into content pillars"),
               whatToDo: L(
-                "Pretvori ICP bol u content teme. Content ne dolazi iz nasumične inspiracije — dolazi iz ponovljenih problema kupca. Za svaki pain: LinkedIn post, comment ugao, webinar tema, outreach opener, CRM content tag.",
+                "Pretvori ICP bol u content teme. Content ne dolazi iz nasumične inspiracije, dolazi iz ponovljenih problema kupca. Za svaki pain: LinkedIn post, comment ugao, webinar tema, outreach opener, CRM content tag.",
                 "Turn ICP pain into content topics. Your content should not come from random inspiration. It should come from the buyer's repeated problems. For each pain: one LinkedIn post, one comment angle, one webinar topic, one outreach opener, one CRM content topic tag.",
               ),
               whyItMatters: L(
-                "Founder-u ne treba više content ideja — treba mu oštriji input. Loši pilari: company news, product updates, tips, culture. Bolji: problem education, cost of inaction, founder POV, workflow breakdowns, case examples, buying criteria, mistakes to avoid.",
+                "Founder-u ne treba više content ideja, treba mu oštriji input. Loši pilari: company news, product updates, tips, culture. Bolji: problem education, cost of inaction, founder POV, workflow breakdowns, case examples, buying criteria, mistakes to avoid.",
                 "The founder does not need more content ideas. They need sharper content inputs. Bad pillars: company news, product updates, tips, culture. Better pillars: problem education, cost of inaction, founder POV, workflow breakdowns, case examples, buying criteria, mistakes to avoid.",
               ),
               example: L(
@@ -574,7 +574,7 @@ export const lesson2RichContent: RichLessonContent = {
               step: 6,
               title: L("ICP u outreach filtere", "Translate ICP into outreach filters"),
               whatToDo: L(
-                "Pretvori ICP u podatke koje možeš da pretražiš — Sales Navigator, Apollo ili Clay filteri. Za svaku ICP rečenicu pitaj: „Možemo li ovo da pretražimo?“ Ako ne, definiši proxy.",
+                "Pretvori ICP u podatke koje možeš da pretražiš, Sales Navigator, Apollo ili Clay filteri. Za svaku ICP rečenicu pitaj: „Možemo li ovo da pretražimo?“ Ako ne, definiši proxy.",
                 "Turn the ICP into data you can search. Your ICP should become Sales Navigator, Apollo, or Clay filters. For every ICP sentence, ask: \"Can we search for this?\" If not, define a proxy.",
               ),
               whyItMatters: L(
@@ -582,8 +582,8 @@ export const lesson2RichContent: RichLessonContent = {
                 "A beautiful ICP document that never turns into a list is useless. Proxies for \"pipeline unpredictability\": hiring SDRs, hiring Head of Sales, new funding, founder posting about growth, using sales engagement tools, running webinars, outbound hiring roles.",
               ),
               example: L(
-                "ICP dimenzije → filteri: veličina 10–50, industrija B2B SaaS, seniority Founder/VP Sales, hiring SDR signal, tech HubSpot/Apollo.",
-                "ICP dimensions become filters: company size 10–50, industry B2B SaaS, seniority Founder/VP Sales, hiring SDR signal, tech stack HubSpot/Apollo.",
+                "ICP dimenzije → filteri: veličina 10-50, industrija B2B SaaS, seniority Founder/VP Sales, hiring SDR signal, tech HubSpot/Apollo.",
+                "ICP dimensions become filters: company size 10-50, industry B2B SaaS, seniority Founder/VP Sales, hiring SDR signal, tech stack HubSpot/Apollo.",
               ),
               commonMistake: L(
                 "ICP koji se nikad ne pretvori u listu.",
@@ -612,7 +612,7 @@ export const lesson2RichContent: RichLessonContent = {
                 "Your CRM should show whether a lead is a good fit, not just whether they replied. Add fields like: ICP fit, ICP segment, primary pain, buying committee role, trigger, source, signal level, next best action.",
               ),
               whyItMatters: L(
-                "Founder-Led Growth stvara mnogo malih signala. Bez ICP fit-a, sales juri šum. Webinar učesnik, LinkedIn komentar ili profile view nisu uvek lead — ali high-fit account sa ponovljenim engagement-om zaslužuje akciju.",
+                "Founder-Led Growth stvara mnogo malih signala. Bez ICP fit-a, sales juri šum. Webinar učesnik, LinkedIn komentar ili profile view nisu uvek lead, ali high-fit account sa ponovljenim engagement-om zaslužuje akciju.",
                 "Founder-Led Growth creates many small signals. If those signals are not connected to ICP fit, sales starts chasing noise. A webinar attendee is not always a lead. A LinkedIn comment is not always a lead. But a high-fit account with repeated engagement deserves action.",
               ),
               example: L(
@@ -662,7 +662,7 @@ export const lesson2RichContent: RichLessonContent = {
           headers: H(["ICP bol", "Founder POV", "Content pilar", "Primer posta"], ["ICP pain", "Founder POV", "Content pillar", "Example post"]),
           rows: [
             { cells: [L("Founder i dalje vodi prodaju", "Founder still drives sales"), L("Pipeline ne može zavisiti samo od odnosa", "Pipeline cannot depend only on founder relationships"), L("Founder-led pipeline", "Founder-led pipeline"), L("„Vaša founder mreža nije sales sistem.“", "\"Your founder network is not a sales system.\"")] },
-            { cells: [L("Slab outbound reply", "Outreach gets low replies"), L("Kupci nemaju kontekst pre outreach-a", "Buyers have no context before outreach"), L("Kontekst pre outbound-a", "Context before outbound"), L("„Cold poruka nije prvi utisak — LinkedIn profil jeste.“", "\"Your cold message is not the first impression. Your LinkedIn profile is.\"")] },
+            { cells: [L("Slab outbound reply", "Outreach gets low replies"), L("Kupci nemaju kontekst pre outreach-a", "Buyers have no context before outreach"), L("Kontekst pre outbound-a", "Context before outbound"), L("„Cold poruka nije prvi utisak - LinkedIn profil jeste.“", "\"Your cold message is not the first impression. Your LinkedIn profile is.\"")] },
             { cells: [L("CRM haos", "CRM is messy"), L("Revenue signali se gube", "Revenue signals are getting lost"), L("CRM kao pipeline memorija", "CRM as pipeline memory"), L("„Ako LinkedIn razgovori ostanu u DM-ovima, to nije pipeline.“", "\"If LinkedIn conversations stay in DMs, they are not pipeline.\"")] },
             { cells: [L("Slabi webinar leadovi", "Webinars get low-quality leads"), L("Tema preširoka", "Topic is too broad"), L("Problem-led webinari", "Problem-led webinars"), L("„Webinar tema dolazi iz ponovljenog buyer pain-a, ne brainstorm-a.“", "\"A webinar topic should come from repeated buyer pain, not a marketing brainstorm.\"")] },
           ],
@@ -672,7 +672,7 @@ export const lesson2RichContent: RichLessonContent = {
           caption: L("ICP dimenzije → filteri", "ICP dimension to filters"),
           headers: H(["ICP dimenzija", "Primeri filtera"], ["ICP dimension", "Filter examples"]),
           rows: [
-            { cells: [L("Veličina firme", "Company size"), L("10–50, 51–200, 201–500 zaposlenih", "10–50, 51–200, 201–500 employees")] },
+            { cells: [L("Veličina firme", "Company size"), L("10-50, 51-200, 201-500 zaposlenih", "10-50, 51-200, 201-500 employees")] },
             { cells: [L("Industrija", "Industry"), L("B2B SaaS, IT usluge, consulting, agencije", "B2B SaaS, IT services, consulting, agencies")] },
             { cells: [L("Geografija", "Geography"), L("US, UK, EU, DACH, Nordics", "US, UK, EU, DACH, Nordics")] },
             { cells: [L("Seniority", "Seniority"), L("Founder, CEO, VP Sales, Head of Growth, RevOps", "Founder, CEO, VP Sales, Head of Growth, RevOps")] },
@@ -719,19 +719,19 @@ export const lesson2RichContent: RichLessonContent = {
             {
               title: L("B2B kupovina nije linearna", "B2B buying is not linear"),
               body: L(
-                "Gartner objašnjava da B2B kupci prolaze kroz nekoliko buying jobs — identifikacija problema, istraživanje rešenja, gradnja zahteva, selekcija dobavljača — i često se vraćaju na te zadatke umesto linearnog koraka-po-korak puta.",
+                "Gartner objašnjava da B2B kupci prolaze kroz nekoliko buying jobs, identifikacija problema, istraživanje rešenja, gradnja zahteva, selekcija dobavljača, i često se vraćaju na te zadatke umesto linearnog koraka-po-korak puta.",
                 "Gartner explains that B2B buyers move through several buying jobs, including problem identification, solution exploration, requirements building, and supplier selection. Buyers often revisit these tasks rather than moving step-by-step in a straight line.",
               ),
-              sourceLabel: L("Gartner — B2B Buying Journey", "Gartner — B2B Buying Journey"),
+              sourceLabel: L("Gartner - B2B Buying Journey", "Gartner - B2B Buying Journey"),
               sourceUrl: "https://www.gartner.com/en/sales/insights/b2b-buying-journey",
             },
             {
               title: L("ICP je osnova za prospecting i pipeline odluke", "ICP is the foundation for prospecting and pipeline decisions"),
               body: L(
-                "Apollo definiše ICP kao tip firme koja najverovatnije kupuje, ostaje i širi se — i treba da vodi prospecting, messaging i pipeline prioritet.",
+                "Apollo definiše ICP kao tip firme koja najverovatnije kupuje, ostaje i širi se, i treba da vodi prospecting, messaging i pipeline prioritet.",
                 "Apollo defines ICP as the type of company most likely to buy, stay, and expand. This should guide prospecting, messaging, and pipeline decisions.",
               ),
-              sourceLabel: L("Apollo — ICP Meaning in Sales", "Apollo — ICP Meaning in Sales"),
+              sourceLabel: L("Apollo - ICP Meaning in Sales", "Apollo - ICP Meaning in Sales"),
               sourceUrl: "https://www.apollo.io/insights/icp-meaning-sales",
             },
             {
@@ -740,7 +740,7 @@ export const lesson2RichContent: RichLessonContent = {
                 "HubSpot / Clearbit ICP resurs objašnjava da ICP rad pomaže timovima da pronađu i služe idealnim klijentima i da se ažurira kako firma raste.",
                 "HubSpot / Clearbit ICP resource explains that ICP work should help sales and marketing teams find and serve ideal customers and should be updated as the business grows.",
               ),
-              sourceLabel: L("HubSpot / Clearbit — Ideal Customer Profile Guide", "HubSpot / Clearbit — Ideal Customer Profile Guide"),
+              sourceLabel: L("HubSpot / Clearbit - Ideal Customer Profile Guide", "HubSpot / Clearbit - Ideal Customer Profile Guide"),
               sourceUrl: "https://offers.hubspot.com/ideal-customer-profile-icp",
             },
             {
@@ -749,7 +749,7 @@ export const lesson2RichContent: RichLessonContent = {
                 "HubSpot razlikuje ICP (koja preduzeća vredi kontaktirati) od persona (koji ljudi unutar tih preduzeća).",
                 "HubSpot distinguishes ICPs (which companies are worth speaking to) from personas (the people inside those companies).",
               ),
-              sourceLabel: L("HubSpot — ICP vs Buyer Persona", "HubSpot — ICP vs Buyer Persona"),
+              sourceLabel: L("HubSpot - ICP vs Buyer Persona", "HubSpot - ICP vs Buyer Persona"),
               sourceUrl: "https://blog.hubspot.com/customers/ideal-customer-profiles-and-buyer-personas-are-they-different",
             },
           ],
@@ -772,10 +772,10 @@ export const lesson2RichContent: RichLessonContent = {
           type: "paragraphs",
           paragraphs: P(
             [
-              "Kreni od dokaza. Spreadsheet sa 10–20 najboljih klijenata. Popuni kolone i oceni svakog 1–5 po: revenue potential, retention, expansion, speed to close, ease of onboarding, strategic fit, founder-market fit, referral potential.",
+              "Kreni od dokaza. Spreadsheet sa 10-20 najboljih klijenata. Popuni kolone i oceni svakog 1-5 po: revenue potential, retention, expansion, speed to close, ease of onboarding, strategic fit, founder-market fit, referral potential.",
             ],
             [
-              "Start with evidence. Create a spreadsheet with your best 10–20 customers. Fill in the columns below and score each customer from 1–5 on: revenue potential, retention, expansion, speed to close, ease of onboarding, strategic fit, founder-market fit, referral potential.",
+              "Start with evidence. Create a spreadsheet with your best 10-20 customers. Fill in the columns below and score each customer from 1-5 on: revenue potential, retention, expansion, speed to close, ease of onboarding, strategic fit, founder-market fit, referral potential.",
             ],
           ),
         },
@@ -794,7 +794,7 @@ export const lesson2RichContent: RichLessonContent = {
           type: "callout",
           variant: "accent",
           text: L(
-            "Obrazac koji nađeš je polazna tačka ICP-a — ne konačan odgovor, ali polazna tačka.",
+            "Obrazac koji nađeš je polazna tačka ICP-a, ne konačan odgovor, ali polazna tačka.",
             "The pattern you find is your ICP starting point. Not the final answer. But the starting point.",
           ),
         },
@@ -810,13 +810,13 @@ export const lesson2RichContent: RichLessonContent = {
           paragraphs: P(
             [
               "Struktura: „Naš ICP je [tip firme] sa [veličina/faza] koja se bori sa [skup problem] i obično je pokrenuta [timing signal].“",
-              "Primer: „Naš ICP su B2B SaaS firme 10–50 ljudi gde founder i dalje vodi poverenje i prodaju, ali pipeline postaje previše nepredvidiv da bi se oslanjali na referral-e.“",
-              "Primer: „Naš ICP su IT service firme 20–100 ljudi koje prodaju kompleksne projekte i moraju da grade poverenje pre nego što enterprise kupci prihvate poziv.“",
+              "Primer: „Naš ICP su B2B SaaS firme 10-50 ljudi gde founder i dalje vodi poverenje i prodaju, ali pipeline postaje previše nepredvidiv da bi se oslanjali na referral-e.“",
+              "Primer: „Naš ICP su IT service firme 20-100 ljudi koje prodaju kompleksne projekte i moraju da grade poverenje pre nego što enterprise kupci prihvate poziv.“",
             ],
             [
               "Structure: \"Our ICP is [company type] with [size/stage] that struggles with [expensive problem] and is usually triggered by [timing signal].\"",
-              "Example: \"Our ICP is 10–50 person B2B SaaS companies where the founder still drives trust and sales, but pipeline is becoming too unpredictable to rely on referrals.\"",
-              "Example: \"Our ICP is IT service companies with 20–100 employees that sell complex projects and need to build trust before enterprise buyers agree to a call.\"",
+              "Example: \"Our ICP is 10-50 person B2B SaaS companies where the founder still drives trust and sales, but pipeline is becoming too unpredictable to rely on referrals.\"",
+              "Example: \"Our ICP is IT service companies with 20-100 employees that sell complex projects and need to build trust before enterprise buyers agree to a call.\"",
             ],
           ),
         },
@@ -878,9 +878,9 @@ export const lesson2RichContent: RichLessonContent = {
           headers: H(["Bol", "Trigger", "Outreach opener"], ["Pain", "Trigger", "Outreach opener"]),
           rows: [
             { cells: [L("Founder vodi prodaju", "Founder still drives sales"), L("Founder često postuje, nema jasan sales sistem", "Founder posts often but company has no clear sales system"), L("„Primetio sam da si aktivan na LinkedIn-u i blizu sales motion-a…“", "\"Noticed you're active on LinkedIn and still seem close to the sales motion…\"")] },
-            { cells: [L("Prerano SDR hiring", "Hiring SDRs too early"), L("Job post za SDR/BDR", "Job post for SDR / BDR"), L("„Vidim da zapošljavaš SDR-e — obično bolje kad je founder poruka već dokazana…“", "\"Saw you're hiring SDRs — usually that works better once the founder-led message is already proven…\"")] },
-            { cells: [L("Slab outbound reply", "Weak outbound replies"), L("Komentar na outbound post", "Comments on outbound-related post"), L("„Video sam komentar o reply rate-ovima — isti obrazac kod nas…“", "\"Saw your comment about outbound reply rates. We're seeing the same pattern…\"")] },
-            { cells: [L("CRM haos", "CRM chaos"), L("RevOps ili HubSpot engagement", "RevOps or HubSpot content engagement"), L("„Pomenuo si CRM handoff — tu se gubi topli founder-led interest…“", "\"You mentioned CRM handoff in the thread. That's usually where warm founder-led interest gets lost…\"")] },
+            { cells: [L("Prerano SDR hiring", "Hiring SDRs too early"), L("Job post za SDR/BDR", "Job post for SDR / BDR"), L("„Vidim da zapošljavaš SDR-e, obično bolje kad je founder poruka već dokazana…“", "\"Saw you're hiring SDRs, usually that works better once the founder-led message is already proven…\"")] },
+            { cells: [L("Slab outbound reply", "Weak outbound replies"), L("Komentar na outbound post", "Comments on outbound-related post"), L("„Video sam komentar o reply rate-ovima, isti obrazac kod nas…“", "\"Saw your comment about outbound reply rates. We're seeing the same pattern…\"")] },
+            { cells: [L("CRM haos", "CRM chaos"), L("RevOps ili HubSpot engagement", "RevOps or HubSpot content engagement"), L("„Pomenuo si CRM handoff, tu se gubi topli founder-led interest…“", "\"You mentioned CRM handoff in the thread. That's usually where warm founder-led interest gets lost…\"")] },
           ],
         },
         {
@@ -905,7 +905,7 @@ export const lesson2RichContent: RichLessonContent = {
           rows: [
             { cells: [L("Geografija", "Geography"), L("US, UK, Europa", "United States, United Kingdom, Europe")] },
             { cells: [L("Industrija", "Industry"), L("Software Development, IT Services, Marketing Services, Business Consulting", "Software Development, IT Services, Marketing Services, Business Consulting")] },
-            { cells: [L("Headcount", "Company headcount"), L("11–50, 51–200", "11–50, 51–200")] },
+            { cells: [L("Headcount", "Company headcount"), L("11-50, 51-200", "11-50, 51-200")] },
             { cells: [L("Seniority", "Seniority"), L("Owner, Founder, CXO, VP", "Owner, Founder, CXO, VP")] },
             { cells: [L("Funkcija", "Function"), L("Sales, Marketing, Operations, Business Development", "Sales, Marketing, Operations, Business Development")] },
             { cells: [L("Keywords", "Keywords"), L("outbound, pipeline, GTM, demand generation, LinkedIn, sales system", "outbound, pipeline, GTM, demand generation, LinkedIn, sales system")] },
@@ -917,7 +917,7 @@ export const lesson2RichContent: RichLessonContent = {
           caption: L("Apollo filteri (primer)", "Example Apollo filter set"),
           headers: H(["Filter", "Primer"], ["Filter", "Example"]),
           rows: [
-            { cells: [L("Veličina", "Company size"), L("11–50 / 51–200", "11–50 / 51–200")] },
+            { cells: [L("Veličina", "Company size"), L("11-50 / 51-200", "11-50 / 51-200")] },
             { cells: [L("Industrija", "Industry"), L("B2B SaaS, consulting, agencije, IT usluge", "B2B SaaS, consulting, agencies, IT services")] },
             { cells: [L("Titula", "Job title"), L("Founder, CEO, VP Sales, Head of Growth, RevOps", "Founder, CEO, VP Sales, Head of Growth, RevOps")] },
             { cells: [L("Tehnologije", "Technologies"), L("HubSpot, Salesforce, Apollo, Outreach, Salesloft", "HubSpot, Salesforce, Apollo, Outreach, Salesloft")] },
@@ -953,9 +953,9 @@ export const lesson2RichContent: RichLessonContent = {
           caption: L("Interpretacija skora", "Score interpretation"),
           headers: H(["Skor", "Značenje", "Akcija"], ["Score", "Meaning", "Action"]),
           rows: [
-            { cells: [L("80–100", "80–100"), L("High-fit account", "High-fit account"), L("Prioritet engagement i kontekstualan outreach", "Prioritize engagement and contextual outreach")] },
-            { cells: [L("60–79", "60–79"), L("Good-fit account", "Good-fit account"), L("Nurture i prati signale", "Add to nurture and monitor signals")] },
-            { cells: [L("40–59", "40–59"), L("Mogući fit", "Possible fit"), L("Lagani engagement, ne preinvestiraj", "Engage lightly, do not over-invest")] },
+            { cells: [L("80-100", "80-100"), L("High-fit account", "High-fit account"), L("Prioritet engagement i kontekstualan outreach", "Prioritize engagement and contextual outreach")] },
+            { cells: [L("60-79", "60-79"), L("Good-fit account", "Good-fit account"), L("Nurture i prati signale", "Add to nurture and monitor signals")] },
+            { cells: [L("40-59", "40-59"), L("Mogući fit", "Possible fit"), L("Lagani engagement, ne preinvestiraj", "Engage lightly, do not over-invest")] },
             { cells: [L("Ispod 40", "Under 40"), L("Nizak fit", "Low fit"), L("Ignoriši ili drži van kampanja", "Ignore or keep out of campaigns")] },
           ],
         },
@@ -1092,7 +1092,7 @@ export const lesson2RichContent: RichLessonContent = {
             ],
           ),
           highlight: L(
-            "Tako ICP postaje operativan — ne slajd, ne persona dokument, već sistem za odlučivanje ko dobija pažnju.",
+            "Tako ICP postaje operativan, ne slajd, ne persona dokument, već sistem za odlučivanje ko dobija pažnju.",
             "This is how ICP becomes operational. Not a slide. Not a persona document. A system for deciding who gets attention.",
           ),
         },
@@ -1179,13 +1179,13 @@ export const lesson2RichContent: RichLessonContent = {
           title: L("Čeklista Lekcije 2", "Lesson 2 checklist"),
           items: P(
             [
-              "Lista 10–20 najboljih klijenata.",
+              "Lista 10-20 najboljih klijenata.",
               "Ocena svakog po revenue, retention, ease of sale, delivery fit, referral.",
               "ICP u jednoj rečenici.",
               "Bar 5 disqualification kriterijuma.",
               "Mapa buying committee za ICP.",
-              "5–10 timing triggera.",
-              "3–5 content pilara iz ICP bolova.",
+              "5-10 timing triggera.",
+              "3-5 content pilara iz ICP bolova.",
               "Outreach openeri iz triggera.",
               "Jedan saved search u Sales Navigator ili Apollo.",
               "ICP fit i signal level polja u CRM-u.",
@@ -1193,13 +1193,13 @@ export const lesson2RichContent: RichLessonContent = {
               "Provera da li trenutni pipeline odgovara ICP-u.",
             ],
             [
-              "List your 10–20 best customers.",
+              "List your 10-20 best customers.",
               "Score each customer by revenue, retention, ease of sale, delivery fit, and referral potential.",
               "Write your ICP in one sentence.",
               "Define at least 5 disqualification criteria.",
               "Map the buying committee for your ICP.",
-              "Identify 5–10 timing triggers.",
-              "Turn ICP pains into 3–5 content pillars.",
+              "Identify 5-10 timing triggers.",
+              "Turn ICP pains into 3-5 content pillars.",
               "Turn ICP triggers into outreach openers.",
               "Build one Sales Navigator or Apollo saved search.",
               "Add ICP fit and signal level fields to your CRM.",
@@ -1225,16 +1225,16 @@ Naš ICP je:
 [tip firme] sa [veličina/faza] koja se bori sa [skup problem] i obično je pokrenuta [timing signal].
 
 Primer:
-Naš ICP su B2B SaaS firme 10–50 ljudi gde founder i dalje vodi poverenje i prodaju, ali pipeline postaje previše nepredvidiv da bi se oslanjali na referral-e.
+Naš ICP su B2B SaaS firme 10-50 ljudi gde founder i dalje vodi poverenje i prodaju, ali pipeline postaje previše nepredvidiv da bi se oslanjali na referral-e.
 
 2. Best-fit company traits
 
 Industrija: [B2B SaaS, IT usluge, consulting, agencije]
-Veličina: [10–50 zaposlenih]
-Opseg prihoda: [$1M–$10M]
+Veličina: [10-50 zaposlenih]
+Opseg prihoda: [$1M-$10M]
 Biznis model: [visokotiketna B2B usluga, SaaS godišnji ugovori…]
-Sales ciklus: [30–120 dana]
-ACV / deal: [$5k–$50k]
+Sales ciklus: [30-120 dana]
+ACV / deal: [$5k-$50k]
 
 3. Skup problem
 
@@ -1300,16 +1300,16 @@ Our ICP is:
 [company type] with [size/stage] that struggles with [expensive problem] and is usually triggered by [timing signal].
 
 Example:
-Our ICP is 10–50 person B2B SaaS companies where the founder still drives trust and sales, but pipeline is becoming too unpredictable to rely on referrals.
+Our ICP is 10-50 person B2B SaaS companies where the founder still drives trust and sales, but pipeline is becoming too unpredictable to rely on referrals.
 
 2. Best-fit company traits
 
 Industry: [example: B2B SaaS, IT services, consulting, agencies]
-Company size: [example: 10–50 employees]
-Revenue range: [example: $1M–$10M ARR/revenue]
+Company size: [example: 10-50 employees]
+Revenue range: [example: $1M-$10M ARR/revenue]
 Business model: [example: high-ticket B2B service, SaaS with annual contracts]
-Sales cycle: [example: 30–120 days]
-ACV / deal size: [example: $5k–$50k]
+Sales cycle: [example: 30-120 days]
+ACV / deal size: [example: $5k-$50k]
 
 3. Expensive problem
 
@@ -1378,15 +1378,15 @@ Total: __/100`,
     {
       question: L("Šta je ICP u Founder-Led Growth-u?", "What is an ICP in Founder-Led Growth?"),
       answer: L(
-        "ICP je tip firme koja najverovatnije oseća bol koji rešavaš, veruje founder POV-u, engage-uje se sa content-om, odgovara na outreach i postaje profitabilan pipeline. Nije samo demografski profil — to je filter za ceo sistem.",
+        "ICP je tip firme koja najverovatnije oseća bol koji rešavaš, veruje founder POV-u, engage-uje se sa content-om, odgovara na outreach i postaje profitabilan pipeline. Nije samo demografski profil, to je filter za ceo sistem.",
         "An ICP is the type of company most likely to feel the pain you solve, trust your founder's point of view, engage with your content, respond to your outreach, and become profitable pipeline. It is not just a demographic profile. It is the targeting filter for the entire system.",
       ),
     },
     {
       question: L("Razlika između ICP-a i buyer persone?", "What is the difference between ICP and buyer persona?"),
       answer: L(
-        "ICP definiše firmu. Persona definiše ljude unutar firme. Primer ICP: B2B SaaS 10–50 ljudi gde founder i dalje vodi prodaju. Persone: Founder, VP Sales, Head of Growth, RevOps. Treba oba — ali ICP dolazi prvi.",
-        "Your ICP defines the company. Your buyer persona defines the people inside that company. Example ICP: B2B SaaS companies with 10–50 employees where the founder still drives sales. Buyer personas: Founder, VP Sales, Head of Growth, RevOps Lead. You need both. But the ICP comes first.",
+        "ICP definiše firmu. Persona definiše ljude unutar firme. Primer ICP: B2B SaaS 10-50 ljudi gde founder i dalje vodi prodaju. Persone: Founder, VP Sales, Head of Growth, RevOps. Treba oba, ali ICP dolazi prvi.",
+        "Your ICP defines the company. Your buyer persona defines the people inside that company. Example ICP: B2B SaaS companies with 10-50 employees where the founder still drives sales. Buyer personas: Founder, VP Sales, Head of Growth, RevOps Lead. You need both. But the ICP comes first.",
       ),
     },
     {
@@ -1413,34 +1413,34 @@ Total: __/100`,
     {
       question: L("ICP na osnovu postojećih ili budućih klijenata?", "Should ICP be based on existing customers or future strategy?"),
       answer: L(
-        "Oba — kreni od postojećih klijenata jer daju dokaz, pa prilagodi strategijskom smeru. Ali ne pravi ICP samo iz mašte; tržište mora da validira.",
+        "Oba, kreni od postojećih klijenata jer daju dokaz, pa prilagodi strategijskom smeru. Ali ne pravi ICP samo iz mašte; tržište mora da validira.",
         "Both. Start with existing customers because they give you evidence. Then adjust based on strategic direction. But do not create an ICP only from imagination. The market has to validate it.",
       ),
     },
   ],
   sources: [
-    { title: L("Gartner — B2B Buying Journey", "Gartner — B2B Buying Journey"), url: "https://www.gartner.com/en/sales/insights/b2b-buying-journey" },
-    { title: L("HubSpot / Clearbit — Ideal Customer Profile Guide", "HubSpot / Clearbit — Ideal Customer Profile Guide"), url: "https://offers.hubspot.com/ideal-customer-profile-icp" },
-    { title: L("HubSpot — ICP vs Buyer Persona", "HubSpot — ICP vs Buyer Persona"), url: "https://blog.hubspot.com/customers/ideal-customer-profiles-and-buyer-personas-are-they-different" },
-    { title: L("Apollo — ICP Meaning in Sales", "Apollo — ICP Meaning in Sales"), url: "https://www.apollo.io/insights/icp-meaning-sales" },
-    { title: L("Apollo Knowledge Base — Identify Your Ideal Customer Profile", "Apollo Knowledge Base — Identify Your Ideal Customer Profile"), url: "https://knowledge.apollo.io/hc/en-us/articles/4416471135245-Identify-Your-Ideal-Customer-Profile-ICP" },
-    { title: L("Cognism — How to Create an Ideal Customer Profile", "Cognism — How to Create an Ideal Customer Profile"), url: "https://www.cognism.com/blog/ideal-customer-profile" },
-    { title: L("Forrester — B2B Buyer Personas", "Forrester — B2B Buyer Personas"), url: "https://www.forrester.com/blogs/your-buyers-are-evolving-and-you-should-follow-eu/" },
-    { title: L("FullFunnel — Ideal Customer Profile Guide", "FullFunnel — Ideal Customer Profile Guide"), url: "https://fullfunnel.io/ideal-customer-profile/" },
+    { title: L("Gartner - B2B Buying Journey", "Gartner - B2B Buying Journey"), url: "https://www.gartner.com/en/sales/insights/b2b-buying-journey" },
+    { title: L("HubSpot / Clearbit - Ideal Customer Profile Guide", "HubSpot / Clearbit - Ideal Customer Profile Guide"), url: "https://offers.hubspot.com/ideal-customer-profile-icp" },
+    { title: L("HubSpot - ICP vs Buyer Persona", "HubSpot - ICP vs Buyer Persona"), url: "https://blog.hubspot.com/customers/ideal-customer-profiles-and-buyer-personas-are-they-different" },
+    { title: L("Apollo - ICP Meaning in Sales", "Apollo - ICP Meaning in Sales"), url: "https://www.apollo.io/insights/icp-meaning-sales" },
+    { title: L("Apollo Knowledge Base - Identify Your Ideal Customer Profile", "Apollo Knowledge Base - Identify Your Ideal Customer Profile"), url: "https://knowledge.apollo.io/hc/en-us/articles/4416471135245-Identify-Your-Ideal-Customer-Profile-ICP" },
+    { title: L("Cognism - How to Create an Ideal Customer Profile", "Cognism - How to Create an Ideal Customer Profile"), url: "https://www.cognism.com/blog/ideal-customer-profile" },
+    { title: L("Forrester - B2B Buyer Personas", "Forrester - B2B Buyer Personas"), url: "https://www.forrester.com/blogs/your-buyers-are-evolving-and-you-should-follow-eu/" },
+    { title: L("FullFunnel - Ideal Customer Profile Guide", "FullFunnel - Ideal Customer Profile Guide"), url: "https://fullfunnel.io/ideal-customer-profile/" },
   ],
   relatedLessons: {
     previous: {
       slug: "what-founder-led-growth-is",
       title: L(
-        "Lekcija 1 — Šta je Founder-Led Growth",
-        "Lesson 1 — What Founder-Led Growth Is and Why It Works for B2B Companies",
+        "Lekcija 1 - Šta je Founder-Led Growth",
+        "Lesson 1 - What Founder-Led Growth Is and Why It Works for B2B Companies",
       ),
     },
     next: {
       slug: "linkedin-profile-optimization-founder",
       title: L(
-        "Lekcija 3 — LinkedIn profil founder-a",
-        "Lesson 3 — How to Optimize a Founder's LinkedIn Profile for B2B Lead Generation",
+        "Lekcija 3 - LinkedIn profil founder-a",
+        "Lesson 3 - How to Optimize a Founder's LinkedIn Profile for B2B Lead Generation",
       ),
       note: L(
         "Pretvori profil u landing stranicu za ICP.",
@@ -1450,23 +1450,23 @@ Total: __/100`,
     related: [
       {
         slug: "linkedin-content-strategy-founder",
-        title: L("Lekcija 4 — LinkedIn content strategija", "Lesson 4 — How to Build a LinkedIn Content Strategy for a Founder"),
+        title: L("Lekcija 4 - LinkedIn content strategija", "Lesson 4 - How to Build a LinkedIn Content Strategy for a Founder"),
       },
       {
         slug: "linkedin-commenting-strategy",
-        title: L("Lekcija 6 — LinkedIn komentarisanje", "Lesson 6 — How to Use LinkedIn Commenting to Get Visibility With Your ICP"),
+        title: L("Lekcija 6 - LinkedIn komentarisanje", "Lesson 6 - How to Use LinkedIn Commenting to Get Visibility With Your ICP"),
       },
       {
         slug: "linkedin-engagement-outreach-list",
-        title: L("Lekcija 7 — Engagement u outreach listu", "Lesson 7 — How to Turn LinkedIn Engagement Into an Outreach List"),
+        title: L("Lekcija 7 - Engagement u outreach listu", "Lesson 7 - How to Turn LinkedIn Engagement Into an Outreach List"),
       },
       {
         slug: "crm-za-founder-led-growth",
-        title: L("Lekcija 10 — CRM za Founder-Led Growth", "Lesson 10 — How to Track Founder-Led Growth Activities in Your CRM"),
+        title: L("Lekcija 10 - CRM za Founder-Led Growth", "Lesson 10 - How to Track Founder-Led Growth Activities in Your CRM"),
       },
       {
         slug: "buying-signals-b2b-sales",
-        title: L("Lekcija 11 — Buying signals", "Lesson 11 — What Buying Signals Are and How to Use Them in B2B Sales"),
+        title: L("Lekcija 11 - Buying signals", "Lesson 11 - What Buying Signals Are and How to Use Them in B2B Sales"),
       },
     ],
   },

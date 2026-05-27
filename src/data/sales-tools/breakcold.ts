@@ -5,8 +5,8 @@ export const breakcoldTool: SalesTool = {
   name: "Breakcold",
   logo: "/images/sales-tools/breakcold.png",
   tagline: {
-    sr: "AI-native CRM — LinkedIn inbox, pipeline i automatizacija za social selling",
-    en: "AI-native CRM — LinkedIn inbox, pipeline, and automation for social selling",
+    sr: "AI-native CRM - LinkedIn inbox, pipeline i automatizacija za social selling",
+    en: "AI-native CRM - LinkedIn inbox, pipeline, and automation for social selling",
   },
   categoryId: "crm",
   category: { sr: "CRM", en: "CRM" },
@@ -32,12 +32,12 @@ export const breakcoldTool: SalesTool = {
   recommended: true,
   rating: { g2: 4.8, g2Reviews: 114 },
   overview: {
-    sr: "Breakcold je CRM za prodavce koji žive na LinkedIn-u i emailu: jedan inbox za kanale, AI koji pomera leadove kroz pipeline i automatizuje follow-up — bez ručnog copy-paste-a između tabova.",
-    en: "Breakcold is a CRM for reps who live on LinkedIn and email: one inbox across channels, AI that moves leads through the pipeline, and automated follow-ups — without copy-pasting between tabs.",
+    sr: "Breakcold je CRM za prodavce koji žive na LinkedIn-u i emailu: jedan inbox za kanale, AI koji pomera leadove kroz pipeline i automatizuje follow-up, bez ručnog copy-paste-a između tabova.",
+    en: "Breakcold is a CRM for reps who live on LinkedIn and email: one inbox across channels, AI that moves leads through the pipeline, and automated follow-ups, without copy-pasting between tabs.",
   },
   overviewExtended: {
-    sr: "Essentials **$30/user/mes**, Pro **$60** (unified LinkedIn inbox — sweet spot), Max **$100** (Telegram, napredna analitika). Godišnja naplata štedi do 30%. 14-dan trial. Nije cold email sequencer — koristite uz Instantly/Lemlist; Breakcold je gde social selling i CRM susreću.",
-    en: "Essentials **$30/user/mo**, Pro **$60** (unified LinkedIn inbox — sweet spot), Max **$100** (Telegram, advanced analytics). Annual billing saves up to 30%. 14-day trial. Not a cold email sequencer — pair with Instantly/Lemlist; Breakcold is where social selling meets CRM.",
+    sr: "Essentials **$30/user/mes**, Pro **$60** (unified LinkedIn inbox, sweet spot), Max **$100** (Telegram, napredna analitika). Godišnja naplata štedi do 30%. 14-dan trial. Nije cold email sequencer, koristite uz Instantly/Lemlist; Breakcold je gde social selling i CRM susreću.",
+    en: "Essentials **$30/user/mo**, Pro **$60** (unified LinkedIn inbox, sweet spot), Max **$100** (Telegram, advanced analytics). Annual billing saves up to 30%. 14-day trial. Not a cold email sequencer, pair with Instantly/Lemlist; Breakcold is where social selling meets CRM.",
   },
   idealFor: {
     sr: [
@@ -58,17 +58,17 @@ export const breakcoldTool: SalesTool = {
   keyFeatures: {
     sr: [
       "Unified inbox (email + LinkedIn na Pro+)",
-      "AI agenti — auto pipeline & taskovi",
+      "AI agenti, auto pipeline & taskovi",
       "Besplatno enrichment 50+ datapointa",
-      "Meeting recorder (2–10h/mes po planu)",
+      "Meeting recorder (2-10h/mes po planu)",
       "Zapier & API",
       "Workspace za agencije",
     ],
     en: [
       "Unified inbox (email + LinkedIn on Pro+)",
-      "AI agents — auto pipeline & tasks",
+      "AI agents, auto pipeline & tasks",
       "Free enrichment on 50+ data points",
-      "Meeting recorder (2–10h/mo by plan)",
+      "Meeting recorder (2-10h/mo by plan)",
       "Zapier & API",
       "Workspaces for agencies",
     ],
@@ -227,8 +227,8 @@ export const breakcoldTool: SalesTool = {
   setup: {
     complexity: { sr: "Početni", en: "Beginner" },
     description: {
-      sr: "Trial → povežite LinkedIn i email → import leadova → podesite pipeline → Pro za LinkedIn inbox. Za agencije: workspace po klijentu. Tokeni pokreću AI enrichment — većina enrichment-a je besplatna.",
-      en: "Trial → connect LinkedIn and email → import leads → set pipeline → Pro for LinkedIn inbox. For agencies: workspace per client. Tokens power AI enrichment — most enrichment is free.",
+      sr: "Trial → povežite LinkedIn i email → import leadova → podesite pipeline → Pro za LinkedIn inbox. Za agencije: workspace po klijentu. Tokeni pokreću AI enrichment, većina enrichment-a je besplatna.",
+      en: "Trial → connect LinkedIn and email → import leads → set pipeline → Pro for LinkedIn inbox. For agencies: workspace per client. Tokens power AI enrichment, most enrichment is free.",
     },
   },
   pros: {
@@ -301,8 +301,8 @@ export const breakcoldTool: SalesTool = {
       slug: "heyreach",
       name: "HeyReach",
       description: {
-        sr: "LinkedIn outreach — druga namena.",
-        en: "LinkedIn outreach — different use case.",
+        sr: "LinkedIn outreach, druga namena.",
+        en: "LinkedIn outreach, different use case.",
       },
       startingPrice: { sr: "od $79", en: "from $79" },
       trial: { sr: "7 dana", en: "7 days" },
@@ -313,22 +313,22 @@ export const breakcoldTool: SalesTool = {
     {
       question: { sr: "Koliko košta Breakcold?", en: "How much does Breakcold cost?" },
       answer: {
-        sr: "Essentials $30/user/mes ($24 godišnje). Pro $60 ($48 godišnje) — uključuje LinkedIn inbox. Max $100 ($80 godišnje). Kvartalno -20%, godišnje -30%.",
-        en: "Essentials $30/user/mo ($24 annual). Pro $60 ($48 annual) — includes LinkedIn inbox. Max $100 ($80 annual). Quarterly -20%, annual -30%.",
+        sr: "Essentials $30/user/mes ($24 godišnje). Pro $60 ($48 godišnje), uključuje LinkedIn inbox. Max $100 ($80 godišnje). Kvartalno -20%, godišnje -30%.",
+        en: "Essentials $30/user/mo ($24 annual). Pro $60 ($48 annual), includes LinkedIn inbox. Max $100 ($80 annual). Quarterly -20%, annual -30%.",
       },
     },
     {
       question: { sr: "Da li ima besplatan plan?", en: "Is there a free plan?" },
       answer: {
-        sr: "Nema trajnog free plana — 14-dnevni trial sa punim pristupom, bez kartice.",
-        en: "No permanent free plan — 14-day trial with full access, no card required.",
+        sr: "Nema trajnog free plana - 14-dnevni trial sa punim pristupom, bez kartice.",
+        en: "No permanent free plan - 14-day trial with full access, no card required.",
       },
     },
     {
       question: { sr: "Zašto izabrati Breakcold?", en: "Why choose Breakcold?" },
       answer: {
-        sr: "Kada vam je LinkedIn centralan kanal prodaje i treba CRM koji živi u tom workflow-u — ne odvojen tab koji niko ne popunjava.",
-        en: "When LinkedIn is your core sales channel and you need a CRM that lives in that workflow — not a separate tab nobody fills in.",
+        sr: "Kada vam je LinkedIn centralan kanal prodaje i treba CRM koji živi u tom workflow-u, ne odvojen tab koji niko ne popunjava.",
+        en: "When LinkedIn is your core sales channel and you need a CRM that lives in that workflow, not a separate tab nobody fills in.",
       },
     },
     {
@@ -337,15 +337,15 @@ export const breakcoldTool: SalesTool = {
         en: "Breakcold vs HubSpot?",
       },
       answer: {
-        sr: "HubSpot je marketing + sales platforma. Breakcold je social-selling CRM sa LinkedIn inbox-om — jeftiniji i fokusiraniji za outbound na LinkedIn-u.",
-        en: "HubSpot is marketing + sales platform. Breakcold is a social-selling CRM with LinkedIn inbox — cheaper and more focused for LinkedIn outbound.",
+        sr: "HubSpot je marketing + sales platforma. Breakcold je social-selling CRM sa LinkedIn inbox-om, jeftiniji i fokusiraniji za outbound na LinkedIn-u.",
+        en: "HubSpot is marketing + sales platform. Breakcold is a social-selling CRM with LinkedIn inbox, cheaper and more focused for LinkedIn outbound.",
       },
     },
     {
       question: { sr: "Da li ima API?", en: "Does it have an API?" },
       answer: {
-        sr: "Da — API, webhooks i Zapier na svim planovima za integracije sa vašim stack-om.",
-        en: "Yes — API, webhooks, and Zapier on all plans for integrations with your stack.",
+        sr: "Da - API, webhooks i Zapier na svim planovima za integracije sa vašim stack-om.",
+        en: "Yes - API, webhooks, and Zapier on all plans for integrations with your stack.",
       },
     },
   ],

@@ -114,7 +114,7 @@ const video4 = {
 export const lesson9RichContent: RichLessonContent = {
   meta: {
     stage: L("LinkedIn Ads pojačanje", "LinkedIn Ads Boost"),
-    readingTime: L("14–18 min", "14–18 min"),
+    readingTime: L("14-18 min", "14-18 min"),
     difficulty: L("Srednji nivo", "Intermediate"),
     outcome: L(
       "Razumećeš gde LinkedIn Ads stoje u Founder-Led Growth sistemu Lead Agents-a, kada koristiti Thought Leader Ads, i kako paid sloj povezuje outreach, content, signale i CRM.",
@@ -405,7 +405,7 @@ export const lesson9RichContent: RichLessonContent = {
               ),
             },
             {
-              value: L("€20–50", "€20–50"),
+              value: L("€20-50", "€20-50"),
               label: L("/dan test", "/day test"),
               description: L(
                 "7 dana testa pre skaliranja TLA kampanje.",
@@ -725,13 +725,13 @@ export const lesson9RichContent: RichLessonContent = {
               whyItMatters: L("TLA boost-uje dokaz, ne eksperiment na hladno.", "TLA amplifies proof, not a cold experiment."),
               example: L("Post iz intervjua sa ICP komentarima i DM-ovima za ponudu.", "Post from the interview with ICP comments and DMs about the offer."),
               commonMistake: L("Boost posta sa lajkovima ali bez kvalifikovanog engagement-a.", "Boosting a post with likes but no qualified engagement."),
-              tryThis: L("Taplio: reach, engagement, profile views posle 48–72h.", "Taplio: reach, engagement, profile views after 48–72h."),
+              tryThis: L("Taplio: reach, engagement, profile views posle 48-72h.", "Taplio: reach, engagement, profile views after 48-72h."),
               highlight: L("Jedan winner, ne deset testova.", "One winner, not ten tests."),
             },
             {
               step: 5,
               title: L("Thought Leader Ad", "Thought Leader Ad"),
-              whatToDo: L("Boost-uj winning post u Campaign Manager-u, ICP targeting, test €20–50/dan, 7 dana.", "Boost the winning post in Campaign Manager, ICP targeting, test €20–50/day, 7 days."),
+              whatToDo: L("Boost-uj winning post u Campaign Manager-u, ICP targeting, test €20-50/dan, 7 dana.", "Boost the winning post in Campaign Manager, ICP targeting, test €20-50/day, 7 days."),
               whyItMatters: L("Indirektan napad: više pravih ljudi vidi founder-a pre outreach poruke.", "Indirect attack: more of the right people see the founder before the outreach message."),
               example: L("TLA na postu o istom problemu kao outreach sekvenca.", "TLA on a post about the same problem as the outreach sequence."),
               commonMistake: L("Company page ad sa stock slikom.", "Company page ad with stock image."),
@@ -776,11 +776,11 @@ export const lesson9RichContent: RichLessonContent = {
               ),
             },
             {
-              value: L("€140–350", "€140–350"),
+              value: L("€140-350", "€140-350"),
               label: L("Test budžet", "Test budget"),
               description: L(
-                "€20–50/dan, dovoljno signala bez spaljivanja meseca.",
-                "€20–50/day, enough signal without burning the month.",
+                "€20-50/dan, dovoljno signala bez spaljivanja meseca.",
+                "€20-50/day, enough signal without burning the month.",
               ),
             },
             {
@@ -818,7 +818,7 @@ export const lesson9RichContent: RichLessonContent = {
             },
             {
               step: 3,
-              title: L("Izaberi 1–2 winning founder posta", "Select 1–2 winning founder posts"),
+              title: L("Izaberi 1-2 winning founder posta", "Select 1-2 winning founder posts"),
               whatToDo: L("Boost-uj post sa jakim engagement-om, jasnim POV-om i relevantnim CTA-om.", "Boost the post with strong engagement, clear POV, and relevant CTA."),
               whyItMatters: L("TLA radi najbolje na postovima koji već imaju social proof.", "TLA works best on posts that already have social proof."),
               example: L("Edukativni post sa checklist CTA-om i visokim comment-to-like ratio.", "Educational post with checklist CTA and high comment-to-like ratio."),
@@ -831,14 +831,14 @@ export const lesson9RichContent: RichLessonContent = {
               title: L("Izgradi ICP targeting u Campaign Manager-u", "Build ICP targeting in Campaign Manager"),
               whatToDo: L("Targetiraj po ulozi, industriji, veličini firme, seniority-ju i geografskoj lokaciji.", "Target by role, industry, company size, seniority, and geography."),
               whyItMatters: L("Širok targeting = visok CPL i nizak sales fit.", "Broad targeting = high CPL and low sales fit."),
-              example: L("VP Sales / Founder / Head of Growth u B2B SaaS, 11–200 zaposlenih, DACH + UK.", "VP Sales / Founder / Head of Growth in B2B SaaS, 11–200 employees, DACH + UK."),
+              example: L("VP Sales / Founder / Head of Growth u B2B SaaS, 11-200 zaposlenih, DACH + UK.", "VP Sales / Founder / Head of Growth in B2B SaaS, 11-200 employees, DACH + UK."),
               commonMistake: L("Targeting „All LinkedIn members“ u regionu.", "Targeting \"All LinkedIn members\" in the region."),
               tryThis: L("Koristi ICP definiciju iz Lekcije 2 kao targeting checklist.", "Use the ICP definition from Lesson 2 as a targeting checklist."),
               highlight: L("Targeting određuje kvalitet leadova, ne samo volumen.", "Targeting determines lead quality, not just volume."),
             },
             {
               step: 5,
-              title: L("Pokreni Thought Leader Ad test (€20–50/dan, 7 dana)", "Launch Thought Leader Ad test (€20–50/day, 7 days)"),
+              title: L("Pokreni Thought Leader Ad test (€20-50/dan, 7 dana)", "Launch Thought Leader Ad test (€20-50/day, 7 days)"),
               whatToDo: L("Kreiraj TLA kampanju sa jednim postom, jednim ad set-om i jasnim CTA-om.", "Create a TLA campaign with one post, one ad set, and clear CTA."),
               whyItMatters: L("Mali test daje podatke pre skaliranja.", "Small test gives data before scaling."),
               example: L("€30/dan × 7 dana = ~€210 test sa jasnim winner/loser signalom.", "€30/day × 7 days = ~€210 test with clear winner/loser signal."),
@@ -883,9 +883,9 @@ export const lesson9RichContent: RichLessonContent = {
           caption: L("Budget test plan", "Budget test plan"),
           headers: H(["Parametar", "Preporuka"], ["Parameter", "Recommendation"]),
           rows: [
-            { cells: [L("Dnevni budžet", "Daily budget"), L("€20–50/dan za prvi test", "€20–50/day for first test")] },
+            { cells: [L("Dnevni budžet", "Daily budget"), L("€20-50/dan za prvi test", "€20-50/day for first test")] },
             { cells: [L("Trajanje testa", "Test duration"), L("7 dana minimum", "7 days minimum")] },
-            { cells: [L("Ukupan test budžet", "Total test budget"), L("€140–350", "€140–350")] },
+            { cells: [L("Ukupan test budžet", "Total test budget"), L("€140-350", "€140-350")] },
             { cells: [L("Kill criteria", "Kill criteria"), L("CPL > 3× target / CTR < 0.3% / zero ICP-fit leads", "CPL > 3× target / CTR < 0.3% / zero ICP-fit leads")] },
             { cells: [L("Scale criteria", "Scale criteria"), L("CPL < target / 3+ qualified leads / strong engagement", "CPL < target / 3+ qualified leads / strong engagement")] },
           ],
@@ -897,7 +897,7 @@ export const lesson9RichContent: RichLessonContent = {
           rows: [
             { cells: [L("Job titles", "Job titles"), L("Founder, VP Sales, Head of Growth, CMO", "Founder, VP Sales, Head of Growth, CMO")] },
             { cells: [L("Industrija", "Industry"), L("B2B SaaS, Professional Services, IT Consulting", "B2B SaaS, Professional Services, IT Consulting")] },
-            { cells: [L("Veličina firme", "Company size"), L("11–200 zaposlenih (SMB/mid-market)", "11–200 employees (SMB/mid-market)")] },
+            { cells: [L("Veličina firme", "Company size"), L("11-200 zaposlenih (SMB/mid-market)", "11-200 employees (SMB/mid-market)")] },
             { cells: [L("Geografija", "Geography"), L("DACH, UK, US, CEE, po ICP definiciji", "DACH, UK, US, CEE, per ICP definition")] },
             { cells: [L("Profile language", "Profile language"), L("English (ili match sa ad copy-jem)", "English (or match ad copy language)")] },
             { cells: [L("Exclusions", "Exclusions"), L("Postojeći klijenti, zaposleni, competitor-i", "Existing clients, employees, competitors")] },
@@ -1108,13 +1108,13 @@ export const lesson9RichContent: RichLessonContent = {
           type: "bullets",
           items: P(
             [
-              "Maksimum 3–4 polja (ime, email, uloga, firma).",
+              "Maksimum 3-4 polja (ime, email, uloga, firma).",
               "Thank-you message sa jasnim next step-om.",
               "Sync u HubSpot/Pipedrive pre launch-a.",
               "Test submit pre nego što kampanja krene.",
             ],
             [
-              "Maximum 3–4 fields (name, email, role, company).",
+              "Maximum 3-4 fields (name, email, role, company).",
               "Thank-you message with clear next step.",
               "Sync to HubSpot/Pipedrive before launch.",
               "Test submit before the campaign goes live.",
@@ -1388,7 +1388,7 @@ export const lesson9RichContent: RichLessonContent = {
               "Merimo koji post organski najbolje radi kod ICP-a.",
               "Boost-ujemo winner preko Thought Leader Ads (Campaign Manager).",
               "Svi signali i leadovi idu u CRM sa lead scoring-om.",
-              "Outreach na engagere i high-score leadove u roku 24–48h.",
+              "Outreach na engagere i high-score leadove u roku 24-48h.",
               "Posle 7 dana: scale ili kill kampanju.",
             ],
             [
@@ -1402,7 +1402,7 @@ export const lesson9RichContent: RichLessonContent = {
               "We measure which post performs best organically with the ICP.",
               "We boost the winner via Thought Leader Ads (Campaign Manager).",
               "All signals and leads go to CRM with lead scoring.",
-              "Outreach to engagers and high-score leads within 24–48h.",
+              "Outreach to engagers and high-score leads within 24-48h.",
               "After 7 days: scale or kill the campaign.",
             ],
           ),
@@ -1500,7 +1500,7 @@ export const lesson9RichContent: RichLessonContent = {
               "Bar jedna serija contenta iz intervjua objavljena.",
               "Winning post izabran (Taplio ili native analytics).",
               "TLA kampanja u Campaign Manager-u, ICP targeting.",
-              "Test budžet €20–50/dan, 7 dana.",
+              "Test budžet €20-50/dan, 7 dana.",
               "CRM polja: izvor, kampanja, signal, lead score, sledeća akcija.",
               "Sync leadova u HubSpot pre launch-a.",
               "Outreach plan za engagere posle boost-a.",
@@ -1513,7 +1513,7 @@ export const lesson9RichContent: RichLessonContent = {
               "At least one interview content series published.",
               "Winning post selected (Taplio or native analytics).",
               "TLA campaign in Campaign Manager, ICP targeting.",
-              "Test budget €20–50/day, 7 days.",
+              "Test budget €20-50/day, 7 days.",
               "CRM fields: source, campaign, signal, lead score, next action.",
               "Sync leads to HubSpot before launch.",
               "Outreach plan for engagers after boost.",
@@ -1567,7 +1567,7 @@ Industries:
 [B2B SaaS / Professional Services]
 
 Company size:
-[11–200 employees]
+[11-200 employees]
 
 Geography:
 [DACH / UK / US]
@@ -1578,13 +1578,13 @@ Profile language:
 4. Budget test
 
 Daily budget:
-€20–50/day
+€20-50/day
 
 Test duration:
 7 days
 
 Total test budget:
-€140–350
+€140-350
 
 Kill criteria:
 [CPL > €X / CTR < Y% / no ICP-fit leads]
@@ -1658,7 +1658,7 @@ Industries:
 [B2B SaaS / Professional Services]
 
 Company size:
-[11–200 employees]
+[11-200 employees]
 
 Geography:
 [DACH / UK / US]
@@ -1669,13 +1669,13 @@ Profile language:
 4. Budget test
 
 Daily budget:
-€20–50/day
+€20-50/day
 
 Test duration:
 7 days
 
 Total test budget:
-€140–350
+€140-350
 
 Kill criteria:
 [CPL > €X / CTR < Y% / no ICP-fit leads]
@@ -1738,8 +1738,8 @@ Stage: engaged / warm list / qualified / opportunity`,
     {
       question: L("Koliki budžet treba za prvi test?", "What budget do I need for the first test?"),
       answer: L(
-        "€20–50/dan × 7 dana = €140–350. Dovoljno za jasan winner/loser signal pre skaliranja. Ne skaliraj pre 7 dana.",
-        "€20–50/day × 7 days = €140–350. Enough for a clear winner/loser signal before scaling. Do not scale before 7 days.",
+        "€20-50/dan × 7 dana = €140-350. Dovoljno za jasan winner/loser signal pre skaliranja. Ne skaliraj pre 7 dana.",
+        "€20-50/day × 7 days = €140-350. Enough for a clear winner/loser signal before scaling. Do not scale before 7 days.",
       ),
     },
     {

@@ -32,8 +32,8 @@ export const lemlistTool: SalesTool = {
   recommended: true,
   rating: { g2: 4.5, g2Reviews: 890 },
   overview: {
-    sr: "Lemlist je sales engagement alat za automatizovan outreach preko emaila, LinkedIn-a, WhatsApp-a i poziva — sa personalizovanim multichannel kampanjama iz jedne platforme.",
-    en: "Lemlist is a sales engagement tool that automates outreach across email, LinkedIn, WhatsApp, and calls — with personalized multichannel campaigns from one platform.",
+    sr: "Lemlist je sales engagement alat za automatizovan outreach preko emaila, LinkedIn-a, WhatsApp-a i poziva, sa personalizovanim multichannel kampanjama iz jedne platforme.",
+    en: "Lemlist is a sales engagement tool that automates outreach across email, LinkedIn, WhatsApp, and calls, with personalized multichannel campaigns from one platform.",
   },
   overviewExtended: {
     sr: "Pomaže timovima da pronađu i obogate leadove, personalizuju poruke u velikom obimu i drže deliverability visokim. Ima native CRM integracije (HubSpot, Salesforce) i ugrađeno obogaćivanje podataka. Nije namenjen inbound lead management-u ili naprednoj marketing automatizaciji van outbound prodaje.",
@@ -203,8 +203,8 @@ export const lemlistTool: SalesTool = {
   setup: {
     complexity: { sr: "Napredna", en: "Advanced" },
     description: {
-      sr: "Registracija, povezivanje kanala i kreiranje multichannel sekvenci — rezultati su mogući već za nekoliko dana zahvaljujući workflow-ima i Lemlist Academy resursima.",
-      en: "Sign up, connect channels, and build multichannel sequences — you can see results within days thanks to smart workflows and Lemlist Academy resources.",
+      sr: "Registracija, povezivanje kanala i kreiranje multichannel sekvenci, rezultati su mogući već za nekoliko dana zahvaljujući workflow-ima i Lemlist Academy resursima.",
+      en: "Sign up, connect channels, and build multichannel sequences, you can see results within days thanks to smart workflows and Lemlist Academy resources.",
     },
   },
   pros: {
@@ -253,8 +253,8 @@ export const lemlistTool: SalesTool = {
       slug: "instantly",
       name: "Instantly",
       description: {
-        sr: "Cold email po volumenu — neograničeni inbox-ovi.",
-        en: "Volume-based cold email — unlimited inboxes.",
+        sr: "Cold email po volumenu, neograničeni inbox-ovi.",
+        en: "Volume-based cold email, unlimited inboxes.",
       },
       startingPrice: { sr: "od $37", en: "from $37" },
       trial: { sr: "Besplatan start", en: "Free start" },
@@ -264,8 +264,8 @@ export const lemlistTool: SalesTool = {
       slug: "apollo",
       name: "Apollo",
       description: {
-        sr: "Data-first platforma — baza + outreach.",
-        en: "Data-first platform — database + outreach.",
+        sr: "Data-first platforma, baza + outreach.",
+        en: "Data-first platform, database + outreach.",
       },
       startingPrice: { sr: "od $49", en: "from $49" },
       trial: { sr: "14 dana", en: "14 days" },
@@ -294,8 +294,8 @@ export const lemlistTool: SalesTool = {
     {
       question: { sr: "Da li Lemlist ima probni period?", en: "Does Lemlist offer a free trial?" },
       answer: {
-        sr: "Da — dostupan je 14-dnevni besplatni trial i mogućnost zakazivanja personalizovanog demo poziva pre kupovine.",
-        en: "Yes — a 14-day free trial is available, plus personalized demo bookings before you buy.",
+        sr: "Da, dostupan je 14-dnevni besplatni trial i mogućnost zakazivanja personalizovanog demo poziva pre kupovine.",
+        en: "Yes, a 14-day free trial is available, plus personalized demo bookings before you buy.",
       },
     },
     {
@@ -315,8 +315,8 @@ export const lemlistTool: SalesTool = {
     {
       question: { sr: "Da li Lemlist ima API?", en: "Does Lemlist have an API?" },
       answer: {
-        sr: "Da — API omogućava automatizaciju workflow-a, sinhronizaciju CRM podataka i integraciju sa drugim aplikacijama. Napredni API je na Enterprise planu.",
-        en: "Yes — the API automates workflows, syncs CRM data, and integrates with other apps. Advanced API access is on the Enterprise plan.",
+        sr: "Da - API omogućava automatizaciju workflow-a, sinhronizaciju CRM podataka i integraciju sa drugim aplikacijama. Napredni API je na Enterprise planu.",
+        en: "Yes, the API automates workflows, syncs CRM data, and integrates with other apps. Advanced API access is on the Enterprise plan.",
       },
     },
     {
@@ -325,8 +325,8 @@ export const lemlistTool: SalesTool = {
         en: "What are Lemlist alternatives?",
       },
       answer: {
-        sr: "Česte alternative uključuju Instantly, Smartlead, Reply.io, Outreach, Salesloft i Mailshake — različiti modeli cena (npr. po volumenu slanja vs. po profilu).",
-        en: "Common alternatives include Instantly, Smartlead, Reply.io, Outreach, Salesloft, and Mailshake — with different pricing models (e.g. sending volume vs. per profile).",
+        sr: "Česte alternative uključuju Instantly, Smartlead, Reply.io, Outreach, Salesloft i Mailshake, različiti modeli cena (npr. po volumenu slanja vs. po profilu).",
+        en: "Common alternatives include Instantly, Smartlead, Reply.io, Outreach, Salesloft, and Mailshake, with different pricing models (e.g. sending volume vs. per profile).",
       },
     },
   ],

@@ -32,8 +32,8 @@ export const sharedClientResults: ServiceResult[] = [
     image: clientTestimonialImages["nicolas-martinez"],
     role: { sr: "Co-founder", en: "Co-founder" },
     quote: {
-      sr: "Moja saradnja sa Lead Agents je apsolutno neverovatna. Sve automatizacije koje postavljaju za biznis traže vreme na početku — ali kada krene da radi… WOW, nema vremena ni za kafu! Moj Google kalendar je sada pun sastanaka svake nedelje. Hvala vam, ekipo, na odlično odrađenom poslu!",
-      en: "My collaboration with Lead Agents is absolutely incredible. The automations they set up take time at first — but when it kicks in… WOW, no time even for coffee! My Google calendar is now full of meetings every week. Thanks team for the great work!",
+      sr: "Moja saradnja sa Lead Agents je apsolutno neverovatna. Sve automatizacije koje postavljaju za biznis traže vreme na početku, ali kada krene da radi… WOW, nema vremena ni za kafu! Moj Google kalendar je sada pun sastanaka svake nedelje. Hvala vam, ekipo, na odlično odrađenom poslu!",
+      en: "My collaboration with Lead Agents is absolutely incredible. The automations they set up take time at first, but when it kicks in… WOW, no time even for coffee! My Google calendar is now full of meetings every week. Thanks team for the great work!",
     },
     stats: [
       { value: "928", label: { sr: "Ljudi u kampanji", en: "People in campaign" } },

@@ -4,8 +4,8 @@ export const kreiranjeDigitalnihKurseva: ServicePage = {
   slug: "kreiranje-digitalnih-kurseva",
   meta: {
     title: {
-      sr: "Kreacija digitalnih kurseva — Od znanja do online proizvoda | Lead Agents",
-      en: "Digital course creation — Turn expertise into a product | Lead Agents",
+      sr: "Kreacija digitalnih kurseva - Od znanja do online proizvoda | Lead Agents",
+      en: "Digital course creation - Turn expertise into a product | Lead Agents",
     },
     description: {
       sr: "Transformišemo tvoje znanje u online kurseve: kurikulum, scenariji, video produkcija, objava i promocija.",
@@ -19,8 +19,8 @@ export const kreiranjeDigitalnihKurseva: ServicePage = {
       en: "We turn your knowledge into online courses",
     },
     description: {
-      sr: "Razvijamo ideju kako da unovčiš svoju veštinu kroz kreiranje digitalnog proizvoda — od strukture i snimanja do objave i promocije.",
-      en: "We develop how you can monetize your skill through a digital product — from structure and filming to launch and promotion.",
+      sr: "Razvijamo ideju kako da unovčiš svoju veštinu kroz kreiranje digitalnog proizvoda, od strukture i snimanja do objave i promocije.",
+      en: "We develop how you can monetize your skill through a digital product, from structure and filming to launch and promotion.",
     },
     primaryCta: { sr: "Zakaži konsultaciju", en: "Book a consultation" },
     secondaryCta: { sr: "Pogledaj case study", en: "Read case study" },
@@ -80,7 +80,7 @@ export const kreiranjeDigitalnihKurseva: ServicePage = {
     },
     description: {
       sr: "Pogledaj kako smo transformisali bestseler u digitalni kurs. Od ideje do objave, u ovom case study-ju delimo ceo proces sa tobom.",
-      en: "See how we transformed a bestseller into a digital course. From idea to launch — we share the full process in this case study.",
+      en: "See how we transformed a bestseller into a digital course. From idea to launch, we share the full process in this case study.",
     },
     cta: { sr: "Pročitaj case study", en: "Read case study" },
     image: "/images/case-studies/i-decide-book-to-course.png",
@@ -125,7 +125,7 @@ export const kreiranjeDigitalnihKurseva: ServicePage = {
     en: "It has never been easier to have your own digital course.",
   },
   process: {
-    title: { sr: "Naš proces — korak po korak", en: "Our process — step by step" },
+    title: { sr: "Naš proces, korak po korak", en: "Our process, step by step" },
     items: [
       {
         step: "01",
@@ -155,8 +155,8 @@ export const kreiranjeDigitalnihKurseva: ServicePage = {
         step: "04",
         title: { sr: "Publikovanje", en: "Publishing" },
         description: {
-          sr: "Kreiranje i objavljivanje aplikacije sa kursevima, podkastima i plaćenom zajednicom — ili objava na platformi.",
-          en: "Building and launching an app with courses, podcasts, and a paid community — or publishing on a platform.",
+          sr: "Kreiranje i objavljivanje aplikacije sa kursevima, podkastima i plaćenom zajednicom, ili objava na platformi.",
+          en: "Building and launching an app with courses, podcasts, and a paid community, or publishing on a platform.",
         },
       },
       {

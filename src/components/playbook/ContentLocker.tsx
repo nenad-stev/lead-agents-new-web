@@ -13,7 +13,7 @@ type ContentLockerProps = {
 const copy = {
   sr: {
     title: "Otključaj kompletan Founder Led Growth kurs",
-    description: "Upiši email i odmah dobijaš pristup svim lekcijama — besplatno.",
+    description: "Upiši email i odmah dobijaš pristup svim lekcijama, besplatno.",
     placeholder: "tvoj@email.com",
     submit: "Otključaj sve lekcije →",
     disclaimer: "Bez spama. Odjavi se kad god hoćeš.",
@@ -21,7 +21,7 @@ const copy = {
   },
   en: {
     title: "Unlock the Full Founder Led Growth Course",
-    description: "Enter your email for instant access to all 12 lessons — free.",
+    description: "Enter your email for instant access to all 12 lessons, free.",
     placeholder: "your@email.com",
     submit: "Unlock all lessons →",
     disclaimer: "No spam. Unsubscribe anytime.",

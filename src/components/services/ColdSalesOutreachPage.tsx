@@ -57,7 +57,7 @@ const stepBullets = {
     [
       "Stack prilagođen vašem budžetu i tržištu",
       "Integracija CRM-a, outreach i enrichment alata",
-      "Obuka tima — ne samo „evo login-a“",
+      "Obuka tima, ne samo „evo login-a“",
     ],
     [
       "Personalizacija u velikom obimu (ne spam)",
@@ -67,7 +67,7 @@ const stepBullets = {
     [
       "Pokretanje, monitoring i optimizacija kampanja",
       "Odgovori i follow-up umesto vas",
-      "Vi idete na sastanke — mi punimo kalendar",
+      "Vi idete na sastanke, mi punimo kalendar",
     ],
   ],
   en: [
@@ -79,7 +79,7 @@ const stepBullets = {
     [
       "Stack matched to your budget and market",
       "CRM, outreach, and enrichment integrations",
-      "Team training — not just handing over logins",
+      "Team training, not just handing over logins",
     ],
     [
       "Personalization at scale (not spam)",
@@ -89,7 +89,7 @@ const stepBullets = {
     [
       "Launch, monitor, and optimize campaigns",
       "Replies and follow-ups handled for you",
-      "You take meetings — we fill the calendar",
+      "You take meetings, we fill the calendar",
     ],
   ],
 } as const;
@@ -98,27 +98,27 @@ const compare = {
   sr: {
     title: "Zašto sistem, a ne „samo alat“?",
     old: [
-      "Kupite 3–4 alata, niko ih ne poveže",
-      "Generičke poruke — nizak reply rate",
+      "Kupite 3-4 alata, niko ih ne poveže",
+      "Generičke poruke, nizak reply rate",
       "Founder ili prodavac radi sve ručno",
     ],
     next: [
       "ICP → baza → poruke → kampanje u jednom toku",
       "Testirani stack i vođenje kampanja",
-      "Kalendar puni sastanaka — vi zatvarate",
+      "Kalendar puni sastanaka, vi zatvarate",
     ],
   },
   en: {
     title: "Why a system, not “just a tool”?",
     old: [
-      "Buy 3–4 tools, nobody connects them",
-      "Generic messages — low reply rates",
+      "Buy 3-4 tools, nobody connects them",
+      "Generic messages, low reply rates",
       "Founder or rep does everything manually",
     ],
     next: [
       "ICP → list → copy → campaigns in one flow",
       "Proven stack and managed campaigns",
-      "Calendar fills with meetings — you close",
+      "Calendar fills with meetings, you close",
     ],
   },
 } as const;
@@ -229,8 +229,8 @@ export function ColdSalesOutreachPage({ locale, dictionary }: ColdSalesOutreachP
             </h2>
             <p className="mt-4 max-w-2xl text-lg text-muted">
               {locale === "sr"
-                ? "Četiri faze koje povezujemo u jedan automatizovani sistem — vi se fokusirate na zatvaranje."
-                : "Four phases we connect into one automated system — you focus on closing."}
+                ? "Četiri faze koje povezujemo u jedan automatizovani sistem, vi se fokusirate na zatvaranje."
+                : "Four phases we connect into one automated system, you focus on closing."}
             </p>
 
             <div className="flg-preview-flow mt-12" aria-hidden>
@@ -298,8 +298,8 @@ export function ColdSalesOutreachPage({ locale, dictionary }: ColdSalesOutreachP
             <h2 className="flg-preview-heading">{t(deliverables.title, locale)}</h2>
             <p className="mt-3 max-w-2xl text-lg text-muted">
               {locale === "sr"
-                ? "Kompletan outbound paket — od profila idealnog klijenta do vođenja kampanja."
-                : "Full outbound package — from ideal client profile to campaign management."}
+                ? "Kompletan outbound paket, od profila idealnog klijenta do vođenja kampanja."
+                : "Full outbound package, from ideal client profile to campaign management."}
             </p>
             <ul className="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
               {deliverables.items.map((item, index) => (
@@ -380,8 +380,8 @@ export function ColdSalesOutreachPage({ locale, dictionary }: ColdSalesOutreachP
                 </h2>
                 <p className="mt-4 text-muted">
                   {locale === "sr"
-                    ? "Uporedite cene, funkcije i alternative — alati koje stvarno koristimo u kampanjama."
-                    : "Compare pricing, features, and alternatives — tools we actually use in campaigns."}
+                    ? "Uporedite cene, funkcije i alternative, alati koje stvarno koristimo u kampanjama."
+                    : "Compare pricing, features, and alternatives, tools we actually use in campaigns."}
                 </p>
                 <div className="mt-6">
                   <Button href={salesToolsHref} variant="secondary">

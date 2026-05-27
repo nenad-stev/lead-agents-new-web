@@ -5,8 +5,8 @@ export const n8nTool: SalesTool = {
   name: "n8n",
   logo: "/images/sales-tools/n8n.png",
   tagline: {
-    sr: "Workflow automatizacija — 500+ integracija, self-host ili cloud",
-    en: "Workflow automation — 500+ integrations, self-host or cloud",
+    sr: "Workflow automatizacija - 500+ integracija, self-host ili cloud",
+    en: "Workflow automation - 500+ integrations, self-host or cloud",
   },
   categoryId: "prospecting",
   category: { sr: "Prospecting", en: "Prospecting" },
@@ -36,8 +36,8 @@ export const n8nTool: SalesTool = {
     en: "n8n is an open-source workflow automation platform: visual editor plus custom code (JS/Python), 500+ apps, and AI agents. Billing is per execution (full workflow run start to finish), not per step like Zapier.",
   },
   overviewExtended: {
-    sr: "Za GTM stack: povežite Clay, HubSpot, Instantly, FullEnrich, Slack — enrichment → routing → outreach bez vendor lock-in-a. Community Edition je besplatan na GitHub-u (self-host). Cloud: Starter €20/mes (2.5k executions), Pro €50, Business €667 (self-hosted license). Unlimited korisnika na svim planovima.",
-    en: "For your GTM stack: connect Clay, HubSpot, Instantly, FullEnrich, Slack — enrichment → routing → outreach without vendor lock-in. Community Edition is free on GitHub (self-host). Cloud: Starter €20/mo (2.5k executions), Pro €50, Business €667 (self-hosted license). Unlimited users on all plans.",
+    sr: "Za GTM stack: povežite Clay, HubSpot, Instantly, FullEnrich, Slack, enrichment → routing → outreach bez vendor lock-in-a. Community Edition je besplatan na GitHub-u (self-host). Cloud: Starter €20/mes (2.5k executions), Pro €50, Business €667 (self-hosted license). Unlimited korisnika na svim planovima.",
+    en: "For your GTM stack: connect Clay, HubSpot, Instantly, FullEnrich, Slack, enrichment → routing → outreach without vendor lock-in. Community Edition is free on GitHub (self-host). Cloud: Starter €20/mo (2.5k executions), Pro €50, Business €667 (self-hosted license). Unlimited users on all plans.",
   },
   idealFor: {
     sr: [
@@ -290,14 +290,14 @@ export const n8nTool: SalesTool = {
   },
   cons: {
     sr: [
-      "Zahteva tehnički mindset — nije pure no-code",
+      "Zahteva tehnički mindset, nije pure no-code",
       "Self-host = više DevOps odgovornosti",
       "Business plan skup za manje timove",
       "Overage na Business može biti skup",
       "Manje „plug and play“ od Zapier-a za non-tech",
     ],
     en: [
-      "Requires a technical mindset — not pure no-code",
+      "Requires a technical mindset, not pure no-code",
       "Self-host means more DevOps responsibility",
       "Business plan is expensive for smaller teams",
       "Business overages can get costly",
@@ -353,8 +353,8 @@ export const n8nTool: SalesTool = {
       slug: "instantly",
       name: "Instantly",
       description: {
-        sr: "Email outreach — često target workflow-a.",
-        en: "Email outreach — often the target of workflows.",
+        sr: "Email outreach, često target workflow-a.",
+        en: "Email outreach, often the target of workflows.",
       },
       startingPrice: { sr: "od $37", en: "from $37" },
       trial: { sr: "14 dana", en: "14 days" },
@@ -379,15 +379,15 @@ export const n8nTool: SalesTool = {
     {
       question: { sr: "Da li je n8n besplatan?", en: "Is n8n free?" },
       answer: {
-        sr: "Da — Community Edition (self-hosted) je open source na GitHub-u. Hosted Starter/Pro imaju besplatan trial bez kartice. Business trial traje 14 dana.",
-        en: "Yes — Community Edition (self-hosted) is open source on GitHub. Hosted Starter/Pro offer a free trial with no card. Business trial lasts 14 days.",
+        sr: "Da - Community Edition (self-hosted) je open source na GitHub-u. Hosted Starter/Pro imaju besplatan trial bez kartice. Business trial traje 14 dana.",
+        en: "Yes - Community Edition (self-hosted) is open source on GitHub. Hosted Starter/Pro offer a free trial with no card. Business trial lasts 14 days.",
       },
     },
     {
       question: { sr: "Zašto izabrati n8n?", en: "Why choose n8n?" },
       answer: {
-        sr: "Kada vam treba fleksibilnost (kod + UI), self-host opcija, predvidljiva cena po execution-u i 500+ integracija za GTM automatizaciju — enrichment, routing leadova, sync u CRM.",
-        en: "When you need flexibility (code + UI), self-hosting, predictable per-execution pricing, and 500+ integrations for GTM automation — enrichment, lead routing, CRM sync.",
+        sr: "Kada vam treba fleksibilnost (kod + UI), self-host opcija, predvidljiva cena po execution-u i 500+ integracija za GTM automatizaciju, enrichment, routing leadova, sync u CRM.",
+        en: "When you need flexibility (code + UI), self-hosting, predictable per-execution pricing, and 500+ integrations for GTM automation, enrichment, lead routing, CRM sync.",
       },
     },
     {
@@ -410,8 +410,8 @@ export const n8nTool: SalesTool = {
     {
       question: { sr: "Da li n8n ima API?", en: "Does n8n have an API?" },
       answer: {
-        sr: "Da — REST API za upravljanje workflow-ima, CLI za self-host, custom HTTP/GraphQL koraci, i MCP integracije u novijim stack-ovima.",
-        en: "Yes — REST API to manage workflows, CLI for self-host, custom HTTP/GraphQL steps, and MCP integrations in newer stacks.",
+        sr: "Da - REST API za upravljanje workflow-ima, CLI za self-host, custom HTTP/GraphQL koraci, i MCP integracije u novijim stack-ovima.",
+        en: "Yes - REST API to manage workflows, CLI for self-host, custom HTTP/GraphQL steps, and MCP integrations in newer stacks.",
       },
     },
     {
