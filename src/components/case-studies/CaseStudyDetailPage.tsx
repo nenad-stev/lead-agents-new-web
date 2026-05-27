@@ -117,6 +117,7 @@ function ContentSection({
   reverse?: boolean;
 }) {
   const hasImage = Boolean(section.image);
+  const hasEmbeds = Boolean(section.embeds?.length);
   const paragraphs = section.paragraphs;
   const leadParagraphs = paragraphs.slice(0, -1);
   const closingParagraph = paragraphs.length > 1 ? paragraphs.at(-1) : null;
@@ -141,7 +142,7 @@ function ContentSection({
         <div
           className={cn(
             hasImage && "grid items-start gap-10 lg:grid-cols-2 lg:gap-16",
-            !hasImage && "max-w-3xl",
+            !hasImage && !hasEmbeds && "max-w-3xl",
             reverse && hasImage && "lg:[&>*:first-child]:order-2",
           )}
         >
@@ -181,6 +182,92 @@ function ContentSection({
                   </li>
                 ))}
               </ul>
+            ) : null}
+
+            {section.link ? (
+              <div className="mt-6">
+                <a
+                  href={section.link.href[locale]}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="inline-flex rounded-full border border-accent/40 bg-accent/10 px-4 py-2 text-sm font-semibold text-foreground transition-colors hover:bg-accent/20"
+                >
+                  {t(section.link.label, locale)} ↗
+                </a>
+              </div>
+            ) : null}
+
+            {section.links?.length ? (
+              <ul className="mt-4 space-y-2 text-sm">
+                {section.links.map((item) => (
+                  <li key={item.href[locale]}>
+                    <a
+                      href={item.href[locale]}
+                      target="_blank"
+                      rel="noreferrer"
+                      className="text-accent underline-offset-2 hover:underline"
+                    >
+                      {t(item.label, locale)}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            ) : null}
+
+            {section.stats?.length ? (
+              <div className="mt-8 grid gap-3 sm:grid-cols-2">
+                {section.stats.map((stat) => (
+                  <div
+                    key={`${stat.value}-${stat.label[locale]}`}
+                    className={cn(
+                      "rounded-xl border px-4 py-4",
+                      stat.featured
+                        ? "border-accent/60 bg-accent/20 sm:col-span-2 md:px-6 md:py-5"
+                        : "border-accent/25 bg-accent/10",
+                    )}
+                  >
+                    <p className={cn("font-bold text-foreground", stat.featured ? "text-3xl md:text-4xl" : "text-2xl")}>
+                      {stat.value}
+                    </p>
+                    <p className={cn("mt-1", stat.featured ? "text-base font-medium text-foreground/90" : "text-sm text-muted")}>
+                      {t(stat.label, locale)}
+                    </p>
+                  </div>
+                ))}
+              </div>
+            ) : null}
+
+            {section.embeds?.length ? (
+              <div className="mt-8 grid gap-4 sm:grid-cols-2">
+                {section.embeds.map((embed) => (
+                  <article
+                    key={`${embed.type}-${embed.src}`}
+                    className="overflow-hidden rounded-2xl border border-border/80 bg-card/60"
+                  >
+                    <div
+                      className={cn(
+                        "relative mx-auto w-full sm:w-[80%]",
+                        embed.type === "youtube" ? "aspect-[9/16]" : "aspect-[4/5]",
+                      )}
+                    >
+                      <iframe
+                        src={embed.src}
+                        title={t(embed.title, locale)}
+                        className="absolute inset-0 h-full w-full"
+                        allow={
+                          embed.type === "youtube"
+                            ? "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                            : undefined
+                        }
+                        allowFullScreen={embed.type === "youtube"}
+                      />
+                    </div>
+                    <p className="px-4 py-3 text-sm font-medium text-foreground">
+                      {t(embed.title, locale)}
+                    </p>
+                  </article>
+                ))}
+              </div>
             ) : null}
           </div>
 
@@ -231,6 +318,12 @@ export function CaseStudyDetailPage({
               <h1 className="case-study-display mt-5 text-[2.5rem] text-foreground sm:text-5xl md:text-6xl lg:text-[3.75rem]">
                 {t(caseStudy.hero.title, locale)}
               </h1>
+
+              {caseStudy.hero.highlight ? (
+                <p className="mt-5 inline-flex rounded-full border border-accent/40 bg-accent/10 px-4 py-2 text-sm font-semibold text-foreground md:text-base">
+                  {t(caseStudy.hero.highlight, locale)}
+                </p>
+              ) : null}
 
               <p className="mt-6 max-w-2xl text-lg font-light leading-relaxed text-muted md:text-xl md:leading-8">
                 {t(caseStudy.excerpt, locale)}

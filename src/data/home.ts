@@ -113,6 +113,15 @@ export const homeTestimonials = [
       en: "Over the last 6 months of collaboration, they fully met my expectations! The number of meetings increased tenfold, opening fantastic sales opportunities in global markets.",
     },
   },
+  {
+    id: "sabine-karunanithy",
+    name: "Sabine Karunanithy",
+    image: "/images/testimonials/sabine-karunanithy.png",
+    quote: {
+      sr: "Tražila sam jače prisustvo na društvenim mrežama, više jasnoće oko publike i sistem za repurposing sadržaja. Lead Agents mi je dao baš to, i više od toga. Za godinu dana saradnje podigli su moj LinkedIn profil na viši nivo i naučili me kako da govorim pred kamerom, na šta da obratim pažnju i kako da vodim LinkedIn live webinare. Najviše cenim njihovo strpljenje, kreativnost i pouzdanost.",
+      en: "I was looking for a better, stronger presence on social media. I wanted to learn how to make videos, repurpose content, and get clarity on the audience I wanted to attract. Lead Agents gave me exactly that, and more. In one year, they took my LinkedIn profile to a new level and taught me how to speak on camera, what to focus on, and how to run LinkedIn live webinars. What I appreciated most was their patience, creativity, and reliability.",
+    },
+  },
 ] as const;
 
 export type TeamMember = {

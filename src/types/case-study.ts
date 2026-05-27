@@ -20,6 +20,20 @@ export type CaseStudySection = {
     label: LocalizedText;
     href: { sr: string; en: string };
   };
+  links?: {
+    label: LocalizedText;
+    href: { sr: string; en: string };
+  }[];
+  stats?: {
+    value: string;
+    label: LocalizedText;
+    featured?: boolean;
+  }[];
+  embeds?: {
+    type: "youtube" | "linkedin";
+    title: LocalizedText;
+    src: string;
+  }[];
 };
 
 export type CaseStudyDetail = {
@@ -34,6 +48,7 @@ export type CaseStudyDetail = {
   };
   hero: {
     title: LocalizedText;
+    highlight?: LocalizedText;
   };
   sections: CaseStudySection[];
   outlook: {

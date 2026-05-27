@@ -4,6 +4,7 @@ export const clientTestimonialImages = {
   "lisa-cox": "/images/testimonials/lisa-cox.png",
   "nicolas-martinez": "/images/testimonials/nicolas-martinez.png",
   "mladen-vojkovic": "/images/testimonials/mladen-vojkovic.png",
+  "sabine-karunanithy": "/images/testimonials/sabine-karunanithy.png",
 } as const;
 
 export const sharedClientResults: ServiceResult[] = [
@@ -56,6 +57,26 @@ export const sharedClientResults: ServiceResult[] = [
       { value: "70%", label: { sr: "Prihvaćenih konekcija", en: "Connections accepted" } },
       { value: "57.4%", label: { sr: "Odgovora", en: "Reply rate" } },
       { value: "119", label: { sr: "Organizovanih sastanaka", en: "Meetings booked" } },
+    ],
+  },
+  {
+    id: "sabine-karunanithy",
+    name: "Sabine Karunanithy",
+    image: clientTestimonialImages["sabine-karunanithy"],
+    role: {
+      sr: "HR Consultant · Founder @ CM4C",
+      en: "HR Consultant · Founder @ CM4C",
+    },
+    quote: {
+      sr: "Tražila sam jače prisustvo na društvenim mrežama i jasnoću oko publike koju želim da privučem. Lead Agents mi je dao baš to, i više od toga. Za godinu dana saradnje podigli su moj LinkedIn profil na viši nivo i naučili me kako da pričam pred kamerom, na šta da obratim pažnju i kako da vodim LinkedIn live webinare. Tika i Nenad su odlično razumeli moje potrebe. Najviše cenim njihovo strpljenje, kreativnost i pouzdanost.",
+      en: "I was looking for a better, stronger presence on social media. I wanted to learn how I can make videos, repurpose content, and get clarity on who I wanted to attract as audience. Lead Agents gave me exactly that, and more. Over one year of collaboration, they took my LinkedIn profile to a new level and taught me how to speak on camera, what to focus on, and how to run LinkedIn live webinars. Both Tika and Nenad showed great understanding of what I needed. What I appreciated most was their patience, creativity, and reliability.",
+    },
+    stats: [
+      { value: "970", label: { sr: "Novih LinkedIn pratilaca (3 meseca)", en: "New LinkedIn followers (3 months)" } },
+      { value: "152", label: { sr: "Leadova u pipeline-u", en: "Leads in pipeline" } },
+      { value: "123/73", label: { sr: "Webinar registracije / prisustvo", en: "Webinar registrations / attendees" } },
+      { value: "$340k", label: { sr: "Pipeline vrednost", en: "Pipeline value" } },
+      { value: "1", label: { sr: "Potpisan klijent", en: "Client signed" } },
     ],
   },
 ];
