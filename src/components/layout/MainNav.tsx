@@ -66,6 +66,15 @@ function ChartIcon() {
   );
 }
 
+function PlayIcon() {
+  return (
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.75" aria-hidden>
+      <rect x="3.5" y="4.5" width="17" height="15" rx="2.5" />
+      <path d="m10 9 5 3-5 3V9Z" fill="currentColor" stroke="none" />
+    </svg>
+  );
+}
+
 const MENU_CLOSE_DELAY_MS = 320;
 
 function NavDropdownPanel({
@@ -185,6 +194,10 @@ export function MainNav({ locale, dictionary, languageHref }: MainNavProps) {
   const [featuredService, ...otherServices] = homeServices;
   const lessonCount = founderLedGrowthLessons.length;
   const servicesAnchor = `${routes.home}#usluge`;
+  const webinarSlug =
+    locale === "en"
+      ? "how-to-sell-your-services-on-linkedin-in-2026"
+      : "kako-prodati-usluge-na-linkedin-u-2026";
 
   function serviceHref(slug: string) {
     return hasServicePage(slug) ? routes.service(slug) : `${routes.home}${getServiceAnchor(slug)}`;
@@ -262,6 +275,24 @@ export function MainNav({ locale, dictionary, languageHref }: MainNavProps) {
         </span>
         <p className="nav-mega__edu-title">{nav.caseStudies}</p>
         <p className="nav-mega__edu-desc">{nav.educationCaseStudiesDesc}</p>
+        <span className="nav-mega__arrow mt-auto">
+          <ArrowIcon />
+        </span>
+      </Link>
+
+      <Link
+        href={routes.webinar(webinarSlug)}
+        className="nav-mega__edu-card"
+        role="menuitem"
+      >
+        <span className="nav-mega__edu-icon">
+          <PlayIcon />
+        </span>
+        <span className="nav-mega__edu-meta">
+          {locale === "sr" ? "Webinar replay" : "Webinar replay"}
+        </span>
+        <p className="nav-mega__edu-title">{nav.webinars}</p>
+        <p className="nav-mega__edu-desc">{nav.educationWebinarsDesc}</p>
         <span className="nav-mega__arrow mt-auto">
           <ArrowIcon />
         </span>
@@ -397,6 +428,13 @@ export function MainNav({ locale, dictionary, languageHref }: MainNavProps) {
                     onClick={() => setMobileOpen(false)}
                   >
                     {nav.caseStudies}
+                  </Link>
+                  <Link
+                    href={routes.webinar(webinarSlug)}
+                    className="nav-mobile-link"
+                    onClick={() => setMobileOpen(false)}
+                  >
+                    {nav.webinars}
                   </Link>
                 </div>
               ) : null}

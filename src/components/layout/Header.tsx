@@ -84,6 +84,36 @@ function getLanguageSwitchPath(pathname: string, targetLocale: Locale): string {
     return routes.contact;
   }
 
+  if (pathname === "/webinar") {
+    return targetLocale === "en" ? "/en/webinar" : "/webinar";
+  }
+
+  if (pathname === "/en/webinar") {
+    return routes.webinars;
+  }
+
+  if (pathname === "/webinar/kako-prodati-usluge-na-linkedin-u-2026") {
+    return targetLocale === "en"
+      ? "/en/webinar/how-to-sell-your-services-on-linkedin-in-2026"
+      : pathname;
+  }
+
+  if (pathname === "/en/webinar/how-to-sell-your-services-on-linkedin-in-2026") {
+    return targetLocale === "sr"
+      ? "/webinar/kako-prodati-usluge-na-linkedin-u-2026"
+      : pathname;
+  }
+
+  if (pathname.startsWith("/en/webinar/")) {
+    const slug = pathname.replace("/en/webinar/", "");
+    return targetLocale === "sr" ? `/webinar/${slug}` : `/en/webinar/${slug}`;
+  }
+
+  if (pathname.startsWith("/webinar/")) {
+    const slug = pathname.replace("/webinar/", "");
+    return targetLocale === "en" ? `/en/webinar/${slug}` : `/webinar/${slug}`;
+  }
+
   if (pathname.startsWith("/en/growth-playbook/founder-led-growth/")) {
     const lesson = pathname.replace("/en/growth-playbook/founder-led-growth/", "");
     return targetLocale === "sr"

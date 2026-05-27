@@ -9,6 +9,7 @@ export const en = {
     services: "Services",
     education: "Education",
     caseStudies: "Case studies",
+    webinars: "Webinars",
     salesTools: "Sales tools",
     growthPlaybook: "Growth Playbook",
     contact: "Contact",
@@ -21,6 +22,8 @@ export const en = {
       "Founder Led Growth methodology, lessons, phases, and practical steps for B2B growth on LinkedIn.",
     educationCaseStudiesDesc:
       "Real projects, numbers, and lessons from working with startups and established B2B teams.",
+    educationWebinarsDesc:
+      "Webinar replay pages with tactics, frameworks, and practical examples for LinkedIn sales.",
     lessonsCount: "lessons",
     languageSwitch: "SR",
   },

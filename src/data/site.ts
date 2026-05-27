@@ -21,6 +21,8 @@ export const routes = {
     growthPlaybook: "/growth-playbook/founder-led-growth",
     growthPlaybookLesson: (lessonSlug: string) =>
       `/growth-playbook/founder-led-growth/${lessonSlug}`,
+    webinars: "/webinar",
+    webinar: (slug: string) => `/webinar/${slug}`,
   },
   en: {
     home: "/en",
@@ -33,6 +35,8 @@ export const routes = {
     growthPlaybook: "/en/growth-playbook/founder-led-growth",
     growthPlaybookLesson: (lessonSlug: string) =>
       `/en/growth-playbook/founder-led-growth/${lessonSlug}`,
+    webinars: "/en/webinar",
+    webinar: (slug: string) => `/en/webinar/${slug}`,
   },
 } as const;
 

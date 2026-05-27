@@ -9,6 +9,7 @@ export const sr = {
     services: "Usluge",
     education: "Edukacija",
     caseStudies: "Case studije",
+    webinars: "Webinari",
     salesTools: "Prodajni alati",
     growthPlaybook: "Growth Playbook",
     contact: "Kontakt",
@@ -21,6 +22,8 @@ export const sr = {
       "Founder Led Growth metodologija, lekcije, faze i praktični koraci za B2B rast na LinkedIn-u.",
     educationCaseStudiesDesc:
       "Realni projekti, brojevi i šta smo naučili radeći sa startapima i established timovima.",
+    educationWebinarsDesc:
+      "Webinar replay stranice sa taktikama, framework-ima i konkretnim primerima za LinkedIn prodaju.",
     lessonsCount: "lekcija",
     languageSwitch: "EN",
   },
