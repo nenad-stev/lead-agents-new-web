@@ -1,16 +1,13 @@
 import { NextResponse } from "next/server";
 
-import { contactInfo } from "@/data/contact";
+const FLG_WAITLIST_WEBHOOK_URL =
+  process.env.FLG_WAITLIST_WEBHOOK_URL ??
+  "https://hook.eu2.make.com/7ico7iyhtxe1ngrajmgf3yljgenq9je6";
 
-const CONTACT_WEBHOOK_URL =
-  process.env.CONTACT_WEBHOOK_URL ??
-  "https://hook.eu2.make.com/rh5yoji61q8fvbf8yadmf6fdf71vsbnh";
-
-type ContactPayload = {
-  name?: string;
+type WaitlistPayload = {
   email?: string;
-  message?: string;
   locale?: string;
+  page?: string;
 };
 
 function isValidEmail(email: string) {
@@ -18,34 +15,30 @@ function isValidEmail(email: string) {
 }
 
 export async function POST(request: Request) {
-  let body: ContactPayload;
+  let body: WaitlistPayload;
 
   try {
-    body = (await request.json()) as ContactPayload;
+    body = (await request.json()) as WaitlistPayload;
   } catch {
     return NextResponse.json({ error: "Invalid JSON" }, { status: 400 });
   }
 
-  const name = body.name?.trim() ?? "";
   const email = body.email?.trim() ?? "";
-  const message = body.message?.trim() ?? "";
 
-  if (!name || !email || !isValidEmail(email)) {
-    return NextResponse.json({ error: "Invalid form data" }, { status: 400 });
+  if (!email || !isValidEmail(email)) {
+    return NextResponse.json({ error: "Invalid email" }, { status: 400 });
   }
 
   try {
-    const webhookResponse = await fetch(CONTACT_WEBHOOK_URL, {
+    const webhookResponse = await fetch(FLG_WAITLIST_WEBHOOK_URL, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
-        name,
         email,
-        message: message || "",
         locale: body.locale ?? "sr",
-        to: contactInfo.email,
+        page: body.page ?? "",
+        source: "founder-led-growth-playbook-waitlist",
         submittedAt: new Date().toISOString(),
-        source: "lead-agents-contact-form",
       }),
     });
 
