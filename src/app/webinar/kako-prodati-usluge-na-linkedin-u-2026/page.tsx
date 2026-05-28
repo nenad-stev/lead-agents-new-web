@@ -259,15 +259,15 @@ export default function WebinarLinkedIn2026Page() {
             </nav>
           </aside>
 
-          <div>
+          <div className="min-w-0">
             <Section id="video" title="Pogledajte ceo webinar">
               <p className="max-w-4xl text-lg leading-relaxed text-muted">
                 U ovom snimku prolazimo kroz kompletan Founder-Led Growth sistem: od ICP-a i
                 LinkedIn profila, preko cold outreach-a i contenta, do LinkedIn Ads-a, CRM
                 tracking-a i pravovremenog follow-up-a na osnovu buying signals-a.
               </p>
-              <div className="mt-8 overflow-hidden rounded-2xl border border-border bg-card/50 p-3 md:p-4">
-                <div className="relative w-full overflow-hidden rounded-xl" style={{ paddingTop: "56.25%" }}>
+              <div className="mt-8 max-w-full overflow-hidden rounded-2xl border border-border bg-card/50 p-2 sm:p-3 md:p-4">
+                <div className="relative aspect-video w-full overflow-hidden rounded-xl">
                   <iframe
                     src={youtubeEmbedUrl}
                     title="Kako prodati svoje usluge na LinkedInu u 2026"
@@ -492,8 +492,8 @@ export default function WebinarLinkedIn2026Page() {
               <h3 className="text-2xl font-semibold text-foreground">
                 Manualni outreach zavisi od discipline. Automatski outreach zavisi od sistema.
               </h3>
-              <div className="mt-6 overflow-hidden rounded-2xl border border-border">
-                <table className="w-full text-left text-sm">
+              <div className="mt-6 overflow-x-auto rounded-2xl border border-border">
+                <table className="min-w-[680px] w-full text-left text-sm">
                   <thead className="bg-card/70">
                     <tr>
                       <th className="px-4 py-3 text-accent">Manualni cold outreach</th>

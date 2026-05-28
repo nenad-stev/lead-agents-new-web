@@ -219,8 +219,8 @@ export default function WebinarLinkedIn2026EnPage() {
               profile optimization, outbound workflow, content engine, LinkedIn Ads, CRM tracking,
               and signal-based follow-up.
             </p>
-            <div className="mt-8 overflow-hidden rounded-2xl border border-border bg-card/50 p-3 md:p-4">
-              <div className="relative w-full overflow-hidden rounded-xl" style={{ paddingTop: "56.25%" }}>
+            <div className="mt-8 max-w-full overflow-hidden rounded-2xl border border-border bg-card/50 p-2 sm:p-3 md:p-4">
+              <div className="relative aspect-video w-full overflow-hidden rounded-xl">
                 <iframe
                   src={youtubeEmbedUrl}
                   title="How to Sell Your Services on LinkedIn in 2026"
@@ -300,8 +300,8 @@ export default function WebinarLinkedIn2026EnPage() {
           </Section>
 
           <Section title="Manual vs automated outreach">
-            <div className="overflow-hidden rounded-2xl border border-border">
-              <table className="w-full text-left text-sm">
+            <div className="overflow-x-auto rounded-2xl border border-border">
+              <table className="min-w-[680px] w-full text-left text-sm">
                 <thead className="bg-card/70">
                   <tr>
                     <th className="px-4 py-3 text-accent">Manual outreach</th>
