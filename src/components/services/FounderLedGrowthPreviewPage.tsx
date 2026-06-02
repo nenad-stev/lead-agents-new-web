@@ -13,15 +13,18 @@ import { getRoutes } from "@/data/site";
 import type { Dictionary, Locale } from "@/lib/i18n";
 import type { LocalizedText } from "@/types/service";
 
+const FLG_IMAGE_BASE = "/images/services/founder-led-growth";
+
 const PREVIEW_IMAGES = {
   hero: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1400&q=80&auto=format&fit=crop",
   outbound:
     "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=900&q=80&auto=format&fit=crop",
-  content:
-    "https://images.unsplash.com/photo-1611944212129-29977ae1390c?w=900&q=80&auto=format&fit=crop",
+  content: `${FLG_IMAGE_BASE}/founder-led-growth-linkedin-autoritet.jpg`,
   ads: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80&auto=format&fit=crop",
-  playbook:
-    "https://images.unsplash.com/photo-1432888498266-38ffec3eaf4a?w=900&q=80&auto=format&fit=crop",
+  playbook: {
+    sr: `${FLG_IMAGE_BASE}/founder-led-growth-playbook-sr.jpg`,
+    en: `${FLG_IMAGE_BASE}/founder-led-growth-playbook-en.jpg`,
+  },
 } as const;
 
 type FounderLedGrowthPreviewPageProps = {
@@ -122,9 +125,22 @@ export function FounderLedGrowthPreviewPage({
 
   const pillarMedia = [
     { image: PREVIEW_IMAGES.outbound, accent: "01" },
-    { image: PREVIEW_IMAGES.content, accent: "02" },
+    {
+      image: PREVIEW_IMAGES.content,
+      accent: "02",
+      alt: {
+        sr: "LinkedIn autoritet, founder objavljuje B2B sadržaj na laptopu",
+        en: "LinkedIn authority, founder publishing B2B content on a laptop",
+      },
+    },
     { image: PREVIEW_IMAGES.ads, accent: "03" },
   ];
+
+  const playbookImage = PREVIEW_IMAGES.playbook[locale];
+  const playbookImageAlt =
+    locale === "sr"
+      ? "Founder Led Growth Playbook, 12 lekcija i 9 modula, pregled kurikuluma"
+      : "Founder Led Growth Playbook, 12 lessons and 9 modules, curriculum overview";
 
   return (
     <>
@@ -260,7 +276,11 @@ export function FounderLedGrowthPreviewPage({
                   >
                     <Image
                       src={media.image}
-                      alt={t(step.title, locale)}
+                      alt={
+                        "alt" in media && media.alt
+                          ? media.alt[locale]
+                          : t(step.title, locale)
+                      }
                       fill
                       className="object-cover"
                       sizes="(max-width: 1024px) 100vw, 540px"
@@ -324,10 +344,10 @@ export function FounderLedGrowthPreviewPage({
             <div className="flg-preview-playbook grid gap-8 overflow-hidden rounded-3xl border border-border lg:grid-cols-2">
               <div className="relative min-h-[240px] lg:min-h-full">
                 <Image
-                  src={PREVIEW_IMAGES.playbook}
-                  alt=""
+                  src={playbookImage}
+                  alt={playbookImageAlt}
                   fill
-                  className="object-cover"
+                  className="object-cover object-left-top"
                   sizes="(max-width: 1024px) 100vw, 540px"
                 />
               </div>
