@@ -7,11 +7,19 @@ export type CaseStudyImage = {
   fit?: "cover" | "contain";
 };
 
+export type CaseStudyExternalLink = {
+  label: LocalizedText;
+  href: { sr: string; en: string };
+  primary?: boolean;
+};
+
 export type CaseStudySection = {
   id: string;
   title: LocalizedText;
   paragraphs: LocalizedText[];
   image?: CaseStudyImage;
+  /** split = text + image column; full = image spans container below copy */
+  imageLayout?: "split" | "full";
   list?: {
     title?: LocalizedText;
     items: LocalizedText[];
@@ -49,6 +57,9 @@ export type CaseStudyDetail = {
   hero: {
     title: LocalizedText;
     highlight?: LocalizedText;
+    tags?: LocalizedText[];
+    image?: CaseStudyImage;
+    links?: CaseStudyExternalLink[];
   };
   sections: CaseStudySection[];
   outlook: {

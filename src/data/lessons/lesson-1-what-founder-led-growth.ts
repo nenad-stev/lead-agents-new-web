@@ -59,20 +59,14 @@ export const lesson1RichContent: RichLessonContent = {
     ),
     paragraphs: P(
       [
-        "Većina founder-a nema problem sa leadovima.",
-        "Ima problem sa poverenjem.",
-        "Većina founder-a misli da im treba više leadova. Zato kupe listu. Zaposle SDR-a. Šalju cold email. Automatizuju LinkedIn poruke. Pa se pitaju zašto tržište deluje hladno.",
-        "Problem nije uvek volumen. Problem je kontekst.",
-        "Kupac nikad nije čuo tvoj pogled na problem. Ne zna šta misliš. Ne zna zašto je tvoja firma drugačija. Još ne veruje tvojoj poruci. Zato outreach deluje kao prekid.",
-        "Founder-Led Growth to rešava sistemom konekcija: ICP, profil, outreach, content, signali, value-based follow-up, re-engagement, CRM. Founder je kanal poverenja, ne influencer.",
+        "Većina founder-a misli da im treba više leadova. Zato kupe listu. Zaposle SDR-a. Šalju cold email. Automatizuju LinkedIn poruke. Pa se pitaju zašto outreach ne donosi rezultate.",
+        "Problem nije uvek volumen. Kupac često ne zna ko si, šta misliš i zašto bi ga tvoja ponuda zanimala. Još nema dovoljno poverenja da odgovori na poruku.",
+        "Founder-Led Growth to rešava kao jedan operativni sistem: ICP, profil, outreach, content, engagement, CRM i signali. Outreach i content rade istovremeno, outreach širi mrežu i otvara razgovore, a content gradi poverenje. Founder je kanal prodaje, a ne influencer.",
       ],
       [
-        "Most founders don't have a lead problem.",
-        "They have a trust problem.",
-        "Most founders think they need more leads. So they buy a list. They hire an SDR. They send cold emails. They automate LinkedIn messages. Then they wonder why the market feels cold.",
-        "The problem is not always volume. The problem is context.",
-        "Your buyer has never heard your point of view. They do not know what you believe. They do not know why your company is different. They do not trust your message yet. So when your outreach lands, it feels like interruption.",
-        "Founder-Led Growth fixes that, not by turning the founder into an influencer, but by turning the founder into the most trusted distribution channel in the company.",
+        "Most founders think they need more leads. So they buy a list. They hire an SDR. They send cold emails. They automate LinkedIn messages. Then they wonder why outreach does not deliver results.",
+        "The problem is not always volume. The buyer often does not know who you are, what you believe, or why your offer should matter to them. They do not yet trust your message enough to reply.",
+        "Founder-Led Growth fixes that as one operating system: ICP, profile, outreach, content, engagement, CRM, and signals. Outreach and content run at the same time — outreach expands the network and opens conversations, content builds trust. The founder is a sales channel, not an influencer.",
       ],
     ),
     callout: L(
@@ -83,13 +77,18 @@ export const lesson1RichContent: RichLessonContent = {
   toc: [
     { id: "learn", title: L("Šta ćeš naučiti", "What this lesson will teach you") },
     { id: "why", title: L("Zašto je ovo važno", "Why this matters") },
+    { id: "b2b-changed", title: L("Šta se promenilo u B2B prodaji", "What changed in B2B sales") },
+    { id: "buyer-journey", title: L("Moderan B2B buyer journey", "Modern B2B buyer journey") },
+    { id: "scaling-framework", title: L("Kako se skalira FLG sistem", "How the FLG system scales") },
+    { id: "three-systems", title: L("Tri povezana sistema", "Three connected systems") },
+    { id: "outreach-compare", title: L("Manualni vs sistemski outreach", "Manual vs systematic outreach") },
     { id: "core", title: L("Osnovna ideja", "Core idea") },
     { id: "vs-branding", title: L("FLG vs lični brend", "Founder-Led Growth vs Personal Branding") },
     { id: "trust-shortcut", title: L("Founder kao prečica poverenja", "The founder is the trust shortcut") },
     { id: "confidence", title: L("Poverenje pre demo-a", "Buyers need confidence before demo") },
     { id: "demand", title: L("Kreiranje vs hvatanje potražnje", "Demand creation vs capture") },
     { id: "crm", title: L("CRM kao sistemski sloj", "CRM as the system layer") },
-    { id: "framework", title: L("Okvir: Context → Pipeline", "Framework: Context → Pipeline") },
+    { id: "framework", title: L("Okvir: ICP → Pipeline", "Framework: ICP → Pipeline") },
     { id: "story", title: L("Lead Agents redosled", "Lead Agents sequence") },
     { id: "proof", title: L("Dokaz i istraživanja", "Proof / trust section") },
     { id: "implement", title: L("Kako implementirati", "How to implement") },
@@ -112,10 +111,10 @@ export const lesson1RichContent: RichLessonContent = {
             [
               "šta Founder-Led Growth zapravo jeste;",
               "zašto radi za B2B firme;",
-              "zašto founder vidljivost gradi poverenje brže od brand content-a;",
-              "kako se LinkedIn, content, webinari, outreach, CRM i intent signali povezuju;",
-              "zašto nasumično postovanje ne pravi pipeline;",
-              "kako da misliš o Founder-Led Growth kao revenue sistemu, ne marketing aktivnosti.",
+              "zašto vidljivost koju pravi founder gradi poverenje brže od brenda;",
+              "kako se ICP, profil, outreach, content, engagement, CRM i signali povezuju;",
+              "zašto nasumično postovanje ne donosi rezultate i ne gradi pipeline;",
+              "kako da razmišljaš o Founder-Led Growth kao revenue sistemu, ne marketing aktivnosti.",
             ],
             [
               "what Founder-Led Growth actually is;",
@@ -131,11 +130,11 @@ export const lesson1RichContent: RichLessonContent = {
           type: "illustration",
           src: "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&w=1400&q=80",
           alt: L(
-            "Founder na sastanku sa B2B kupcem, kontekst pre prodaje",
+            "Founder na sastanku sa B2B kupcem",
             "Founder in a B2B meeting, context before the sales pitch",
           ),
           caption: L(
-            "Founder-Led Growth počinje razgovorom o problemu i poverenju, ne cold pitch-om.",
+            "Founder-Led Growth počinje izgradnjom poverenja, a ne cold pitch-om.",
             "Founder-Led Growth starts with problem context and trust, not a cold pitch.",
           ),
           credit: L("Foto: Unsplash", "Photo: Unsplash"),
@@ -151,10 +150,10 @@ export const lesson1RichContent: RichLessonContent = {
             L("ICP", "ICP"),
             L("Profil", "Profile"),
             L("Outreach", "Outreach"),
-            L("Signali", "Signals"),
             L("Content", "Content"),
-            L("Ads", "Ads"),
+            L("Engagement", "Engagement"),
             L("CRM", "CRM"),
+            L("Signali", "Signals"),
           ],
         },
       ],
@@ -168,10 +167,9 @@ export const lesson1RichContent: RichLessonContent = {
           type: "paragraphs",
           paragraphs: P(
             [
-              "B2B kupci ne kreću u pravoj liniji. Istražuju tiho. Upoređuju opcije pre razgovora sa prodajom. Pitaju kolege. Gledaju LinkedIn. Čitaju content. Grade interni konsenzus. Prave shortlist pre nego što tvoj sales tim uopšte zna da postoji prilika.",
-              "Tu Founder-Led Growth ima smisla. Founder gradi poverenje pre nego što kupac uđe u formalan sales proces.",
-              "LinkedIn profil postaje sloj kredibiliteta. Content objašnjava problem pre poziva. Engagement zagreva tržište. Webinar produbljuje pažnju. Outreach koristi kontekst umesto lažne personalizacije. CRM prati celo putovanje. Intent signali pokazuju ko se približava kupovini.",
-              "Većina founder-a greši tako što LinkedIn, content, outbound, webinare i CRM tretira kao odvojene aktivnosti. Nisu odvojene. To je jedan sistem. Ako je jedan deo slab, ostatak puca.",
+              "B2B prodaja retko ide pravolinijski od poruke do sastanka. Kupci istražuju, upoređuju i grade interni dogovor. To ne znači da treba čekati da neko sam dođe, već da sistem mora da radi paralelno.",
+              "Founder-Led Growth počinje od jasnog ICP-a i profila, zatim pokreće outreach i content u isto vreme. Outreach povećava broj kontakata i širi mrežu. Content gradi poverenje. Engagement (komentari kod drugih) dodaje vidljivost. Ads pojačavaju ono što već radi. CRM prati šta se dešava. Signali pokazuju ko je zainteresovan i kada treba dodatni outreach.",
+              "Većina founder-a greši tako što LinkedIn, outreach, content i CRM tretira kao odvojene projekte. Nisu odvojeni. To je jedan sistem. Ako jedan deo ne radi, ceo pipeline pati.",
             ],
             [
               "B2B buyers do not move in a straight line. They research quietly. They compare options before they talk to sales. They ask peers. They check LinkedIn. They review content. They build internal consensus. They shortlist vendors before your sales team even knows there is an opportunity.",
@@ -198,6 +196,295 @@ export const lesson1RichContent: RichLessonContent = {
     },
     {
       type: "section",
+      id: "b2b-changed",
+      title: L("Šta se promenilo u B2B prodaji?", "What Changed in B2B Sales?"),
+      blocks: [
+        {
+          type: "paragraphs",
+          paragraphs: P(
+            [
+              "Pre nekoliko godina često je bilo dovoljno poslati solidan cold email i dobiti odgovor. Danas gotovo svaka kompanija koristi slične alate, AI pomaže svima da brže naprave poruke, a inbox-i su puni. Zbog toga dobra outreach poruka više nije dovoljna sama po sebi.",
+              "Kupac pre odgovora često proverava profil, čita nekoliko objava, vidi komentar, webinar ili oglas i tek onda odlučuje da li razgovor ima smisla. Zato moderan B2B growth sistem ne zavisi samo od jednog kanala. Outreach, content, engagement, ads i CRM moraju da rade zajedno.",
+            ],
+            [
+              "A few years ago, a solid cold email was often enough to generate a reply. Today, almost every company uses similar tools, AI helps everyone create messages faster, and inboxes are crowded. As a result, a good outreach message is no longer enough on its own.",
+              "Before replying, buyers often check a profile, read several posts, notice a comment, see a webinar, or encounter an ad. Only then do they decide whether a conversation is worth having. That is why a modern B2B growth system cannot depend on a single channel. Outreach, content, engagement, ads, and CRM need to work together.",
+            ],
+          ),
+        },
+      ],
+    },
+    {
+      type: "section",
+      id: "buyer-journey",
+      title: L("Kako danas izgleda moderan B2B buyer journey", "What a Modern B2B Buyer Journey Looks Like"),
+      blocks: [
+        {
+          type: "paragraphs",
+          paragraphs: P(
+            [
+              "B2B kupac retko rezerviše sastanak samo zato što je dobio jednu dobru poruku. Kupovina često počinje mnogo pre prvog razgovora. Kupac više puta nailazi na kompaniju i njene ljude kroz različite kanale.",
+            ],
+            [
+              "A B2B buyer rarely books a meeting because of a single outreach message. The buying process often starts much earlier. The buyer encounters the company and its people multiple times across different channels.",
+            ],
+          ),
+        },
+        {
+          type: "pipeline-flow",
+          title: L("Tipičan put do sastanka", "A typical path to a meeting"),
+          subtitle: L(
+            "Svaki korak povećava kontekst i poverenje pre razgovora.",
+            "Each step adds context and trust before the conversation.",
+          ),
+          stages: [
+            L("Vidi LinkedIn post", "Sees your LinkedIn post"),
+            L("Klikne na profil", "Visits your profile"),
+            L("Vidi webinar", "Sees a webinar announcement or recording"),
+            L("Više dodira sa founder-om", "Encounters the founder or expert again"),
+            L("Primi outreach", "Receives an outreach message"),
+            L("Vidi reklamu", "Sees a retargeting ad or Thought Leader Ad"),
+            L("Poseti website", "Visits the website"),
+            L("Rezerviše sastanak", "Books a meeting"),
+          ],
+        },
+        {
+          type: "callout",
+          variant: "accent",
+          text: L(
+            "Poenta nije da svaki kupac mora da prođe kroz identičan redosled. Poenta je da content, outreach, ads i CRM nisu odvojene aktivnosti. Zajedno povećavaju broj kvalitetnih dodirnih tačaka pre sastanka.",
+            "The point is not that every buyer follows the exact same sequence. The point is that content, outreach, ads, and CRM are not separate activities. Together, they create more relevant touchpoints before a meeting.",
+          ),
+        },
+      ],
+    },
+    {
+      type: "section",
+      id: "scaling-framework",
+      title: L("Kako se skalira Founder-Led Growth sistem", "How the Founder-Led Growth System Scales"),
+      blocks: [
+        {
+          type: "paragraphs",
+          paragraphs: P(
+            [
+              "Ovaj okvir ne zamenjuje sedam operativnih koraka ispod. Objasnjava kako se sistem razvija i skalira kroz vreme, kada već imaš ICP, profil i pokrenut outreach + content.",
+            ],
+            [
+              "This framework does not replace the seven operational steps below. It explains how the system evolves and scales over time, once you already have ICP, profile, and outreach + content running in parallel.",
+            ],
+          ),
+        },
+        {
+          type: "zone-cards",
+          cards: [
+            {
+              zone: L("1. Cold outreach", "1. Cold outreach"),
+              eyebrow: L("Validacija", "Validation"),
+              job: L(
+                "Direktno testiramo ICP, ponudu i poruke. Cilj je da otkrijemo ko ima relevantan problem sada i koja poruka otvara razgovor.",
+                "We directly test the ICP, offer, and messaging. The goal is to identify who has a relevant problem now and which message starts conversations.",
+              ),
+              doThis: L(
+                "Testiraj više poruka i ponuda uz CRM praćenje odgovora.",
+                "Test multiple messages and offers with CRM tracking of replies.",
+              ),
+            },
+            {
+              zone: L("2. Content", "2. Content"),
+              eyebrow: L("Poverenje", "Trust"),
+              job: L(
+                "Founder kroz edukativni content pokazuje ekspertizu, stavove, primere i način razmišljanja. Idealni kupac ga vidi više puta pre sastanka.",
+                "Through educational founder content, buyers repeatedly see expertise, opinions, examples, and a way of thinking before a meeting.",
+              ),
+              doThis: L(
+                "Pokreni content paralelno sa outreach-om, ne posle njega.",
+                "Start content in parallel with outreach, not after it.",
+              ),
+            },
+            {
+              zone: L("3. Ads", "3. Ads"),
+              eyebrow: L("Skaliranje", "Scaling"),
+              job: L(
+                "Kada znamo koji ICP, poruke i postovi privlače prave ljude, najbolji sadržaj pojačavamo kroz oglase, posebno Thought Leader Ads.",
+                "Once we know which ICP segments, messages, and posts attract the right audience, we amplify the best content through ads, especially Thought Leader Ads.",
+              ),
+              doThis: L(
+                "Skaliraj samo ono što organski već daje kvalitetan engagement od ICP-a.",
+                "Scale only what already drives quality engagement from your ICP organically.",
+              ),
+            },
+            {
+              zone: L("4. CRM", "4. CRM"),
+              eyebrow: L("Sistem", "System"),
+              job: L(
+                "Pratimo odakle je lead došao, koje aktivnosti je imao, koje signale je pokazao i koji sledeći korak ima smisla.",
+                "We track where each lead came from, which activities they completed, which signals they showed, and what the next relevant step should be.",
+              ),
+              doThis: L(
+                "CRM od starta, ne na kraju kampanje.",
+                "CRM from the start, not at the end of the campaign.",
+              ),
+            },
+            {
+              zone: L("5. Pravovremeni outreach", "5. Timely outreach"),
+              eyebrow: L("Sastanci", "Meetings"),
+              job: L(
+                "Na osnovu buying signala šaljemo relevantniju poruku u trenutku kada kupac već ima više konteksta i poverenja.",
+                "Buying signals help us reach out at the right moment, when the buyer already has more context and trust.",
+              ),
+              doThis: L(
+                "Signal određuje ton i hitnost, ne agresivnu automatsku prodaju.",
+                "Signals determine tone and urgency, not aggressive automated selling.",
+              ),
+            },
+          ],
+        },
+      ],
+    },
+    {
+      type: "section",
+      id: "three-systems",
+      title: L("Tri povezana sistema unutar Founder-Led Growth-a", "Three Connected Systems Within Founder-Led Growth"),
+      blocks: [
+        {
+          type: "comparison-cards",
+          cards: [
+            {
+              title: L("Sistem za generisanje sastanaka", "Meeting generation system"),
+              subtitle: L("Outreach", "Outreach"),
+              variant: "accent",
+              items: P(
+                [
+                  "Validira ICP, ponudu i messaging",
+                  "Širi mrežu i otvara razgovore",
+                  "Testira šta kupac stvarno odgovara",
+                  "Radi paralelno sa content-om",
+                ],
+                [
+                  "Validates ICP, offer, and messaging",
+                  "Expands the network and opens conversations",
+                  "Tests what buyers actually respond to",
+                  "Runs in parallel with content",
+                ],
+              ),
+            },
+            {
+              title: L("Sistem za izgradnju poverenja", "Trust-building system"),
+              subtitle: L("LinkedIn autoritet i content", "LinkedIn authority and content"),
+              variant: "muted",
+              items: P(
+                [
+                  "Profil kao landing stranica",
+                  "Edukativni postovi i klipovi",
+                  "Engagement kod ICP-a",
+                  "Webinari kao lead magnet",
+                ],
+                [
+                  "Profile as a landing page",
+                  "Educational posts and clips",
+                  "Engagement with your ICP",
+                  "Webinars as lead magnets",
+                ],
+              ),
+            },
+            {
+              title: L("Sistem za skaliranje", "Scaling system"),
+              subtitle: L("LinkedIn Ads i ABM", "LinkedIn Ads and ABM"),
+              variant: "muted",
+              items: P(
+                [
+                  "Thought Leader Ads na postovima koji već rade",
+                  "Retargeting i lead magnet kampanje",
+                  "Targetiranje po firmi, roli i industriji",
+                  "Pojačava signal, ne zamenjuje organski rad",
+                ],
+                [
+                  "Thought Leader Ads on posts that already work",
+                  "Retargeting and lead magnet campaigns",
+                  "Targeting by company, role, and industry",
+                  "Amplifies signals, does not replace organic work",
+                ],
+              ),
+            },
+          ],
+        },
+        {
+          type: "callout",
+          variant: "accent",
+          text: L(
+            "Outreach i content rade paralelno od starta. Outreach validira tržište i offer. Content gradi poverenje pre sastanka. CRM i signali pokazuju kada treba reagovati. Ads pojačavaju ono što već organski daje kvalitetan engagement.",
+            "Outreach and content run in parallel from the start. Outreach validates the market and offer. Content builds trust before the meeting. CRM and signals show when to react. Ads amplify what already drives quality organic engagement.",
+          ),
+        },
+      ],
+    },
+    {
+      type: "section",
+      id: "outreach-compare",
+      title: L("Manualni outreach i sistemski outreach", "Manual outreach and systematic outreach"),
+      blocks: [
+        {
+          type: "comparison-cards",
+          cards: [
+            {
+              title: L("Manualni outreach", "Manual outreach"),
+              subtitle: L("Zavisi od discipline pojedinca", "Depends on individual discipline"),
+              variant: "muted",
+              items: P(
+                [
+                  "Šalje se premalo poruka",
+                  "Follow-up se često zaboravi",
+                  "Teško je testirati više poruka i ponuda",
+                  "Nema jasne statistike",
+                  "Founder ili sales tim troše vreme na administraciju",
+                  "Rezultat previše zavisi od discipline pojedinca",
+                ],
+                [
+                  "Too few messages get sent",
+                  "Follow-up is often forgotten",
+                  "Hard to test multiple messages and offers",
+                  "No clear statistics",
+                  "Founder or sales team spends time on admin",
+                  "Results depend too much on individual discipline",
+                ],
+              ),
+            },
+            {
+              title: L("Sistemski outreach", "Systematic outreach"),
+              subtitle: L("Zavisi od procesa", "Depends on process"),
+              variant: "accent",
+              items: P(
+                [
+                  "Šalje se veći broj relevantnih poruka",
+                  "Follow-up ide automatski i na vreme",
+                  "Testiraju se različite ponude i poruke",
+                  "LinkedIn i email mogu da rade zajedno",
+                  "Odgovori i signali se beleže u CRM",
+                  "Sales tim više vremena ulaže u razgovore",
+                ],
+                [
+                  "A larger volume of relevant messages gets sent",
+                  "Follow-up runs automatically and on time",
+                  "Different offers and messages get tested",
+                  "LinkedIn and email can work together",
+                  "Replies and signals are logged in CRM",
+                  "Sales team spends more time in conversations",
+                ],
+              ),
+            },
+          ],
+        },
+        {
+          type: "callout",
+          text: L(
+            "Manualni outreach zavisi od discipline osobe. Sistemski outreach zavisi od dobro postavljenog procesa.",
+            "Manual outreach depends on individual discipline. Systematic outreach depends on a well-designed process.",
+          ),
+        },
+      ],
+    },
+    {
+      type: "section",
       id: "core",
       title: L("Osnovna ideja", "Core idea"),
       blocks: [
@@ -205,12 +492,14 @@ export const lesson1RichContent: RichLessonContent = {
           type: "paragraphs",
           paragraphs: P(
             [
-              "Founder-Led Growth nije lični brending. Lični brending je obično o vidljivosti. Founder-Led Growth je o pipeline-u. Founder može imati lajkove bez prihoda. Može postati viral, a privući pogrešnu publiku. Može postovati svaki dan bez sales procesa iza toga.",
-              "Founder-Led Growth radi samo kada se vidljivost veže za revenue motion. Svaka aktivnost ima posao:",
+              "Founder-Led Growth nije lični brending. Lični brend je deo sistema za izgradnju poverenja, ali nije ceo Founder-Led Growth sistem. Founder-Led Growth je operativni B2B revenue sistem u kom founder ili drugo relevantno lice kompanije postaje prepoznatljivo, gradi poverenje kod idealnih kupaca i povezuje content, outreach, engagement, webinare, oglase, CRM i buying signale kako bi kompanija generisala kvalifikovane sastanke.",
+              "Founder može imati lajkove bez prihoda. Može čak postati viralan na mrežama, ali ipak privući pogrešnu publiku. Cilj nije viralnost. Cilj je pipeline.",
+              "Founder-Led Growth radi samo kada se vidljivost veže za revenue. Svaka aktivnost ima određenu ulogu:",
             ],
             [
-              "Founder-Led Growth is not personal branding. Personal branding is usually about visibility. Founder-Led Growth is about pipeline.",
-              "A founder can get likes and still generate no revenue. Founder-Led Growth only works when visibility connects to a revenue motion. Every activity has a job:",
+              "Founder-Led Growth is not personal branding. Personal brand is part of the trust-building system, but it is not the entire Founder-Led Growth system. Founder-Led Growth is an operational B2B revenue system where the founder or another relevant company expert becomes visible, builds trust with ideal buyers, and connects content, outreach, engagement, webinars, ads, CRM, and buying signals to generate qualified meetings.",
+              "A founder can get likes and still generate no revenue. They can even go viral and attract the wrong audience. The goal is not virality. The goal is pipeline.",
+              "Founder-Led Growth only works when visibility connects to revenue. Every activity has a job:",
             ],
           ),
         },
@@ -219,15 +508,15 @@ export const lesson1RichContent: RichLessonContent = {
           caption: L("Uloga svake aktivnosti u sistemu", "Each activity's job in the system"),
           headers: H(["Aktivnost", "Posao"], ["Activity", "Job"]),
           rows: [
-            { cells: [L("Pozicioniranje", "Positioning"), L("Čini poruku specifičnom", "Makes the message specific")] },
-            { cells: [L("LinkedIn profil", "LinkedIn profile"), L("Pretvara posete profila u poverenje", "Converts profile visits into trust")] },
-            { cells: [L("Content", "Content"), L("Edukuje tržište pre prodaje", "Educates the market before sales")] },
-            { cells: [L("Engagement", "Engagement"), L("Stvara vidljivost kod pravih ljudi", "Creates visibility with the right people")] },
-            { cells: [L("Webinari", "Webinars"), L("Pretvara pažnju u dublju potražnju", "Turns attention into deeper demand")] },
-            { cells: [L("Outreach", "Outreach"), L("Pretvara topao kontekst u razgovore", "Converts warm context into conversations")] },
-            { cells: [L("Ads", "Ads"), L("Pojačava dokazani founder content", "Amplifies proven founder content")] },
-            { cells: [L("CRM", "CRM"), L("Prati aktivnost, signale i pipeline", "Tracks activity, signals, and pipeline")] },
-            { cells: [L("Intent signali", "Intent signals"), L("Prioritetizuje koga i kada kontaktirati", "Prioritizes who to contact and when")] },
+            { cells: [L("ICP", "ICP"), L("Definiše kome pomažeš i šta prodaješ", "Defines who you help and what you sell")] },
+            { cells: [L("LinkedIn profil", "LinkedIn profile"), L("Landing stranica za ICP, ne samo profil", "Landing page for your ICP, not just a profile")] },
+            { cells: [L("Outreach", "Outreach"), L("Pretvara konekcije u razgovore", "Turns connections into conversations")] },
+            { cells: [L("Content", "Content"), L("Pretvara pažnju u veće poverenje pre demo-a", "Turns attention into stronger trust before the demo")] },
+            { cells: [L("Engagement", "Engagement"), L("Dodaje vidljivost kod ICP-a pre poruke", "Adds visibility with your ICP before you message them")] },
+            { cells: [L("Webinari", "Webinars"), L("Produbljuju interes i daju lead magnet", "Deepen interest and act as a lead magnet")] },
+            { cells: [L("Ads", "Ads"), L("Pojačavaju vidljivost dokazanog founder content-a", "Amplify visibility of proven founder content")] },
+            { cells: [L("CRM", "CRM"), L("Prati šta se dešava u pipeline-u", "Tracks what is happening in the pipeline")] },
+            { cells: [L("Signali", "Signals"), L("Pokazuju ko je zainteresovan i kada treba outreach", "Show who is interested and when outreach is needed")] },
           ],
         },
         {
@@ -243,10 +532,9 @@ export const lesson1RichContent: RichLessonContent = {
             { cells: [L("1", "1"), L("Strategija", "Strategy"), L("Zašto FLG i kako sve stoji zajedno", "Why FLG and how it fits together")] },
             { cells: [L("2", "2"), L("ICP", "ICP"), L("Kome pomažeš", "Who you help")] },
             { cells: [L("3", "3"), L("Profil", "Profile"), L("5 sekundi jasnoće za ICP", "5-second clarity for ICP")] },
-            { cells: [L("4-7", "4-7"), L("Outreach + signali", "Outreach + signals"), L("Cold outreach, buying signali, engagement", "Cold outreach, buying signals, engagement")] },
-            { cells: [L("4-6", "4-6"), L("Content engine", "Content engine"), L("Intervjui, klipovi, postovi (ne dnevno pisanje)", "Interviews, clips, posts (not daily writing)")] },
-            { cells: [L("8-9", "8-9"), L("Webinar + Ads", "Webinar + Ads"), L("Webinar intent, TLA skaliranje", "Webinar intent, TLA scaling")] },
-            { cells: [L("10-12", "10-12"), L("CRM + signali + sistem", "CRM + signals + system"), L("Merenje, intent, inbound-to-outbound", "Measurement, intent, inbound-to-outbound")] },
+            { cells: [L("4-7", "4-7"), L("Outreach + content + engagement", "Outreach + content + engagement"), L("Paralelno: mreža, poverenje, vidljivost", "In parallel: network, trust, visibility")] },
+            { cells: [L("8-9", "8-9"), L("Webinar + Ads", "Webinar + Ads"), L("Lead magneti i skaliranje onoga što radi", "Lead magnets and scaling what works")] },
+            { cells: [L("10-12", "10-12"), L("CRM + signali", "CRM + signals"), L("Praćenje, intent, inbound-to-outbound", "Tracking, intent, inbound-to-outbound")] },
           ],
         },
       ],
@@ -301,7 +589,7 @@ export const lesson1RichContent: RichLessonContent = {
                 [
                   "Fokus na signale i razgovore",
                   "ICP-first content i engagement",
-                  "CRM + outreach sa kontekstom",
+                  "CRM + outreach + signali",
                   "Merljiv uticaj na deal-ove",
                 ],
                 [
@@ -327,7 +615,7 @@ export const lesson1RichContent: RichLessonContent = {
             [
               "U ranim i srednjim B2B fazama founder obično ima najdublji uvid u tržište. Zna bol kupca, prigovore, zašto deal-ovi stoje, šta proizvod ili usluga stvarno mogu.",
               "Može reći stvari koje brand stranica ne može. Zato founder content često prolazi bolje od poliranog korporativnog sadržaja. Kupci brže veruju ljudima nego firmama.",
-              "Founder ne mora zauvek biti ceo sales tima, ali mora oblikovati sales narativ, posebno pre zrelog GTM mehanizma.",
+              "Founder ne mora zauvek da bude ceo sales tim, ali mora da oblikuje prodajnu priču, naročito pre nego što firma izgradi zreo GTM sistem.",
             ],
             [
               "In early and mid-stage B2B companies, the founder usually has the deepest market insight. They know buyer pain, objections, why deals stall, and what the product or service can actually do.",
@@ -342,14 +630,14 @@ export const lesson1RichContent: RichLessonContent = {
     {
       type: "section",
       id: "confidence",
-      title: L("Kupci trebaju poverenje pre demo-a", "Buyers need confidence before they need a demo"),
+      title: L("Kupcima treba poverenje pre demo-a", "Buyers need confidence before they need a demo"),
       blocks: [
         {
           type: "paragraphs",
           paragraphs: P(
             [
-              "Demo ne kreira potražnju, hvata je. Pre demo-a kupac mora da veruje da je problem stvaran, hitan, da stari način košta, da tvoj POV ima smisla, da si kredibilan i da razgovor neće biti gubitak vremena.",
-              "Founder-Led Growth gradi ta uverenja pre poziva. Zato content ima smisla, ne motivacioni content, ne selfiji, ne generični „5 saveta“. Vežban, oštar, problem-aware content.",
+              "Demo ne stvara potražnju, samo je hvata. Pre demo-a kupac mora da veruje da je problem stvaran i hitan, da ga stari način košta, da tvoj pogled ima smisla, da si kredibilan i da razgovor neće biti gubitak vremena.",
+              "Kroz content gradiš poverenje kod kupaca pre demo-a. Zato content ima smisla, ne motivacioni postovi, ne selfiji, ne generičnih „5 saveta“, već oštar i praktičan sadržaj vezan za problem kupca.",
             ],
             [
               "A demo does not create demand. A demo captures demand. Before a demo, the buyer needs to believe the problem is real and urgent, the old way is costing them, your point of view makes sense, you are credible, and talking to you will not waste their time.",
@@ -391,9 +679,9 @@ export const lesson1RichContent: RichLessonContent = {
           type: "paragraphs",
           paragraphs: P(
             [
-              "Većina B2B firmi previše fokusira hvatanje potražnje, chase ljude koji su već spremni. To je skupo jer svi jurcaju iste kupce.",
-              "Founder-Led Growth takođe kreira potražnju: founder uči tržište kako da misli o problemu, objašnjava šta kupci propuštaju, pokazuje cenu neaktivnosti, daje jezik za internu diskusiju.",
-              "Mnogi kupci danas nisu in-market. Posao nije samo naći spremne sada, već postati poznat pre nego što budu spremni. John Dawes 95:5 pravilo: do 95% firmi možda nije in-market u datom trenutku, zato founder content gradi memoriju pre buying window-a.",
+              "Većina B2B firmi se previše fokusira na ljude koji baš sada žele da kupe. To je kratkoročan pristup prodaji.",
+              "Founder-Led Growth pored toga gradi i potražnju: founder objašnjava problem, pokazuje cenu neaktivnosti i pokreće razgovor unutar firmi, inspirisan njegovim content-om.",
+              "Većina tvojih potencijalnih kupaca trenutno ne traga za uslugama koje nudiš. Posao nije samo da ih kontaktiraš sada, već da se pozicioniraš u njihovoj glavi pre nego što krenu da traže rešenje. John Dawes i njegovo 95:5 pravilo to lepo opisuju: do 95% firmi u datom trenutku ne traži ovakve usluge, pa ih founder content pozicionira kod njih još pre nego što počnu da traže.",
             ],
             [
               "Most B2B companies over-focus on demand capture, chasing buyers already ready to buy. That is expensive because every competitor chases the same buyers.",
@@ -428,7 +716,7 @@ export const lesson1RichContent: RichLessonContent = {
     {
       type: "section",
       id: "crm",
-      title: L("Sistem radi samo kada CRM hvata putovanje", "The system only works when CRM captures the journey"),
+      title: L("Sistem radi samo kada CRM prati šta se dešava", "The system only works when CRM tracks what is happening"),
       blocks: [
         {
           type: "paragraphs",
@@ -456,31 +744,33 @@ export const lesson1RichContent: RichLessonContent = {
       type: "section",
       id: "framework",
       title: L(
-        "Okvir: Context → Trust → Signal → Conversation → Pipeline",
-        "Framework: Context → Trust → Signal → Conversation → Pipeline",
+        "Okvir: ICP → Profil → Outreach + Content → CRM → Signali",
+        "Framework: ICP → Profile → Outreach + Content → CRM → Signals",
       ),
       blocks: [
         {
           type: "pipeline-flow",
           title: L("Founder-Led Growth flow", "Founder-Led Growth flow"),
           subtitle: L(
-            "Od konteksta na tržištu do merljivog pipeline-a.",
-            "From market context to measurable pipeline.",
+            "Od ICP-a do merljivog pipeline-a, outreach i content rade paralelno.",
+            "From ICP to measurable pipeline — outreach and content run in parallel.",
           ),
           stages: [
-            L("Context", "Context"),
-            L("Trust", "Trust"),
-            L("Signal", "Signal"),
-            L("Conversation", "Conversation"),
-            L("Pipeline", "Pipeline"),
+            L("ICP", "ICP"),
+            L("Profil", "Profile"),
+            L("Outreach", "Outreach"),
+            L("Content", "Content"),
+            L("Engagement", "Engagement"),
+            L("CRM", "CRM"),
+            L("Signali", "Signals"),
           ],
         },
         {
           type: "framework-intro",
           title: L("Najjednostavniji način da razumeš Founder-Led Growth", "The simplest way to understand Founder-Led Growth"),
           description: L(
-            "Pet koraka i sedam operativnih koraka ispod pretvaraju vidljivost u predvidljiv pipeline, od konteksta pre outreach-a do CRM discipline.",
-            "Five stages and seven operational steps below turn visibility into predictable pipeline, from context before outreach to CRM discipline.",
+            "Sedam operativnih koraka ispod pokazuju redosled implementacije. Outreach i content ne čekaju jedan drugog, pokreću se zajedno čim su ICP i profil spremni.",
+            "The seven operational steps below show the implementation order. Outreach and content do not wait for each other — they start together once ICP and profile are ready.",
           ),
         },
         {
@@ -488,35 +778,35 @@ export const lesson1RichContent: RichLessonContent = {
           steps: [
             {
               step: 1,
-              title: L("Izgradi kontekst pre outreach-a", "Build context before outreach"),
+              title: L("Definiši ICP", "Define your ICP"),
               whatToDo: L(
-                "Objavljuj i komentariši oko problema koje kupci već zanima pre slanja outreach-a.",
-                "Publish and engage around the problems your buyers already care about before sending outreach.",
+                "Napiši kome pomažeš, koji problem rešavaš, ko kupuje i šta ih pokreće da traže rešenje.",
+                "Write who you help, what problem you solve, who buys, and what triggers them to look for a solution.",
               ),
               whyItMatters: L(
-                "Cold outreach pada kada kupac nema razloga da mari. Kontekst čini poruku relevantnom, ne nasumičnom.",
-                "Cold outreach fails when the buyer has no reason to care. Context makes your message feel relevant instead of random.",
+                "Bez ICP-a outreach ide na pogrešne ljude, a content privlači pogrešnu publiku.",
+                "Without an ICP, outreach targets the wrong people and content attracts the wrong audience.",
               ),
               example: L(
-                "Pre kontakta sa CTO-ima u mid-market softveru, founder postuje zašto legacy QA usporava release i komentariše postove o engineering velocity.",
-                "Before contacting CTOs at mid-sized software companies, a founder posts about why legacy QA workflows slow release cycles and comments on CTO posts about engineering velocity.",
+                "„Pomažemo B2B service firmama od 10 do 50 ljudi koje za pipeline zavise od preporuka i founder odnosa.“",
+                "\"We help 10–50 person B2B service firms that rely on referrals and founder relationships for pipeline.\"",
               ),
               commonMistake: L(
-                "Počinjanje sa cold listom od 500 ljudi pre nego što tržište vidi bilo kakav founder POV.",
-                "Starting with a 500-person cold list before the market has seen any useful point of view from the founder.",
+                "Preširok ICP: „pomažemo svim firmama koje žele rast“.",
+                "An ICP that is too broad: \"we help any company that wants to grow.\"",
               ),
               tryThis: L(
-                "Zapiši top 5 problema koje rešavaš. Svaki pretvori u jedan LinkedIn post i 10 komentara pre launch-a outreach-a.",
-                "Write down the top 5 buyer problems your company solves. Turn each into one LinkedIn post and 10 comments before launching outreach.",
+                "Jedna rečenica ICP-a + lista od 20 firmi koje tačno odgovaraju tom opisu.",
+                "One ICP sentence + a list of 20 companies that match it exactly.",
               ),
               highlight: L(
-                "Počni od ICP dokumenta i profila, zatim outreach. Content i signali hrane istu petlju.",
-                "Start with the ICP document and profile, then outreach. Content and signals feed the same loop.",
+                "ICP je prvi korak. Bez njega ostatak sistema nema fokus.",
+                "ICP is the first step. Without it, the rest of the system has no focus.",
               ),
             },
             {
               step: 2,
-              title: L("Profil founder-a kao trust stranica", "Turn the founder profile into a trust page"),
+              title: L("Optimizuj LinkedIn profil founder-a", "Optimize the founder's LinkedIn profile"),
               whatToDo: L(
                 "Prepiši LinkedIn profil da govori kupcu, ne founder-ovoj karijeri.",
                 "Rewrite the founder's LinkedIn profile so it speaks to the buyer, not the founder's career history.",
@@ -544,42 +834,70 @@ export const lesson1RichContent: RichLessonContent = {
             },
             {
               step: 3,
-              title: L("Content koji daje kupcu jezik", "Create content that gives buyers language"),
+              title: L("Pokreni outreach", "Launch outreach"),
               whatToDo: L(
-                "Objavljuj postove o problemima, greškama, okvirima, trade-off-ovima i kriterijumima odluke.",
-                "Publish posts that explain problems, mistakes, frameworks, trade-offs, and decision criteria.",
+                "Gradi listu ICP kontakata i šalji personalizovane poruke. Outreach i content pokreći u isto vreme.",
+                "Build an ICP contact list and send personalized messages. Start outreach and content at the same time.",
               ),
               whyItMatters: L(
-                "Kupcima treba interni jezik da objasne zašto promena ima smisla. Dobar content im daje taj jezik.",
-                "Buyers need internal language to explain why change matters. Good content gives them that language.",
+                "Outreach povećava broj kontakata i širi mrežu. Ne čekaš da content „sazre“ pre prvog poruka.",
+                "Outreach increases contacts and expands the network. You do not wait for content to mature before the first message.",
               ),
               example: L(
-                "„Većina compliance projekata pada jer timovi tretiraju SOC 2 kao dokumentaciju. To je operating system problem.“",
-                "'Most compliance projects fail because teams treat SOC 2 as documentation. It is really an operating system problem.'",
+                "Founder šalje 20 poruka dnevno ICP decision maker-ima sa jasnom referencom na problem, ne generički pitch.",
+                "Founder sends 20 messages per day to ICP decision makers with a clear reference to the problem, not a generic pitch.",
               ),
               commonMistake: L(
-                "Company update-i, feature postovi i generični „5 saveta“ bez jakog POV-a.",
-                "Posting company updates, product features, and generic '5 tips' content with no strong point of view.",
+                "Čekanje da content postane viral pre outreach-a.",
+                "Waiting for content to go viral before starting outreach.",
               ),
               tryThis: L(
-                "Jedan post koji počinje: „Većina [ICP] misli da je problem [površinski]. Pravi problem je [dublji].“",
-                "Write one post that starts with: 'Most [ICP] think the problem is [surface issue]. The real problem is [deeper issue].'",
+                "Lista od 50 ICP kontakata + jedna outreach poruka koja imenuje problem na njihovom jeziku.",
+                "A list of 50 ICP contacts + one outreach message that names the problem in their language.",
               ),
               highlight: L(
-                "Autoritet ne dolazi od čestog postovanja. Dolazi od korisnih stvari koje kažeš.",
-                "Authority does not come from posting often. It comes from saying something useful.",
+                "Outreach i content rade zajedno, ne jedan posle drugog.",
+                "Outreach and content work together, not one after the other.",
               ),
             },
             {
               step: 4,
-              title: L("Engagement, ulazak u svet kupca", "Use engagement to enter the buyer's world"),
+              title: L("Content koji gradi poverenje", "Create content that builds trust"),
+              whatToDo: L(
+                "Objavljuj postove o problemima, greškama, okvirima i kriterijumima odlučivanja, paralelno sa outreach-om.",
+                "Publish posts about problems, mistakes, frameworks, and decision criteria — in parallel with outreach.",
+              ),
+              whyItMatters: L(
+                "Content pretvara pažnju u veće poverenje pre demo-a. Kupcima daje jezik za internu diskusiju.",
+                "Content turns attention into stronger trust before the demo. It gives buyers language for internal discussions.",
+              ),
+              example: L(
+                "„Većina compliance projekata pada jer timovi tretiraju SOC 2 kao dokumentaciju. To je problem operativnog sistema.“",
+                "'Most compliance projects fail because teams treat SOC 2 as documentation. It is really an operating system problem.'",
+              ),
+              commonMistake: L(
+                "Čekanje da outreach „završi“ pre nego što počneš da postuješ.",
+                "Waiting for outreach to finish before you start posting.",
+              ),
+              tryThis: L(
+                "Dva posta nedeljno + outreach iste nedelje. Meri šta privlači ICP odgovore.",
+                "Two posts per week + outreach the same week. Measure what attracts ICP replies.",
+              ),
+              highlight: L(
+                "Content ne zamenjuje outreach. Gradi poverenje dok outreach širi mrežu.",
+                "Content does not replace outreach. It builds trust while outreach expands the network.",
+              ),
+            },
+            {
+              step: 5,
+              title: L("Engagement za vidljivost", "Use engagement for visibility"),
               whatToDo: L(
                 "Svakodnevno komentariši postove ICP kupaca, eksperata, partnera i target accounta.",
                 "Comment daily on posts from ICP buyers, industry experts, partners, and target accounts.",
               ),
               whyItMatters: L(
-                "Komentari stvaraju ponovljenu vidljivost pre direktnog outreach-a.",
-                "Comments create repeated visibility before direct outreach.",
+                "Komentari na tuđe postove dodaju vidljivost kod ICP-a, paralelno sa outreach-om i content-om.",
+                "Comments on other people's posts add visibility with your ICP — in parallel with outreach and content.",
               ),
               example: L(
                 "Founder agencije komentariše RevOps postove o atribuciji i CRM hygiene pre poziva na webinar.",
@@ -599,63 +917,7 @@ export const lesson1RichContent: RichLessonContent = {
               ),
             },
             {
-              step: 5,
-              title: L("Engagement u signale", "Convert engagement into signals"),
-              whatToDo: L(
-                "Prati profile views, ponovljene lajkove, komentare, webinar registracije, share-ove i DM odgovore.",
-                "Track meaningful LinkedIn actions: profile views, repeat likes, comments, webinar registrations, content shares, and DM replies.",
-              ),
-              whyItMatters: L(
-                "Engagement pokazuje ko se naginje. Outreach treba da prati ponašanje.",
-                "Engagement tells you who is leaning in. Outreach should follow behavior.",
-              ),
-              example: L(
-                "VP Operations lajkuje tri posta o automatizaciji, ide na webinar, poseti profil, dobija kontekstualan DM, ne cold pitch.",
-                "A VP of Operations likes three posts about workflow automation, attends a webinar, and visits the founder profile. That person should get a contextual DM, not a cold pitch.",
-              ),
-              commonMistake: L(
-                "Svaki lajk tretirati kao buying signal.",
-                "Treating every like as a buying signal.",
-              ),
-              tryThis: L(
-                "Tri nivoa signala: light, active, buying-intent, i definisana akcija za svaki.",
-                "Create three signal levels: light engagement, active engagement, buying-intent engagement, then define what action happens at each level.",
-              ),
-              highlight: L(
-                "Lajk nije lead. Obrazac je signal.",
-                "A like is not a lead. A pattern is a signal.",
-              ),
-            },
-            {
               step: 6,
-              title: L("Outreach kao nastavak razgovora", "Use outreach to continue the conversation"),
-              whatToDo: L(
-                "Šalji poruke na osnovu stvarne interakcije, business trigger-a ili content teme.",
-                "Send messages based on a real interaction, business trigger, or content topic.",
-              ),
-              whyItMatters: L(
-                "Kontekstualan outreach deluje kao nastavak, ne prekid.",
-                "Contextual outreach feels like a continuation, not an interruption.",
-              ),
-              example: L(
-                "„Video sam tvoj komentar o sales handoff-u. Kod B2B timova 20-80 ljudi ownership je nejasan. Da podelim checklist koji koristimo?“",
-                "'Saw your comment on the post about sales handoff. We're seeing the same issue with 20-80 person B2B teams: leads exist, but ownership is unclear. Worth sharing the checklist we use?'",
-              ),
-              commonMistake: L(
-                "Generička poruka sa imenom i firmom kao „personalizacija“.",
-                "Pretending a generic message is personalized because it includes the person's name and company.",
-              ),
-              tryThis: L(
-                "U svakoj outreach poruci jedan razlog zašto timing ima smisla sada.",
-                "For every outreach message, include one reason the timing makes sense now.",
-              ),
-              highlight: L(
-                "Ne pitch-uj prerano. Zasluži razgovor.",
-                "Don't pitch too early. Earn the conversation.",
-              ),
-            },
-            {
-              step: 7,
               title: L("Prati sistem u CRM-u", "Track the system in CRM"),
               whatToDo: L(
                 "Dodaj founder-led source, signale i stage-ove u CRM.",
@@ -678,8 +940,36 @@ export const lesson1RichContent: RichLessonContent = {
                 "Create CRM fields for: Founder touchpoint, LinkedIn signal, Content topic, Next best action.",
               ),
               highlight: L(
-                "CRM je mesto gde founder-led sistem postaje company asset.",
-                "The CRM is where the founder-led system becomes a company asset.",
+                "Sistem radi samo kada CRM prati šta se dešava.",
+                "The system only works when CRM tracks what is happening.",
+              ),
+            },
+            {
+              step: 7,
+              title: L("Signali pretvaraju inbound u outbound", "Turn signals into outbound actions"),
+              whatToDo: L(
+                "Prati profile views, komentare, webinar registracije, ponovljene interakcije i DM-ove. Kada signal dođe, pokreni dodatni outreach.",
+                "Track profile views, comments, webinar registrations, repeat interactions, and DMs. When a signal appears, trigger additional outreach.",
+              ),
+              whyItMatters: L(
+                "Praćenje signala pokazuje ko je zainteresovan u kom trenutku. Outreach na signale je topliji od cold poruke.",
+                "Signal tracking shows who is interested and when. Outreach based on signals is warmer than a cold message.",
+              ),
+              example: L(
+                "VP Operations lajkuje tri posta, poseti profil i registruje se na webinar, pa dobija personalizovan DM, a ne novi cold pitch.",
+                "A VP of Operations likes three posts, visits the profile, registers for a webinar — they get a personalized DM, not a new cold pitch.",
+              ),
+              commonMistake: L(
+                "Svaki lajk tretirati kao buying signal ili čekati demo request.",
+                "Treating every like as a buying signal or waiting for a demo request.",
+              ),
+              tryThis: L(
+                "Tri nivoa signala (light, medium, strong) sa definisanom akcijom za svaki u CRM-u.",
+                "Three signal levels (light, medium, strong) with a defined CRM action for each.",
+              ),
+              highlight: L(
+                "Signali ne zamenjuju outreach, već pokazuju kada je potreban dodatni, topliji korak.",
+                "Signals do not replace outreach — they show when a warmer follow-up step is needed.",
               ),
             },
           ],
@@ -696,18 +986,18 @@ export const lesson1RichContent: RichLessonContent = {
           type: "paragraphs",
           paragraphs: P(
             [
-              "Ne krećemo od pretpostavke da svaki founder piše content i da će ICP odmah reagovati. Krećemo od sistema koji radi i za zauzete founder-e.",
-              "1) ICP dokument (holy grail) za ponudu, poruke i value-based follow-up. 2) LinkedIn profil, ICP mora za 5 sekundi da razume kako pomažeš. 3) Cold outreach preko Sales Navigator-a ili Apollo-a, izvršenje kroz La Growth Machine, HeyReach, Instantly, Lemlist.",
-              "4) Buying signali pokreću re-engagement (kontekstualna poruka, ne novi cold spam). 5) Follow-up sistem za no_reply: value-based dodiri u HeyReach, Lemlist ili La Growth Machine dok trenutak ne dođe.",
-              "6) Content iz intervjua gradi poverenje (Riverside, Descript, Canva). 7) Thought Leader Ads skaliraju dokaz. 8) CRM sa lead scoring-om i statusima (cold_sent, signal_reengage, meeting).",
-              "Cilj nisu lajkovi, već prave LinkedIn konekcije sa ICP-om u pravom trenutku.",
+              "Ne krećemo od pretpostavke da founder mora svaki dan da piše ili da će ICP sam doći. Krećemo od sistema koji radi i za zauzete founder-e.",
+              "1) ICP dokument, osnova za ponudu, poruke i follow-up. 2) LinkedIn profil, ICP mora za 5 sekundi da razume kako mu pomažeš. 3) Outreach i content paralelno, outreach širi mrežu (Sales Navigator, Apollo, HeyReach, Lemlist), a content gradi poverenje (intervjui, klipovi, postovi).",
+              "4) Engagement, komentari kod ICP-a za dodatnu vidljivost. 5) Ads, Thought Leader Ads i lead magneti pojačavaju ono što već radi organski. 6) CRM, prati outreach, content, signale i faze (cold_sent, signal_reengage, meeting).",
+              "7) Signali, buying signali i engagement pokreću dodatni outreach u pravom trenutku, umesto čekanja na inbound formu.",
+              "Cilj nisu lajkovi, već prave LinkedIn konekcije sa ICP-om i predvidljiv pipeline.",
             ],
             [
-              "We do not start from the assumption that every founder writes content and that the ICP will react immediately. We start from a system that works for busy founders too.",
-              "1) ICP document (holy grail) for offer, messages, and value-based follow-up. 2) LinkedIn profile, ICP must understand in 5 seconds how you help. 3) Cold outreach via Sales Navigator or Apollo, execution via La Growth Machine, HeyReach, Instantly, Lemlist.",
-              "4) Buying signals trigger re-engagement (contextual message, not new cold spam). 5) Follow-up system for no_reply: value-based touches in HeyReach, Lemlist, or La Growth Machine until timing is right.",
-              "6) Interview content builds trust (Riverside, Descript, Canva). 7) Thought Leader Ads scale proof. 8) CRM with lead scoring and statuses (cold_sent, signal_reengage, meeting).",
-              "The goal is not likes. It is real LinkedIn connections with the ICP at the right moment.",
+              "We do not start from the assumption that the founder must post every day or that the ICP will come on their own. We start from a system that works for busy founders too.",
+              "1) ICP document — foundation for offer, messages, and follow-up. 2) LinkedIn profile — ICP must understand in 5 seconds how you help. 3) Outreach and content in parallel — outreach expands the network (Sales Navigator, Apollo, HeyReach, Lemlist), content builds trust (interviews, clips, posts).",
+              "4) Engagement — comments on ICP posts for extra visibility. 5) Ads — Thought Leader Ads and lead magnets amplify what works organically. 6) CRM — tracks outreach, content, signals, and stages (cold_sent, signal_reengage, meeting).",
+              "7) Signals — buying signals and engagement trigger additional outreach at the right moment, not waiting for an inbound form.",
+              "The goal is not likes. It is real LinkedIn connections with the ICP and a predictable pipeline.",
             ],
           ),
         },
@@ -721,14 +1011,14 @@ export const lesson1RichContent: RichLessonContent = {
               items: P(
                 [
                   "Founder mora sam da piše svaki dan",
-                  "Čekamo viral engagement",
-                  "Ads pre outreach-a",
+                  "Čekamo da inbound dođe sam",
+                  "Outreach tek kad content „sazre“",
                   "CRM na kraju, ako stigne",
                 ],
                 [
                   "Founder must write alone every day",
-                  "Wait for viral engagement",
-                  "Ads before outreach",
+                  "Wait for inbound to arrive on its own",
+                  "Outreach only after content matures",
                   "CRM last, if at all",
                 ],
               ),
@@ -740,9 +1030,9 @@ export const lesson1RichContent: RichLessonContent = {
               items: P(
                 [
                   "ICP dokument vodi sve",
-                  "Intervjui za autentičan content",
-                  "Outreach direktno, Ads indirektno",
-                  "CRM + lead scoring od starta",
+                  "Outreach + content paralelno",
+                  "Engagement + Ads za vidljivost",
+                  "CRM + signali od starta",
                 ],
                 [
                   "ICP document drives everything",
@@ -902,14 +1192,14 @@ export const lesson1RichContent: RichLessonContent = {
               cells: [
                 L("Edukacija problema", "Problem education"),
                 L("Pokaži šta je pokvareno", "Show what is broken"),
-                L("Outbound ne pada zbog copy-ja, kupci nemaju kontekst.", "Your outbound is not failing because of copy. Buyers have no context."),
+                L("Outbound ne pada zbog copy-ja, pada jer kupac još ne zna ko si.", "Your outbound is not failing because of copy, the buyer does not know who you are yet."),
               ],
             },
             {
               cells: [
                 L("Point of view", "Point of view"),
                 L("Kako drugačije misliš", "Show how you think differently"),
-                L("Ne počinji outreach-om. Počni kontekstom.", "Don't start with outreach. Start with context."),
+                L("Ne čekaj inbound. Pokreni outreach i content zajedno.", "Don't wait for inbound. Start outreach and content together."),
               ],
             },
             {
@@ -1138,7 +1428,7 @@ export const lesson1RichContent: RichLessonContent = {
               ),
             },
             {
-              title: L("Context → Trust → Signal → Conversation → Pipeline", "Context → Trust → Signal → Conversation → Pipeline"),
+              title: L("ICP → Profil → Outreach + Content → CRM → Signali", "ICP → Profile → Outreach + Content → CRM → Signals"),
               placement: L("Pre okvira", "Before framework section"),
               description: L("Petodelni Founder-Led Growth flow.", "Five-part Founder-Led Growth flow."),
             },
@@ -1202,8 +1492,8 @@ export const lesson1RichContent: RichLessonContent = {
           type: "template",
           title: L("Kopiraj i popuni", "Copy and fill in"),
           content: L(
-            `1. ICP\n\nPomažemo:\n[tip firme] sa [veličina / industrija] koji imaju problem [problem].\n\nPrimer:\nPomažemo B2B service firmama 10-50 ljudi koje previše zavise od referral-a i founder odnosa za pipeline.\n\n2. Buyer problem\n\nSkup problem je:\n[problem na jeziku kupca]\n\nPrimer:\nFounder je i dalje glavni izvor poverenja, ali nema ponovljiv sistem da to pretvori u pipeline.\n\n3. Founder POV\n\nVećina kupaca veruje:\n[uobičajeno uverenje]\n\nMi verujemo:\n[oštrije / kontrarno uverenje]\n\nPrimer:\nVećina misli da treba više outreach volumena. Mi verujemo da treba više konteksta pre outreach-a.\n\n4. LinkedIn obećanje profila\n\nPomažemo [ICP] da postignu [ishod] bez [bol].\n\n5. Content pilari\n\nPilar 1: [edukacija problema]\nPilar 2: [POV]\nPilar 3: [dokaz / praksa]\n\n6. Engagement lista\n\n- [persona 1]\n- [persona 2]\n- [partner]\n- [ekspert]\n- [advocate]\n\n7. Signali\n\nLight: [lajkovi, views, follows]\nMedium: [komentari, repeat, webinar reg]\nStrong: [DM, webinar live, pricing visit]\n\n8. Outreach trigger\n\nKada neko: [signal]\nPošalji: [kontekstualna poruka]\n\n9. CRM polja\n\nLead source | Founder touchpoint | Content topic | Signal level | Last interaction | Next action | Pipeline stage\n\n10. Nedeljna pitanja review-a\n\n- Koji content je privukao ICP?\n- Koji komentari su otvorili razgovore?\n- Koji signali su postali sastanci?\n- Šta radimo više sledeće nedelje?`,
-            `1. ICP\n\nWe help:\n[company type] with [team size / revenue / industry] who struggle with [problem].\n\nExample:\nWe help 10-50 person B2B service firms that rely too heavily on referrals and founder relationships for pipeline.\n\n2. Buyer problem\n\nThe expensive problem is:\n[describe in buyer language]\n\nExample:\nThe founder is still the main source of trust, but there is no repeatable system for turning that trust into pipeline.\n\n3. Founder point of view\n\nMost buyers believe:\n[common belief]\n\nWe believe:\n[contrarian / sharper belief]\n\nExample:\nMost founders believe they need more outreach volume. We believe they need more context before outreach.\n\n4. LinkedIn profile promise\n\nHelping [ICP] achieve [outcome] without [pain / failed alternative].\n\n5. Content pillars\n\nPillar 1: [problem education]\nPillar 2: [point of view]\nPillar 3: [proof / practical breakdown]\n\n6. Engagement list\n\n- [buyer persona 1]\n- [buyer persona 2]\n- [partner persona]\n- [industry expert]\n- [customer advocate]\n\n7. Signals to track\n\nLight: [likes, follows, profile views]\nMedium: [comments, repeat engagement, webinar registration]\nStrong: [DM, webinar attendance, pricing/demo visit, buying question]\n\n8. Outreach trigger\n\nWhen someone: [signal]\nSend: [contextual message]\n\n9. CRM fields\n\nLead source | Founder touchpoint | Content topic | Signal level | Last interaction | Next action | Pipeline stage\n\n10. Weekly review questions\n\n- Which content attracted ICP buyers?\n- Which comments created conversations?\n- Which signals turned into meetings?\n- What should we do more of next week?`,
+            `1. ICP\n\nPomažemo:\n[tip firme] sa [veličina / industrija] koji imaju problem [problem].\n\nPrimer:\nPomažemo B2B service firmama 10-50 ljudi koje previše zavise od referral-a i founder odnosa za pipeline.\n\n2. Buyer problem\n\nSkup problem je:\n[problem na jeziku kupca]\n\nPrimer:\nFounder je i dalje glavni izvor poverenja, ali nema ponovljiv sistem da to pretvori u pipeline.\n\n3. Founder POV\n\nVećina kupaca veruje:\n[uobičajeno uverenje]\n\nMi verujemo:\n[oštrije / kontrarno uverenje]\n\nPrimer:\nVećina misli da treba više outreach volumena. Mi verujemo da treba jasan ICP, profil i paralelan outreach + content.\n\n4. LinkedIn obećanje profila\n\nPomažemo [ICP] da postignu [ishod] bez [bol].\n\n5. Content pilari\n\nPilar 1: [edukacija problema]\nPilar 2: [POV]\nPilar 3: [dokaz / praksa]\n\n6. Engagement lista\n\n- [persona 1]\n- [persona 2]\n- [partner]\n- [ekspert]\n- [advocate]\n\n7. Signali\n\nLight: [lajkovi, views, follows]\nMedium: [komentari, repeat, webinar reg]\nStrong: [DM, webinar live, pricing visit]\n\n8. Outreach trigger\n\nKada neko: [signal]\nPošalji: [kontekstualna poruka]\n\n9. CRM polja\n\nLead source | Founder touchpoint | Content topic | Signal level | Last interaction | Next action | Pipeline stage\n\n10. Nedeljna pitanja review-a\n\n- Koji content je privukao ICP?\n- Koji komentari su otvorili razgovore?\n- Koji signali su postali sastanci?\n- Šta radimo više sledeće nedelje?`,
+            `1. ICP\n\nWe help:\n[company type] with [team size / revenue / industry] who struggle with [problem].\n\nExample:\nWe help 10-50 person B2B service firms that rely too heavily on referrals and founder relationships for pipeline.\n\n2. Buyer problem\n\nThe expensive problem is:\n[describe in buyer language]\n\nExample:\nThe founder is still the main source of trust, but there is no repeatable system for turning that trust into pipeline.\n\n3. Founder point of view\n\nMost buyers believe:\n[common belief]\n\nWe believe:\n[contrarian / sharper belief]\n\nExample:\nMost founders believe they need more outreach volume. We believe they need a clear ICP, profile, and parallel outreach + content.\n\n4. LinkedIn profile promise\n\nHelping [ICP] achieve [outcome] without [pain / failed alternative].\n\n5. Content pillars\n\nPillar 1: [problem education]\nPillar 2: [point of view]\nPillar 3: [proof / practical breakdown]\n\n6. Engagement list\n\n- [buyer persona 1]\n- [buyer persona 2]\n- [partner persona]\n- [industry expert]\n- [customer advocate]\n\n7. Signals to track\n\nLight: [likes, follows, profile views]\nMedium: [comments, repeat engagement, webinar registration]\nStrong: [DM, webinar attendance, pricing/demo visit, buying question]\n\n8. Outreach trigger\n\nWhen someone: [signal]\nSend: [contextual message]\n\n9. CRM fields\n\nLead source | Founder touchpoint | Content topic | Signal level | Last interaction | Next action | Pipeline stage\n\n10. Weekly review questions\n\n- Which content attracted ICP buyers?\n- Which comments created conversations?\n- Which signals turned into meetings?\n- What should we do more of next week?`,
           ),
         },
       ],
@@ -1213,7 +1503,7 @@ export const lesson1RichContent: RichLessonContent = {
     {
       question: L("Šta je Founder-Led Growth?", "What is Founder-Led Growth?"),
       answer: L(
-        "B2B pipeline sistem gde founder koristi ekspertizu, LinkedIn, content, engagement, webinare, outreach, CRM, ads i intent signale da gradi poverenje i prodajne razgovore. Nije lični brending, lični brending je vidljivost; Founder-Led Growth je prihod.",
+        "B2B pipeline sistem gde founder koristi ICP, profil, outreach, content, engagement, webinare, CRM, ads i signale da gradi prodajne razgovore. Lični brending je širenje vidljivosti; Founder-Led Growth je pipeline koji donosi prodaju.",
         "A B2B pipeline system where the founder uses market expertise, LinkedIn presence, content, engagement, webinars, outreach, CRM, ads, and intent signals to create trust and sales conversations. It is not just personal branding, personal branding focuses on visibility; Founder-Led Growth focuses on revenue.",
       ),
     },
@@ -1234,21 +1524,21 @@ export const lesson1RichContent: RichLessonContent = {
     {
       question: L("Razlika od cold outbound-a?", "How is Founder-Led Growth different from cold outbound?"),
       answer: L(
-        "Cold outbound počinje porukom. Founder-Led Growth počinje kontekstom, iz content-a, komentara, webinara, intent signala. Outreach postoji, ali je topliji i bolje tempiran.",
-        "Cold outbound starts with the message. Founder-Led Growth starts with context, from content, comments, webinars, intent signals. Outreach still exists; it is just warmer, sharper, and better timed.",
+        "Cold outbound počinje porukom bez sistema iza nje. Founder-Led Growth počinje od ICP-a i profila, zatim pokreće outreach i content paralelno. Signali i CRM pokazuju kada treba topliji follow-up.",
+        "Cold outbound starts with a message and no system behind it. Founder-Led Growth starts with ICP and profile, then launches outreach and content in parallel. Signals and CRM show when a warmer follow-up is needed.",
       ),
     },
     {
       question: L("Da li founder mora svaki dan da postuje?", "Does the founder need to post every day?"),
       answer: L(
-        "Ne. Potrebna je konzistentnost: 2 korisna posta nedeljno, 10 thoughtful komentara radnim danima, 1 soft CTA nedeljno, 1 webinar ili deep asset mesečno, 1 nedeljni CRM review. Kvalitet pobeđuje volumen.",
+        "Ne. Bitna je doslednost: 2 korisna posta nedeljno, 10 promišljenih komentara radnim danima, 1 soft CTA nedeljno, 1 webinar ili veći sadržaj mesečno i 1 nedeljni CRM pregled. Kvalitet je važniji od količine.",
         "No. Consistency matters: 2 useful LinkedIn posts per week, 10 thoughtful comments per weekday, 1 soft CTA weekly, 1 webinar or deep-dive asset per month, 1 weekly CRM review. Quality beats volume.",
       ),
     },
     {
       question: L("Kada predati timu?", "When should a founder hand this off to a team?"),
       answer: L(
-        "Founder može delegirati produkciju, research, format, CRM update, webinar ops i reporting, ali ne i POV prerano. Founder ne mora sve zauvek, ali njegovo mišljenje mora oblikovati sistem.",
+        "Founder može da delegira produkciju, research, formatiranje, unos u CRM, organizaciju webinara i izveštavanje, ali ne i svoj pogled na problem, bar ne prerano. Ne mora sve da radi zauvek, ali njegovo razmišljanje mora da oblikuje sistem.",
         "The founder can delegate production, research, formatting, CRM updates, webinar operations, and reporting, but should not fully delegate the point of view too early. The founder does not need to do everything forever, but the founder's thinking must shape the system.",
       ),
     },
@@ -1326,7 +1616,7 @@ export const lesson1RichContent: RichLessonContent = {
       "Founder-Led Growth works when it becomes a system, not a side project",
     ),
     body: L(
-      "Sledeći korak je povezati pozicioniranje, LinkedIn profil, content, engagement, outreach, webinare, CRM i buying signale u jedan operativni ritam.",
+      "Sledeći korak je definisati ICP i optimizovati profil, zatim pokrenuti outreach i content paralelno, uz CRM i signale koji pokazuju kada treba topliji follow-up.",
       "The next step is to connect your positioning, LinkedIn profile, content, engagement, outreach, webinars, CRM, and buying signals into one operating rhythm.",
     ),
     primaryLabel: L("Zakaži konsultaciju", "Book a consultation"),

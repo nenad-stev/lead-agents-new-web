@@ -89,7 +89,7 @@ export const lesson11RichContent: RichLessonContent = {
         "Većina sales timova čeka predugo.",
         "Čekaju demo request.",
         "Čekaju referral intro.",
-        "Čekaju inbound formu.",
+        "Čekaju da lead sam popuni inbound formu kao jedini signal.",
         "Čekaju dok kupac ne kaže: „Evaluiramo vendore.“",
         "Do tada, kupac je već uradio research.",
         "Pročitao je content. Pitao kolege. Proverio LinkedIn. Uporedio alternative. Izgradio interna mišljenja. Možda već ima shortlist.",
@@ -105,7 +105,7 @@ export const lesson11RichContent: RichLessonContent = {
         "Most sales teams wait too long.",
         "They wait for the demo request.",
         "They wait for the referral intro.",
-        "They wait for the inbound form.",
+        "They wait for an inbound form fill as the only valid signal.",
         "They wait until the buyer says: \"We are evaluating vendors.\"",
         "By then, the buyer has already done the research.",
         "They have read content. They have asked peers. They have checked LinkedIn. They have compared alternatives. They have built internal opinions. They may already have a shortlist.",
@@ -127,6 +127,7 @@ export const lesson11RichContent: RichLessonContent = {
     { id: "learn", title: L("Šta ćeš naučiti", "What this lesson will teach you") },
     { id: "why", title: L("Zašto je ovo važno", "Why this matters") },
     { id: "core", title: L("Osnovna ideja", "Core idea") },
+    { id: "right-moment", title: L("Pravi ljudi, pravi trenutak", "Right people, right moment") },
     { id: "vanity-vs-buying", title: L("Vanity vs buying signali", "Vanity signals vs buying signals") },
     { id: "signal-types", title: L("Tipovi buying signala", "Types of B2B buying signals") },
     { id: "signal-framework", title: L("Buying signal okvir", "The Buying Signal Framework") },
@@ -275,6 +276,52 @@ export const lesson11RichContent: RichLessonContent = {
             "Intent bez fit-a je šum. Fit bez intent-a je cold. Fit + intent + timing je sales opportunity.",
             "Intent without fit is noise. Fit without intent is cold. Fit + intent + timing is sales opportunity.",
           ),
+        },
+      ],
+    },
+    {
+      type: "section",
+      id: "right-moment",
+      title: L("Pravi ljudi, pravi trenutak", "Right people, right moment"),
+      blocks: [
+        {
+          type: "callout",
+          variant: "accent",
+          text: L(
+            "Najbolji outreach stiže do pravih ljudi u pravom trenutku.",
+            "The best outreach reaches the right people at the right moment.",
+          ),
+        },
+        {
+          type: "table",
+          caption: L("Fit, engagement, intent i direct sales signali", "Fit, engagement, intent, and direct sales signals"),
+          headers: H(["Sloj", "Primeri"], ["Layer", "Examples"]),
+          rows: [
+            {
+              cells: [
+                L("Fit", "Fit"),
+                L("ICP kompanija, prava uloga (Founder, VP Sales, RevOps), odgovarajuća veličina firme i industrija.", "ICP company, correct role (Founder, VP Sales, RevOps), matching company size and industry."),
+              ],
+            },
+            {
+              cells: [
+                L("Engagement", "Engagement"),
+                L("Komentar na founder post, ponovljeni engagement, webinar registracija, pregled profila.", "Comment on founder post, repeat engagement, webinar registration, profile view."),
+              ],
+            },
+            {
+              cells: [
+                L("Intent", "Intent"),
+                L("Webinar pitanje, CTA klik, pricing/demo poseta, zahtev za checklist/template.", "Webinar question, CTA click, pricing/demo visit, request for checklist/template."),
+              ],
+            },
+            {
+              cells: [
+                L("Direct sales", "Direct sales"),
+                L("Pitanje o ceni, timeline-u, implementaciji, stakeholder-ima ili direktan zahtev za razgovor.", "Question about pricing, timeline, implementation, stakeholders, or a direct request to talk."),
+              ],
+            },
+          ],
         },
       ],
     },
@@ -1864,7 +1911,7 @@ I can send a quick breakdown of the main options and trade-offs if helpful.
   cta: {
     title: L("Buying signali su način da prestaneš da nagađaš", "Buying signals are how you stop guessing"),
     body: L(
-      "Founder-Led Growth stvara signale pre nego što kupci podignu ruku. Posao je da ih primetiš, score-uješ, rutiraš i deluješ sa kontekstom. Ne čekaj očigledan demo request. Do tada, kupac možda već ima shortlist. Sledeća lekcija pokazuje kako povezati inbound signale sa outbound motion-om i izgraditi inbound-to-outbound sistem.",
+      "Founder-Led Growth stvara signale dok outreach i content rade paralelno. Posao je da ih primetiš u CRM-u, score-uješ i pokreneš dodatni outreach u pravom trenutku. Ne čekaj očigledan demo request — do tada kupac možda već ima shortlist. Sledeća lekcija pokazuje kako povezati signale sa outbound-om i izgraditi inbound-to-outbound sistem.",
       "Founder-Led Growth creates signals before buyers raise their hand. The job is to notice them, score them, route them, and act with context. Do not wait for the obvious demo request. By then, the buyer may already have a shortlist. The next lesson shows how to connect inbound signals with outbound motion and build an inbound-to-outbound system.",
     ),
     primaryLabel: L("Nastavi na Lekciju 12", "Continue Lesson 12"),

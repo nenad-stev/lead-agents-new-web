@@ -111,6 +111,7 @@ export const lesson12RichContent: RichLessonContent = {
     { id: "learn", title: L("Šta ćeš naučiti", "What this lesson will teach you") },
     { id: "why", title: L("Zašto je ovo važno", "Why this matters") },
     { id: "core", title: L("Osnovna ideja", "Core idea") },
+    { id: "intent-routing", title: L("Intent routing sistem", "Intent routing system") },
     { id: "inbound-vs-outbound", title: L("Inbound vs outbound vs inbound-to-outbound", "Inbound vs outbound vs inbound-to-outbound") },
     { id: "flg-system", title: L("Kompletan FLG sistem", "The full Founder-Led Growth operating system") },
     { id: "framework", title: L("Inbound-to-outbound okvir", "The Inbound-to-Outbound Framework") },
@@ -179,8 +180,8 @@ export const lesson12RichContent: RichLessonContent = {
               "Outbound pretvara kretanje u razgovor.",
               "CRM pretvara razgovor u merljiv pipeline.",
               "Ovo je nedostajuća veza u većini founder-led sistema.",
-              "Kreiraju inbound pažnju ali ne znaju kada da deluju.",
-              "Ili šalju outbound poruke bez ikakvog konteksta.",
+              "Kreiraju inbound pažnju ali ne znaju kada da pokrenu outbound.",
+              "Ili šalju outbound poruke bez CRM-a i praćenja signala.",
               "Inbound-to-outbound to rešava.",
             ],
             [
@@ -219,7 +220,7 @@ export const lesson12RichContent: RichLessonContent = {
           type: "paragraphs",
           paragraphs: P(
             [
-              "Inbound-to-outbound znači korišćenje buyer ponašanja da odlučiš ko se kontaktira, kada i sa kojom porukom.",
+              "Inbound-to-outbound znači korišćenje buyer ponašanja da odlučiš ko se kontaktira, kada i sa kojom porukom, a ne pasivno čekanje inbound forme.",
               "Ne svako ko se angažuje treba da dobije pitch.",
               "Ne svako ko downloaduje checklist je spreman za sales.",
               "Ne svako ko prisustvuje webinaru je kvalifikovana opportunity.",
@@ -227,7 +228,7 @@ export const lesson12RichContent: RichLessonContent = {
               "Ta akcija može biti:",
             ],
             [
-              "Inbound-to-outbound means using buyer behavior to decide who gets contacted, when, and with what message.",
+              "Inbound-to-outbound means using buyer behavior to decide who gets contacted, when, and with what message, not passively waiting for an inbound form.",
               "Not everyone who engages should get a pitch.",
               "Not everyone who downloads a checklist is ready for sales.",
               "Not everyone who attends a webinar is a qualified opportunity.",
@@ -278,6 +279,79 @@ export const lesson12RichContent: RichLessonContent = {
           text: L(
             "Cilj nije više lead-ova. Cilj je manje propuštenih trenutaka.",
             "The goal is not more leads. The goal is fewer missed moments.",
+          ),
+        },
+      ],
+    },
+    {
+      type: "section",
+      id: "intent-routing",
+      title: L("Intent routing sistem", "Intent routing system"),
+      blocks: [
+        {
+          type: "workflow",
+          title: L("8 koraka: od signala do akcije", "8-step workflow: from signal to action"),
+          steps: P(
+            [
+              "Privuci pravu publiku kroz founder content i outreach.",
+              "Capture-uj signale iz LinkedIn-a, webinara, formi i sajta.",
+              "Proveri ICP fit osobe ili account-a.",
+              "Oceni intent (nizak, srednji, visok).",
+              "Dodeli owner-a i sledeći korak u CRM-u.",
+              "Pošalji kontekstualan DM/email sa relevantnim asset-om.",
+              "Pokreni kratki follow-up ili sales task po intenzitetu.",
+              "Zatvori petlju kroz CRM update i nedeljni review.",
+            ],
+            [
+              "Attract the right audience through founder content and outreach.",
+              "Capture signals from LinkedIn, webinars, forms, and the website.",
+              "Validate ICP fit for the person or account.",
+              "Score intent (low, medium, high).",
+              "Assign an owner and next step in CRM.",
+              "Send a contextual DM/email with a relevant asset.",
+              "Run a short follow-up or sales task based on intensity.",
+              "Close the loop with CRM updates and weekly review.",
+            ],
+          ),
+          highlight: L(
+            "Sistem ne čeka inbound formu, sistem reaguje na kvalifikovan signal.",
+            "The system does not wait for an inbound form, it reacts to qualified signals.",
+          ),
+        },
+        {
+          type: "table",
+          caption: L("3 nivoa intent-a i akcije", "3 intent levels and actions"),
+          headers: H(["Intent nivo", "Tip signala", "Akcija"], ["Intent level", "Signal type", "Action"]),
+          rows: [
+            {
+              cells: [
+                L("Nizak", "Low"),
+                L("Jedan lajk, jedan view, bez dodatnog konteksta", "Single like, single view, no extra context"),
+                L("Monitor + engage back, bez pitch-a", "Monitor + engage back, no pitch"),
+              ],
+            },
+            {
+              cells: [
+                L("Srednji", "Medium"),
+                L("Komentar, repeat engagement, webinar registracija, download", "Comment, repeat engagement, webinar registration, download"),
+                L("Soft outreach + relevantan resurs + nurture", "Soft outreach + relevant asset + nurture"),
+              ],
+            },
+            {
+              cells: [
+                L("Visok", "High"),
+                L("Webinar pitanje, CTA klik, pricing/demo poseta, DM sa konkretnim pitanjem", "Webinar question, CTA click, pricing/demo visit, DM with a concrete question"),
+                L("Sales task/founder follow-up u 24h", "Sales task/founder follow-up within 24h"),
+              ],
+            },
+          ],
+        },
+        {
+          type: "callout",
+          variant: "accent",
+          text: L(
+            "Automatizacija pomaže timu da zna koga kontaktira, kada da reaguje i zašto baš sada.",
+            "Automation helps the team know who to contact, when to act, and why now.",
           ),
         },
       ],

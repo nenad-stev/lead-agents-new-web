@@ -10,8 +10,8 @@ export const founderLedGrowth: ServicePage = {
       en: "Founder Led Growth - Methodology | Lead Agents",
     },
     description: {
-      sr: "Skalirajte B2B prodaju kroz outbound, LinkedIn sadržaj i precizno targetirane LinkedIn Ads kampanje.",
-      en: "Scale B2B sales through outbound, LinkedIn content, and precisely targeted LinkedIn Ads campaigns.",
+      sr: "Operativni B2B revenue sistem: ICP, outreach + content paralelno, engagement, CRM, buying signali i LinkedIn Ads koji skaliraju ono što radi.",
+      en: "An operational B2B revenue system: ICP, outreach + content in parallel, engagement, CRM, buying signals, and LinkedIn Ads that scale what works.",
     },
   },
   hero: {
@@ -24,8 +24,8 @@ export const founderLedGrowth: ServicePage = {
       en: "Founder Led Growth methodology",
     },
     description: {
-      sr: "Pomažemo osnivačima da skaliraju B2B prodaju kroz personalizovane outbound kampanje, LinkedIn sadržaj koji gradi poverenje i precizno targetirane LinkedIn Ads kampanje.",
-      en: "We help founders scale B2B sales through personalized outbound campaigns, trust-building LinkedIn content, and precisely targeted LinkedIn Ads.",
+      sr: "Pomažemo osnivačima da implementiraju ceo Founder-Led Growth sistem: ICP i profil, outreach + content paralelno, engagement, CRM, buying signali i ads koji skaliraju organski rezultate.",
+      en: "We help founders implement the full Founder-Led Growth system: ICP and profile, outreach + content in parallel, engagement, CRM, buying signals, and ads that scale organic results.",
     },
     audience: {
       sr: "Za foundere koji žele brzo da rastu",
@@ -42,8 +42,8 @@ export const founderLedGrowth: ServicePage = {
   },
   steps: {
     title: {
-      sr: "Metodologija u 3 koraka",
-      en: "Methodology in 3 steps",
+      sr: "Tri stuba jednog revenue sistema",
+      en: "Three pillars of one revenue system",
     },
     items: [
       {
@@ -53,8 +53,8 @@ export const founderLedGrowth: ServicePage = {
           en: "Outbound engine",
         },
         description: {
-          sr: "Pravimo personalizovane prospecting kampanje koje pune tvoj kalendar kvalifikovanim leadovima.",
-          en: "We build personalized prospecting campaigns that fill your calendar with qualified leads.",
+          sr: "ICP, profil i personalizovan outreach koji validira ponudu i širi mrežu, paralelno sa content-om.",
+          en: "ICP, profile, and personalized outreach that validates your offer and expands the network, in parallel with content.",
         },
       },
       {
@@ -64,8 +64,8 @@ export const founderLedGrowth: ServicePage = {
           en: "LinkedIn authority",
         },
         description: {
-          sr: "Kreiramo i objavljujemo sadržaj koji edukuje idealne kupce i gradi poverenje koje vodi ka prodaji.",
-          en: "We create and publish content that educates ideal buyers and builds trust that leads to sales.",
+          sr: "Edukativni content i engagement koji grade poverenje dok outreach radi, plus CRM koji prati signale.",
+          en: "Educational content and engagement that build trust while outreach runs, plus CRM that tracks signals.",
         },
       },
       {
@@ -75,8 +75,8 @@ export const founderLedGrowth: ServicePage = {
           en: "LinkedIn Ads (ABM)",
         },
         description: {
-          sr: "Skaliramo kampanje tako što tačno targetujemo kompanije i pretvaramo hladne account-e u zainteresovane kupce.",
-          en: "We scale campaigns by targeting specific companies and turning cold accounts into interested buyers.",
+          sr: "Thought Leader Ads i ABM koji pojačavaju postove sa ICP engagement-om i pokreću topliji outreach na signale.",
+          en: "Thought Leader Ads and ABM that amplify posts with ICP engagement and trigger warmer outreach on signals.",
         },
       },
     ],

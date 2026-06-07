@@ -6,32 +6,32 @@ export const homeFlagshipService = {
     en: "A complete B2B growth system on LinkedIn",
   },
   description: {
-    sr: "Jedan integrisani sistem koji spaja outbound, sadržaj koji gradi autoritet i LinkedIn Ads, umesto fragmentisanih agencija i alata. Mi vodimo celu strategiju, implementaciju i optimizaciju dok vi zatvarate sastanke.",
-    en: "One integrated system combining outbound, authority-building content, and LinkedIn Ads, instead of fragmented agencies and tools. We run strategy, implementation, and optimization while you close deals.",
+    sr: "Operativni B2B revenue sistem: ICP, profil, outreach + content paralelno, engagement, CRM, buying signali i LinkedIn Ads. Jedan tim vodi strategiju i implementaciju dok vi zatvarate sastanke.",
+    en: "An operational B2B revenue system: ICP, profile, outreach + content in parallel, engagement, CRM, buying signals, and LinkedIn Ads. One team runs strategy and implementation while you close deals.",
   },
   pillars: [
     {
       step: "01",
       title: { sr: "Outbound mašina", en: "Outbound engine" },
       description: {
-        sr: "Personalizovane kampanje koje pune kalendar kvalifikovanim leadovima.",
-        en: "Personalized campaigns that fill your calendar with qualified leads.",
+        sr: "ICP, profil i outreach koji validira ponudu paralelno sa content-om.",
+        en: "ICP, profile, and outreach that validates your offer in parallel with content.",
       },
     },
     {
       step: "02",
       title: { sr: "LinkedIn autoritet", en: "LinkedIn authority" },
       description: {
-        sr: "Sadržaj koji edukuje idealne kupce i gradi poverenje pre prodaje.",
-        en: "Content that educates ideal buyers and builds trust before the sale.",
+        sr: "Edukativni content i engagement koji grade poverenje dok outreach radi.",
+        en: "Educational content and engagement that build trust while outreach runs.",
       },
     },
     {
       step: "03",
       title: { sr: "LinkedIn Ads (ABM)", en: "LinkedIn Ads (ABM)" },
       description: {
-        sr: "Targetirane kampanje koje pretvaraju hladne account-e u zainteresovane kupce.",
-        en: "Targeted campaigns that turn cold accounts into interested buyers.",
+        sr: "Ads i ABM koji skaliraju organski rezultate i pokreću topliji outreach na signale.",
+        en: "Ads and ABM that scale organic results and trigger warmer outreach on signals.",
       },
     },
   ],
@@ -203,12 +203,12 @@ export const homeDifferentiators = {
     sr: [
       "Iskreno, baš ništa. Ali volimo da mislimo da smo opušteni ljudi, pa bi trebalo da bude zabavno raditi sa nama.",
       "Šalu na stranu, svaki projekat tretiramo kao da je naš sopstveni. Videli smo mnogo toga u prodaji i marketingu tokom poslednjih 12 godina, a cela industrija se baš dosta promenila.",
-      "Ono što nas izdvaja jeste naš pristup Founder Led Growth-u. Fokusiramo se na izgradnju autoriteta vlasnika i vaših top ljudi kroz sadržaj koji gradi poverenje, povezujemo ih sa drugim ekspertima u industriji i koristimo pametni, AI-driven LinkedIn outreach da angažujemo idealne klijente i punimo vaš pipeline.",
+      "Ono što nas izdvaja jeste Founder Led Growth pristup: operativni revenue sistem u kom outreach i content rade paralelno, CRM prati signale, a ads skaliraju ono što organski već radi. Founder ostaje u centru prodaje, ne kao lični brend već kao glavni kanal poverenja.",
     ],
     en: [
       "Honestly, nothing at all. But we like to think we're easygoing people, so working with us should be fun.",
       "Jokes aside, we treat every project as if it were our own. We've seen a lot in sales and marketing over the last 12 years, and the industry has changed dramatically.",
-      "What sets us apart is our Founder Led Growth approach. We build authority for founders and top team members through trust-building content, connect them with industry experts, and use smart, AI-driven LinkedIn outreach to engage ideal clients and fill your pipeline.",
+      "What sets us apart is our Founder Led Growth approach: an operational revenue system where outreach and content run in parallel, CRM tracks signals, and ads scale what already works organically. The founder stays at the center of sales, not as a personal brand but as the primary trust channel.",
     ],
   },
   motto: {

@@ -70,8 +70,8 @@ export const lesson6RichContent: RichLessonContent = {
     readingTime: L("14-18 min", "14-18 min"),
     difficulty: L("Početnik do srednjeg nivoa", "Beginner to intermediate"),
     outcome: L(
-      "Izgradićeš ponovljivu LinkedIn strategiju komentarisanja koja čini founder-a vidljivim kod pravih kupaca, pokreće odnose pre outreach-a i stvara tople signale za pipeline sistem.",
-      "Build a repeatable LinkedIn commenting strategy that gets the founder visible with the right buyers, starts relationships before outreach, and creates warm signals for the pipeline system.",
+      "Izgradićeš ponovljivu LinkedIn strategiju komentarisanja koja čini founder-a vidljivim kod pravih kupaca, pokreće odnose paralelno sa outreach-om i stvara tople signale za pipeline sistem.",
+      "Build a repeatable LinkedIn commenting strategy that gets the founder visible with the right buyers, starts relationships in parallel with outreach, and creates warm signals for the pipeline system.",
     ),
     recommendedTools: L(
       "LinkedIn, LinkedIn Sales Navigator, Notion, Google Sheets, Taplio, AuthoredUp, HubSpot CRM, Pipedrive",
@@ -97,7 +97,7 @@ export const lesson6RichContent: RichLessonContent = {
         "Može učiniti founder-a vidljivim bez prekidanja.",
         "Može pokazati ekspertizu bez pitch-a.",
         "Može pokrenuti odnos bez traženja vremena.",
-        "Može stvoriti prepoznatljivost pre outreach-a.",
+        "Može stvoriti prepoznatljivost kod ICP-a dok outreach radi paralelno.",
         "Može pretvoriti nepoznatog u topu konverzaciju.",
         "Većina founder-a ovo pogrešno radi.",
         "Komentarišu nasumično.",
@@ -126,7 +126,7 @@ export const lesson6RichContent: RichLessonContent = {
         "It can make the founder visible without interrupting.",
         "It can show expertise without pitching.",
         "It can start a relationship without asking for time.",
-        "It can create familiarity before outreach.",
+        "It can create familiarity with your ICP while outreach runs in parallel.",
         "It can turn a stranger into a warm conversation.",
         "Most founders get this wrong.",
         "They comment randomly.",
@@ -352,7 +352,7 @@ export const lesson6RichContent: RichLessonContent = {
               "„Ova osoba razume problem.“",
               "To je dovoljno.",
               "Jer cilj komentarisanja nije zatvoriti deal.",
-              "Cilj je postati poznat, koristan i relevantan pre nego što outreach krene.",
+              "Cilj je postati poznat, koristan i relevantan kod ICP-a, paralelno sa outreach-om i content-om.",
             ],
             [
               "A strategic comment should do one of four things:",
@@ -370,7 +370,20 @@ export const lesson6RichContent: RichLessonContent = {
               "\"This person understands the problem.\"",
               "That is enough.",
               "Because the goal of commenting is not to close the deal.",
-              "The goal is to become familiar, useful, and relevant before outreach starts.",
+              "The goal is to become familiar, useful, and relevant with your ICP, in parallel with outreach and content.",
+            ],
+          ),
+        },
+        {
+          type: "paragraphs",
+          paragraphs: P(
+            [
+              "Komentarisanje u ovom sistemu ima tri jasna cilja: vidljivost kod ICP-a, gradnju odnosa kroz ponovljene touchpoint-e i hvatanje signala za sledeći sales korak.",
+              "Drugim rečima, ne komentarišeš da bi „bio aktivan“, već da bi pravi ljudi češće videli tvoje ime u pravom kontekstu.",
+            ],
+            [
+              "Commenting in this system has three explicit goals: visibility with your ICP, relationship-building through repeated touchpoints, and signal capture for the next sales step.",
+              "In other words, you are not commenting just to appear active, you are commenting so the right people see your name in the right context more often.",
             ],
           ),
         },
@@ -380,6 +393,14 @@ export const lesson6RichContent: RichLessonContent = {
           text: L(
             "Komentar nije mini-oglas. To je javni trust touchpoint.",
             "A comment is not a mini-ad. It is a public trust touchpoint.",
+          ),
+        },
+        {
+          type: "callout",
+          variant: "tip",
+          text: L(
+            "Optimizuj za to da te vidi relevantan ICP, ne za broj komentara.",
+            "Optimize for relevant ICP visibility, not for raw comment count.",
           ),
         },
         {
@@ -902,8 +923,8 @@ export const lesson6RichContent: RichLessonContent = {
                 L("Reframe komentar", "Reframe comment"),
                 L("Izaziva ili izoštrava ideju", "Challenges or sharpens the idea"),
                 L(
-                  "„Dodao bih jedan sloj: problem nije samo reply rate. Pitanje je da li je kupac imao kontekst pre poruke.“",
-                  "\"I'd add one layer: the issue is not only reply rate. It is whether the buyer had context before the message arrived.\"",
+                  "„Dodao bih jedan sloj: problem nije samo reply rate. Pitanje je da li kupac već vidi founder-a kao relevantnog.“",
+                  "\"I'd add one layer: the issue is not only reply rate. It is whether the buyer already sees the founder as relevant.\"",
                 ),
               ],
             },
@@ -1917,8 +1938,8 @@ Want me to send it?"`,
     {
       question: L("Zašto je komentarisanje važno u Founder-Led Growth-u?", "Why is commenting important in Founder-Led Growth?"),
       answer: L(
-        "Komentarisanje pomaže founder-u da postane vidljiv pravim kupcima pre outreach-a. Stvara prepoznatljivost, pokazuje ekspertizu, pokreće odnose i čini buduće poruke manje hladnim.",
-        "Commenting helps the founder become visible to the right buyers before sending outreach. It creates familiarity, shows expertise, starts relationships, and makes future messages feel less cold.",
+        "Komentarisanje pomaže founder-u da postane vidljiv pravim kupcima dok outreach radi paralelno. Stvara prepoznatljivost, pokazuje ekspertizu, pokreće odnose i čini poruke manje hladnim.",
+        "Commenting helps the founder become visible to the right buyers while outreach runs in parallel. It creates familiarity, shows expertise, starts relationships, and makes messages feel less cold.",
       ),
     },
     {
@@ -1959,8 +1980,8 @@ Want me to send it?"`,
     {
       question: L("Koja je najveća greška founder-a pri LinkedIn komentarisanju?", "What is the biggest mistake founders make with LinkedIn commenting?"),
       answer: L(
-        "Najveća greška je nasumično komentarisanje. Nasumičan angažman stvara nasumičnu vidljivost. Strateško komentarisanje fokusira ICP kupce, relevantne razgovore i gradnju odnosa pre outreach-a.",
-        "The biggest mistake is commenting randomly. Random engagement creates random visibility. Strategic commenting focuses on ICP buyers, relevant conversations, and relationship-building before outreach.",
+        "Najveća greška je nasumično komentarisanje. Nasumičan angažman stvara nasumičnu vidljivost. Strateško komentarisanje fokusira ICP kupce, relevantne razgovore i gradnju odnosa paralelno sa outreach-om.",
+        "The biggest mistake is commenting randomly. Random engagement creates random visibility. Strategic commenting focuses on ICP buyers, relevant conversations, and relationship-building in parallel with outreach.",
       ),
     },
   ],
@@ -2044,12 +2065,12 @@ Want me to send it?"`,
   },
   cta: {
     title: L(
-      "Komentarisanje je način na koji founder-led odnosi počinju pre outreach-a.",
-      "Commenting is how founder-led relationships start before outreach.",
+      "Komentarisanje je način na koji founder-led odnosi rastu paralelno sa outreach-om.",
+      "Commenting is how founder-led relationships grow in parallel with outreach.",
     ),
     body: L(
-      "Kad komentarišeš strateški, kupci vide tvoje razmišljanje pre nego što stigne poruka. To menja ceo sales motion. Profile visit-i postaju topliji. DM-ovi deluju manje nasumično. Outreach ima kontekst. Content postaje bolji. CRM hvata prave relationship signale. Sledeća lekcija pokazuje kako pretvoriti LinkedIn engagement u outreach listu bez hladnog ili spam osećaja.",
-      "When you comment strategically, buyers see your thinking before they ever receive your message. That changes the whole sales motion. Your profile visits get warmer. Your DMs feel less random. Your outreach has context. Your content gets better. Your CRM captures real relationship signals. The next lesson shows how to turn LinkedIn engagement into an outreach list without making the process feel cold or spammy.",
+      "Kad komentarišeš strateški, kupci vide tvoje razmišljanje dok outreach radi paralelno. To menja ceo sales motion. Profile visit-i postaju topliji. DM-ovi deluju manje nasumično. Outreach dobija veću šansu za odgovor. Content postaje bolji. CRM hvata prave relationship signale. Sledeća lekcija pokazuje kako pretvoriti LinkedIn engagement u outreach listu bez hladnog ili spam osećaja.",
+      "When you comment strategically, buyers see your thinking while outreach runs in parallel. That changes the whole sales motion. Your profile visits get warmer. Your DMs feel less random. Outreach gets a better chance of a reply. Your content gets better. Your CRM captures real relationship signals. The next lesson shows how to turn LinkedIn engagement into an outreach list without making the process feel cold or spammy.",
     ),
     primaryLabel: L("Nastavi na lekciju 7", "Continue Lesson 7"),
     secondaryLabel: L("Zakaži konsultaciju", "Book consultation"),

@@ -28,7 +28,7 @@ export const unbounceTool: SalesTool = {
       "Smart Traffic",
     ],
   },
-  websiteUrl: "https://unbounce.com/",
+  websiteUrl: "https://unbounce.partnerlinks.io/co8whr31sgl3",
   recommended: true,
   rating: { g2: 4.4, g2Reviews: 376 },
   overview: {

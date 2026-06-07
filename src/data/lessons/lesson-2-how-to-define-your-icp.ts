@@ -124,6 +124,7 @@ export const lesson2RichContent: RichLessonContent = {
     { id: "learn", title: L("Šta ćeš naučiti", "What this lesson will teach you") },
     { id: "why", title: L("Zašto je ovo važno", "Why this matters") },
     { id: "core", title: L("Osnovna ideja", "Core idea") },
+    { id: "icp-drives-all", title: L("ICP određuje sve ostalo", "Your ICP drives everything else") },
     { id: "vs-persona", title: L("ICP vs buyer persona", "ICP vs buyer persona") },
     { id: "framework", title: L("FLG ICP okvir", "Founder-Led Growth ICP framework") },
     { id: "story", title: L("Mesto u Lead Agents sistemu", "Place in the Lead Agents system") },
@@ -281,6 +282,75 @@ export const lesson2RichContent: RichLessonContent = {
               ),
             },
           ],
+        },
+      ],
+    },
+    {
+      type: "section",
+      id: "icp-drives-all",
+      title: L("ICP određuje sve ostalo", "Your ICP drives everything else"),
+      blocks: [
+        {
+          type: "paragraphs",
+          paragraphs: P(
+            [
+              "ICP ne određuje samo kome pišeš i kome šalješ poruke. ICP određuje ceo sistem: messaging, ponudu, content teme, follow-up logiku, personalizaciju i lead scoring.",
+              "Kad je ICP nejasan, sve postaje generičko. Kad je ICP precizan, svaka aktivnost ima jasan kriterijum i fokus.",
+            ],
+            [
+              "Your ICP does not only define who you write to and who you message. It defines the whole system: messaging, offer design, content topics, follow-up logic, personalization, and lead scoring.",
+              "When your ICP is vague, everything becomes generic. When your ICP is precise, every action has clear criteria and focus.",
+            ],
+          ),
+        },
+        {
+          type: "callout",
+          variant: "accent",
+          text: L(
+            "Mini-framework: ICP segment = tip firme + uloga + problem + trigger + relevantna ponuda.",
+            "Mini-framework: ICP segment = company type + role + problem + trigger + relevant offer.",
+          ),
+        },
+        {
+          type: "paragraphs",
+          paragraphs: P(
+            ["Primeri triggera koji pomažu segmentaciji i tajmingu:"],
+            ["Examples of triggers that improve segmentation and timing:"],
+          ),
+        },
+        {
+          type: "bullets",
+          items: P(
+            [
+              "zapošljavanje sales tima;",
+              "nova investicija ili funding;",
+              "otvorene pozicije koje ukazuju na GTM promenu;",
+              "ulazak na novo tržište;",
+              "ulazak u novu industriju ili vertikalu;",
+              "aktivniji content i market edukacija;",
+              "promena rukovodstva (npr. novi VP Sales, CMO, CRO).",
+            ],
+            [
+              "hiring a sales team;",
+              "new funding or investment;",
+              "open roles indicating a GTM shift;",
+              "expansion into a new market;",
+              "expansion into a new industry or vertical;",
+              "more active content and market education;",
+              "leadership change (for example a new VP Sales, CMO, or CRO).",
+            ],
+          ),
+        },
+        {
+          type: "paragraphs",
+          paragraphs: P(
+            [
+              "Važno: segmentacioni trigger nije isto što i intent signal i nije isto što i direktna sales akcija. Trigger često znači „vredi obratiti pažnju sada“, ali ne znači automatski da je account spreman za call. Neki triggeri su rani kontekst za nurture, dok intent signali obično traže aktivniji follow-up.",
+            ],
+            [
+              "Important: a segmentation trigger is not the same as an intent signal, and neither equals direct sales action. A trigger often means \"timing is worth attention now,\" but it does not automatically mean the account is ready for a call. Some triggers are early nurture context, while intent signals usually call for more active follow-up.",
+            ],
+          ),
         },
       ],
     },
@@ -662,7 +732,7 @@ export const lesson2RichContent: RichLessonContent = {
           headers: H(["ICP bol", "Founder POV", "Content pilar", "Primer posta"], ["ICP pain", "Founder POV", "Content pillar", "Example post"]),
           rows: [
             { cells: [L("Founder i dalje vodi prodaju", "Founder still drives sales"), L("Pipeline ne može zavisiti samo od odnosa", "Pipeline cannot depend only on founder relationships"), L("Founder-led pipeline", "Founder-led pipeline"), L("„Vaša founder mreža nije sales sistem.“", "\"Your founder network is not a sales system.\"")] },
-            { cells: [L("Slab outbound reply", "Outreach gets low replies"), L("Kupci nemaju kontekst pre outreach-a", "Buyers have no context before outreach"), L("Kontekst pre outbound-a", "Context before outbound"), L("„Cold poruka nije prvi utisak - LinkedIn profil jeste.“", "\"Your cold message is not the first impression. Your LinkedIn profile is.\"")] },
+            { cells: [L("Slab outbound reply", "Outreach gets low replies"), L("ICP nije jasan ili profil ne objašnjava ponudu", "ICP is unclear or profile does not explain the offer"), L("ICP + profil pre outreach-a", "ICP + profile before outreach"), L("„Cold poruka nije prvi utisak — LinkedIn profil jeste.“", "\"Your cold message is not the first impression. Your LinkedIn profile is.\"")] },
             { cells: [L("CRM haos", "CRM is messy"), L("Revenue signali se gube", "Revenue signals are getting lost"), L("CRM kao pipeline memorija", "CRM as pipeline memory"), L("„Ako LinkedIn razgovori ostanu u DM-ovima, to nije pipeline.“", "\"If LinkedIn conversations stay in DMs, they are not pipeline.\"")] },
             { cells: [L("Slabi webinar leadovi", "Webinars get low-quality leads"), L("Tema preširoka", "Topic is too broad"), L("Problem-led webinari", "Problem-led webinars"), L("„Webinar tema dolazi iz ponovljenog buyer pain-a, ne brainstorm-a.“", "\"A webinar topic should come from repeated buyer pain, not a marketing brainstorm.\"")] },
           ],

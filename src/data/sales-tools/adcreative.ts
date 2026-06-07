@@ -28,7 +28,7 @@ export const adcreativeTool: SalesTool = {
       "Meta & Google integrations",
     ],
   },
-  websiteUrl: "https://www.adcreative.ai/",
+  websiteUrl: "https://free-trial.adcreative.ai/4zu2k8a4em7w",
   recommended: true,
   rating: { g2: 4.6, g2Reviews: 320 },
   overview: {

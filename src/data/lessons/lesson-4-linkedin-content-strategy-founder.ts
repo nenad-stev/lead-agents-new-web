@@ -134,6 +134,7 @@ export const lesson4RichContent: RichLessonContent = {
     { id: "core", title: L("Osnovna ideja", "Core idea") },
     { id: "vs-random", title: L("Strategija vs nasumično postovanje", "Founder content strategy vs random posting") },
     { id: "content-framework", title: L("Okvir content strategije", "Content strategy framework") },
+    { id: "interview-system", title: L("Intervju content sistem", "Interview-based content system") },
     { id: "strategy-steps", title: L("Korak po korak strategija", "Step-by-step content strategy framework") },
     { id: "story", title: L("Mesto u Lead Agents sistemu", "Place in the Lead Agents system") },
     { id: "proof", title: L("Dokaz i istraživanja", "Proof / trust section") },
@@ -288,12 +289,12 @@ export const lesson4RichContent: RichLessonContent = {
           type: "paragraphs",
           paragraphs: P(
             [
-              "Founder LinkedIn content strategija treba da radi četiri posla: 1) Edukuje ICP. 2) Gradi poverenje u founder point of view. 3) Stvara kontekst pre outreach-a. 4) Generiše signale za pipeline sistem.",
+              "Founder LinkedIn content strategija treba da radi četiri posla: 1) Edukuje ICP. 2) Gradi poverenje u founder pogled na problem. 3) Radi paralelno sa outreach-om, ne umesto njega. 4) Generiše signale za pipeline sistem.",
               "Cilj nije „biti aktivan na LinkedIn-u“. Cilj je postati poznat po problemu koji tvoja kompanija rešava. Content ne treba da bude nasumičan, treba da ponavlja iste core ideje iz različnih uglova dok tržište ne počne da te povezuje sa problemom, POV-om i rešenjem.",
               "Većina founder-a prestane prerano jer im ponavljanje deluje dosadno. Ali ponavljanje je način na koji se tržište seća. Umoran si od svoje poruke pre nego što je kupac uopšte primetio.",
             ],
             [
-              "A founder LinkedIn content strategy should do four jobs: 1) Educate the ICP. 2) Build trust in the founder's point of view. 3) Create context before outreach. 4) Generate signals for the pipeline system.",
+              "A founder LinkedIn content strategy should do four jobs: 1) Educate the ICP. 2) Build trust in the founder's point of view. 3) Run in parallel with outreach, not instead of it. 4) Generate signals for the pipeline system.",
               "The goal is not to \"be active on LinkedIn.\" The goal is to become known for the problem your company solves. Your content should not be random. It should repeat the same core ideas from different angles until your market starts associating you with the problem, the point of view, and the solution.",
               "Most founders stop too early because repetition feels boring to them. But repetition is how the market remembers. You are tired of your message before your buyer has even noticed it.",
             ],
@@ -615,6 +616,78 @@ export const lesson4RichContent: RichLessonContent = {
     },
     {
       type: "section",
+      id: "interview-system",
+      title: L("Intervju content sistem", "Interview-based content system"),
+      blocks: [
+        {
+          type: "paragraphs",
+          paragraphs: P(
+            [
+              "Ako founder nema kapacitet za dnevno pisanje, koristi intervju sistem od 60-120 minuta nedeljno. Jedan kvalitetan razgovor može da nahrani ceo content ciklus bez gubitka stručnosti.",
+              "Praksa: vodi strukturisan intervju, izvuci transkript, zatim od istog materijala gradi postove, klipove, newsletter i outreach uglove.",
+            ],
+            [
+              "If the founder cannot write daily, run a 60-120 minute weekly interview system. One high-quality conversation can feed the full content cycle without losing expertise.",
+              "Practical flow: run a structured interview, create the transcript, then turn that single source into posts, clips, newsletter sections, and outreach angles.",
+            ],
+          ),
+        },
+        {
+          type: "pipeline-flow",
+          title: L(
+            "Intervju → transkript → ideje → format → edit → objava → analiza → repurpose",
+            "Interview → transcript → ideas → format → edit → publish → analyze → repurpose",
+          ),
+          subtitle: L(
+            "Jedan razgovor postaje više asset-a kroz ponovljiv operativni proces.",
+            "One conversation becomes multiple assets through a repeatable operating process.",
+          ),
+          stages: [
+            L("Intervju", "Interview"),
+            L("Transkript", "Transcript"),
+            L("Ideje", "Ideas"),
+            L("Format", "Format"),
+            L("Edit", "Edit"),
+            L("Objava", "Publish"),
+            L("Analiza", "Analyze"),
+            L("Repurpose", "Repurpose"),
+          ],
+        },
+        {
+          type: "bullets",
+          items: P(
+            [
+              "LinkedIn edukativni postovi (problem, reframe, framework);",
+              "short-form video klipovi sa ključnim momentima;",
+              "carousel sa koracima ili checklist-om;",
+              "newsletter sekcija sa dubljim objašnjenjem;",
+              "webinar tema i struktura sesije;",
+              "outreach opener i follow-up reference;",
+              "CRM tagovi po temi i signalima zainteresovanosti.",
+            ],
+            [
+              "LinkedIn educational posts (problem, reframe, framework);",
+              "short-form video clips with key moments;",
+              "carousel assets with steps or checklists;",
+              "newsletter sections with deeper explanation;",
+              "webinar topic and session structure;",
+              "outreach opener and follow-up references;",
+              "CRM tags by topic and engagement signal.",
+            ],
+          ),
+        },
+        {
+          type: "callout",
+          variant: "tip",
+          text: L(
+            "AI koristi za ekstrakciju i draft, ali finalni ton mora ostati founder-ov. Cilj je ubrzanje produkcije, ne gubitak autentičnog glasa.",
+            "Use AI for extraction and first drafts, but keep the founder voice in the final output. The goal is faster production, not loss of authenticity.",
+          ),
+        },
+      ],
+    },
+    {
+      type: "section",
       id: "strategy-steps",
       title: L("Korak po korak okvir content strategije", "Step-by-step content strategy framework"),
       blocks: [
@@ -734,7 +807,7 @@ export const lesson4RichContent: RichLessonContent = {
                 "Pillars prevent random posting and reduce content planning stress.",
               ),
               example: L(
-                "Problem education: „Tvoj outbound problem verovatno nije copy.“ Founder POV: „Ne kreni od outreach-a. Kreni od konteksta.“",
+                "Problem education: „Tvoj outbound problem verovatno nije copy.“ Founder POV: „Pokreni outreach i content zajedno, ne čekaj jedan na drugi.“",
                 "Problem education: \"Your outbound problem is probably not copy.\" Founder POV: \"Don't start with outreach. Start with context.\"",
               ),
               commonMistake: L(
@@ -758,7 +831,7 @@ export const lesson4RichContent: RichLessonContent = {
           headers: H(["Pilar", "Svrha", "Primer teme"], ["Pillar", "Purpose", "Example topic"]),
           rows: [
             { cells: [L("Problem education", "Problem education"), L("Pomaže kupcu da razume šta je pokvareno", "Help buyers understand what is broken"), L("„Tvoj outbound problem verovatno nije copy.“", "\"Your outbound problem is probably not copy.\"")] },
-            { cells: [L("Founder POV", "Founder POV"), L("Uči tržište kako misliš", "Teach the market how you think"), L("„Ne kreni od outreach-a. Kreni od konteksta.“", "\"Don't start with outreach. Start with context.\"")] },
+            { cells: [L("Founder POV", "Founder POV"), L("Uči tržište kako misliš", "Teach the market how you think"), L("„Outreach širi mrežu, content gradi poverenje — oba od starta.“", "\"Outreach expands the network, content builds trust — both from day one.\"")] },
             { cells: [L("Practical breakdowns", "Practical breakdowns"), L("Pokazuje kako da rešiš deo problema", "Show how to solve part of the problem"), L("„5 CRM polja za founder-led pipeline.“", "\"The 5 CRM fields we use to track founder-led pipeline.\"")] },
             { cells: [L("Proof / story", "Proof / story"), L("Pokazuje rezultate i lekcije iz terena", "Show results, examples, or lessons from the field"), L("„Kako je jedna webinar tema stvorila 9 sales razgovora.“", "\"How one webinar topic created 9 sales conversations.\"")] },
             { cells: [L("Buying criteria", "Buying criteria"), L("Pomaže kupcu da donese bolju odluku", "Help buyers make better decisions"), L("„Pre nego što angažuješ SDR-ove, proveri ova 4 stvari.“", "\"Before hiring SDRs, check these 4 things.\"")] },
@@ -1054,7 +1127,7 @@ export const lesson4RichContent: RichLessonContent = {
             [
               "Lead Agents redosled: ICP dokument, profil, cold Outreach, buying signali, zatim content iz podcast intervjua (Riverside, Descript, Canva), Thought Leader Ads, CRM sa lead scoring-om.",
               "Ova lekcija pokriva content strategiju, ne dnevno pisanje founder-a. Ekspertiza dolazi iz intervjua i snimaka, transkript se seče u postove, klipove i carousel-e. Cilj je poverenje koje podiže reply rate i broj sastanaka.",
-              "Content dolazi posle ICP-a, profila i Outreach-a, kada već imate kontekst šta tržište oseća. Komentari i engagement hrane signale za sledeći Outreach.",
+              "Content dolazi posle ICP-a i profila, paralelno sa outreach-om — ne čeka da outreach završi. Komentari i engagement hrane signale za topliji sledeći korak.",
               "Outreach direktno napada ICP. Reklame indirektno šire dokaz koji content već testira organski.",
             ],
             [
@@ -1136,7 +1209,7 @@ export const lesson4RichContent: RichLessonContent = {
             ["ICP", "Pain", "Founder POV", "Pillar", "Format", "CTA", "Signal to track"],
           ),
           rows: [
-            { cells: [L("B2B SaaS founder-i", "B2B SaaS founders"), L("Pipeline zavisi od referenci", "Pipeline depends on referrals"), L("Kontekst pre outreach-a", "Context should come before outreach"), L("Founder-led pipeline", "Founder-led pipeline"), L("Problem post", "Problem post"), L("DM „PLAYBOOK“", "DM \"PLAYBOOK\""), L("Profile view-ovi + DM-ovi", "Profile views + DMs")] },
+            { cells: [L("B2B SaaS founder-i", "B2B SaaS founders"), L("Pipeline zavisi od referenci", "Pipeline depends on referrals"), L("Paralelan outreach + content", "Parallel outreach + content"), L("Founder-led pipeline", "Founder-led pipeline"), L("Problem post", "Problem post"), L("DM „PLAYBOOK“", "DM \"PLAYBOOK\""), L("Profile view-ovi + DM-ovi", "Profile views + DMs")] },
             { cells: [L("Agencije", "Agencies"), L("Ekspertiza zarobljena u call-ovima", "Founder expertise stuck in calls"), L("Ekspertiza treba da postane market-facing content", "Expertise should become market-facing content"), L("Founder ekspertiza", "Founder expertise"), L("Story post", "Story post"), L("Download checklist", "Download checklist"), L("Komentari od founder-a", "Comments from founders")] },
             { cells: [L("IT usluge", "IT services"), L("Dugi sales ciklusi trebaju trust", "Long sales cycles need trust"), L("Kompleksne usluge trebaju edukaciju pre prodaje", "Complex services need education before sales"), L("Trust pre prodaje", "Trust before sales"), L("Framework post", "Framework post"), L("Join webinar", "Join webinar"), L("Webinar registracije", "Webinar registrations")] },
             { cells: [L("Konsalting", "Consulting firms"), L("Partner-led sales ne skalira", "Partner-led sales does not scale"), L("Thought leadership treba da podrži pipeline", "Thought leadership should support pipeline"), L("Content kao sales asset", "Content as sales asset"), L("Checklist post", "Checklist post"), L("Book consultation", "Book consultation"), L("CRM kontakt kreiran", "CRM contact created")] },
@@ -1250,7 +1323,7 @@ export const lesson4RichContent: RichLessonContent = {
           type: "paragraphs",
           paragraphs: P(
             [
-              "Core idea: „Ne kreni od outreach-a. Kreni od konteksta.“ Repurpose u: LinkedIn text post, carousel, 60s founder video, webinar sekciju, newsletter, comment framework, outreach opener, CRM signal tag, kratku checklist.",
+              "Core idea: „Outreach i content rade zajedno od starta.“ Repurpose u: LinkedIn text post, carousel, 60s founder video, webinar sekciju, newsletter, comment framework, outreach opener, CRM signal tag, kratku checklist.",
             ],
             [
               "Core idea: \"Don't start with outreach. Start with context.\" Repurpose into: LinkedIn text post, carousel, 60-second founder video, webinar section, newsletter section, comment framework, outreach opener, CRM signal tag, short checklist.",
@@ -1631,7 +1704,7 @@ Mi verujemo:
 
 Primer:
 Većina founder-a veruje da im treba više outreach volumena.
-Mi verujemo da im treba više konteksta pre outreach-a.
+Mi verujemo da treba jasan ICP, profil i paralelan outreach + content.
 
 3. Content pilari
 
@@ -1744,7 +1817,7 @@ We believe:
 
 Example:
 Most founders believe they need more outreach volume.
-We believe they need more context before outreach.
+We believe they need a clear ICP, profile, and parallel outreach + content.
 
 3. Content pillars
 
@@ -1976,8 +2049,8 @@ Event CTA: Join the next Founder-Led Growth webinar.
       "Founder content should not depend on inspiration",
     ),
     body: L(
-      "Treba da dolazi iz sistema. Kada je content strategija jasna, svaki post ima posao: edukuje ICP; gradi founder POV; stvara kontekst pre outreach-a; validira webinar teme; generiše CRM signale; i zagreva sales razgovore. Sledeća lekcija pokazuje kako pisati edukativne LinkedIn postove koji grade autoritet i pomeraju kupce ka akciji.",
-      "It should come from a system. When your content strategy is clear, every post has a job: educate the ICP; build the founder's point of view; create context before outreach; validate webinar topics; generate CRM signals; and make sales conversations warmer. The next lesson shows how to write educational LinkedIn posts that build authority and move buyers closer to action.",
+      "Treba da dolazi iz sistema. Kada je content strategija jasna, svaki post ima posao: edukuje ICP; gradi founder POV; radi paralelno sa outreach-om; validira webinar teme; generiše CRM signale; i zagreva sales razgovore. Sledeća lekcija pokazuje kako pisati edukativne LinkedIn postove koji grade autoritet i pomeraju kupce ka akciji.",
+      "It should come from a system. When your content strategy is clear, every post has a job: educate the ICP; build the founder's point of view; run in parallel with outreach; validate webinar topics; generate CRM signals; and make sales conversations warmer. The next lesson shows how to write educational LinkedIn posts that build authority and move buyers closer to action.",
     ),
     primaryLabel: L("Nastavi na Lekciju 5", "Continue to Lesson 5"),
     secondaryLabel: L("Zakaži konsultaciju", "Book a consultation"),

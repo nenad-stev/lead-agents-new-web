@@ -79,28 +79,72 @@ function SectionImage({
   image,
   locale,
   priority = false,
+  wide = false,
 }: {
   image: NonNullable<CaseStudySection["image"]>;
   locale: Locale;
   priority?: boolean;
+  wide?: boolean;
 }) {
   const isCover = image.fit === "cover";
 
   return (
     <div
       className={cn(
-        "relative overflow-hidden rounded-2xl border border-border/80 bg-card shadow-[0_24px_48px_-24px_rgba(0,0,0,0.55)]",
-        isCover ? "aspect-[3/4] min-h-[320px] lg:aspect-[4/5]" : "aspect-[4/3]",
+        "relative overflow-hidden rounded-2xl border shadow-[0_24px_48px_-24px_rgba(0,0,0,0.55)]",
+        "border-border/80 bg-card",
+        wide
+          ? "aspect-[16/10] min-h-[280px] md:min-h-[420px]"
+          : isCover
+            ? "aspect-[3/4] min-h-[320px] lg:aspect-[4/5]"
+            : "aspect-[4/3]",
       )}
     >
       <Image
         src={image.src}
         alt={t(image.alt, locale)}
         fill
-        className={isCover ? "object-cover object-center" : "object-contain object-center p-5 md:p-8"}
-        sizes="(max-width: 1024px) 100vw, 520px"
+        className={
+          isCover
+            ? "object-cover object-center"
+            : cn(
+                "object-contain object-center",
+                wide ? "p-4 md:p-6 lg:p-8" : "p-5 md:p-8",
+              )
+        }
+        sizes={wide ? "(max-width: 1024px) 100vw, 1152px" : "(max-width: 1024px) 100vw, 520px"}
         priority={priority}
       />
+    </div>
+  );
+}
+
+function ExternalLinkButtons({
+  links,
+  locale,
+}: {
+  links: NonNullable<CaseStudyDetail["hero"]["links"]>;
+  locale: Locale;
+}) {
+  return (
+    <div className="flex flex-wrap gap-3">
+      {links.map((item) => (
+        <a
+          key={item.href[locale]}
+          href={item.href[locale]}
+          target="_blank"
+          rel="noreferrer"
+          className={cn(
+            "inline-flex items-center gap-2 rounded-full px-5 py-2.5 text-sm font-semibold transition-colors",
+            item.primary
+              ? "case-study-link-primary bg-accent text-background hover:bg-[var(--accent-hover)]"
+              : "border border-border/80 bg-card/80 text-foreground hover:border-accent/40 hover:bg-card",
+          )}
+        >
+          {t(item.label, locale)}
+          <span aria-hidden>↗</span>
+        </a>
+      ))}
     </div>
   );
 }
@@ -122,6 +166,7 @@ function ContentSection({
   const leadParagraphs = paragraphs.slice(0, -1);
   const closingParagraph = paragraphs.length > 1 ? paragraphs.at(-1) : null;
   const isAbout = section.id === "about";
+  const isFullImage = section.imageLayout === "full" && hasImage;
 
   return (
     <section
@@ -141,9 +186,9 @@ function ContentSection({
 
         <div
           className={cn(
-            hasImage && "grid items-start gap-10 lg:grid-cols-2 lg:gap-16",
-            !hasImage && !hasEmbeds && "max-w-3xl",
-            reverse && hasImage && "lg:[&>*:first-child]:order-2",
+            hasImage && !isFullImage && "grid items-start gap-10 lg:grid-cols-2 lg:gap-16",
+            (!hasImage || isFullImage) && !hasEmbeds && !isFullImage && "max-w-3xl",
+            reverse && hasImage && !isFullImage && "lg:[&>*:first-child]:order-2",
           )}
         >
           <div className={cn(hasImage && !reverse && "lg:pt-2", reverse && hasImage && "lg:pt-2")}>
@@ -198,20 +243,15 @@ function ContentSection({
             ) : null}
 
             {section.links?.length ? (
-              <ul className="mt-4 space-y-2 text-sm">
-                {section.links.map((item) => (
-                  <li key={item.href[locale]}>
-                    <a
-                      href={item.href[locale]}
-                      target="_blank"
-                      rel="noreferrer"
-                      className="text-accent underline-offset-2 hover:underline"
-                    >
-                      {t(item.label, locale)}
-                    </a>
-                  </li>
-                ))}
-              </ul>
+              <div className="mt-6">
+                <ExternalLinkButtons
+                  links={section.links.map((item, linkIndex) => ({
+                    ...item,
+                    primary: linkIndex === 0,
+                  }))}
+                  locale={locale}
+                />
+              </div>
             ) : null}
 
             {section.stats?.length ? (
@@ -271,7 +311,7 @@ function ContentSection({
             ) : null}
           </div>
 
-          {section.image ? (
+          {section.image && !isFullImage ? (
             <SectionImage
               image={section.image}
               locale={locale}
@@ -279,6 +319,16 @@ function ContentSection({
             />
           ) : null}
         </div>
+
+        {isFullImage && section.image ? (
+          <div className="mt-12">
+            <SectionImage
+              image={section.image}
+              locale={locale}
+              wide
+            />
+          </div>
+        ) : null}
       </div>
     </section>
   );
@@ -319,7 +369,18 @@ export function CaseStudyDetailPage({
                 {t(caseStudy.hero.title, locale)}
               </h1>
 
-              {caseStudy.hero.highlight ? (
+              {caseStudy.hero.tags?.length ? (
+                <ul className="mt-5 flex flex-wrap gap-2">
+                  {caseStudy.hero.tags.map((tag) => (
+                    <li
+                      key={tag[locale]}
+                      className="rounded-full border border-accent/40 bg-accent/10 px-3.5 py-1.5 text-xs font-semibold text-foreground md:text-sm"
+                    >
+                      {t(tag, locale)}
+                    </li>
+                  ))}
+                </ul>
+              ) : caseStudy.hero.highlight ? (
                 <p className="mt-5 inline-flex rounded-full border border-accent/40 bg-accent/10 px-4 py-2 text-sm font-semibold text-foreground md:text-base">
                   {t(caseStudy.hero.highlight, locale)}
                 </p>
@@ -328,7 +389,24 @@ export function CaseStudyDetailPage({
               <p className="mt-6 max-w-2xl text-lg font-light leading-relaxed text-muted md:text-xl md:leading-8">
                 {t(caseStudy.excerpt, locale)}
               </p>
+
+              {caseStudy.hero.links?.length ? (
+                <div className="mt-8">
+                  <ExternalLinkButtons links={caseStudy.hero.links} locale={locale} />
+                </div>
+              ) : null}
             </div>
+
+            {caseStudy.hero.image ? (
+              <div className="mt-12 md:mt-14">
+                <SectionImage
+                  image={caseStudy.hero.image}
+                  locale={locale}
+                  priority
+                  wide
+                />
+              </div>
+            ) : null}
 
             <nav
               className="mt-12 flex flex-wrap gap-2 border-t border-border/50 pt-8"

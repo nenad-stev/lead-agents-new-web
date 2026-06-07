@@ -132,6 +132,7 @@ export const lesson5RichContent: RichLessonContent = {
     { id: "learn", title: L("Šta ćeš naučiti", "What this lesson will teach you") },
     { id: "why", title: L("Zašto je ovo važno", "Why this matters") },
     { id: "core", title: L("Osnovna ideja", "Core idea") },
+    { id: "trust-before-outreach", title: L("Poverenje paralelno sa outreach-om", "Trust in parallel with outreach") },
     { id: "vs-generic", title: L("Edukativni vs generički post", "Educational post vs generic post") },
     { id: "post-framework", title: L("Okvir edukativnog posta", "Authority post framework") },
     { id: "writing-steps", title: L("Korak po korak pisanje", "Step-by-step post writing framework") },
@@ -334,6 +335,76 @@ export const lesson5RichContent: RichLessonContent = {
           text: L(
             "Najbolji edukativni postovi deluju korisno čak i ako čitalac nikad ne kupi. Zato grade poverenje.",
             "The best educational posts feel useful even if the reader never buys. That is why they build trust.",
+          ),
+        },
+      ],
+    },
+    {
+      type: "section",
+      id: "trust-before-outreach",
+      title: L("Poverenje paralelno sa outreach-om", "Trust in parallel with outreach"),
+      blocks: [
+        {
+          type: "paragraphs",
+          paragraphs: P(
+            [
+              "Edukativni postovi nisu cilj sami po sebi. Njihova uloga je da grade poverenje dok outreach radi paralelno, tako da poruka ne deluje hladno kad stigne.",
+              "Kad ICP već vidi da razumeš njihov problem kroz postove, reply rate i kvalitet razgovora rastu. Content tada radi kao kontekstualni most ka prodaji.",
+            ],
+            [
+              "Educational posts are not the end goal. Their role is to build trust while outreach runs in parallel, so your message does not feel cold when it lands.",
+              "When the ICP already sees your thinking in posts, reply rates and conversation quality improve. Content then works as a trust bridge to sales.",
+            ],
+          ),
+        },
+        {
+          type: "checklist",
+          title: L("Mini checklist pre objave", "Mini pre-publish checklist"),
+          items: P(
+            [
+              "da li je ICP segment jasan već u prvim linijama;",
+              "da li post imenuje jedan konkretan buyer problem;",
+              "da li postoji reframe ili originalan uvid (ne generičan savet);",
+              "da li ima makar jedan praktičan primer iz realnog rada;",
+              "da li je CTA usklađen sa namerom (soft/medium), ne prerani pitch;",
+              "da li ton ostaje founder-ov i dosledan pozicioniranju.",
+            ],
+            [
+              "is the ICP segment clear in the opening lines;",
+              "does the post name one concrete buyer problem;",
+              "does it include a reframe or original insight (not generic advice);",
+              "does it include at least one practical field example;",
+              "is the CTA intent-matched (soft/medium), not an early hard pitch;",
+              "does the tone stay founder-led and consistent with positioning.",
+            ],
+          ),
+        },
+        {
+          type: "paragraphs",
+          paragraphs: P(
+            ["Šest content kategorija koje najčešće grade trust kod ICP-a:"],
+            ["Six content categories that most consistently build ICP trust:"],
+          ),
+        },
+        {
+          type: "bullets",
+          items: P(
+            [
+              "problem education;",
+              "myth busting i reframe postovi;",
+              "praktični framework-i i checklist-e;",
+              "proof i mini case primeri;",
+              "češće greške i kako ih izbeći;",
+              "buying criteria i decision-enablement postovi.",
+            ],
+            [
+              "problem education;",
+              "myth-busting and reframe posts;",
+              "practical frameworks and checklists;",
+              "proof and mini case examples;",
+              "common mistakes and how to avoid them;",
+              "buying criteria and decision-enablement posts.",
+            ],
           ),
         },
       ],
@@ -568,8 +639,8 @@ export const lesson5RichContent: RichLessonContent = {
                 "The buyer must recognize themselves before they accept advice.",
               ),
               example: L(
-                "„Outbound se ignoriše jer kupac nema kontekst pre poruke.“",
-                "\"Outbound gets ignored because the buyer has no context before the message arrives.\"",
+                "„Outbound se ignoriše jer kupac ne prepoznaje problem i ne vidi founder-a kao relevantnog.“",
+                "\"Outbound gets ignored because the buyer does not recognize the problem and does not see the founder as relevant.\"",
               ),
               commonMistake: L(
                 "Opis problema koji je previše širok.",
@@ -854,7 +925,7 @@ export const lesson5RichContent: RichLessonContent = {
           ),
           rows: [
             { cells: [L("Problem hook", "Problem hook"), L("Kupac već oseća bol", "Buyer feels the pain already"), L("„Tvoj outbound ne pada zbog copy-ja.“", "\"Your outbound is not failing because of copy.\"")] },
-            { cells: [L("Reframe hook", "Reframe hook"), L("Izazivaš verovanje", "You want to challenge a belief"), L("„Većina founder-a ne treba više leadova. Treba im više konteksta.“", "\"Most founders do not need more leads. They need more context.\"")] },
+            { cells: [L("Reframe hook", "Reframe hook"), L("Izazivaš verovanje", "You want to challenge a belief"), L("„Većina founder-a ne treba više leadova. Treba im jasan ICP i paralelan outreach + content.“", "\"Most founders do not need more leads. They need a clear ICP and parallel outreach + content.\"")] },
             { cells: [L("Mistake hook", "Mistake hook"), L("Kupac radi pogrešno", "Buyer is doing something wrong"), L("„Tretiraš LinkedIn kao content. Kupac ga tretira kao research.“", "\"You are treating LinkedIn like content. Your buyer treats it like research.\"")] },
             { cells: [L("Contrarian hook", "Contrarian hook"), L("Imaš jak POV", "You have a strong POV"), L("„Postovanje svaki dan nije strategija.“", "\"Posting every day is not a strategy.\"")] },
             { cells: [L("Story hook", "Story hook"), L("Imaš stvaran primer", "You have a real example"), L("„Founder mi je rekao da LinkedIn ne radi. Onda smo otvorili profil.“", "\"A founder told me LinkedIn did not work. Then we opened his profile.\"")] },
@@ -1081,13 +1152,13 @@ export const lesson5RichContent: RichLessonContent = {
               "Lead Agents redosled: ICP, profil, Outreach, buying signali, content iz intervjua (Riverside, Descript), objava postova, Thought Leader Ads, CRM.",
               "Ova lekcija je operativni sloj contenta: kako od transkripta intervjua napraviti edukativne LinkedIn postove koji uče ICP kako da misli o problemu, ne generične savete.",
               "Jedan snimak daje više postova (greška, okvir, checklist, pre/posle). Post ne mora biti viral, mora privući prave komentare i tag u CRM-u.",
-              "Outreach direktno napada ICP. Postovi grade kontekst pre poruke. Reklame indirektno skaliraju ono što već radi organski.",
+              "Outreach direktno napada ICP. Postovi grade poverenje paralelno. Reklame indirektno skaliraju ono što već radi organski.",
             ],
             [
               "Lead Agents order: ICP, profile, Outreach, buying signals, interview content (Riverside, Descript), publishing posts, Thought Leader Ads, CRM.",
               "This lesson is the operational layer of content: how to turn interview transcripts into educational LinkedIn posts that teach the ICP how to think about the problem, not generic tips.",
               "One recording yields multiple posts (mistake, framework, checklist, before/after). The post does not need to go viral. It needs the right comments and a CRM tag.",
-              "Outreach attacks the ICP directly. Posts build context before the message. Ads indirectly scale what already works organically.",
+              "Outreach attacks the ICP directly. Posts build trust in parallel. Ads indirectly scale what already works organically.",
             ],
           ),
         },
@@ -1249,12 +1320,12 @@ export const lesson5RichContent: RichLessonContent = {
             [
               "„Ovo najčešće vidimo u B2B service firmama od 10-50 ljudi.“",
               "„Ovo obično puca kad founder zapošljava SDR-ove pre nego što je poruka jasna.“",
-              "„Problem retko je CTA. Obično je nedostatak konteksta pre CTA-a.“",
+              "„Problem retko je CTA. Obično je nedostatak poverenja i jasnog POV-a u postu.“",
             ],
             [
               "\"We see this most often in 10-50 person B2B service firms.\"",
               "\"This usually breaks when the founder starts hiring SDRs before the message is clear.\"",
-              "\"The issue is rarely the CTA. It is usually the lack of context before the CTA.\"",
+              "\"The issue is rarely the CTA. It is usually a lack of trust and a clear point of view in the post.\"",
             ],
           ),
         },
@@ -1841,8 +1912,8 @@ Before publishing, ask:
     {
       question: L("Kako edukativni postovi podržavaju prodaju?", "How do educational posts support sales?"),
       answer: L(
-        "Stvaraju kontekst pre outreach-a; daju kupcima jezik za problem; čine founder-a kredibilnijim; stvaraju engagement signale; mogu biti outreach opener, webinar tema i referenca na sales call-u.",
-        "They create context before outreach; give buyers language for the problem; make the founder more credible; create engagement signals; can be outreach openers, webinar topics, and sales call references.",
+        "Grade poverenje paralelno sa outreach-om; daju kupcima jezik za problem; čine founder-a kredibilnijim; stvaraju engagement signale; mogu biti outreach opener, webinar tema i referenca na sales call-u.",
+        "They build trust in parallel with outreach; give buyers language for the problem; make the founder more credible; create engagement signals; can be outreach openers, webinar topics, and sales call references.",
       ),
     },
     {
@@ -1937,7 +2008,7 @@ Before publishing, ask:
       "Authority is not built by posting more",
     ),
     body: L(
-      "Gradi se time što učiš pravog kupca kako da misli. Kad su postovi edukativni, specifični i povezani sa sales sistemom, oni stvaraju kontekst, grade poverenje, validiraju bol, zagrevaju outreach, daju bolje webinar teme, kreiraju CRM signale i pomeraju kupce ka akciji. Sledeća lekcija pokazuje kako koristiti LinkedIn komentarisanje za vidljivost kod ICP-a pre slanja poruke.",
+      "Gradi se time što učiš pravog kupca kako da misli. Kad su postovi edukativni, specifični i povezani sa sales sistemom, grade poverenje paralelno sa outreach-om, validiraju bol, daju bolje webinar teme, kreiraju CRM signale i pomeraju kupce ka akciji. Sledeća lekcija pokazuje kako koristiti LinkedIn komentarisanje za vidljivost kod ICP-a.",
       "It is built by teaching the right buyer how to think. When your posts are educational, specific, and connected to your sales system, they create context, build trust, validate buyer pain, make outreach warmer, give webinars better topics, create CRM signals, and move buyers one step closer to action. The next lesson shows how to use LinkedIn commenting to get visibility with your ICP before sending a message.",
     ),
     primaryLabel: L("Nastavi na Lekciju 6", "Continue to Lesson 6"),

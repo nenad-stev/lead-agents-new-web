@@ -27,8 +27,8 @@ export const founderLedGrowthPhases: PlaybookPhase[] = [
     order: 3,
     title: { sr: "Content Engine", en: "Content Engine" },
     description: {
-      sr: "Content iz intervjua (klipovi, carousel) koji pojačava outreach i poverenje.",
-      en: "Interview-based content (clips, carousels) that strengthens outreach and trust.",
+      sr: "Content iz intervjua koji gradi poverenje paralelno sa outreach-om.",
+      en: "Interview-based content that builds trust in parallel with outreach.",
     },
   },
   {
@@ -45,8 +45,8 @@ export const founderLedGrowthPhases: PlaybookPhase[] = [
     order: 5,
     title: { sr: "Outreach Engine", en: "Outreach Engine" },
     description: {
-      sr: "Cold outreach (LGM, HeyReach, Instantly, Lemlist) i outreach na buying signale.",
-      en: "Cold outreach (LGM, HeyReach, Instantly, Lemlist) and outreach on buying signals.",
+      sr: "Outreach validira ICP i ponudu, paralelno sa content-om; buying signali pokreću topliji follow-up.",
+      en: "Outreach validates ICP and offer, in parallel with content; buying signals trigger warmer follow-up.",
     },
   },
   {
@@ -63,8 +63,8 @@ export const founderLedGrowthPhases: PlaybookPhase[] = [
     order: 7,
     title: { sr: "LinkedIn Ads Boost", en: "LinkedIn Ads Boost" },
     description: {
-      sr: "Thought Leader Ads, skaliranje posta koji organski radi (indirektan napad).",
-      en: "Thought Leader Ads, scaling posts that work organically (indirect attack).",
+      sr: "Skaliranje onoga što organski već daje kvalitetan ICP engagement (Thought Leader Ads, ABM).",
+      en: "Scaling what already drives quality ICP engagement organically (Thought Leader Ads, ABM).",
     },
   },
   {
@@ -72,8 +72,8 @@ export const founderLedGrowthPhases: PlaybookPhase[] = [
     order: 8,
     title: { sr: "CRM & Pipeline", en: "CRM & Pipeline" },
     description: {
-      sr: "Praćenje aktivnosti i revenue u CRM-u.",
-      en: "Tracking activity and revenue in CRM.",
+      sr: "CRM od starta: lead source, signali, faze i merljiv pipeline.",
+      en: "CRM from day one: lead source, signals, stages, and measurable pipeline.",
     },
   },
   {
@@ -96,8 +96,8 @@ export const founderLedGrowthCluster: PlaybookCluster = {
     en: "B2B founders, agency owners, and SaaS companies with 5-50 employees selling services or software with longer sales cycles.",
   },
   outcome: {
-    sr: "Predvidljiv pipeline: ICP, outreach i value-based follow-up, content, signali, re-engagement u pravom trenutku, CRM sa lead scoring-om.",
-    en: "A predictable pipeline: ICP, outreach and value-based follow-up, content, signals, re-engagement at the right moment, CRM with lead scoring.",
+    sr: "Operativni B2B revenue sistem: ICP i profil, outreach + content paralelno, engagement, webinari, ads, CRM i buying signali koji pokreću pravovremen topliji outreach.",
+    en: "An operational B2B revenue system: ICP and profile, outreach + content in parallel, engagement, webinars, ads, CRM, and buying signals that trigger timely warmer outreach.",
   },
   relatedCaseStudySlugs: [],
   meta: {
@@ -116,8 +116,8 @@ export const founderLedGrowthCluster: PlaybookCluster = {
       en: "Founder-Led Growth Playbook",
     },
     subtitle: {
-      sr: "Kompletan sistem za B2B founder-e koji žele da koriste LinkedIn, content, outreach i sales alate za izgradnju predvidivog pipeline-a.",
-      en: "A complete system for B2B founders who want to use LinkedIn, content, outreach, and sales tools to build a predictable pipeline.",
+      sr: "Operativni B2B sistem: ICP → profil → outreach + content paralelno → engagement → CRM → buying signali → sastanci.",
+      en: "An operational B2B system: ICP → profile → outreach + content in parallel → engagement → CRM → buying signals → meetings.",
     },
     primaryCta: { sr: "Kreni od prve lekcije", en: "Start the first lesson" },
     secondaryCta: { sr: "Zakaži konsultaciju", en: "Book a consultation" },
@@ -129,16 +129,16 @@ export const founderLedGrowthCluster: PlaybookCluster = {
     },
     paragraphs: {
       sr: [
-        "Lead Agents Founder-Led Growth je sistem pravih LinkedIn konekcija sa ICP-om, ne spam liste.",
-        "Prvo ICP dokument, zatim profil i cold outreach (direktna konekcija). Content iz intervjua gradi poverenje. Signali (komentar, view, webinar) pokreću re-engagement u pravom trenutku.",
-        "Follow-up sistem u HeyReach, Lemlist ili La Growth Machine drži value-based dodire dok lead nije spreman, bez dosadnih „samo da proverim“ poruka.",
-        "CRM i lead scoring povezuju outreach, content, signale i reklame u jednu listu sledećih koraka. 12 lekcija, jedan operativni proces.",
+        "Founder-Led Growth nije lični brending. To je operativni B2B revenue sistem u kom founder ili drugo relevantno lice kompanije gradi poverenje kod idealnih kupaca i povezuje outreach, content, engagement, webinare, oglase, CRM i buying signale.",
+        "Redosled implementacije: ICP i LinkedIn profil prvo, zatim outreach i content paralelno. Outreach validira ponudu i širi mrežu. Content gradi poverenje pre sastanka. Engagement povećava vidljivost kod ICP-a.",
+        "Kako sistem skalira: cold outreach testira poruke, content gradi poverenje, ads pojačavaju ono što organski radi, CRM prati signale i lead scoring, buying signali pokreću pravovremen topliji outreach.",
+        "Cilj nije viralnost. Cilj je kvalifikovani sastanci i stabilniji pipeline. 12 lekcija vode od strategije do inbound-to-outbound petlje.",
       ],
       en: [
-        "Lead Agents Founder-Led Growth is a system for real LinkedIn connections with your ICP, not a spam list.",
-        "Start with the ICP document, then profile and cold outreach (direct connection). Interview-based content builds trust. Signals (comment, view, webinar) trigger re-engagement at the right moment.",
-        "A follow-up system in HeyReach, Lemlist, or La Growth Machine keeps value-based touches until the lead is ready, without annoying \"just checking in\" messages.",
-        "CRM and lead scoring tie outreach, content, signals, and ads into one list of next actions. 12 lessons, one operating process.",
+        "Founder-Led Growth is not personal branding. It is an operational B2B revenue system where the founder or another relevant company expert builds trust with ideal buyers and connects outreach, content, engagement, webinars, ads, CRM, and buying signals.",
+        "Implementation order: ICP and LinkedIn profile first, then outreach and content in parallel. Outreach validates the offer and expands the network. Content builds trust before the meeting. Engagement increases visibility with your ICP.",
+        "How the system scales: cold outreach tests messaging, content builds trust, ads amplify what works organically, CRM tracks signals and lead scoring, buying signals trigger timely warmer outreach.",
+        "The goal is not virality. The goal is qualified meetings and a more stable pipeline. Twelve lessons walk you from strategy to the inbound-to-outbound loop.",
       ],
     },
   },
@@ -148,8 +148,8 @@ export const founderLedGrowthCluster: PlaybookCluster = {
       en: "Lead Agents Founder-Led Growth framework",
     },
     description: {
-      sr: "Devet faza koje povezujemo u implementaciji za klijente, svaka faza ima lekcije i preporučene alate.",
-      en: "Nine phases we connect in client implementations, each phase has lessons and recommended tools.",
+      sr: "ICP → profil → outreach + content (paralelno) → engagement → webinari → ads → CRM → signali. Devet faza, 12 lekcija, jedan revenue sistem.",
+      en: "ICP → profile → outreach + content (in parallel) → engagement → webinars → ads → CRM → signals. Nine phases, twelve lessons, one revenue system.",
     },
   },
   roadmap: {
@@ -158,8 +158,8 @@ export const founderLedGrowthCluster: PlaybookCluster = {
       en: "Lesson roadmap",
     },
     description: {
-      sr: "12 lekcija grupisanih po fazama. Pratite redosled ili skočite na temu koja vam je prioritet.",
-      en: "12 lessons grouped by phase. Follow the order or jump to the topic that is your priority.",
+      sr: "12 lekcija grupisanih po fazama. Počni od Lekcije 1 (sistem i buyer journey), zatim ICP i profil, pa outreach + content paralelno.",
+      en: "12 lessons grouped by phase. Start with Lesson 1 (system and buyer journey), then ICP and profile, then outreach + content in parallel.",
     },
   },
   toolsSection: {
@@ -178,8 +178,8 @@ export const founderLedGrowthCluster: PlaybookCluster = {
       en: "Want us to implement Founder-Led Growth for your company?",
     },
     text: {
-      sr: "Lead Agents pomaže B2B kompanijama da povežu LinkedIn, content, outreach, intent signale i CRM u jedan sistem za pipeline.",
-      en: "Lead Agents helps B2B companies connect LinkedIn, content, outreach, intent signals, and CRM into one pipeline system.",
+      sr: "Lead Agents pomaže B2B kompanijama da implementiraju ceo Founder-Led Growth sistem: outreach + content paralelno, CRM, buying signali i ads koji skaliraju ono što već radi.",
+      en: "Lead Agents helps B2B companies implement the full Founder-Led Growth system: outreach + content in parallel, CRM, buying signals, and ads that scale what already works.",
     },
     button: { sr: "Zakaži konsultaciju", en: "Book a consultation" },
   },

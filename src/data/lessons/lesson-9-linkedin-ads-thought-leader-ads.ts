@@ -161,6 +161,7 @@ export const lesson9RichContent: RichLessonContent = {
       title: L("Founder-Led Growth po Lead Agents-u", "Founder-Led Growth the Lead Agents way"),
     },
     { id: "why", title: L("Zašto Ads dolaze poslednji", "Why ads come last") },
+    { id: "do-not-scale-blindly", title: L("Ne skaliraj naslepo", "Do not scale blindly") },
     { id: "core", title: L("Direktan vs indirektan napad", "Direct vs indirect attack") },
     {
       id: "tla-vs-company",
@@ -323,13 +324,13 @@ export const lesson9RichContent: RichLessonContent = {
                 [
                   "Thought Leader Ads na winning postu",
                   "ICP targeting u Campaign Manager-u",
-                  "Više pravih ljudi vidi founder-a pre outreach-a",
+                  "Više pravih ljudi vidi founder-a dok outreach radi paralelno",
                   "Signali iz ads-a idu u CRM kao i outreach",
                 ],
                 [
                   "Thought Leader Ads on winning post",
                   "ICP targeting in Campaign Manager",
-                  "More of the right people see the founder before outreach",
+                  "More of the right people see the founder while outreach runs in parallel",
                   "Ad signals go to CRM like outreach",
                 ],
               ),
@@ -381,14 +382,14 @@ export const lesson9RichContent: RichLessonContent = {
               "LinkedIn Ads imaju smisla tek kad znaš kome prodaješ (ICP), kako izgleda profil, šta radi outreach i koji content već gradi poverenje.",
               "Bez toga, company page kampanje i generički oglasi troše budžet, a sales tim dobija leadove bez konteksta.",
               "Thought Leader Ads boost-uju post sa founder profila. Izgledaju kao objava, ne kao baner firme, što u B2B-u često daje bolji odziv od klasičnih oglasa.",
-              "Kod nas, content iz intervjua pomaže da prospect pre outreach-a već vidi founder-a kao relevantnog. Ads onda šire taj isti post ka širem, ali i dalje tačnom ICP-u.",
+              "Kod nas, content iz intervjua pomaže da prospect vidi founder-a kao relevantnog dok outreach radi paralelno. Ads onda šire taj isti post ka širem, ali i dalje tačnom ICP-u.",
               "CRM i lead scoring povezuju: ko je odgovorio na outreach, ko je engage-ovao post, ko je došao preko reklame. Jedna lista, jedan sledeći korak.",
             ],
             [
               "LinkedIn Ads only make sense once you know who you sell to (ICP), how the profile looks, what outreach does, and which content already builds trust.",
               "Without that, company page campaigns and generic ads burn budget while sales gets leads without context.",
               "Thought Leader Ads boost a post from the founder profile. They look like a post, not a company banner, which in B2B often gets better response than classic ads.",
-              "For us, interview-based content helps prospects see the founder as relevant before outreach. Ads then spread that same post to a wider but still precise ICP.",
+              "For us, interview-based content helps prospects see the founder as relevant while outreach runs in parallel. Ads then spread that same post to a wider but still precise ICP.",
               "CRM and lead scoring connect: who replied to outreach, who engaged the post, who came from ads. One list, one next step.",
             ],
           ),
@@ -419,6 +420,65 @@ export const lesson9RichContent: RichLessonContent = {
                 "Outreach, content, ads i signali na jednom mestu.",
                 "Outreach, content, ads, and signals in one place.",
               ),
+            },
+          ],
+        },
+      ],
+    },
+    {
+      type: "section",
+      id: "do-not-scale-blindly",
+      title: L("Ne skaliraj naslepo", "Do not scale blindly"),
+      blocks: [
+        {
+          type: "paragraphs",
+          paragraphs: P(
+            [
+              "Plaćeni reach ne popravlja nejasnu poruku. Prvo dokaži da content organski privlači pravi ICP, pa tek onda uključi TLA.",
+              "U praksi: organik prvo, validacija poruke drugo, plaćeno skaliranje treće.",
+              "Thought Leader Ads boost-uju objavu sa ličnog profila i prenose founder kontekst i social proof. Company page oglas je koristan u određenim slučajevima, ali često ima slabiji trust kada se koristi kao prvi paid korak.",
+            ],
+            [
+              "Paid reach does not fix unclear messaging. First prove that content attracts the right ICP organically, then turn on TLA.",
+              "In practice: organic first, message validation second, paid scaling third.",
+              "Thought Leader Ads boost posts from a personal profile and carry founder context plus social proof. Company page ads are useful in some cases, but often have weaker trust when used as the first paid step.",
+            ],
+          ),
+        },
+        {
+          type: "table",
+          caption: L("Primeri ICP targeting-a u Campaign Manager-u", "ICP targeting examples in Campaign Manager"),
+          headers: H(
+            ["Scenario", "Kompanije / industrija", "Job title", "Seniority / funkcija", "Geo + dodatni filteri"],
+            ["Scenario", "Companies / industry", "Job title", "Seniority / function", "Geo + extra filters"],
+          ),
+          rows: [
+            {
+              cells: [
+                L("B2B SaaS outbound", "B2B SaaS outbound"),
+                L("B2B SaaS, 11-200 zaposlenih", "B2B SaaS, 11-200 employees"),
+                L("Founder, VP Sales, Head of Growth", "Founder, VP Sales, Head of Growth"),
+                L("Owner, VP, Director", "Owner, VP, Director"),
+                L("DACH + UK, isključi postojeće klijente", "DACH + UK, exclude existing customers"),
+              ],
+            },
+            {
+              cells: [
+                L("RevOps transformacija", "RevOps transformation"),
+                L("SaaS i IT services, 50-500", "SaaS and IT services, 50-500"),
+                L("RevOps Manager, Head of RevOps, CRO", "RevOps Manager, Head of RevOps, CRO"),
+                L("Manager+, VP+", "Manager+, VP+"),
+                L("US + EU, match jezik sa oglasom", "US + EU, match language to ad copy"),
+              ],
+            },
+            {
+              cells: [
+                L("Founder-led GTM za agencije", "Founder-led GTM for agencies"),
+                L("Marketing i growth agencije, 10-100", "Marketing and growth agencies, 10-100"),
+                L("Founder, Managing Director, COO", "Founder, Managing Director, COO"),
+                L("Owner, C-level", "Owner, C-level"),
+                L("CEE + DACH, retarget engagers prvo", "CEE + DACH, retarget engagers first"),
+              ],
             },
           ],
         },
@@ -615,6 +675,14 @@ export const lesson9RichContent: RichLessonContent = {
           ),
         },
         {
+          type: "callout",
+          variant: "accent",
+          text: L(
+            "TODO za tim: ne unositi tvrdnje o dostupnosti jezika ili država u LinkedIn Ads bez proverljivog izvora (Help centar, dokumentacija ili zvanična objava).",
+            "TODO for the team: do not add claims about LinkedIn Ads language or country availability without a verifiable source (Help center, documentation, or official announcement).",
+          ),
+        },
+        {
           type: "illustration",
           src: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=1400&q=80",
           alt: L(
@@ -732,7 +800,7 @@ export const lesson9RichContent: RichLessonContent = {
               step: 5,
               title: L("Thought Leader Ad", "Thought Leader Ad"),
               whatToDo: L("Boost-uj winning post u Campaign Manager-u, ICP targeting, test €20-50/dan, 7 dana.", "Boost the winning post in Campaign Manager, ICP targeting, test €20-50/day, 7 days."),
-              whyItMatters: L("Indirektan napad: više pravih ljudi vidi founder-a pre outreach poruke.", "Indirect attack: more of the right people see the founder before the outreach message."),
+              whyItMatters: L("Indirektan napad: više pravih ljudi vidi founder-a dok outreach radi paralelno.", "Indirect attack: more of the right people see the founder while outreach runs in parallel."),
               example: L("TLA na postu o istom problemu kao outreach sekvenca.", "TLA on a post about the same problem as the outreach sequence."),
               commonMistake: L("Company page ad sa stock slikom.", "Company page ad with stock image."),
               tryThis: L("Jedan ad set, jedan jezik, jedan CTA.", "One ad set, one language, one CTA."),

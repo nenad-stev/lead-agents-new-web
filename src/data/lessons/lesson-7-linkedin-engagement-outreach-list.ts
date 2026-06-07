@@ -97,6 +97,7 @@ export const lesson7RichContent: RichLessonContent = {
     { id: "why", title: L("Zašto je ovo važno", "Why this matters") },
     { id: "core", title: L("Osnovna ideja", "Core idea") },
     { id: "vs-intent", title: L("Engagement vs buying intent", "Engagement vs buying intent") },
+    { id: "not-all-leads", title: L("Nisu svi leadovi isti", "Not all leads are the same") },
     {
       id: "connection-loop",
       title: L("Petlja konekcije sa ICP-om", "The ICP connection loop"),
@@ -193,7 +194,7 @@ export const lesson7RichContent: RichLessonContent = {
           type: "paragraphs",
           paragraphs: P(
             [
-              "Founder-Led Growth radi jer founder stvara kontekst pre outreach-a. Ali kontekst pomaže samo ako ga koristiš.",
+              "Founder-Led Growth radi jer outreach i content rade paralelno, a engagement dodaje vidljivost pre poruke. Signale moraš koristiti u CRM-u.",
               "Ako neko angažuje tvoj content o specifičnom problemu, to ti daje razlog da nastaviš razgovor.",
               "LinkedIn social selling smernice definišu social selling kao korišćenje društvenih mreža za povezivanje i gradnju odnosa sa prospect-ima. Social Selling Index uključuje pronalaženje pravih ljudi, engagement sa uvidima i gradnju odnosa.",
               "LinkedIn takođe preporučuje prioritet toplih leadova u outreach-u, posebno ljudi koji su već interagovali sa postovima ili posetili profil, i personalizaciju poruka referenciranjem nečeg specifičnog o primaocu.",
@@ -202,7 +203,7 @@ export const lesson7RichContent: RichLessonContent = {
               "Cilj nije najveća outreach lista. Cilj je najrelevantnija.",
             ],
             [
-              "Founder-Led Growth works because the founder creates context before outreach. But context only helps if you use it.",
+              "Founder-Led Growth works because outreach and content run in parallel, and engagement adds visibility before the message. Signals only help if you use them in CRM.",
               "If someone engages with your content about a specific problem, that gives you a reason to continue the conversation.",
               "LinkedIn's social selling guidance defines social selling as using social networks to connect and build relationships with prospects. Its Social Selling Index includes finding the right people, engaging with insights, and building relationships.",
               "LinkedIn also recommends prioritizing warm leads in outreach, especially people who have already interacted with your posts or visited your profile, and personalizing messages by referencing something specific about the recipient.",
@@ -426,6 +427,49 @@ export const lesson7RichContent: RichLessonContent = {
     },
     {
       type: "section",
+      id: "not-all-leads",
+      title: L("Nisu svi leadovi isti", "Not all leads are the same"),
+      blocks: [
+        {
+          type: "paragraphs",
+          paragraphs: P(
+            [
+              "Isti kanal ne znači isti intent. Sledeći korak određuje signal, ne ego i ne automatski pitch.",
+              "Kad lead pokaže lagani signal, cilj je relevancija i kontekst. Kad signal ojača, tek tada pojačavaš sledeći korak.",
+            ],
+            [
+              "The same channel does not mean the same intent. The signal determines the next step, not ego and not an auto pitch.",
+              "When a lead shows a light signal, the goal is relevance and context. When the signal gets stronger, then you increase the next action.",
+            ],
+          ),
+        },
+        {
+          type: "table",
+          caption: L("Signal određuje sledeći korak", "Signal determines the next step"),
+          headers: H(["Signal", "Intenzitet", "Sledeći korak"], ["Signal", "Intensity", "Next step"]),
+          rows: [
+            { cells: [L("Profile view", "Profile view"), L("Nizak", "Low"), L("Prati i angažuj nazad kroz sadržaj", "Monitor and engage back through content")] },
+            { cells: [L("Lajk", "Like"), L("Nizak", "Low"), L("Dodaj u praćenje, bez pitch-a", "Add to tracking, no pitch")] },
+            { cells: [L("Komentar", "Comment"), L("Srednji", "Medium"), L("Odgovori javno i dodaj na toplu listu", "Reply publicly and add to warm list")] },
+            { cells: [L("Klik na sajt", "Website click"), L("Srednji", "Medium"), L("Pošalji relevantan resurs", "Send a relevant resource")] },
+            { cells: [L("Prijava na webinar", "Webinar registration"), L("Srednji", "Medium"), L("Pre-event nurture + segmentacija", "Pre-event nurture + segmentation")] },
+            { cells: [L("Prisustvo webinaru", "Webinar attended"), L("Srednji do jak", "Medium to strong"), L("Replay + kontekstualni follow-up", "Replay + contextual follow-up")] },
+            { cells: [L("Pricing page", "Pricing page"), L("Jak", "Strong"), L("Kreiraj sales task i brz follow-up", "Create sales task and fast follow-up")] },
+            { cells: [L("Odgovor na DM", "DM reply"), L("Jak", "Strong"), L("Nastavi razgovor dijagnostičkim pitanjem", "Continue conversation with a diagnostic question")] },
+          ],
+        },
+        {
+          type: "callout",
+          variant: "accent",
+          text: L(
+            "Signal treba da vodi sledeći korak. Ne šalji agresivan auto-pitch čim vidiš prvi engagement.",
+            "Let the signal guide the next step. Do not send an aggressive auto pitch after the first engagement.",
+          ),
+        },
+      ],
+    },
+    {
+      type: "section",
       id: "connection-loop",
       title: L("Petlja konekcije sa ICP-om", "The ICP connection loop"),
       blocks: [
@@ -480,7 +524,7 @@ export const lesson7RichContent: RichLessonContent = {
               ),
               whyItMatters: L("Content ne zamenjuje outreach, već ga jača.", "Content does not replace outreach; it strengthens it."),
               example: L("Klip iz intervjua o RevOps handoff-u posle outreach-a na RevOps lidere.", "Clip from interview on RevOps handoff after outreach to RevOps leaders."),
-              commonMistake: L("Čekati viral post pre outreach-a.", "Waiting for a viral post before outreach."),
+              commonMistake: L("Čekati viral post pre outreach-a.", "Waiting for a viral post before starting outreach."),
               tryThis: L("Jedan intervju → 3 posta + 2 carousel-a za nedelju dana.", "One interview → 3 posts + 2 carousels for the week."),
               highlight: L("Poverenje pre pitch-a.", "Trust before the pitch."),
             },
@@ -1312,13 +1356,13 @@ export const lesson7RichContent: RichLessonContent = {
             [
               "Ova lekcija je operativno srce Lead Agents petlje: poveži (outreach) → content → signali → re-engage → value-based follow-up.",
               "Cold outreach otvara vrata. Content gradi poverenje. Signali (komentar, view, webinar) pokreću re-engagement sa kontekstom. Follow-up sistem u HeyReach, Lemlist ili La Growth Machine drži no_reply lead-ove dok trenutak ne dođe.",
-              "Engagement lista nije vanity metrika. Nedeljno filtrirate kroz ICP fit, intent i context pre poruke. Cilj su prave konekcije, ne 7 bump poruka.",
+              "Engagement lista nije vanity metrika. Nedeljno filtrirate kroz ICP fit, intent i engagement signale pre sledeće poruke. Cilj su prave konekcije, ne 7 bump poruka.",
               "CRM statusi: cold_sent, no_reply, signal_reengage, meeting. Outreach direktan, ads indirektan, signali određuju timing.",
             ],
             [
               "This lesson is the operational heart of the Lead Agents loop: connect (outreach) → content → signals → re-engage → value-based follow-up.",
               "Cold outreach opens the door. Content builds trust. Signals (comment, view, webinar) trigger contextual re-engagement. A follow-up system in HeyReach, Lemlist, or La Growth Machine holds no_reply leads until timing is right.",
-              "The engagement list is not a vanity metric. Filter weekly through ICP fit, intent, and context before messaging. The goal is real connections, not seven bump messages.",
+              "The engagement list is not a vanity metric. Filter weekly through ICP fit, intent, and engagement signals before the next message. The goal is real connections, not seven bump messages.",
               "CRM statuses: cold_sent, no_reply, signal_reengage, meeting. Outreach is direct, ads are indirect, signals set timing.",
             ],
           ),
@@ -2346,8 +2390,8 @@ Pipeline stage:
     {
       question: L("Da li je svaki LinkedIn engagement lead?", "Is every LinkedIn engagement a lead?"),
       answer: L(
-        "Ne. Većina engagement-a nije lead. Lajk od irelevantne osobe je vanity. Ponovljeni engagement od high-fit kupca na relevantnoj temi je signal. Ključ je kvalifikovati engagement pre outreach-a.",
-        "No. Most engagement is not a lead. A like from an irrelevant person is vanity. A repeated engagement from a high-fit buyer on a relevant topic is a signal. The key is to qualify engagement before outreach.",
+        "Ne. Većina engagement-a nije lead. Lajk od irelevantne osobe je vanity. Ponovljeni engagement od high-fit kupca na relevantnoj temi je signal. Ključ je kvalifikovati engagement pre sledeće poruke.",
+        "No. Most engagement is not a lead. A like from an irrelevant person is vanity. A repeated engagement from a high-fit buyer on a relevant topic is a signal. The key is to qualify engagement before the next message.",
       ),
     },
     {

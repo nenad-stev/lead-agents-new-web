@@ -301,10 +301,34 @@ export const lesson3RichContent: RichLessonContent = {
             [
               "Većina founder-a piše: „Founder & CEO at GrowthOps. Passionate about sales, marketing, technology, and helping businesses scale.“ To ne govori ništa.",
               "Jači profil kaže: „Helping B2B SaaS founders turn LinkedIn activity into qualified pipeline before hiring a full SDR team.“ Razlika nije u stilu. Razlika je u relevantnosti.",
+              "Profil nije CV. Profil je landing stranica pre odgovora.",
             ],
             [
               "Most founders write: \"Founder & CEO at GrowthOps. Passionate about sales, marketing, technology, and helping businesses scale.\" That says nothing.",
               "A stronger profile says: \"Helping B2B SaaS founders turn LinkedIn activity into qualified pipeline before hiring a full SDR team.\" The difference is not style. The difference is relevance.",
+              "Your profile is not a CV. It is a landing page before the reply.",
+            ],
+          ),
+        },
+        {
+          type: "checklist",
+          title: L("Šta profil mora da potvrdi pre odgovora", "What your profile must confirm before a reply"),
+          items: P(
+            [
+              "headline jasno kaže kome pomažeš i koji ishod donosiš;",
+              "banner potvrđuje obećanje i pozicioniranje;",
+              "Featured sekcija pokazuje dokaz i sledeći korak;",
+              "About sekcija objašnjava problem, pristup i kredibilitet;",
+              "CTA kaže šta kupac treba da uradi sledeće;",
+              "recent postovi potvrđuju ekspertizu kroz dosledne teme i POV.",
+            ],
+            [
+              "headline clearly states who you help and what outcome you drive;",
+              "banner reinforces the core promise and positioning;",
+              "Featured section shows proof and the next step;",
+              "About section explains the problem, approach, and credibility;",
+              "CTA makes the next action explicit;",
+              "recent posts reinforce expertise through consistent themes and POV.",
             ],
           ),
         },
@@ -1071,7 +1095,7 @@ export const lesson3RichContent: RichLessonContent = {
               cells: [
                 L("2", "2"),
                 L("Your Founder Profile Should Create Pipeline", "Your Founder Profile Should Create Pipeline"),
-                L("Build trust before outreach ever starts.", "Build trust before outreach ever starts."),
+                L("Gradi poverenje paralelno sa outreach-om.", "Build trust in parallel with outreach."),
                 L("Book a consultation", "Book a consultation"),
               ],
             },
@@ -1795,8 +1819,8 @@ Fields to add:
         "Lesson 4 - How to Build a LinkedIn Content Strategy for a Founder",
       ),
       note: L(
-        "Gradimo content strategiju koja daje ICP-u razlog da veruje pre outreach-a.",
-        "Build a content strategy that gives your ICP a reason to trust you before outreach starts.",
+        "Gradimo content strategiju koja gradi poverenje paralelno sa outreach-om.",
+        "Build a content strategy that builds trust in parallel with outreach.",
       ),
     },
     related: [
@@ -1843,8 +1867,8 @@ Fields to add:
       "Your LinkedIn profile should not just look professional",
     ),
     body: L(
-      "Treba da pravi da pravi kupac brže veruje tebi. Kada je profil jasan, svaki deo Founder-Led Growth-a radi bolje: content dobija više profile view-ova; komentari stvaraju više radoznalosti; outreach dobija više odgovora; webinari konvertuju bolje; CRM ima čistije signale; pipeline je lakši za praćenje. Sledeća lekcija pokazuje kako graditi LinkedIn content strategiju koja daje ICP-u razlog da veruje pre nego što outreach uopšte počne.",
-      "It should make the right buyer trust you faster. When the profile is clear, every other part of Founder-Led Growth works better: content gets more profile visits; comments create more curiosity; outreach gets more replies; webinars convert better; CRM has cleaner signals; pipeline becomes easier to track. The next lesson shows how to build a LinkedIn content strategy that gives your ICP a reason to trust you before outreach ever starts.",
+      "Treba da pravi da pravi kupac brže veruje tebi. Kada je profil jasan, svaki deo Founder-Led Growth-a radi bolje: content dobija više profile view-ova; komentari stvaraju više radoznalosti; outreach dobija više odgovora; webinari konvertuju bolje; CRM ima čistije signale; pipeline je lakši za praćenje. Sledeća lekcija pokazuje kako graditi LinkedIn content strategiju koja gradi poverenje paralelno sa outreach-om.",
+      "It should make the right buyer trust you faster. When the profile is clear, every other part of Founder-Led Growth works better: content gets more profile visits; comments create more curiosity; outreach gets more replies; webinars convert better; CRM has cleaner signals; pipeline becomes easier to track. The next lesson shows how to build a LinkedIn content strategy that builds trust in parallel with outreach.",
     ),
     primaryLabel: L("Nastavi na Lekciju 4", "Continue to Lesson 4"),
     secondaryLabel: L("Zakaži konsultaciju", "Book a consultation"),

@@ -52,36 +52,36 @@ const stats = {
 const pillarBullets = {
   sr: [
     [
-      "ICP lista i segmentacija pre prvog outreach-a",
-      "Personalizovane LinkedIn sekvence (ne generički template)",
-      "A/B testiranje poruka dok reply rate ne krene gore",
+      "ICP i LinkedIn profil pre prvog outreach-a",
+      "Outreach validira ponudu paralelno sa content-om",
+      "Personalizovane sekvence i A/B test poruka",
     ],
     [
-      "Content kalendar vezan za faze prodajnog ciklusa",
-      "Edukativni postovi koji privlače idealne kupce",
-      "Repurposing sadržaja u newsletter i follow-up poruke",
+      "Edukativni postovi iz intervjua (ne generički saveti)",
+      "Engagement i komentari koji grade poverenje",
+      "CRM prati signale i lead scoring od starta",
     ],
     [
+      "Thought Leader Ads na postovima sa ICP engagement-om",
       "ABM lista kompanija + decision maker-a",
-      "Retargeting ljudi koji su engage-ovali sa content-om",
-      "Boost postova sa najviše ICP komentara i DM-ova",
+      "Topliji outreach kad buying signali pokažu intent",
     ],
   ],
   en: [
     [
-      "ICP list and segmentation before the first outreach",
-      "Personalized LinkedIn sequences (not generic templates)",
-      "A/B testing messages until reply rate climbs",
+      "ICP and LinkedIn profile before the first outreach",
+      "Outreach validates the offer in parallel with content",
+      "Personalized sequences and message A/B testing",
     ],
     [
-      "Content calendar tied to sales cycle stages",
-      "Educational posts that attract ideal buyers",
-      "Repurposing content into newsletters and follow-ups",
+      "Educational posts from interviews (not generic tips)",
+      "Engagement and comments that build trust",
+      "CRM tracks signals and lead scoring from day one",
     ],
     [
+      "Thought Leader Ads on posts with ICP engagement",
       "ABM list of accounts and decision makers",
-      "Retargeting people who engaged with your content",
-      "Boosting posts with the most ICP comments and DMs",
+      "Warmer outreach when buying signals show intent",
     ],
   ],
 } as const;
@@ -89,20 +89,20 @@ const pillarBullets = {
 const compare = {
   sr: {
     title: "Zašto Founder Led Growth, a ne fragmentisane agencije?",
-    old: ["Samo outbound ili samo content", "Više alata, nema sistema", "Founder nije u centru"],
+    old: ["Čekanje da content sazri pre outreach-a", "Više alata, nema CRM sistema", "Lični brend umesto revenue sistema"],
     flg: [
-      "Outbound + content + LinkedIn Ads u jednom toku",
-      "Jedan tim, jedna strategija, jedan CRM",
-      "Founder kao glavni kanal prodaje",
+      "Outreach + content paralelno, ne jedan posle drugog",
+      "CRM, buying signali i topliji follow-up",
+      "Founder kao operativni kanal poverenja i prodaje",
     ],
   },
   en: {
     title: "Why Founder Led Growth vs. fragmented agencies?",
-    old: ["Outbound-only or content-only", "Many tools, no system", "Founder not at the center"],
+    old: ["Waiting for content to mature before outreach", "Many tools, no CRM system", "Personal brand instead of a revenue system"],
     flg: [
-      "Outbound + content + LinkedIn Ads in one flow",
-      "One team, one strategy, one CRM",
-      "Founder as the primary sales channel",
+      "Outreach + content in parallel, not one after the other",
+      "CRM, buying signals, and warmer follow-up",
+      "Founder as the operational trust and sales channel",
     ],
   },
 };
@@ -224,18 +224,20 @@ export function FounderLedGrowthPreviewPage({
             </h2>
             <p className="mt-4 max-w-2xl text-lg text-muted">
               {locale === "sr"
-                ? "Tri stuba koji se hrane međusobno, ne tri odvojena projekta."
-                : "Three pillars that feed each other, not three separate projects."}
+                ? "ICP i profil prvo, zatim outreach + content paralelno, engagement, CRM, signali i ads koji skaliraju."
+                : "ICP and profile first, then outreach + content in parallel, engagement, CRM, signals, and ads that scale."}
             </p>
 
             <div className="flg-preview-flow mt-12" aria-hidden>
-              <span>Outbound</span>
+              <span>ICP</span>
               <span className="flg-preview-flow__arrow">→</span>
-              <span>Autoritet</span>
+              <span>Profil</span>
               <span className="flg-preview-flow__arrow">→</span>
-              <span>LinkedIn Ads</span>
+              <span>Outreach + Content</span>
               <span className="flg-preview-flow__arrow">→</span>
-              <span className="text-accent">Pipeline</span>
+              <span>CRM</span>
+              <span className="flg-preview-flow__arrow">→</span>
+              <span className="text-accent">Sastanci</span>
             </div>
           </div>
         </section>
