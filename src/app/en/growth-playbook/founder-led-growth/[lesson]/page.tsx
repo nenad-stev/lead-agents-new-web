@@ -10,7 +10,7 @@ import {
   getPlaybookPaths,
 } from "@/data/playbooks";
 import { getRoutes } from "@/data/site";
-import { ensureFlgPreviewAccess, hasFlgPreviewAccess } from "@/lib/flg-preview";
+import { hasFlgPreviewAccess, requireFlgPreviewAccess } from "@/lib/flg-preview";
 import { getDictionary } from "@/lib/i18n";
 
 export const dynamic = "force-dynamic";
@@ -63,14 +63,12 @@ export default async function FounderLedGrowthLessonEnPage({
   params,
   searchParams,
 }: PageProps) {
-  const { flg_preview: previewToken } = await searchParams;
-  const canPreview = await ensureFlgPreviewAccess(previewToken);
-
-  if (!canPreview) {
-    notFound();
-  }
-
   const { lesson: lessonSlug } = await params;
+  const { flg_preview: previewToken } = await searchParams;
+  await requireFlgPreviewAccess(
+    previewToken,
+    `/en/growth-playbook/founder-led-growth/${lessonSlug}`,
+  );
   const dictionary = getDictionary(locale);
   const routes = getRoutes(locale);
   const paths = getPlaybookPaths(locale, FOUNDER_LED_GROWTH_SLUG);

@@ -1,4 +1,5 @@
 import { cookies } from "next/headers";
+import { notFound, redirect } from "next/navigation";
 
 export const FLG_PREVIEW_COOKIE = "flg_playbook_preview";
 
@@ -47,13 +48,41 @@ export async function grantFlgPreviewAccess(): Promise<void> {
   });
 }
 
+export function buildFlgPreviewGrantUrl(token: string, nextPath: string): string {
+  const params = new URLSearchParams({
+    key: token,
+    next: nextPath,
+  });
+
+  return `/api/flg-preview?${params.toString()}`;
+}
+
+/** Read-only check: valid preview cookie or one-time token in the URL. */
 export async function ensureFlgPreviewAccess(
   previewToken?: string,
 ): Promise<boolean> {
-  if (previewToken && verifyFlgPreviewToken(previewToken)) {
-    await grantFlgPreviewAccess();
+  if (await hasFlgPreviewAccess()) {
     return true;
   }
 
-  return hasFlgPreviewAccess();
+  return verifyFlgPreviewToken(previewToken);
+}
+
+/**
+ * Gate preview pages. Cookie grants are handled by /api/flg-preview because
+ * Next.js only allows cookie writes in Route Handlers or Server Actions.
+ */
+export async function requireFlgPreviewAccess(
+  previewToken: string | undefined,
+  nextPath: string,
+): Promise<void> {
+  if (await hasFlgPreviewAccess()) {
+    return;
+  }
+
+  if (previewToken && verifyFlgPreviewToken(previewToken)) {
+    redirect(buildFlgPreviewGrantUrl(previewToken, nextPath));
+  }
+
+  notFound();
 }
