@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server";
 
 import {
+  getFlgPreviewSecret,
   grantFlgPreviewAccess,
   verifyFlgPreviewToken,
 } from "@/lib/flg-preview";
@@ -17,6 +18,16 @@ export async function GET(request: Request) {
   const url = new URL(request.url);
   const key = url.searchParams.get("key")?.trim() ?? "";
   const next = safeNextPath(url.searchParams.get("next"));
+
+  if (!getFlgPreviewSecret()) {
+    return NextResponse.json(
+      {
+        error:
+          "Preview is not configured on the server. Add FLG_PREVIEW_SECRET in Netlify environment variables and redeploy.",
+      },
+      { status: 503 },
+    );
+  }
 
   if (!verifyFlgPreviewToken(key)) {
     return NextResponse.json({ error: "Invalid preview key" }, { status: 401 });
