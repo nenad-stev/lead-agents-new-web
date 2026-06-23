@@ -13,6 +13,7 @@ import { getRoutes } from "@/data/site";
 import type { Dictionary, Locale } from "@/lib/i18n";
 
 import { HomeAmbientBackground } from "./HomeAmbientBackground";
+import { HomeResourcesSection } from "./HomeResourcesSection";
 import { CaseStudyHighlight } from "./CaseStudyHighlight";
 import { FlagshipServiceSection } from "./FlagshipServiceSection";
 import { GrowthArrows } from "./GrowthArrows";
@@ -160,6 +161,10 @@ export function HomePage({ locale, dictionary }: HomePageProps) {
             <Button href={routes.contact}>{dictionary.cta.button}</Button>
           </AnimateInView>
         </Section>
+
+        <AnimateInView>
+          <HomeResourcesSection locale={locale} />
+        </AnimateInView>
 
         {iDecideCaseStudy?.image ? (
           <AnimateInView>

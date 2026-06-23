@@ -8,6 +8,7 @@ import { coldSalesOutreach } from "@/data/services/cold-sales-outreach";
 import { founderLedGrowth } from "@/data/services/founder-led-growth";
 import { getAllServiceSlugs, getServiceBySlug } from "@/data/services";
 import { getDictionary } from "@/lib/i18n";
+import { pageMetadata, servicePaths } from "@/lib/seo";
 
 type PageProps = {
   params: Promise<{ slug: string }>;
@@ -26,10 +27,12 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     return { title: "Usluga nije pronađena" };
   }
 
-  return {
+  return pageMetadata({
+    locale,
+    paths: servicePaths(slug),
     title: service.meta.title[locale],
     description: service.meta.description[locale],
-  };
+  });
 }
 
 export default async function ServicePageRoute({ params }: PageProps) {

@@ -7,6 +7,7 @@ import { Header } from "@/components/layout/Header";
 import { Disclosure, DisclosureList } from "@/components/ui/Disclosure";
 import { Section } from "@/components/ui/Section";
 import { getDictionary } from "@/lib/i18n";
+import { absoluteUrl, pageMetadata, staticPaths } from "@/lib/seo";
 
 const dictionary = getDictionary("sr");
 const pageUrl = "/webinar/kako-prodati-usluge-na-linkedin-u-2026";
@@ -114,35 +115,33 @@ const breadcrumbSchema = {
 };
 
 export const metadata: Metadata = {
-  title: "Kako prodati svoje usluge na LinkedInu u 2026. | Founder-Led Growth Webinar",
-  description:
-    "Pogledajte Lead Agents webinar i saznajte kako Founder-Led Growth metodologija povezuje LinkedIn profil, content, cold outreach, LinkedIn Ads, CRM i buying signals u jedan sistem za generisanje kvalifikovanih B2B sastanaka.",
-  keywords: [
-    "kako prodati svoje usluge na LinkedInu",
-    "LinkedIn prodaja",
-    "B2B prodaja preko LinkedIn-a",
-    "LinkedIn outreach",
-    "cold sales outreach",
-    "Founder-Led Growth",
-    "LinkedIn lead generation",
-    "LinkedIn Ads",
-    "Thought Leader Ads",
-    "LinkedIn profil optimizacija",
-    "B2B pipeline",
-    "buying signals",
-    "CRM lead scoring",
-  ],
-  alternates: {
-    canonical: pageUrl,
-    languages: {
-      en: "/en/webinar/how-to-sell-your-services-on-linkedin-in-2026",
-    },
-  },
+  ...pageMetadata({
+    locale: "sr",
+    paths: staticPaths.webinarLinkedIn2026,
+    title: "Kako prodati svoje usluge na LinkedInu u 2026. | Founder-Led Growth Webinar",
+    description:
+      "Pogledajte Lead Agents webinar i saznajte kako Founder-Led Growth metodologija povezuje LinkedIn profil, content, cold outreach, LinkedIn Ads, CRM i buying signals u jedan sistem za generisanje kvalifikovanih B2B sastanaka.",
+    keywords: [
+      "kako prodati svoje usluge na LinkedInu",
+      "LinkedIn prodaja",
+      "B2B prodaja preko LinkedIn-a",
+      "LinkedIn outreach",
+      "cold sales outreach",
+      "Founder-Led Growth",
+      "LinkedIn lead generation",
+      "LinkedIn Ads",
+      "Thought Leader Ads",
+      "LinkedIn profil optimizacija",
+      "B2B pipeline",
+      "buying signals",
+      "CRM lead scoring",
+    ],
+  }),
   openGraph: {
     title: "Kako prodati svoje usluge na LinkedInu u 2026. | Founder-Led Growth Webinar",
     description:
       "Founder-Led Growth metodologija za moderan B2B sales: LinkedIn profil, content, cold outreach, LinkedIn Ads, CRM i buying signals u jednom sistemu.",
-    url: pageUrl,
+    url: absoluteUrl(pageUrl),
     type: "article",
     images: [
       {

@@ -10,6 +10,7 @@ import {
 } from "@/data/case-studies";
 import { getRoutes } from "@/data/site";
 import { getDictionary } from "@/lib/i18n";
+import { caseStudyPaths, pageMetadata } from "@/lib/seo";
 
 type PageProps = {
   params: Promise<{ slug: string }>;
@@ -26,17 +27,21 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const locale = "sr";
 
   if (detail) {
-    return {
+    return pageMetadata({
+      locale,
+      paths: caseStudyPaths(slug),
       title: detail.meta.title[locale],
       description: detail.meta.description[locale],
-    };
+    });
   }
 
   if (listing) {
-    return {
+    return pageMetadata({
+      locale,
+      paths: caseStudyPaths(slug),
       title: `${listing.title[locale]} | Lead Agents`,
       description: listing.excerpt[locale],
-    };
+    });
   }
 
   return { title: "Case study nije pronađena" };

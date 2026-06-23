@@ -7,6 +7,7 @@ import { Header } from "@/components/layout/Header";
 import { Disclosure, DisclosureList } from "@/components/ui/Disclosure";
 import { Section } from "@/components/ui/Section";
 import { getDictionary } from "@/lib/i18n";
+import { absoluteUrl, pageMetadata, staticPaths } from "@/lib/seo";
 
 const dictionary = getDictionary("en");
 const pageUrl = "/en/webinar/how-to-sell-your-services-on-linkedin-in-2026";
@@ -106,35 +107,33 @@ const breadcrumbSchema = {
 };
 
 export const metadata: Metadata = {
-  title: "How to Sell Your Services on LinkedIn in 2026 | Founder-Led Growth Webinar",
-  description:
-    "Watch the Lead Agents webinar and learn how Founder-Led Growth connects LinkedIn profile optimization, content, cold outreach, LinkedIn Ads, CRM, and buying signals into one predictable B2B pipeline system.",
-  keywords: [
-    "how to sell services on LinkedIn",
-    "LinkedIn sales",
-    "B2B sales on LinkedIn",
-    "LinkedIn outreach",
-    "cold sales outreach",
-    "Founder-Led Growth",
-    "LinkedIn lead generation",
-    "B2B lead generation",
-    "LinkedIn Ads",
-    "Thought Leader Ads",
-    "LinkedIn profile optimization",
-    "CRM lead scoring",
-    "buying signals",
-  ],
-  alternates: {
-    canonical: pageUrl,
-    languages: {
-      sr: "/webinar/kako-prodati-usluge-na-linkedin-u-2026",
-    },
-  },
+  ...pageMetadata({
+    locale: "en",
+    paths: staticPaths.webinarLinkedIn2026,
+    title: "How to Sell Your Services on LinkedIn in 2026 | Founder-Led Growth Webinar",
+    description:
+      "Watch the Lead Agents webinar and learn how Founder-Led Growth connects LinkedIn profile optimization, content, cold outreach, LinkedIn Ads, CRM, and buying signals into one predictable B2B pipeline system.",
+    keywords: [
+      "how to sell services on LinkedIn",
+      "LinkedIn sales",
+      "B2B sales on LinkedIn",
+      "LinkedIn outreach",
+      "cold sales outreach",
+      "Founder-Led Growth",
+      "LinkedIn lead generation",
+      "B2B lead generation",
+      "LinkedIn Ads",
+      "Thought Leader Ads",
+      "LinkedIn profile optimization",
+      "CRM lead scoring",
+      "buying signals",
+    ],
+  }),
   openGraph: {
     title: "How to Sell Your Services on LinkedIn in 2026 | Founder-Led Growth Webinar",
     description:
       "Founder-Led Growth webinar recap for modern B2B sales on LinkedIn: profile, content, outreach, ads, CRM, and buying signals.",
-    url: pageUrl,
+    url: absoluteUrl(pageUrl),
     type: "article",
     images: [
       {

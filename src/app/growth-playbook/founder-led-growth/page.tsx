@@ -8,14 +8,17 @@ import { Section } from "@/components/ui/Section";
 import { founderLedGrowthCluster } from "@/data/founderLedGrowth";
 import { getRoutes } from "@/data/site";
 import { getDictionary } from "@/lib/i18n";
+import { pageMetadata, staticPaths } from "@/lib/seo";
 import { t, tList } from "@/types/playbook";
 
 const locale = "sr";
 
-export const metadata: Metadata = {
+export const metadata: Metadata = pageMetadata({
+  locale,
+  paths: staticPaths.growthPlaybook,
   title: founderLedGrowthCluster.meta.title.sr,
   description: founderLedGrowthCluster.meta.description.sr,
-};
+});
 
 export default function FounderLedGrowthPlaybookPage() {
   const dictionary = getDictionary(locale);

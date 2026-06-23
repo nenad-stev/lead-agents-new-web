@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Urbanist } from "next/font/google";
+import { headers } from "next/headers";
 import Script from "next/script";
 
 import { ExitIntentPopup } from "@/components/marketing/ExitIntentPopup";
@@ -24,13 +25,16 @@ export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
 };
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const headersList = await headers();
+  const locale = headersList.get("x-locale") === "en" ? "en" : "sr";
+
   return (
-    <html lang="sr" className={`${urbanist.variable} h-full`}>
+    <html lang={locale} className={`${urbanist.variable} h-full`}>
       <head>
         <Script id="gtm-init" strategy="afterInteractive">
           {`(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

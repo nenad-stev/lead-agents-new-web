@@ -6,22 +6,19 @@ import { Footer } from "@/components/layout/Footer";
 import { Header } from "@/components/layout/Header";
 import { Section } from "@/components/ui/Section";
 import { getDictionary } from "@/lib/i18n";
+import { pageMetadata, staticPaths } from "@/lib/seo";
 
 const dictionary = getDictionary("en");
 const heroImage = "/images/webinars/kako-prodati-usluge-na-linkedin-u-2026.png";
 const webinarSlug = "/en/webinar/how-to-sell-your-services-on-linkedin-in-2026";
 
-export const metadata: Metadata = {
+export const metadata: Metadata = pageMetadata({
+  locale: "en",
+  paths: staticPaths.webinars,
   title: "Lead Agents Webinars | LinkedIn Sales and Founder-Led Growth",
   description:
     "Watch Lead Agents webinar replay pages on LinkedIn sales, outreach, Founder-Led Growth, LinkedIn Ads, and CRM lead scoring.",
-  alternates: {
-    canonical: "/en/webinar",
-    languages: {
-      sr: "/webinar",
-    },
-  },
-};
+});
 
 export default function WebinarHubEnPage() {
   return (

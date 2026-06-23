@@ -6,22 +6,19 @@ import { Footer } from "@/components/layout/Footer";
 import { Header } from "@/components/layout/Header";
 import { Section } from "@/components/ui/Section";
 import { getDictionary } from "@/lib/i18n";
+import { pageMetadata, staticPaths } from "@/lib/seo";
 
 const dictionary = getDictionary("sr");
 const heroImage = "/images/webinars/kako-prodati-usluge-na-linkedin-u-2026.png";
 const webinarSlug = "/webinar/kako-prodati-usluge-na-linkedin-u-2026";
 
-export const metadata: Metadata = {
+export const metadata: Metadata = pageMetadata({
+  locale: "sr",
+  paths: staticPaths.webinars,
   title: "Lead Agents Webinari | LinkedIn prodaja i Founder-Led Growth",
   description:
     "Pogledajte Lead Agents webinar replay sadržaj o LinkedIn prodaji, outreach-u, Founder-Led Growth sistemu, LinkedIn Ads-u i CRM lead scoring-u.",
-  alternates: {
-    canonical: "/webinar",
-    languages: {
-      en: "/en/webinar",
-    },
-  },
-};
+});
 
 export default function WebinarHubPage() {
   return (
