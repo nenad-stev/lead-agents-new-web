@@ -155,9 +155,12 @@ export const homeTeam = {
       image: "/images/team/nikola-kecman.png",
     },
     {
-      name: "Milica Mihić",
-      role: { sr: "Growth engineer", en: "Growth engineer" },
-      image: "/images/team/milica-mihic.png",
+      name: "Katarina Gegović",
+      role: {
+        sr: "Founder-Led Content Strategist",
+        en: "Founder-Led Content Strategist",
+      },
+      image: "/images/team/katarina-gegovic.png",
     },
     {
       name: "Aida Piro",
@@ -169,7 +172,10 @@ export const homeTeam = {
     },
     {
       name: "Katarina Mijailović",
-      role: { sr: "Content manager", en: "Content manager" },
+      role: {
+        sr: "Founder Brand Strategist & CMO",
+        en: "Founder Brand Strategist & CMO",
+      },
       image: "/images/team/katarina-mijailovic.png",
     },
     {
