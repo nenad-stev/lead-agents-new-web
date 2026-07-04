@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 
 import { CaseStudyDetailPage } from "@/components/case-studies/CaseStudyDetailPage";
 import { PlaceholderDetailPage } from "@/components/pages/PlaceholderDetailPage";
+import { JsonLd } from "@/components/seo/JsonLd";
 import {
   caseStudies,
   getCaseStudyBySlug,
@@ -10,6 +11,7 @@ import {
 } from "@/data/case-studies";
 import { getRoutes } from "@/data/site";
 import { getDictionary } from "@/lib/i18n";
+import { breadcrumbSchema, caseStudyArticleSchema } from "@/lib/schema";
 import { caseStudyPaths, pageMetadata } from "@/lib/seo";
 
 type PageProps = {
@@ -59,27 +61,43 @@ export default async function EnglishCaseStudyDetailPageRoute({ params }: PagePr
     notFound();
   }
 
+  const path = routes.caseStudy(slug);
+  const structuredData = [
+    breadcrumbSchema([
+      { name: "Home", path: routes.home },
+      { name: dictionary.pages.caseStudies.title, path: routes.caseStudies },
+      { name: caseStudy.title[locale], path },
+    ]),
+    caseStudyArticleSchema(detail ?? caseStudy, locale, path),
+  ];
+
   if (detail) {
     return (
-      <CaseStudyDetailPage
-        locale={locale}
-        dictionary={dictionary}
-        caseStudy={detail}
-      />
+      <>
+        <JsonLd data={structuredData} />
+        <CaseStudyDetailPage
+          locale={locale}
+          dictionary={dictionary}
+          caseStudy={detail}
+        />
+      </>
     );
   }
 
   return (
-    <PlaceholderDetailPage
-      locale={locale}
-      dictionary={dictionary}
-      title={caseStudy.title.en}
-      excerpt={caseStudy.excerpt.en}
-      backLabel={dictionary.pages.caseStudyDetail.back}
-      backHref={routes.caseStudies}
-      placeholder={dictionary.pages.caseStudyDetail.placeholder}
-      image={caseStudy.image}
-      imageAlt={caseStudy.imageAlt?.en}
-    />
+    <>
+      <JsonLd data={structuredData} />
+      <PlaceholderDetailPage
+        locale={locale}
+        dictionary={dictionary}
+        title={caseStudy.title.en}
+        excerpt={caseStudy.excerpt.en}
+        backLabel={dictionary.pages.caseStudyDetail.back}
+        backHref={routes.caseStudies}
+        placeholder={dictionary.pages.caseStudyDetail.placeholder}
+        image={caseStudy.image}
+        imageAlt={caseStudy.imageAlt?.en}
+      />
+    </>
   );
 }

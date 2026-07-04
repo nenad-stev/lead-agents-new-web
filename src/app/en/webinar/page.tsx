@@ -4,8 +4,11 @@ import Link from "next/link";
 
 import { Footer } from "@/components/layout/Footer";
 import { Header } from "@/components/layout/Header";
+import { JsonLd } from "@/components/seo/JsonLd";
 import { Section } from "@/components/ui/Section";
+import { getRoutes } from "@/data/site";
 import { getDictionary } from "@/lib/i18n";
+import { breadcrumbSchema } from "@/lib/schema";
 import { pageMetadata, staticPaths } from "@/lib/seo";
 
 const dictionary = getDictionary("en");
@@ -21,8 +24,16 @@ export const metadata: Metadata = pageMetadata({
 });
 
 export default function WebinarHubEnPage() {
+  const routes = getRoutes("en");
+
   return (
     <>
+      <JsonLd
+        data={breadcrumbSchema([
+          { name: "Home", path: routes.home },
+          { name: "Webinars", path: routes.webinars },
+        ])}
+      />
       <Header locale="en" dictionary={dictionary} />
       <main>
         <Section

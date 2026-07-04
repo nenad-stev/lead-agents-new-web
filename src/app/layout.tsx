@@ -4,8 +4,10 @@ import { headers } from "next/headers";
 import Script from "next/script";
 
 import { ExitIntentPopup } from "@/components/marketing/ExitIntentPopup";
+import { JsonLd } from "@/components/seo/JsonLd";
 import { siteConfig } from "@/data/site";
 import { getDictionary } from "@/lib/i18n";
+import { organizationSchema, websiteSchema } from "@/lib/schema";
 
 import "./globals.css";
 
@@ -53,6 +55,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             style={{ display: "none", visibility: "hidden" }}
           />
         </noscript>
+        <JsonLd data={[organizationSchema(), websiteSchema()]} />
         {children}
         <ExitIntentPopup />
       </body>

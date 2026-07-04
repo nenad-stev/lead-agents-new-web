@@ -4,10 +4,12 @@ import { Footer } from "@/components/layout/Footer";
 import { Header } from "@/components/layout/Header";
 import { ContentLocker } from "@/components/playbook/ContentLocker";
 import { PlaybookHero } from "@/components/playbook/PlaybookHero";
+import { JsonLd } from "@/components/seo/JsonLd";
 import { Section } from "@/components/ui/Section";
 import { founderLedGrowthCluster } from "@/data/founderLedGrowth";
 import { getRoutes } from "@/data/site";
 import { getDictionary } from "@/lib/i18n";
+import { breadcrumbSchema, courseSchema } from "@/lib/schema";
 import { pageMetadata, staticPaths } from "@/lib/seo";
 import { t, tList } from "@/types/playbook";
 
@@ -26,6 +28,20 @@ export default function FounderLedGrowthPlaybookPage() {
 
   return (
     <>
+      <JsonLd
+        data={[
+          breadcrumbSchema([
+            { name: "Početna", path: routes.home },
+            { name: founderLedGrowthCluster.hero.title[locale], path: routes.growthPlaybook },
+          ]),
+          courseSchema({
+            name: founderLedGrowthCluster.hero.title[locale],
+            description: founderLedGrowthCluster.meta.description[locale],
+            locale,
+            path: routes.growthPlaybook,
+          }),
+        ]}
+      />
       <Header locale={locale} dictionary={dictionary} />
       <main>
         <PlaybookHero

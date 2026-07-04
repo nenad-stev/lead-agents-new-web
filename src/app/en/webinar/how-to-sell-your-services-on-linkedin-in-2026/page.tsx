@@ -14,6 +14,8 @@ const pageUrl = "/en/webinar/how-to-sell-your-services-on-linkedin-in-2026";
 const youtubeUrl = "https://www.youtube.com/watch?v=FR1Zh0zguXc";
 const youtubeEmbedUrl = "https://www.youtube.com/embed/FR1Zh0zguXc";
 const heroImage = "/images/webinars/kako-prodati-usluge-na-linkedin-u-2026.png";
+const pageAbsoluteUrl = absoluteUrl(pageUrl);
+const heroImageAbsoluteUrl = absoluteUrl(heroImage);
 const ctaHref = "/en/contact";
 
 const faqItems = [
@@ -79,11 +81,19 @@ const articleSchema = {
   description:
     "Webinar replay and recap of the Founder-Led Growth system for LinkedIn sales, content, outreach, ads, CRM, and buying signals.",
   inLanguage: "en",
-  image: [heroImage],
-  mainEntityOfPage: pageUrl,
+  image: [heroImageAbsoluteUrl],
+  mainEntityOfPage: pageAbsoluteUrl,
   author: {
     "@type": "Organization",
     name: "Lead Agents",
+  },
+  publisher: {
+    "@type": "Organization",
+    name: "Lead Agents",
+    logo: {
+      "@type": "ImageObject",
+      url: absoluteUrl("/images/lead-agents-logo.png"),
+    },
   },
 };
 
@@ -95,13 +105,13 @@ const breadcrumbSchema = {
       "@type": "ListItem",
       position: 1,
       name: "Webinars",
-      item: "/en/webinar",
+      item: absoluteUrl("/en/webinar"),
     },
     {
       "@type": "ListItem",
       position: 2,
       name: "How to Sell Your Services on LinkedIn in 2026",
-      item: pageUrl,
+      item: pageAbsoluteUrl,
     },
   ],
 };
@@ -385,7 +395,7 @@ export default function WebinarLinkedIn2026EnPage() {
             name: "How to Sell Your Services on LinkedIn in 2026",
             description:
               "Lead Agents webinar recap on Founder-Led Growth for LinkedIn sales, outreach, content, ads, CRM, and buying signals.",
-            thumbnailUrl: [heroImage],
+            thumbnailUrl: [heroImageAbsoluteUrl],
             embedUrl: youtubeEmbedUrl,
             contentUrl: youtubeUrl,
             inLanguage: "en",

@@ -1,13 +1,16 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 
+import { JsonLd } from "@/components/seo/JsonLd";
 import { ColdSalesOutreachPage } from "@/components/services/ColdSalesOutreachPage";
 import { FounderLedGrowthPreviewPage } from "@/components/services/FounderLedGrowthPreviewPage";
 import { ServiceDetailPage } from "@/components/services/ServiceDetailPage";
 import { coldSalesOutreach } from "@/data/services/cold-sales-outreach";
 import { founderLedGrowth } from "@/data/services/founder-led-growth";
 import { getAllServiceSlugs, getServiceBySlug } from "@/data/services";
+import { getRoutes } from "@/data/site";
 import { getDictionary } from "@/lib/i18n";
+import { breadcrumbSchema, serviceSchema } from "@/lib/schema";
 import { pageMetadata, servicePaths } from "@/lib/seo";
 
 type PageProps = {
@@ -39,19 +42,44 @@ export default async function ServicePageRoute({ params }: PageProps) {
   const { slug } = await params;
   const locale = "en";
   const dictionary = getDictionary(locale);
+  const routes = getRoutes(locale);
   const service = getServiceBySlug(slug);
 
   if (!service) {
     notFound();
   }
 
+  const path = routes.service(slug);
+  const structuredData = [
+    breadcrumbSchema([
+      { name: "Home", path: routes.home },
+      { name: service.hero.title[locale], path },
+    ]),
+    serviceSchema(service, locale, path),
+  ];
+
   if (slug === founderLedGrowth.slug) {
-    return <FounderLedGrowthPreviewPage locale={locale} dictionary={dictionary} />;
+    return (
+      <>
+        <JsonLd data={structuredData} />
+        <FounderLedGrowthPreviewPage locale={locale} dictionary={dictionary} />
+      </>
+    );
   }
 
   if (slug === coldSalesOutreach.slug) {
-    return <ColdSalesOutreachPage locale={locale} dictionary={dictionary} />;
+    return (
+      <>
+        <JsonLd data={structuredData} />
+        <ColdSalesOutreachPage locale={locale} dictionary={dictionary} />
+      </>
+    );
   }
 
-  return <ServiceDetailPage locale={locale} dictionary={dictionary} service={service} />;
+  return (
+    <>
+      <JsonLd data={structuredData} />
+      <ServiceDetailPage locale={locale} dictionary={dictionary} service={service} />
+    </>
+  );
 }

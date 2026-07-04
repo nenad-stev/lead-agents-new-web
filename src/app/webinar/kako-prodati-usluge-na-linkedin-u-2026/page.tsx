@@ -14,6 +14,8 @@ const pageUrl = "/webinar/kako-prodati-usluge-na-linkedin-u-2026";
 const youtubeUrl = "https://www.youtube.com/watch?v=FR1Zh0zguXc";
 const youtubeEmbedUrl = "https://www.youtube.com/embed/FR1Zh0zguXc";
 const heroImage = "/images/webinars/kako-prodati-usluge-na-linkedin-u-2026.png";
+const pageAbsoluteUrl = absoluteUrl(pageUrl);
+const heroImageAbsoluteUrl = absoluteUrl(heroImage);
 const ctaHref = "/kontakt";
 
 const faqItems = [
@@ -79,8 +81,8 @@ const articleSchema = {
   description:
     "Webinar replay i recap stranica o Founder-Led Growth metodologiji za LinkedIn prodaju, outreach, content, ads, CRM i buying signals.",
   inLanguage: "sr",
-  image: [heroImage],
-  mainEntityOfPage: pageUrl,
+  image: [heroImageAbsoluteUrl],
+  mainEntityOfPage: pageAbsoluteUrl,
   author: {
     "@type": "Organization",
     name: "Lead Agents",
@@ -90,7 +92,7 @@ const articleSchema = {
     name: "Lead Agents",
     logo: {
       "@type": "ImageObject",
-      url: "/images/lead-agents-logo.png",
+      url: absoluteUrl("/images/lead-agents-logo.png"),
     },
   },
 };
@@ -103,13 +105,13 @@ const breadcrumbSchema = {
       "@type": "ListItem",
       position: 1,
       name: "Webinari",
-      item: "/webinar",
+      item: absoluteUrl("/webinar"),
     },
     {
       "@type": "ListItem",
       position: 2,
       name: "Kako prodati svoje usluge na LinkedInu u 2026.",
-      item: pageUrl,
+      item: pageAbsoluteUrl,
     },
   ],
 };
@@ -901,7 +903,7 @@ export default function WebinarLinkedIn2026Page() {
             name: "Kako prodati svoje usluge na LinkedInu u 2026.",
             description:
               "Lead Agents webinar o Founder-Led Growth metodologiji za LinkedIn prodaju, outreach, content, Ads, CRM i buying signals.",
-            thumbnailUrl: [heroImage],
+            thumbnailUrl: [heroImageAbsoluteUrl],
             embedUrl: youtubeEmbedUrl,
             contentUrl: youtubeUrl,
             inLanguage: "sr",

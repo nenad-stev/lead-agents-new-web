@@ -1,7 +1,10 @@
 import type { Metadata } from "next";
 
 import { ContactPage } from "@/components/contact/ContactPage";
+import { JsonLd } from "@/components/seo/JsonLd";
+import { getRoutes } from "@/data/site";
 import { getDictionary } from "@/lib/i18n";
+import { breadcrumbSchema } from "@/lib/schema";
 import { pageMetadata, staticPaths } from "@/lib/seo";
 
 const dictionary = getDictionary("en");
@@ -15,5 +18,17 @@ export const metadata: Metadata = pageMetadata({
 });
 
 export default function EnglishContactPage() {
-  return <ContactPage locale="en" dictionary={dictionary} />;
+  const routes = getRoutes("en");
+
+  return (
+    <>
+      <JsonLd
+        data={breadcrumbSchema([
+          { name: "Home", path: routes.home },
+          { name: labels.title, path: routes.contact },
+        ])}
+      />
+      <ContactPage locale="en" dictionary={dictionary} />
+    </>
+  );
 }

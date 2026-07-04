@@ -30,6 +30,7 @@ function localizedPair(
         languages: {
           sr: absoluteUrl(srPath),
           en: absoluteUrl(enPath),
+          "x-default": absoluteUrl(srPath),
         },
       },
     },
@@ -42,6 +43,7 @@ function localizedPair(
         languages: {
           sr: absoluteUrl(srPath),
           en: absoluteUrl(enPath),
+          "x-default": absoluteUrl(srPath),
         },
       },
     },
