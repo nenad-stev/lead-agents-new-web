@@ -17,6 +17,7 @@ import { HomeResourcesSection } from "./HomeResourcesSection";
 import { CaseStudyHighlight } from "./CaseStudyHighlight";
 import { FlagshipServiceSection } from "./FlagshipServiceSection";
 import { GrowthArrows } from "./GrowthArrows";
+import { HeroParticleField } from "./HeroParticleField";
 import { ClientsSection } from "./ClientsSection";
 import { DifferentiatorsSection } from "./DifferentiatorsSection";
 import { TeamSection } from "./TeamSection";
@@ -39,8 +40,8 @@ export function HomePage({ locale, dictionary }: HomePageProps) {
       <main className="home-main relative overflow-hidden">
         <HomeAmbientBackground />
 
-        <section className="home-section relative overflow-hidden">
-          <GrowthArrows variant="hero" />
+        <section className="home-section home-hero relative overflow-hidden">
+          <HeroParticleField />
           <div className="relative z-[1] mx-auto max-w-6xl px-6 py-20 md:px-8 md:py-28">
             <p className="home-hero-in home-hero-in-1 mb-4 text-sm font-semibold uppercase tracking-[0.2em] text-accent">
               {dictionary.hero.eyebrow}

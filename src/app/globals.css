@@ -539,11 +539,11 @@ a {
 }
 
 .home-ambient__orb--2 {
-  top: 38%;
-  right: 6%;
-  width: min(44vw, 400px);
-  height: min(44vw, 400px);
-  background: rgb(255 204 0 / 0.11);
+  top: 58%;
+  right: -8%;
+  width: min(36vw, 320px);
+  height: min(36vw, 320px);
+  background: rgb(255 204 0 / 0.05);
   animation: home-glow-drift-b 30s ease-in-out infinite;
   animation-delay: -8s;
 }
@@ -1176,6 +1176,16 @@ a {
   }
 }
 
+.home-hero {
+  min-height: min(88vh, 820px);
+}
+
+.home-hero-particles {
+  opacity: 0;
+  animation: home-fade-in-up 1.2s cubic-bezier(0.22, 1, 0.36, 1) 0.2s forwards;
+  background: transparent;
+}
+
 .home-hero-in {
   opacity: 0;
   animation: home-fade-in-up 0.85s cubic-bezier(0.22, 1, 0.36, 1) forwards;
@@ -1571,6 +1581,7 @@ a {
 
 @media (prefers-reduced-motion: reduce) {
   .home-hero-in,
+  .home-hero-particles,
   .home-reveal.is-visible {
     animation: none;
     opacity: 1;
