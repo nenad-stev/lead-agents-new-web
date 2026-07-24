@@ -1,0 +1,276 @@
+LEKCIJA 4 — Positioning: šta kupac mora da razume za 5 sekundi
+Dobar positioning nije lep slogan.
+Dobar positioning je kada kupac za nekoliko sekundi razume:
+šta radite,
+za koga,
+koji problem rešavate,
+zašto je to važno,
+i zašto niste isti kao svi ostali.
+To zvuči jednostavno.
+Ali većina B2B firmi ovde ozbiljno zapne.
+Ne zato što nemaju dobru uslugu ili proizvod.
+Nego zato što ga objašnjavaju iz svog ugla.
+Iz ugla procesa.
+Iz ugla feature-a.
+Iz ugla metodologije.
+Iz ugla interne ekspertize.
+Iz ugla “mi znamo šta radimo”.
+Problem je što kupac ne kupuje vaš unutrašnji proces.
+Kupac kupuje rešenje za problem koji trenutno oseća.
+I zato positioning mora da krene iz njegove glave.
+
+Najveći problem: firme zvuče kao svi ostali
+Ako otvorite 10 sajtova B2B firmi iz iste industrije, često ćete videti iste rečenice.
+“Helping companies grow.”
+“Driving digital transformation.”
+“End-to-end solutions.”
+“Your trusted partner.”
+“Scalable software solutions.”
+“We help businesses improve efficiency.”
+Sve to može biti tačno.
+Ali ništa od toga ne pravi razliku.
+Kupac to pročita i ne zna:
+za koga ste najbolji,
+koji problem stvarno rešavate,
+šta radite drugačije,
+zašto bi pričao sa vama,
+zašto ne sa konkurencijom,
+i zašto sada.
+To je problem.
+Jer ako kupac mora previše da razmišlja da bi shvatio zašto ste relevantni, uglavnom neće razmišljati.
+Samo će otići dalje.
+
+Positioning nije “šta sve možemo da radimo”
+Ovo je posebno teško za firme koje imaju dobar delivery.
+Jer one stvarno mogu da rade mnogo stvari.
+Mogu da rade za više industrija.
+Mogu da rešavaju više problema.
+Mogu da prodaju različitim kupcima.
+Mogu da se prilagode.
+Ali tržište ne pamti fleksibilnost.
+Pamti jasnoću.
+Ako kažete:
+“Radimo custom software za različite industrije”
+to je tačno, ali nije dovoljno jako.
+Ako kažete:
+“Pomažemo logističkim firmama da digitalizuju operacije koje se i dalje vode kroz Excel, email i ručne procese”
+to je mnogo jasnije.
+Odmah znamo:
+ko je kupac,
+koji problem ima,
+zašto postoji bol,
+i zašto bi razgovor imao smisla.
+Dobar positioning ne mora da obuhvati sve što možete da radite.
+Treba da otvori vrata sa najjačim problemom koji tržište razume.
+Kasnije na sales call-u možete širiti priču.
+Ali prvi kontakt mora biti jasan.
+
+Kupac mora da se prepozna
+Najbolji positioning često ne zvuči kao opis firme.
+Zvuči kao rečenica koju bi kupac rekao sam sebi.
+Na primer:
+Loše:
+“Pomažemo B2B firmama kroz integrisane growth strategije.”
+Bolje:
+“Pomažemo B2B firmama koje zavise od preporuka da naprave predvidiv sales pipeline.”
+Zašto je drugo jače?
+Zato što kupac odmah može da pomisli:
+“Da, to smo mi.”
+To je cilj.
+Positioning ne treba samo da objasni šta radite.
+Treba da napravi prepoznavanje.
+Kupac treba da vidi sebe u problemu.
+Jer kada se kupac prepozna, pažnja raste.
+A bez pažnje, nema ni sales razgovora.
+
+Dobar positioning odgovara na 5 pitanja
+Pre nego što krenete u content, outreach ili ads, morate imati jasan odgovor na ovih 5 pitanja.
+1. Kome tačno pomažemo?
+Ne “svim firmama”.
+Nego kom tipu firme ste najrelevantniji sada.
+Primer:
+B2B SaaS firme koje imaju product, ali nemaju stabilan pipeline.
+IT firme koje rade custom development, ali zvuče isto kao konkurencija.
+B2B uslužne firme koje zavise od referral-a.
+Firme sa sales timom koji radi outreach ručno i bez jasnih signala.
+Što jasnije definišete kupca, lakše je napisati poruku koja pogađa.
+
+2. Koji problem rešavamo?
+Ne opis usluge.
+Problem.
+Ne:
+“Radimo LinkedIn content.”
+Nego:
+“Kupac dobije vašu poruku, proveri profil i ne vidi dovoljno razloga da vam veruje.”
+Ne:
+“Radimo outreach.”
+Nego:
+“Otvaramo razgovore sa pravim kupcima, bez oslanjanja samo na referral-e.”
+Ne:
+“Implementiramo CRM.”
+Nego:
+“Pomažemo sales timu da zna ko se zagreva i kome treba sledeći follow-up.”
+Kupac ne kupuje aktivnost.
+Kupac kupuje rešavanje problema.
+
+3. Zašto je problem bitan sada?
+Ovo je urgency.
+Bez urgency-ja, kupac može da kaže:
+“Zvuči zanimljivo, ali nije prioritet.”
+Zato positioning mora da pokaže cenu neaktivnosti.
+Na primer:
+Ako firma zavisi od referral-a, rizik je da pipeline stane kada jedan veliki klijent ode.
+Ako outbound ne radi, rizik je da sales troši mesece na pogrešne ljude.
+Ako founder nije vidljiv, rizik je da kupac ne stekne poverenje pre razgovora.
+Ako CRM ne prati signale, rizik je da topli leadovi propadnu bez reakcije.
+Positioning mora da odgovori na pitanje:
+“Šta se loše dešava ako ovo ne rešimo?”
+
+4. Zašto smo drugačiji?
+Ovo ne mora da bude neka revolucionarna razlika.
+Ali mora biti jasno zašto niste samo još jedna opcija.
+Razlika može biti u fokusu.
+Na primer:
+“Ne radimo LinkedIn objave radi aktivnosti. Gradimo content koji podržava outreach i sales.”
+Razlika može biti u metodologiji.
+“Ne šaljemo poruke svima. Prvo čistimo ICP, pratimo signale i gradimo multi-touch sistem.”
+Razlika može biti u integraciji.
+“Ne gledamo content, outreach i CRM odvojeno. Povezujemo ih u jedan Founder-Led Growth sistem.”
+Kupac mora da razume zašto vaš pristup ima smisla.
+Ako ne zna razliku, porediće vas po ceni.
+A to je najgora pozicija.
+
+5. Koji dokaz imamo?
+Positioning bez dokaza zvuči kao tvrdnja.
+Dokaz može biti:
+case study,
+konkretan rezultat,
+brojke,
+proces,
+pre/posle primer,
+iskustvo iz rada sa sličnim firmama,
+ili specifičan insight koji pokazuje da razumete tržište.
+Ne mora uvek da bude “napravili smo 10M pipeline-a”.
+Nekad je dovoljno pokazati da znate problem bolje od konkurencije.
+Na primer:
+“Kod većine B2B firmi problem nije samo loš outreach copy. Problem je što poruka pokušava da izgradi poverenje koje je trebalo da se gradi mesecima kroz content, profile, case study-je i follow-up.”
+To je dokaz kroz razumevanje.
+Kupac oseća da ste već videli njegov problem.
+
+Positioning mora da se vidi svuda
+Positioning nije samo rečenica na sajtu.
+Mora da se vidi u celom sales sistemu.
+U LinkedIn headline-u.
+U About sekciji.
+U founder contentu.
+U outreach poruci.
+U webinar temi.
+U case study-ju.
+U pitch deck-u.
+U follow-up-u.
+U sales call-u.
+U CRM segmentima.
+Ako positioning živi samo u jednom dokumentu, ne znači ništa.
+Kupac mora više puta da vidi istu jasnu poruku kroz različite touchpoint-e.
+Tek tada počinje da pamti.
+
+Primer: slab vs jak positioning
+Slabo:
+“Mi smo growth agencija koja pomaže firmama da povećaju prodaju kroz LinkedIn, content i automatizacije.”
+Problem:
+preširoko je,
+zvuči kao svi ostali,
+ne znamo za koga je,
+ne znamo koji problem rešava,
+ne znamo zašto sada.
+Jače:
+“Pomažemo B2B firmama koje zavise od preporuka da naprave predvidiv sales pipeline kroz founder content, signal-based outreach i CRM sistem.”
+Zašto je bolje?
+Jasno je kome pomažemo.
+Jasno je koji problem rešavamo.
+Jasno je šta je krajnji ishod.
+Jasno je da nije samo content ili outreach, nego sistem.
+Još preciznije za jedan segment:
+“Pomažemo B2B uslužnim firmama od 10–50 ljudi da prestanu da zavise od referral-a i naprave sistem koji svaki mesec otvara razgovore sa pravim kupcima.”
+Ovo možda ne pokriva sve što radite.
+Ali pogađa mnogo jače.
+
+Positioning za product vs uslugu
+Ovo je bitno.
+Ako prodajete uslugu, kupac najviše kupuje poverenje.
+Mora da veruje da razumete problem, da imate proces i da možete da isporučite.
+Zato positioning usluge treba da naglasi:
+za koga ste specifično dobri,
+koji problem rešavate,
+kako razmišljate drugačije,
+koji proces imate,
+i kakve rezultate pravite.
+Ako prodajete product, kupac ne kupuje samo alat.
+Kupuje promenu ponašanja.
+Mora da prestane da radi nešto na stari način i uvede novi workflow.
+Zato positioning producta mora više da naglasi:
+zašto stari način više ne radi,
+koja je skrivena cena trenutnog procesa,
+zašto je sada pravi trenutak,
+šta se menja pre i posle producta,
+i zašto je vaš product najjednostavniji put do te promene.
+Kod usluge često ide:
+poverenje → problem → razgovor.
+Kod producta često ide:
+problem → urgency → demo.
+Ako ovo pomešate, poruka deluje čudno.
+Product zvuči kao pitch bez konteksta.
+Usluga zvuči hladno i feature-driven.
+
+Najbolji test positioning-a
+Najbolji test nije da li vama lepo zvuči.
+Najbolji test je da li kupac može da ponovi šta radite svojim rečima.
+Ako posle 30 sekundi kupac može da kaže:
+“Vi pomažete firmama kao naša da reše X problem bez Y haosa”
+onda positioning radi.
+Ako kaže:
+“Znači vi radite marketing?”
+ili
+“Znači vi ste LinkedIn agencija?”
+onda positioning nije dovoljno jasan.
+Dobar positioning smanjuje pogrešna tumačenja.
+Loš positioning vas stalno tera da objašnjavate od nule.
+
+Kako mi gledamo positioning u Founder-Led Growth-u
+U Founder-Led Growth-u positioning nije izolovan branding zadatak.
+On diktira ceo sistem.
+Iz positioning-a izlaze:
+content teme,
+outreach poruke,
+webinar naslovi,
+case study uglovi,
+follow-up sekvence,
+lead scoring kriterijumi,
+i sales call struktura.
+Ako je positioning slab, sve posle njega mora više da se muči.
+Content će biti generički.
+Outreach će zvučati kao pitch.
+Webinar neće imati jasan hook.
+Follow-up neće imati šta novo da kaže.
+Sales će morati stalno da objašnjava zašto ste relevantni.
+Zato positioning rešavamo pre skaliranja.
+Ne zato što volimo strategiju na papiru.
+Nego zato što loš positioning posle toga plaćate kroz svaki slab reply, svaki loš call i svaki izgubljen deal.
+
+Mini checklist za positioning
+Pre nego što pokrenete sales kampanju, odgovorite jasno:
+Kome tačno pomažemo?
+Koji konkretan problem rešavamo?
+Kako kupac danas opisuje taj problem svojim rečima?
+Šta se loše dešava ako problem ne reši?
+Zašto je sada pravi trenutak?
+Koja je pogrešna alternativa koju kupac trenutno koristi?
+Zašto je naš pristup drugačiji?
+Koji dokaz imamo?
+Da li se ova poruka vidi na LinkedIn profilu, sajtu, contentu, outreach-u i sales call-u?
+Da li kupac može da objasni šta radimo posle 30 sekundi?
+Ako odgovor nije jasan, nemojte još skalirati outreach.
+Jer više poruka neće popraviti nejasnu poziciju.
+Samo će više ljudi zbuniti brže.
+Positioning nije kozmetika.
+Positioning je razlog zašto kupac uopšte odluči da obrati pažnju.

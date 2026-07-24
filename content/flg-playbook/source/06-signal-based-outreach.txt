@@ -1,0 +1,234 @@
+LEKCIJA 6
+Outreach po signalima: kako prilazite pravim ljudima u pravom trenutku
+Većina firmi radi outreach ovako:
+nađu listu,
+pošalju poruke,
+čekaju odgovore,
+pa onda pokušavaju da zaključe da li kanal radi.
+Problem je što takav outreach često kreće iz pogrešnog mesta.
+Kreće od pitanja:
+“Kome možemo da pošaljemo poruku?”
+A mnogo bolje pitanje je:
+“Ko trenutno ima razlog da obrati pažnju?”
+To je suština outreach-a po signalima.
+Ne šaljete poruku samo zato što neko ima pravu titulu.
+Šaljete poruku zato što postoji neki kontekst koji povećava šansu da je tema relevantna sada.
+To je velika razlika.
+Jer u B2B prodaji nije svaki dobar fit spreman za razgovor.
+Neko jeste idealan kupac na papiru, ali nema problem sada.
+Neko ima problem, ali nije prioritet.
+Neko ima prioritet, ali nema budžet.
+Neko ima budžet, ali nema internu podršku.
+Neko je video vaš content, kliknuo case study, bio na webinaru i već razume problem.
+To nisu isti leadovi.
+I ne treba da dobiju istu poruku.
+
+Obična lista nije isto što i dobra lista
+Sales Navigator, Apollo, Prospeo i slični alati mogu da daju dobar početak.
+Možete filtrirati po industriji, veličini firme, lokaciji, tituli, seniority nivou i sličnim kriterijumima.
+Ali to još uvek nije prava outbound lista.
+To je samo sirov materijal.
+Jer filter može da kaže:
+“Ova osoba je CEO firme od 50 zaposlenih u IT industriji.”
+Ali filter ne zna uvek:
+da li firma stvarno ima problem,
+da li je kupac aktivan na LinkedIn-u,
+da li profil odgovara vašem ICP-u,
+da li firma raste,
+da li imaju novi proizvod,
+da li zapošljavaju sales ljude,
+da li su skoro dobili investiciju,
+da li ulaze na novo tržište,
+da li imaju content koji pokazuje prioritet,
+da li je osoba pravi ulaz u buying committee.
+Zato lista mora da se obogati.
+Ne da bismo imali više podataka.
+Nego da bismo znali kome vredi prići prvo i iz kog ugla.
+
+Šta je signal
+Signal je svaki podatak koji nam pomaže da razumemo da li je osoba ili firma trenutno relevantnija za outreach.
+Signal ne mora da znači da je neko spreman da kupi.
+Ali može da pokaže da postoji veća šansa za razgovor.
+Primeri signala:
+firma zapošljava sales ili marketing ljude,
+firma raste po broju zaposlenih,
+imaju novi proizvod ili novu uslugu,
+šire se na novo tržište,
+objavili su da traže partnere,
+osoba je aktivna na LinkedIn-u,
+osoba priča o problemu koji vi rešavate,
+firma ima slab positioning u odnosu na ono što prodaje,
+founder je vidljiv, ali nema jasan content sistem,
+sales tim postoji, ali nema jasnu outbound mašinu,
+neko iz firme je reagovao na vaš content,
+lead je otvorio email,
+kliknuo link,
+gledao webinar,
+posetio profil,
+ili ranije bio u razgovoru pa se sada ponovo aktivirao.
+Jedan signal sam po sebi ne mora da znači mnogo.
+Ali više signala zajedno menjaju prioritet.
+Ako je firma dobar ICP fit, raste, zapošljava sales ljude, founder je aktivan na LinkedIn-u, ali content nije povezan sa prodajom, to je mnogo bolji lead od firme koja samo ima pravu industriju.
+
+Outreach po signalima menja poruku
+Kada nemate signal, poruka najčešće zvuči generički.
+“Vidim da ste CEO firme u IT industriji.”
+To nije dovoljno.
+Kupac zna da ste to našli iz filtera.
+Ali kada imate signal, možete otvoriti razgovor mnogo prirodnije.
+Na primer:
+“Video sam da širite sales tim. Kod dosta B2B firmi tada problem nije samo broj ljudi u sales-u, nego to što nemaju dovoljno jasan sistem za ICP, outreach i follow up.”
+To je drugačije.
+Ili:
+“Video sam da sve više komunicirate novi proizvod. Često se tu pojavi problem da product postoji, ali tržište još ne razume zašto bi menjalo trenutni način rada.”
+Ili:
+“Video sam da ste aktivni na LinkedIn-u, ali deluje da content još nije povezan sa sales procesom. Tu često postoji veliki prostor da founder profil bolje podrži outreach.”
+Ove poruke nisu personalizovane samo zbog personalizacije.
+One koriste signal da otvore relevantan problem.
+To je poenta.
+Personalizacija nije:
+“Video sam da ste bili na konferenciji.”
+Personalizacija je:
+“Video sam nešto što mi govori da bi ovaj problem možda bio relevantan za vas sada.”
+
+Nije svaki signal za direktan pitch
+Ovo je važno.
+Ako neko klikne link ili lajkuje post, to ne znači da treba odmah poslati agresivan sales pitch.
+Mnogo firmi pokvari warm signal jer reaguju prebrzo i previše direktno.
+Signal treba da odredi sledeći korak.
+Nekad je to direktna poruka.
+Nekad je case study.
+Nekad je poziv na webinar.
+Nekad je edukativan follow up.
+Nekad je samo da se osoba stavi u bolji nurture.
+Nekad je da se kontaktira druga osoba iz iste firme.
+Dobar sales sistem ne tretira svaki signal isto.
+Razlikuje nivo interesovanja.
+Na primer:
+Neko ko je samo video post možda nije spreman za poruku.
+Neko ko je kliknuo case study možda treba follow up sa relevantnim primerom.
+Neko ko je bio na webinaru i otvorio tri emaila možda jeste spreman za direktan razgovor.
+Neko ko je ranije rekao “javite se kasnije” i sada ponovo reaguje možda treba potpuno drugačiju poruku.
+Zato outreach po signalima nije samo bolje targetiranje.
+To je bolja odluka o sledećem koraku.
+
+Multi profile pristup
+U ozbiljnoj B2B prodaji, retko jedna osoba sama donosi odluku.
+Zato nije dovoljno da jedan profil iz vaše firme šalje poruke jednoj osobi iz target firme.
+Mnogo bolji pristup je da više ljudi iz vaše firme gradi prisutnost kod više ljudi iz njihove firme.
+Founder može da priča sa CEO-em ili founder-om.
+Sales osoba može da priča sa Head of Sales-om.
+Marketing osoba može da priča sa CMO-em ili growth osobom.
+GTM osoba može da priča sa operativnim ili revenue timom.
+AI osoba može da priča sa ljudima koji razmišljaju o automatizaciji procesa.
+Tako ne napadate firmu nasumično.
+Gradite kontekst u buying committee-ju.
+I onda se desi momenat koji je mnogo vredan:
+neko na call-u kaže:
+“Video sam vas više puta. Pisali ste i kolegi. Iskakali ste nam na LinkedIn-u.”
+To nije slučajno.
+To znači da firma više ne deluje kao nepoznat vendor.
+Deluje kao neko ko je već prisutan u njihovom svetu.
+U B2B-u je to velika prednost.
+
+Content pojačava outreach
+Outreach po signalima radi mnogo bolje kada osoba iza poruke ima content koji podržava temu.
+Ako pošaljete poruku o problemu referral zavisnosti, a vaš profil ima nekoliko dobrih objava o tome kako se gradi pipeline koji ne zavisi od preporuka, poruka je jača.
+Ako pišete o CRM signalima, a na profilu imate content koji objašnjava zašto CRM treba da bude radar, a ne baza kontakata, poruka je jača.
+Ako pozivate nekoga na webinar, a već ste objavljivali o toj temi, poziv deluje prirodnije.
+To je razlog zašto content i outreach moraju da rade zajedno.
+Content gradi kontekst.
+Outreach otvara razgovor.
+CRM prati signal.
+Follow up nastavlja edukaciju.
+Kada su ti delovi povezani, outreach više nije izolovana aktivnost.
+Postaje deo sistema.
+
+Kako izgleda proces outreach-a po signalima
+Prvo definišemo ICP.
+Zatim pravimo početnu listu firmi i ljudi.
+Onda obogaćujemo podatke.
+Gledamo firmu, profil, sajt, aktivnost, tržište, rast, hiring, content, potencijalni problem i buying committee.
+Zatim rangiramo leadove.
+Ko je jak fit.
+Ko ima timing signal.
+Ko je aktivan na LinkedIn-u.
+Ko treba da ide prvi.
+Ko treba nurture.
+Ko nije prioritet.
+Tek onda pišemo poruke.
+Ne pre.
+Jer dobra poruka dolazi iz dobrog konteksta.
+Ako ne znate zašto je osoba relevantna, teško ćete napisati poruku koja zvuči relevantno.
+
+Outreach ne služi samo da zakaže call
+Ovo je jedan od najvažnijih delova.
+Outreach je i market feedback mehanizam.
+Kroz outreach učite:
+koji segment najbolje reaguje,
+koja poruka otvara razgovor,
+koji problem ljudi prepoznaju,
+koji problem im nije prioritet,
+koje titule odgovaraju,
+koji objection se ponavlja,
+koji angle zvuči generički,
+koji content treba napraviti,
+koji webinar bi imao smisla,
+koji ICP treba izbaciti.
+Zato nije poenta samo poslati više poruka.
+Poenta je naučiti nešto iz svake kampanje.
+Ako outreach ne vraća insight nazad u positioning, content, CRM i sales, onda sistem ne uči.
+Samo šalje.
+A to je mnogo slabije.
+
+Najčešće greške
+Prva greška je preširoka lista.
+Ako je lista loša, poruka mora da bude magija.
+A magija se retko dešava.
+Druga greška je isti copy za sve.
+Ako svi dobiju istu poruku, ignorišete razlike u problemu, ulozi i timing-u.
+Treća greška je prebrz pitch.
+Kupac nije uvek spreman za call čim pokazuje mali signal.
+Nekad prvo treba poverenje.
+Četvrta greška je slab follow up.
+Većina firmi pošalje prvi follow up, možda drugi, pa stane.
+Ne zato što nema interesa.
+Nego zato što nemaju sistem.
+Peta greška je da se signali ne beleže u CRM.
+Ako se signal izgubi, gubi se i timing.
+A u sales-u je timing često pola posla.
+
+Šta meriti
+Kod outreach-a po signalima ne merimo samo broj poslatih poruka.
+Merimo:
+reply rate po segmentu,
+reply rate po signalu,
+meeting rate po poruci,
+kvalitet sastanaka,
+koji buyer role najbolje reaguje,
+koji signal najčešće vodi do razgovora,
+koji follow up dobija odgovor,
+koji content se koristi pre odgovora,
+koliko starih leadova se reaktivira,
+koliko leadova pređe iz cold u warm,
+koliko warm leadova pređe u razgovor.
+Ove metrike pokazuju da li sistem postaje pametniji.
+Ne samo glasniji.
+
+Mini checklist za outreach po signalima
+Pre nego što pošaljete poruku, proverite:
+Da li je firma stvarno ICP fit?
+Da li osoba ima pravu ulogu u buying procesu?
+Da li postoji neki timing signal?
+Da li znamo zašto bi tema bila relevantna sada?
+Da li imamo content koji podržava ovu poruku?
+Da li znamo koji je sledeći korak ako ne odgovori?
+Da li znamo kada ide follow up?
+Da li signal ulazi u CRM?
+Da li ovaj lead treba direktan pitch, edukaciju, webinar ili nurture?
+Ako nemate ove odgovore, verovatno ne radite outreach po signalima.
+Radite samo slanje poruka.
+A razlika između te dve stvari je ogromna.
+Slanje poruka pokušava da dobije odgovor.
+Outreach po signalima pokušava da otvori pravi razgovor u pravom trenutku.
+To je mnogo bolji način da se gradi pipeline.

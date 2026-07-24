@@ -1,0 +1,243 @@
+LEKCIJA 7
+Follow up sistem: zašto većina prodaje ne dolazi iz prve poruke
+Većina firmi se ponaša kao da će prodaja doći iz prve poruke.
+Pošalju outreach.
+Sačekaju par dana.
+Pošalju još jednu poruku.
+Ako nema odgovora, pređu na sledećeg lead-a.
+I onda kažu:
+“Ljudi nisu zainteresovani.”
+Ali mnogo češće problem nije u interesovanju.
+Problem je u tome što nisu ostali dovoljno dugo prisutni.
+Postoji često citirana statistika da se oko 80% prodaje desi između šestog i dvanaestog follow up-a.
+A oko 44% sales ljudi odustane već nakon prvog follow up-a.
+Čak i kada se te brojke razlikuju od istraživanja do istraživanja, poenta ostaje ista:
+većina firmi odustane mnogo ranije nego što ozbiljna B2B prodaja zahteva.
+Ne zato što ne znaju da follow up treba da postoji.
+Znaju.
+Ali nemaju sistem koji može da ga izdrži.
+Prvi follow up još nekako pošalju.
+Drugi isto.
+Kod trećeg više ne znaju šta novo da kažu.
+Četvrti počne da deluje neprijatno.
+Peti se zaboravi.
+Šesti nikada ne dođe.
+I tu se izgubi veliki deo pipeline-a.
+Ne zato što kupac nikada ne bi kupio.
+Nego zato što firma nije imala način da ostane prisutna bez da zvuči očajno.
+Follow up nije podsetnik
+Najčešća follow up poruka izgleda ovako:
+“Samo proveravam da li ste videli prethodnu poruku.”
+Ili:
+“Da li ste imali priliku da pogledate?”
+Ili:
+“Vraćam ovu poruku na vrh inbox-a.”
+Problem je što takva poruka ne daje kupcu nijedan novi razlog da odgovori.
+Samo ga podseća da vam već nije odgovorio.
+To nije pravi follow up.
+To je podsetnik.
+Dobar follow up treba da doda nešto novo.
+Novi ugao.
+Novi dokaz.
+Novi primer.
+Novi signal.
+Novi način da kupac razume problem.
+Ako prva poruka nije pokrenula razgovor, sledeća poruka ne treba samo da ponovi isto drugim rečima.
+Treba da pomeri kupca korak dalje.
+Follow up treba da bude mala edukativna sekvenca
+Dobra follow up sekvenca nije niz podsetnika.
+To je niz razloga zašto tema možda ima smisla.
+Prva poruka može da identifikuje problem.
+Druga može da pokaže cenu neaktivnosti.
+Treća može da donese relevantan case study.
+Četvrta može da pokaže signal iz njihove firme ili industrije.
+Peta može da razbije objection.
+Šesta može da ponudi webinar, guide ili drugi edukativni materijal.
+Sedma može da otvori razgovor iz potpuno drugog ugla.
+Tako kupac kroz vreme dobija više konteksta.
+Ne pritiskate ga da odgovori.
+Pomažete mu da bolje razume problem.
+To je mnogo prirodniji način da se gradi interesovanje.
+Kupac često nije rekao ne
+Kada neko ne odgovori, sales često to tumači kao odbijanje.
+Ali tišina može da znači mnogo stvari.
+Poruka je stigla u lošem trenutku.
+Kupac je bio zauzet.
+Tema mu jeste relevantna, ali nije prioritet.
+Nije znao dovoljno o vama.
+Nije imao dovoljno razloga da odgovori.
+Treba mu još dokaza.
+Mora prvo interno da pokrene temu.
+Budžet još nije otvoren.
+Postoji interesovanje, ali ne postoji urgency.
+Zato tišina nije isto što i ne.
+U kompleksnoj B2B prodaji, mnogo razgovora se otvori tek kada se promeni timing.
+A firma koja se javila samo jednom više nije prisutna kada se taj timing promeni.
+Follow up mora da prati fazu kupca
+Nije svaki lead u istoj fazi.
+Neko prvi put čuje za problem.
+Neko razume problem, ali ne zna koliko ga košta.
+Neko istražuje različita rešenja.
+Neko već poredi vendore.
+Neko je ranije pričao sa vama, ali nije bio spreman.
+Neko je skoro dobio novi budžet ili odgovornost.
+Zato ista poruka ne može da radi za sve.
+Lead koji je potpuno hladan možda treba edukaciju.
+Lead koji je pogledao case study možda treba relevantan primer.
+Lead koji je bio na webinaru možda treba direktan razgovor.
+Lead koji je ranije rekao “javite se kasnije” treba poruku povezanu sa prethodnim razgovorom.
+Dobar follow up ne pita samo:
+“Kada ponovo da se javimo?”
+Pita:
+“Šta ova osoba treba sledeće da vidi da bi joj razgovor imao više smisla?”
+Content je jedan od najboljih follow up alata
+Founder content ne služi samo za organski reach.
+Može da bude deo follow up sistema.
+Ako ste napisali dobar post o problemu koji kupac ima, pošaljite ga kada je relevantan.
+Ako imate video gde founder objašnjava čestu grešku, koristite ga.
+Ako imate case study iz slične industrije, pošaljite ga.
+Ako imate webinar koji dublje obrađuje temu, pozovite lead-a.
+Ako imate guide koji pomaže kupcu da interno objasni problem, prosledite ga.
+Tako content dobija mnogo veću vrednost.
+Nije samo objava.
+Postaje sales asset.
+I svaki dobar content komad može da bude novi razlog za follow up.
+Zašto ručni follow up najčešće propadne
+Ručni follow up zavisi od memorije i discipline sales osobe.
+A to nije dovoljno.
+Sales osoba ima nove leadove.
+Ima sastanke.
+Ima ponude.
+Ima interne obaveze.
+Ima CRM.
+Ima postojeće klijente.
+I onda follow up sa osobom koja nije odgovorila pre dve nedelje lako padne na dno liste.
+To nije problem karaktera.
+To je problem sistema.
+Ako follow up postoji samo u glavi osobe, pre ili kasnije će se izgubiti.
+Zato CRM mora da zna:
+kada ide sledeći kontakt,
+koji je bio prethodni ugao,
+šta je lead video,
+koji signal postoji,
+koji sadržaj mu je već poslat,
+šta treba da dobije sledeće,
+i kada lead treba vratiti u aktivan pipeline.
+Automatizacija može da kreira task.
+Može da pošalje podsetnik.
+Može da predloži sledeći sadržaj.
+Može da označi lead kada se ponovo aktivira.
+Može da pokrene nurture sekvencu.
+Ali čovek i dalje treba da odluči kada je potreban pravi razgovor.
+To je najbolja kombinacija.
+Sistem pamti.
+Sales razume kontekst.
+Ne automatizujte lošu sekvencu
+Automatizacija nije opravdanje za deset generičkih poruka.
+Ako poruke ne dodaju vrednost, automatizacija samo ubrzava iritiranje tržišta.
+Pre nego što automatizujete follow up, morate znati:
+koju priču gradite,
+koji objection rešavate,
+koji dokaz pokazujete,
+koji ugao uvodite,
+i šta želite da kupac razume posle svake poruke.
+Dobar follow up nije samo vremenska sekvenca.
+To je logična sekvenca.
+Svaki korak treba da ima razlog.
+Ako ne znate zašto šaljete sledeću poruku, nemojte je slati samo zato što je prošlo pet dana.
+Različiti nivoi follow up-a
+Dobar sistem može da ima nekoliko nivoa.
+Kratkoročni follow up
+Koristi se posle prve poruke, odgovora, sastanka ili slanja ponude.
+Cilj je da razgovor ne izgubi momentum.
+Ovde su bitni brzina, kontekst i jasan sledeći korak.
+Srednjoročni nurture
+Koristi se kada je problem relevantan, ali timing nije pravi.
+Lead može dobijati relevantan content, case study, webinar ili povremenu poruku sa novim uglom.
+Cilj nije da ga pritiskate.
+Cilj je da ostanete relevantni.
+Dugoročna reaktivacija
+Koristi se za leadove koji su ranije bili dobri, ali nisu kupili.
+Nakon nekoliko meseci možete proveriti da li se nešto promenilo.
+Možda firma raste.
+Možda imaju novu osobu u timu.
+Možda su dobili budžet.
+Možda je problem postao veći.
+Možda je prethodni vendor razočarao.
+Stari lead nije mrtav lead.
+Često je samo lead sa pogrešnim timing-om.
+Follow up posle sales call-a
+Veliki broj prilika ne propadne pre call-a.
+Propadne posle njega.
+Sastanak bude dobar.
+Kupac kaže da tema ima smisla.
+Pošalje se ponuda.
+I onda tišina.
+Tu većina firmi opet šalje:
+“Da li ste imali priliku da pogledate ponudu?”
+Bolji follow up posle call-a treba da vrati kupca na ono što je sam rekao.
+Na primer:
+“Na razgovoru ste pomenuli da vam najveći problem pravi X, posebno zato što utiče na Y. U ponudi smo zato fokus stavili na Z. Šaljem i primer kako smo sličnu situaciju rešili kod druge firme.”
+To je mnogo jače.
+Ne podsećate samo na dokument.
+Podsećate na razlog zbog kog je razgovor uopšte počeo.
+Dobar CRM treba da sačuva te detalje.
+Šta je kupac rekao.
+Koji problem mu je najvažniji.
+Ko je uključen u odluku.
+Koji rizik vidi.
+Šta mora interno da proveri.
+Koji je dogovoreni sledeći korak.
+Bez toga follow up postaje generički.
+Brzina je deo follow up sistema
+Kod inbound leadova timing je posebno važan.
+Kada neko popuni formu, traži kontakt ili pokaže jak intent, interesovanje je najjače tada.
+Ne sutra.
+Ne kada sales osoba stigne.
+Tada.
+Zato dobar sistem mora odmah da obavesti sales.
+Lead popuni formu.
+Podaci ulaze u CRM.
+Tim dobija obaveštenje.
+Kreira se task.
+Dodeljuje se odgovorna osoba.
+Sales dobija kontekst.
+Kontakt se radi brzo.
+To je mnogo bolji proces od:
+“Forme stižu na email, pa će neko pogledati.”
+U sales-u dobar lead može brzo da se ohladi.
+Sistem ne treba samo da vam donese signal.
+Treba da vam omogući da reagujete dok signal još vredi.
+Kako meriti follow up
+Ne treba gledati samo koliko je poruka poslato.
+Treba pratiti:
+posle kog kontakta ljudi najčešće odgovaraju,
+koji tip follow up-a dobija najviše odgovora,
+koji sadržaj najčešće otvara razgovor,
+koliko leadova se reaktivira,
+koliko prilika se izgubi zbog slabog sledećeg koraka,
+koliko vremena prolazi od signala do reakcije,
+koliko sales sastanaka dolazi iz follow up-a, a ne iz prve poruke,
+i koliko starih leadova se pretvara u pipeline.
+Ove brojke često pokažu da najveća prilika nije u još većoj listi.
+Nego u boljoj obradi ljudi koje već imate.
+Mini checklist za follow up sistem
+Pre nego što pustite kampanju, odgovorite:
+Koliko follow up poruka imamo?
+Da li svaka poruka dodaje nešto novo?
+Koji problem objašnjavamo kroz sekvencu?
+Koji objection rešavamo?
+Koji dokaz koristimo?
+Koji content možemo da pošaljemo?
+Kada lead prelazi iz direktnog outreach-a u nurture?
+Kada se vraća u aktivan follow up?
+Da li CRM automatski kreira sledeći task?
+Da li sales dobija obaveštenje kada se pojavi jak signal?
+Da li znamo posle kog kontakta najčešće dolazi odgovor?
+Da li postoji proces za reaktivaciju starih leadova?
+Ako nemate ove odgovore, follow up verovatno zavisi od motivacije pojedinca.
+A to nije sistem.
+Dobar follow up ne znači da dosadite kupcu.
+Znači da ostanete relevantni dovoljno dugo da vas kupac zapamti kada timing postane pravi.
+Jer veliki deo B2B prodaje ne dobije firma koja je poslala najbolju prvu poruku.
+Dobije ga firma koja je imala dovoljno dobar sistem da ostane prisutna.

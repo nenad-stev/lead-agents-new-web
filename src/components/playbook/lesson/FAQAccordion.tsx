@@ -12,6 +12,8 @@ type FAQAccordionProps = {
 };
 
 export function FAQAccordion({ locale, title, items }: FAQAccordionProps) {
+  if (!items.length) return null;
+
   return (
     <div className="playbook-lesson-faq">
       <h2 className="playbook-lesson-section__title">{lt(title, locale)}</h2>

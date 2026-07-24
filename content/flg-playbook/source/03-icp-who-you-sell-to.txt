@@ -1,0 +1,203 @@
+LEKCIJA 3 — ICP: kome zapravo prodajete
+Većina B2B firmi kaže da zna kome prodaje.
+Ali kada ih pitaš da opišu idealnog kupca, odgovor često bude preširok.
+“Radimo sa SME firmama.”
+“Ciljamo B2B kompanije.”
+“Najviše radimo sa IT firmama.”
+“Naš kupac je svaka firma koja ima sales tim.”
+“Može da koristi bilo ko kome treba bolji marketing.”
+To zvuči logično.
+Ali za sales sistem je preširoko.
+Jer ako prodajete svima, poruka nikome ne pogađa dovoljno jako.
+ICP nije samo industrija.
+ICP nije samo veličina firme.
+ICP nije samo job title.
+Dobar ICP odgovara na mnogo konkretnije pitanje:
+Koja firma trenutno ima problem koji mi najbolje rešavamo, ima razlog da ga rešava sada i ima kapacitet da plati rešenje?
+To je mnogo drugačije od:
+“Ko bi mogao da koristi našu uslugu?”
+Mnogo firmi bi moglo da koristi vašu uslugu.
+Ali to ne znači da su dobri kupci.
+Dobar ICP ima nekoliko slojeva.
+
+1. Firmografski fit
+Ovo je osnovni nivo.
+Industrija.
+Veličina firme.
+Geografija.
+Broj zaposlenih.
+Revenue.
+Tip kupaca.
+B2B ili B2C.
+Da li prodaju high-ticket ili low-ticket.
+Da li imaju sales tim.
+Da li imaju marketing tim.
+Da li founder još uvek vodi prodaju.
+Ovo je korisno, ali nije dovoljno.
+Na primer:
+“B2B firma od 11–200 zaposlenih” može da bude dobar filter za početak.
+Ali među njima imate firme koje:
+rastu brzo,
+stagniraju,
+zavise od referral-a,
+imaju jak inbound,
+nemaju nikakav sales sistem,
+imaju sales tim ali loše podatke,
+imaju dobar proizvod ali lošu distribuciju,
+imaju founder-a koji je aktivan na LinkedIn-u,
+ili founder-a koji ne želi da bude vidljiv.
+To nisu isti kupci.
+I ne treba da dobiju istu poruku.
+
+2. Problem fit
+Ovo je mnogo važnije.
+Ne tražimo samo firmu koja može da kupi.
+Tražimo firmu koja ima problem koji dovoljno boli.
+Na primer, za Founder-Led Growth dobar problem fit može biti:
+firma zavisi od referral-a,
+nema predvidiv pipeline,
+outbound im ne radi,
+founder je i dalje glavni sales kanal,
+sales tim nema dovoljno kvalitetnih razgovora,
+imaju dobar delivery ali slabu distribuciju,
+imaju expertise ali tržište to ne vidi,
+objavljuju content ali nije povezan sa prodajom,
+CRM postoji, ali ne pokazuje buying signals.
+Ovo su mnogo jači signali od same industrije.
+Jer firma može biti u idealnoj industriji, ali ako nema urgentan problem, teško će kupiti.
+Isto tako, firma može biti van “savršenog” segmenta, ali ako ima jak problem i dobar timing, može biti odličan kupac.
+
+3. Timing fit
+Ovo je deo koji većina firmi preskoči.
+Nije dovoljno da neko ima problem.
+Pitanje je:
+zašto bi ga rešavao sada?
+Možda im je otišao veliki klijent.
+Možda su zaposlili novog Head of Sales-a.
+Možda su dobili investiciju.
+Možda šire tim.
+Možda ulaze na novo tržište.
+Možda im referral-i više nisu dovoljni.
+Možda im je outbound stao.
+Možda im founder više ne može sam da nosi sales.
+Možda su već probali agenciju i razočarali se.
+Možda imaju novi proizvod koji treba da komercijalizuju.
+To su buying signals.
+I to je velika razlika između obične liste i dobre outbound liste.
+Obična lista kaže:
+“Ovo su firme koje liče na naš ICP.”
+Dobra lista kaže:
+“Ovo su firme koje liče na naš ICP i verovatno imaju razlog da pričaju sada.”
+
+4. Buyer fit
+Čak i kada firma jeste dobar fit, morate znati ko unutar firme ima smisla za prvi kontakt.
+Nekad je to founder.
+Nekad CEO.
+Nekad Head of Sales.
+Nekad CMO.
+Nekad Head of Growth.
+Nekad Operations.
+Nekad osoba koja ne donosi finalnu odluku, ali oseća problem svakog dana.
+U B2B-u često ne prodajete jednoj osobi.
+Prodajete buying committee-ju.
+Jedna osoba oseća bol.
+Druga kontroliše budžet.
+Treća mora da koristi rešenje.
+Četvrta može da blokira odluku.
+Zato ICP nije samo:
+“targetiramo CEO-e.”
+Bolje pitanje je:
+ko prvi oseća problem,
+ko ga može interno pokrenuti,
+ko mora da odobri budžet,
+ko će koristiti rešenje,
+i ko može da kaže “ne”.
+Kada to znate, outreach postaje mnogo precizniji.
+Ne šaljete svima istu poruku.
+Founder-u pričate o rastu i kontroli pipeline-a.
+Head of Sales-u pričate o kvalitetu razgovora i follow-up sistemu.
+Marketing-u pričate o contentu koji podržava sales.
+Operations-u pričate o procesu i vidljivosti.
+Isti offer.
+Drugačiji ugao.
+
+5. Channel fit
+Ovo je posebno važno za LinkedIn.
+Pitanje nije samo:
+“Da li je naš ICP na LinkedIn-u?”
+Bolje pitanje je:
+Kako se naš ICP ponaša na LinkedIn-u?
+Neko je aktivan svaki dan.
+Neko čita, ali nikad ne lajkuje.
+Neko ne objavljuje, ali proverava profile.
+Neko ne odgovara na prvu poruku, ali zapamti ime ako mu content više puta iskoči.
+Neko je bolji za outreach.
+Neko je bolji za content nurture.
+Neko je bolji za webinar.
+Neko nije dovoljno aktivan na LinkedIn-u, ali ga možete targetirati kroz email, ads ili druge kanale.
+Zato dobar ICP mora da uključi i kanal.
+Ako je kupac aktivan na LinkedIn-u, founder content i outreach mogu mnogo brže da rade zajedno.
+Ako je manje aktivan, možda morate više da se oslonite na email, paid ads, direktne signale, evente ili partnerske kanale.
+LinkedIn nije isti za svaku industriju.
+Ali za većinu B2B firmi, makar deo buying committee-ja jeste tamo.
+Samo morate znati ko je aktivan, ko čita, a ko je gotovo nevidljiv.
+
+Najveća greška: praviti jednu poruku za ceo ICP
+Kada je ICP preširok, poruka postaje generička.
+I onda zvuči kao:
+“Pomažemo B2B firmama da povećaju prodaju.”
+To može da znači sve.
+Zato ne pogađa nikoga.
+Bolje je napraviti manje segmente.
+Na primer:
+Segment 1: B2B uslužne firme koje zavise od referral-a.
+Poruka: “Kako da napravite pipeline koji ne zavisi od preporuka.”
+Segment 2: SaaS / product firme koje imaju proizvod, ali nemaju distribuciju.
+Poruka: “Product je napravljen, ali tržište još ne razume zašto treba da kupi.”
+Segment 3: IT firme koje rade custom development, ali zvuče kao svi ostali.
+Poruka: “Kako da se pozicionirate kao ekspert, a ne još jedan vendor.”
+Segment 4: firme sa sales timom koji radi ručno.
+Poruka: “Kako da povežete outreach, CRM i follow-up u sistem koji ne zavisi od discipline pojedinca.”
+Isti Founder-Led Growth sistem može biti relevantan za sve ove firme.
+Ali ne kroz istu poruku.
+
+Kako mi gledamo ICP u Founder-Led Growth-u
+Kada gradimo FLG sistem, ICP ne definišemo samo da bismo znali kome da šaljemo poruke.
+Definišemo ga da bismo znali:
+šta kupac trenutno ne razume,
+šta ga sprečava da kupi,
+koji problem najviše boli,
+koji dokaz mu treba,
+koji content treba da vidi,
+koji outreach angle ima smisla,
+koji webinar bi ga privukao,
+koji follow-up bi dodao vrednost,
+i koji signal pokazuje da se zagreva.
+Zato je ICP početak svega.
+Ako je ICP nejasan, content je nejasan.
+Ako je ICP nejasan, outreach je generički.
+Ako je ICP nejasan, CRM signali nemaju kontekst.
+Ako je ICP nejasan, sales troši vreme na pogrešne razgovore.
+Dobar ICP ne sužava tržište.
+Dobar ICP fokusira energiju.
+Ne znači da nikada nećete raditi sa drugim firmama.
+Znači da znate gde prvo imate najveću šansu da otvorite kvalitetne razgovore.
+
+Mini checklist za ICP
+Pre nego što pokrenete content ili outreach, odgovorite na ova pitanja:
+Koji tip firme nam je najbolji kupac?
+Koji problem kod njih najčešće rešavamo?
+Šta se desilo u firmi zbog čega bi sada rešavali taj problem?
+Ko unutar firme prvi oseća bol?
+Ko odobrava odluku?
+Ko može da blokira odluku?
+Koji dokaz im treba da bi nam verovali?
+Koji content bi im pomogao da razumeju problem?
+Koji outreach angle bi im zvučao relevantno?
+Koji signal pokazuje da nisu samo fit, nego možda imaju i timing?
+Ako ne možete jasno da odgovorite na ova pitanja, nije vreme da skalirate outreach.
+Vreme je da prvo sredite ICP.
+Jer najveći problem u outbound-u često nije poruka.
+Nego publika kojoj je šaljete.
+I najskuplja greška u sales-u nije kada neko kaže “ne”.
+Najskuplja greška je kada mesecima pričate sa pogrešnim ljudima i mislite da tržište ne radi.

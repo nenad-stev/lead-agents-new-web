@@ -1,0 +1,3009 @@
+UVOD — draft
+Većina B2B firmi ne kreće da gradi sales sistem zato što ima plan.
+Krene zato što mora.
+Veliki klijent ode.  Referral-i stanu.  Pipeline se isprazni.  Founder shvati da sales zavisi od par poznanstava, par starih klijenata i malo sreće.
+I tek tada kreće panika:
+“Ajde da pokrenemo outreach.”  “Ajde da budemo aktivniji na LinkedIn-u.”  “Ajde da zaposlimo sales osobu.”  “Ajde da probamo neku agenciju.”  “Ajde da sredimo CRM.”
+Problem je što se pipeline ne gradi kada vam je hitno.
+Tada već kasnite.
+Referral-i su odlični.
+Ali ako su vam referral-i glavni sales kanal, nemate sales sistem.
+Imate zavisnost od tuđeg tajminga.
+Ne znate kada će sledeća preporuka doći.  Ne znate kakvog kvaliteta će biti.  Ne znate da li će biti pravi fit.  Ne možete da planirate rast na osnovu “javiće nam se neko”.
+Zato smo napravili ovaj guide.
+Ne da vam damo još jednu “LinkedIn taktiku”.
+Nego da pokažemo kako izgleda Founder-Led Growth sistem koji povezuje:
+founder content,  outreach,  webinare,  CRM signale,  follow-up,  AI workflow-e,  i sales proces.
+Cilj nije da founder postane influenser.
+Cilj je da kupac, pre nego što uopšte uđe u sales razgovor, već ima osećaj:
+“Znam ko su. Razumem šta rade. Deluju relevantno.”
+Jer danas jedna hladna poruka ne može sama da izgradi poverenje.
+Mora da postoji sistem oko nje.
+
+LEKCIJA 1 — Zašto referral-i nisu sales sistem
+Referral-i su verovatno najbolji leadovi koje možete da dobijete.
+Topli su.  Dolaze sa poverenjem.  Neko je već rekao dobru stvar o vama.  Sales razgovor često krene lakše.  Manje morate da objašnjavate ko ste i zašto ima smisla da pričate.
+Zato ih svaka B2B firma voli.
+I treba da ih voli.
+Problem nastaje kada referral-i postanu glavni način na koji firma dolazi do novih klijenata.
+Tada više ne pričamo o kanalu.
+Pričamo o zavisnosti.
+Jer referral ne kontrolišete.
+Ne možete da znate kada će doći.  Ne možete da znate ko će vas preporučiti.  Ne možete da znate da li će preporuka biti dobar fit.  Ne možete da znate da li će ih biti dovoljno kada vam stvarno trebaju.
+I to je razlog zašto mnoge B2B firme spolja izgledaju stabilno, a iznutra nemaju kontrolu nad pipeline-om.
+Imaju dobar delivery.
+Imaju zadovoljne klijente.
+Imaju nekoliko preporuka godišnje.
+Ali nemaju sistem koji svaki mesec otvara nove razgovore sa pravim kupcima.
+To radi dok stvari idu dobro.
+Ali čim jedan veći klijent ode, sve se promeni.
+Odjednom referral-i nisu dovoljni.
+Founder mora da se uključi u sales.
+Sales tim nema jasnu listu.
+Content nije građen mesecima.
+LinkedIn profil ne pokazuje dovoljno ekspertize.
+CRM nema signale.
+Follow-up se radi ručno.
+I onda firma pokušava da za 30 dana napravi nešto što je trebalo da gradi prethodnih 12 meseci.
+To je najskuplji trenutak za početak sales sistema.
+Jer kada vam pipeline hitno treba, često zvučite kao da vam pipeline hitno treba.
+A kupac to oseti.
+Zato cilj nije da zamenite referral-e.
+Cilj je da referral-i postanu bonus, a ne osnova.
+Dobar sales sistem treba da radi i kada niko ne pošalje preporuku.
+Treba da znate:
+koga targetirate,  koji problem otvarate,  koji content gradi poverenje,  koji outreach angle radi,  ko pokazuje signal interesovanja,  kome treba follow-up,  ko treba webinar,  ko treba case study,  i ko je spreman za razgovor.
+To je razlika između firme koja čeka prilike i firme koja ih sistemski otvara.
+Founder-Led Growth kreće baš odatle.
+Ne od pitanja:
+“Kako da dobijemo više leadova?”
+Nego od pitanja:
+“Kako da napravimo sistem koji stalno gradi poverenje i otvara razgovore sa pravim kupcima?”
+Jer referral-i su super.
+Ali predvidiv pipeline ne može da zavisi od toga da li će vas neko pomenuti u pravom trenutku.
+LEKCIJA 2 — Zašto outbound više ne može da radi sam
+Pre nekoliko godina, outbound je bio mnogo jednostavniji.
+Nađete listu.  Pošaljete poruku.  Uradi se par follow-up-ova.  Neko odgovori.  Zakaže se call.
+Naravno, nikada nije bilo baš lako.
+Ali tržište nije bilo ovoliko zagušeno.
+Danas svaki decision maker dobija previše poruka.
+Svi nude nešto.
+Svi imaju “AI solution”.  Svi “pomažu firmama da rastu”.  Svi “povećavaju efikasnost”.  Svi “štede vreme”.  Svi traže “quick call”.
+Kupac više ne čita većinu poruka kao ponudu.
+Čita ih kao šum.
+Zato outbound sam sve teže radi.
+Ne zato što je outbound mrtav.
+Nego zato što jedna poruka više ne može da uradi ceo posao.
+Ako kupac nikada nije čuo za vas, outreach poruka mora da:
+objasni ko ste,  objasni problem,  dokaže da ste relevantni,  izgradi poverenje,  diferencira vas od konkurencije,  i pokrene razgovor.
+Sve u nekoliko rečenica.
+To je previše.
+Zato mi outbound ne gledamo kao izolovan kanal.
+Gledamo ga kao deo šireg sistema.
+Founder content treba da gradi poverenje pre poruke.
+LinkedIn profil treba da potvrdi ono što piše u poruci.
+Case study treba da smanji rizik.
+Webinar treba da edukuje ljude koji nisu spremni odmah.
+CRM treba da prati ko se zagreva.
+Follow-up treba da doda novi razlog za odgovor, a ne samo da kaže “samo proveravam”.
+Tada outbound ima mnogo veću šansu.
+Jer poruka više nije prvi i jedini kontakt.
+Ona je nastavak konteksta.
+Kupac možda već zna ime founder-a.
+Možda je video post.
+Možda je pogledao video.
+Možda je bio na webinaru.
+Možda je neko iz njegovog tima već dobio poruku.
+Možda ste mu već nekoliko puta iskočili sa relevantnim temama.
+I onda kada poruka stigne, ne deluje kao potpuno hladan pitch.
+Deluje poznatije.
+To je velika razlika.
+Outbound nije mrtav.
+Ali outbound bez poverenja, bez jasnog ICP-a, bez contenta, bez follow-up sistema i bez CRM signala postaje sve skuplji i sve teži.
+Zato pitanje nije:
+“Da li outbound radi?”
+Pitanje je:
+“Da li imate sistem koji pomaže outbound-u da radi?”
+LEKCIJA 3 — ICP: kome zapravo prodajete
+Većina B2B firmi kaže da zna kome prodaje.
+Ali kada ih pitaš da opišu idealnog kupca, odgovor često bude preširok.
+“Radimo sa SME firmama.” “Ciljamo B2B kompanije.” “Najviše radimo sa IT firmama.” “Naš kupac je svaka firma koja ima sales tim.” “Može da koristi bilo ko kome treba bolji marketing.”
+To zvuči logično.
+Ali za sales sistem je preširoko.
+Jer ako prodajete svima, poruka nikome ne pogađa dovoljno jako.
+ICP nije samo industrija.
+ICP nije samo veličina firme.
+ICP nije samo job title.
+Dobar ICP odgovara na mnogo konkretnije pitanje:
+Koja firma trenutno ima problem koji mi najbolje rešavamo, ima razlog da ga rešava sada i ima kapacitet da plati rešenje?
+To je mnogo drugačije od:
+“Ko bi mogao da koristi našu uslugu?”
+Mnogo firmi bi moglo da koristi vašu uslugu.
+Ali to ne znači da su dobri kupci.
+Dobar ICP ima nekoliko slojeva.
+
+1. Firmografski fit
+Ovo je osnovni nivo.
+Industrija. Veličina firme. Geografija. Broj zaposlenih. Revenue. Tip kupaca. B2B ili B2C. Da li prodaju high-ticket ili low-ticket. Da li imaju sales tim. Da li imaju marketing tim. Da li founder još uvek vodi prodaju.
+Ovo je korisno, ali nije dovoljno.
+Na primer:
+“B2B firma od 11–200 zaposlenih” može da bude dobar filter za početak.
+Ali među njima imate firme koje:
+rastu brzo, stagniraju, zavise od referral-a, imaju jak inbound, nemaju nikakav sales sistem, imaju sales tim ali loše podatke, imaju dobar proizvod ali lošu distribuciju, imaju founder-a koji je aktivan na LinkedIn-u, ili founder-a koji ne želi da bude vidljiv.
+To nisu isti kupci.
+I ne treba da dobiju istu poruku.
+
+2. Problem fit
+Ovo je mnogo važnije.
+Ne tražimo samo firmu koja može da kupi.
+Tražimo firmu koja ima problem koji dovoljno boli.
+Na primer, za Founder-Led Growth dobar problem fit može biti:
+firma zavisi od referral-a, nema predvidiv pipeline, outbound im ne radi, founder je i dalje glavni sales kanal, sales tim nema dovoljno kvalitetnih razgovora, imaju dobar delivery ali slabu distribuciju, imaju expertise ali tržište to ne vidi, objavljuju content ali nije povezan sa prodajom, CRM postoji, ali ne pokazuje buying signals.
+Ovo su mnogo jači signali od same industrije.
+Jer firma može biti u idealnoj industriji, ali ako nema urgentan problem, teško će kupiti.
+Isto tako, firma može biti van “savršenog” segmenta, ali ako ima jak problem i dobar timing, može biti odličan kupac.
+
+3. Timing fit
+Ovo je deo koji većina firmi preskoči.
+Nije dovoljno da neko ima problem.
+Pitanje je:
+zašto bi ga rešavao sada?
+Možda im je otišao veliki klijent. Možda su zaposlili novog Head of Sales-a. Možda su dobili investiciju. Možda šire tim. Možda ulaze na novo tržište. Možda im referral-i više nisu dovoljni. Možda im je outbound stao. Možda im founder više ne može sam da nosi sales. Možda su već probali agenciju i razočarali se. Možda imaju novi proizvod koji treba da komercijalizuju.
+To su buying signals.
+I to je velika razlika između obične liste i dobre outbound liste.
+Obična lista kaže:
+“Ovo su firme koje liče na naš ICP.”
+Dobra lista kaže:
+“Ovo su firme koje liče na naš ICP i verovatno imaju razlog da pričaju sada.”
+
+4. Buyer fit
+Čak i kada firma jeste dobar fit, morate znati ko unutar firme ima smisla za prvi kontakt.
+Nekad je to founder.
+Nekad CEO.
+Nekad Head of Sales.
+Nekad CMO.
+Nekad Head of Growth.
+Nekad Operations.
+Nekad osoba koja ne donosi finalnu odluku, ali oseća problem svakog dana.
+U B2B-u često ne prodajete jednoj osobi.
+Prodajete buying committee-ju.
+Jedna osoba oseća bol.
+Druga kontroliše budžet.
+Treća mora da koristi rešenje.
+Četvrta može da blokira odluku.
+Zato ICP nije samo:
+“targetiramo CEO-e.”
+Bolje pitanje je:
+ko prvi oseća problem, ko ga može interno pokrenuti, ko mora da odobri budžet, ko će koristiti rešenje, i ko može da kaže “ne”.
+Kada to znate, outreach postaje mnogo precizniji.
+Ne šaljete svima istu poruku.
+Founder-u pričate o rastu i kontroli pipeline-a. Head of Sales-u pričate o kvalitetu razgovora i follow-up sistemu. Marketing-u pričate o contentu koji podržava sales. Operations-u pričate o procesu i vidljivosti.
+Isti offer.
+Drugačiji ugao.
+
+5. Channel fit
+Ovo je posebno važno za LinkedIn.
+Pitanje nije samo:
+“Da li je naš ICP na LinkedIn-u?”
+Bolje pitanje je:
+Kako se naš ICP ponaša na LinkedIn-u?
+Neko je aktivan svaki dan.
+Neko čita, ali nikad ne lajkuje.
+Neko ne objavljuje, ali proverava profile.
+Neko ne odgovara na prvu poruku, ali zapamti ime ako mu content više puta iskoči.
+Neko je bolji za outreach.
+Neko je bolji za content nurture.
+Neko je bolji za webinar.
+Neko nije dovoljno aktivan na LinkedIn-u, ali ga možete targetirati kroz email, ads ili druge kanale.
+Zato dobar ICP mora da uključi i kanal.
+Ako je kupac aktivan na LinkedIn-u, founder content i outreach mogu mnogo brže da rade zajedno.
+Ako je manje aktivan, možda morate više da se oslonite na email, paid ads, direktne signale, evente ili partnerske kanale.
+LinkedIn nije isti za svaku industriju.
+Ali za većinu B2B firmi, makar deo buying committee-ja jeste tamo.
+Samo morate znati ko je aktivan, ko čita, a ko je gotovo nevidljiv.
+
+Najveća greška: praviti jednu poruku za ceo ICP
+Kada je ICP preširok, poruka postaje generička.
+I onda zvuči kao:
+“Pomažemo B2B firmama da povećaju prodaju.”
+To može da znači sve.
+Zato ne pogađa nikoga.
+Bolje je napraviti manje segmente.
+Na primer:
+Segment 1: B2B uslužne firme koje zavise od referral-a. Poruka: “Kako da napravite pipeline koji ne zavisi od preporuka.”
+Segment 2: SaaS / product firme koje imaju proizvod, ali nemaju distribuciju. Poruka: “Product je napravljen, ali tržište još ne razume zašto treba da kupi.”
+Segment 3: IT firme koje rade custom development, ali zvuče kao svi ostali. Poruka: “Kako da se pozicionirate kao ekspert, a ne još jedan vendor.”
+Segment 4: firme sa sales timom koji radi ručno. Poruka: “Kako da povežete outreach, CRM i follow-up u sistem koji ne zavisi od discipline pojedinca.”
+Isti Founder-Led Growth sistem može biti relevantan za sve ove firme.
+Ali ne kroz istu poruku.
+
+Kako mi gledamo ICP u Founder-Led Growth-u
+Kada gradimo FLG sistem, ICP ne definišemo samo da bismo znali kome da šaljemo poruke.
+Definišemo ga da bismo znali:
+šta kupac trenutno ne razume, šta ga sprečava da kupi, koji problem najviše boli, koji dokaz mu treba, koji content treba da vidi, koji outreach angle ima smisla, koji webinar bi ga privukao, koji follow-up bi dodao vrednost, i koji signal pokazuje da se zagreva.
+Zato je ICP početak svega.
+Ako je ICP nejasan, content je nejasan.
+Ako je ICP nejasan, outreach je generički.
+Ako je ICP nejasan, CRM signali nemaju kontekst.
+Ako je ICP nejasan, sales troši vreme na pogrešne razgovore.
+Dobar ICP ne sužava tržište.
+Dobar ICP fokusira energiju.
+Ne znači da nikada nećete raditi sa drugim firmama.
+Znači da znate gde prvo imate najveću šansu da otvorite kvalitetne razgovore.
+
+Mini checklist za ICP
+Pre nego što pokrenete content ili outreach, odgovorite na ova pitanja:
+Koji tip firme nam je najbolji kupac?
+Koji problem kod njih najčešće rešavamo?
+Šta se desilo u firmi zbog čega bi sada rešavali taj problem?
+Ko unutar firme prvi oseća bol?
+Ko odobrava odluku?
+Ko može da blokira odluku?
+Koji dokaz im treba da bi nam verovali?
+Koji content bi im pomogao da razumeju problem?
+Koji outreach angle bi im zvučao relevantno?
+Koji signal pokazuje da nisu samo fit, nego možda imaju i timing?
+Ako ne možete jasno da odgovorite na ova pitanja, nije vreme da skalirate outreach.
+Vreme je da prvo sredite ICP.
+Jer najveći problem u outbound-u često nije poruka.
+Nego publika kojoj je šaljete.
+I najskuplja greška u sales-u nije kada neko kaže “ne”.
+Najskuplja greška je kada mesecima pričate sa pogrešnim ljudima i mislite da tržište ne radi.
+LEKCIJA 4 — Positioning: šta kupac mora da razume za 5 sekundi
+Dobar positioning nije lep slogan.
+Dobar positioning je kada kupac za nekoliko sekundi razume:
+šta radite, za koga, koji problem rešavate, zašto je to važno, i zašto niste isti kao svi ostali.
+To zvuči jednostavno.
+Ali većina B2B firmi ovde ozbiljno zapne.
+Ne zato što nemaju dobru uslugu ili proizvod.
+Nego zato što ga objašnjavaju iz svog ugla.
+Iz ugla procesa. Iz ugla feature-a. Iz ugla metodologije. Iz ugla interne ekspertize. Iz ugla “mi znamo šta radimo”.
+Problem je što kupac ne kupuje vaš unutrašnji proces.
+Kupac kupuje rešenje za problem koji trenutno oseća.
+I zato positioning mora da krene iz njegove glave.
+
+Najveći problem: firme zvuče kao svi ostali
+Ako otvorite 10 sajtova B2B firmi iz iste industrije, često ćete videti iste rečenice.
+“Helping companies grow.” “Driving digital transformation.” “End-to-end solutions.” “Your trusted partner.” “Scalable software solutions.” “We help businesses improve efficiency.”
+Sve to može biti tačno.
+Ali ništa od toga ne pravi razliku.
+Kupac to pročita i ne zna:
+za koga ste najbolji, koji problem stvarno rešavate, šta radite drugačije, zašto bi pričao sa vama, zašto ne sa konkurencijom, i zašto sada.
+To je problem.
+Jer ako kupac mora previše da razmišlja da bi shvatio zašto ste relevantni, uglavnom neće razmišljati.
+Samo će otići dalje.
+
+Positioning nije “šta sve možemo da radimo”
+Ovo je posebno teško za firme koje imaju dobar delivery.
+Jer one stvarno mogu da rade mnogo stvari.
+Mogu da rade za više industrija. Mogu da rešavaju više problema. Mogu da prodaju različitim kupcima. Mogu da se prilagode.
+Ali tržište ne pamti fleksibilnost.
+Pamti jasnoću.
+Ako kažete:
+“Radimo custom software za različite industrije”
+to je tačno, ali nije dovoljno jako.
+Ako kažete:
+“Pomažemo logističkim firmama da digitalizuju operacije koje se i dalje vode kroz Excel, email i ručne procese”
+to je mnogo jasnije.
+Odmah znamo:
+ko je kupac, koji problem ima, zašto postoji bol, i zašto bi razgovor imao smisla.
+Dobar positioning ne mora da obuhvati sve što možete da radite.
+Treba da otvori vrata sa najjačim problemom koji tržište razume.
+Kasnije na sales call-u možete širiti priču.
+Ali prvi kontakt mora biti jasan.
+
+Kupac mora da se prepozna
+Najbolji positioning često ne zvuči kao opis firme.
+Zvuči kao rečenica koju bi kupac rekao sam sebi.
+Na primer:
+Loše:
+“Pomažemo B2B firmama kroz integrisane growth strategije.”
+Bolje:
+“Pomažemo B2B firmama koje zavise od preporuka da naprave predvidiv sales pipeline.”
+Zašto je drugo jače?
+Zato što kupac odmah može da pomisli:
+“Da, to smo mi.”
+To je cilj.
+Positioning ne treba samo da objasni šta radite.
+Treba da napravi prepoznavanje.
+Kupac treba da vidi sebe u problemu.
+Jer kada se kupac prepozna, pažnja raste.
+A bez pažnje, nema ni sales razgovora.
+
+Dobar positioning odgovara na 5 pitanja
+Pre nego što krenete u content, outreach ili ads, morate imati jasan odgovor na ovih 5 pitanja.
+1. Kome tačno pomažemo?
+Ne “svim firmama”.
+Nego kom tipu firme ste najrelevantniji sada.
+Primer:
+B2B SaaS firme koje imaju product, ali nemaju stabilan pipeline. IT firme koje rade custom development, ali zvuče isto kao konkurencija. B2B uslužne firme koje zavise od referral-a. Firme sa sales timom koji radi outreach ručno i bez jasnih signala.
+Što jasnije definišete kupca, lakše je napisati poruku koja pogađa.
+
+2. Koji problem rešavamo?
+Ne opis usluge.
+Problem.
+Ne:
+“Radimo LinkedIn content.”
+Nego:
+“Kupac dobije vašu poruku, proveri profil i ne vidi dovoljno razloga da vam veruje.”
+Ne:
+“Radimo outreach.”
+Nego:
+“Otvaramo razgovore sa pravim kupcima, bez oslanjanja samo na referral-e.”
+Ne:
+“Implementiramo CRM.”
+Nego:
+“Pomažemo sales timu da zna ko se zagreva i kome treba sledeći follow-up.”
+Kupac ne kupuje aktivnost.
+Kupac kupuje rešavanje problema.
+
+3. Zašto je problem bitan sada?
+Ovo je urgency.
+Bez urgency-ja, kupac može da kaže:
+“Zvuči zanimljivo, ali nije prioritet.”
+Zato positioning mora da pokaže cenu neaktivnosti.
+Na primer:
+Ako firma zavisi od referral-a, rizik je da pipeline stane kada jedan veliki klijent ode.
+Ako outbound ne radi, rizik je da sales troši mesece na pogrešne ljude.
+Ako founder nije vidljiv, rizik je da kupac ne stekne poverenje pre razgovora.
+Ako CRM ne prati signale, rizik je da topli leadovi propadnu bez reakcije.
+Positioning mora da odgovori na pitanje:
+“Šta se loše dešava ako ovo ne rešimo?”
+
+4. Zašto smo drugačiji?
+Ovo ne mora da bude neka revolucionarna razlika.
+Ali mora biti jasno zašto niste samo još jedna opcija.
+Razlika može biti u fokusu.
+Na primer:
+“Ne radimo LinkedIn objave radi aktivnosti. Gradimo content koji podržava outreach i sales.”
+Razlika može biti u metodologiji.
+“Ne šaljemo poruke svima. Prvo čistimo ICP, pratimo signale i gradimo multi-touch sistem.”
+Razlika može biti u integraciji.
+“Ne gledamo content, outreach i CRM odvojeno. Povezujemo ih u jedan Founder-Led Growth sistem.”
+Kupac mora da razume zašto vaš pristup ima smisla.
+Ako ne zna razliku, porediće vas po ceni.
+A to je najgora pozicija.
+
+5. Koji dokaz imamo?
+Positioning bez dokaza zvuči kao tvrdnja.
+Dokaz može biti:
+case study, konkretan rezultat, brojke, proces, pre/posle primer, iskustvo iz rada sa sličnim firmama, ili specifičan insight koji pokazuje da razumete tržište.
+Ne mora uvek da bude “napravili smo 10M pipeline-a”.
+Nekad je dovoljno pokazati da znate problem bolje od konkurencije.
+Na primer:
+“Kod većine B2B firmi problem nije samo loš outreach copy. Problem je što poruka pokušava da izgradi poverenje koje je trebalo da se gradi mesecima kroz content, profile, case study-je i follow-up.”
+To je dokaz kroz razumevanje.
+Kupac oseća da ste već videli njegov problem.
+
+Positioning mora da se vidi svuda
+Positioning nije samo rečenica na sajtu.
+Mora da se vidi u celom sales sistemu.
+U LinkedIn headline-u. U About sekciji. U founder contentu. U outreach poruci. U webinar temi. U case study-ju. U pitch deck-u. U follow-up-u. U sales call-u. U CRM segmentima.
+Ako positioning živi samo u jednom dokumentu, ne znači ništa.
+Kupac mora više puta da vidi istu jasnu poruku kroz različite touchpoint-e.
+Tek tada počinje da pamti.
+
+Primer: slab vs jak positioning
+Slabo:
+“Mi smo growth agencija koja pomaže firmama da povećaju prodaju kroz LinkedIn, content i automatizacije.”
+Problem:
+preširoko je, zvuči kao svi ostali, ne znamo za koga je, ne znamo koji problem rešava, ne znamo zašto sada.
+Jače:
+“Pomažemo B2B firmama koje zavise od preporuka da naprave predvidiv sales pipeline kroz founder content, signal-based outreach i CRM sistem.”
+Zašto je bolje?
+Jasno je kome pomažemo. Jasno je koji problem rešavamo. Jasno je šta je krajnji ishod. Jasno je da nije samo content ili outreach, nego sistem.
+Još preciznije za jedan segment:
+“Pomažemo B2B uslužnim firmama od 10–50 ljudi da prestanu da zavise od referral-a i naprave sistem koji svaki mesec otvara razgovore sa pravim kupcima.”
+Ovo možda ne pokriva sve što radite.
+Ali pogađa mnogo jače.
+
+Positioning za product vs uslugu
+Ovo je bitno.
+Ako prodajete uslugu, kupac najviše kupuje poverenje.
+Mora da veruje da razumete problem, da imate proces i da možete da isporučite.
+Zato positioning usluge treba da naglasi:
+za koga ste specifično dobri, koji problem rešavate, kako razmišljate drugačije, koji proces imate, i kakve rezultate pravite.
+Ako prodajete product, kupac ne kupuje samo alat.
+Kupuje promenu ponašanja.
+Mora da prestane da radi nešto na stari način i uvede novi workflow.
+Zato positioning producta mora više da naglasi:
+zašto stari način više ne radi, koja je skrivena cena trenutnog procesa, zašto je sada pravi trenutak, šta se menja pre i posle producta, i zašto je vaš product najjednostavniji put do te promene.
+Kod usluge često ide:
+poverenje → problem → razgovor.
+Kod producta često ide:
+problem → urgency → demo.
+Ako ovo pomešate, poruka deluje čudno.
+Product zvuči kao pitch bez konteksta.
+Usluga zvuči hladno i feature-driven.
+
+Najbolji test positioning-a
+Najbolji test nije da li vama lepo zvuči.
+Najbolji test je da li kupac može da ponovi šta radite svojim rečima.
+Ako posle 30 sekundi kupac može da kaže:
+“Vi pomažete firmama kao naša da reše X problem bez Y haosa”
+onda positioning radi.
+Ako kaže:
+“Znači vi radite marketing?”
+ili
+“Znači vi ste LinkedIn agencija?”
+onda positioning nije dovoljno jasan.
+Dobar positioning smanjuje pogrešna tumačenja.
+Loš positioning vas stalno tera da objašnjavate od nule.
+
+Kako mi gledamo positioning u Founder-Led Growth-u
+U Founder-Led Growth-u positioning nije izolovan branding zadatak.
+On diktira ceo sistem.
+Iz positioning-a izlaze:
+content teme, outreach poruke, webinar naslovi, case study uglovi, follow-up sekvence, lead scoring kriterijumi, i sales call struktura.
+Ako je positioning slab, sve posle njega mora više da se muči.
+Content će biti generički.
+Outreach će zvučati kao pitch.
+Webinar neće imati jasan hook.
+Follow-up neće imati šta novo da kaže.
+Sales će morati stalno da objašnjava zašto ste relevantni.
+Zato positioning rešavamo pre skaliranja.
+Ne zato što volimo strategiju na papiru.
+Nego zato što loš positioning posle toga plaćate kroz svaki slab reply, svaki loš call i svaki izgubljen deal.
+
+Mini checklist za positioning
+Pre nego što pokrenete sales kampanju, odgovorite jasno:
+Kome tačno pomažemo?
+Koji konkretan problem rešavamo?
+Kako kupac danas opisuje taj problem svojim rečima?
+Šta se loše dešava ako problem ne reši?
+Zašto je sada pravi trenutak?
+Koja je pogrešna alternativa koju kupac trenutno koristi?
+Zašto je naš pristup drugačiji?
+Koji dokaz imamo?
+Da li se ova poruka vidi na LinkedIn profilu, sajtu, contentu, outreach-u i sales call-u?
+Da li kupac može da objasni šta radimo posle 30 sekundi?
+Ako odgovor nije jasan, nemojte još skalirati outreach.
+Jer više poruka neće popraviti nejasnu poziciju.
+Samo će više ljudi zbuniti brže.
+Positioning nije kozmetika.
+Positioning je razlog zašto kupac uopšte odluči da obrati pažnju.
+LEKCIJA 5 — Founder content: kako gradite poverenje pre poruke
+Founder content nije tu da founder postane influenser.
+To je prva stvar koju treba razjasniti.
+Većina B2B founder-a neće postati viralna. Neće imati 100k pratilaca. Neće svaki post dobiti hiljade lajkova. I to nije problem.
+Jer cilj nije popularnost.
+Cilj je da pravi kupac, kada dobije outreach poruku ili razmišlja o vašoj firmi, već ima osećaj:
+“Znam ko su. Deluju relevantno. Razumeju problem.”
+To je mnogo važnije od viralnosti.
+U B2B prodaji, poverenje često počinje pre prvog razgovora.
+Kupac dobije poruku. Klikne na profil. Pogleda headline. Preleti poslednjih nekoliko objava. Pogleda da li pričate o njegovom problemu. Pokuša da shvati da li ste ozbiljni ili ste samo još jedna firma koja šalje pitch.
+I taj momenat traje kratko.
+Ali mnogo utiče na odluku da li će odgovoriti.
+Zato founder content nije “marketing sa strane”.
+On je trust layer za sales.
+
+Jedna poruka ne može sama da izgradi poverenje
+Problem sa cold outreach-om je što poruka često mora da uradi previše posla.
+Mora da objasni ko ste. Mora da objasni problem. Mora da pokaže zašto ste relevantni. Mora da izgradi poverenje. Mora da se razlikuje od drugih. Mora da pokrene razgovor.
+Sve u nekoliko rečenica.
+To je teško.
+Ako kupac nikada nije čuo za vas, nikada nije video vaše mišljenje, nikada nije pročitao vaš case study i nikada nije video da razumete njegov problem, onda svaka poruka kreće od nule.
+Founder content smanjuje taj teret.
+Ne zato što će svaki kupac pratiti sve što objavite.
+Nego zato što kroz vreme gradite poznatost.
+Kupac vas možda ne lajkuje. Možda ne komentariše. Možda ne pošalje DM. Možda ne uđe odmah u CRM kao signal.
+Ali vas vidi.
+Vidi način razmišljanja. Vidi probleme o kojima pričate. Vidi da imate stav. Vidi da razumete tržište. Vidi da niste potpuno nepoznati.
+I onda kada poruka stigne, nije ista situacija.
+Nije više:
+“Ko su ovi?”
+Nego:
+“Video sam ih već.”
+To je mala promena u glavi kupca, ali ogromna promena u sales-u.
+
+Founder content ne treba da bude “šta nam se objavljuje ove nedelje”
+Ovo je najčešća greška.
+Firma odluči da treba da bude aktivna na LinkedIn-u.
+I onda pitanje postane:
+“Šta da objavimo ove nedelje?”
+To je pogrešno polazište.
+Pravo pitanje je:
+Šta kupac mora da razume pre nego što ima smisla da pričamo sa njim?
+Tu počinje dobar founder content.
+Ne od random tema.
+Nego od sales problema.
+Na primer:
+Ako kupac ne razume zašto mu stari način rada pravi problem — to je content.
+Ako misli da mu treba jedan alat, a zapravo mu treba bolji proces — to je content.
+Ako stalno poredi vašu uslugu sa pogrešnom alternativom — to je content.
+Ako se plaši rizika — to je content.
+Ako ne zna kako da interno opravda odluku — to je content.
+Ako misli da problem može da odloži još 6 meseci — to je content.
+Founder content treba da pripremi tržište za razgovor.
+Ne da zameni sales.
+Nego da sales ne mora svaki put da počinje od nule.
+
+Najbolje teme već postoje u firmi
+Founder-i često misle da nemaju dovoljno tema za content.
+U praksi, najčešće imaju previše tema.
+Samo ih ne vide kao content.
+Teme se kriju u:
+sales call-ovima, pitanjima kupaca, objection-ima, case study-jima, greškama iz isporuke, razlozima zašto neki klijenti uspeju, razlozima zašto neki ne uspeju, internim diskusijama, ponovljenim objašnjenjima, i rečenicama koje founder kaže usput.
+Najbolji content često nije nešto novo što morate da smislite.
+To je nešto što već objašnjavate kupcima svaki dan.
+Na primer:
+“Mi nikad ne bismo krenuli od toga.” “Ovo deluje logično, ali u praksi ne radi.” “Većina firmi pogrešno razume ovaj problem.” “Kupac misli da mu treba X, a zapravo mu treba Y.” “Ovo nije problem alata, nego procesa.” “Ovaj signal obično znači da je firma spremna za promenu.”
+To su odlične content teme.
+Jer zvuče kao iskustvo.
+A kupci veruju iskustvu mnogo više nego generičkim savetima.
+
+Founder content mora da ima stav
+Jedan od razloga zašto B2B content često ne radi je što je previše bezbedan.
+Svi pokušavaju da zvuče profesionalno.
+Pa content postane korektan.
+Ali potpuno zaboravljiv.
+Kupac ne pamti korektno.
+Pamti jasno.
+Pamti kada neko kaže:
+“Ovo je greška koju stalno vidim.” “Ovo ne bih nikad preporučio klijentu.” “Ovaj pristup deluje pametno, ali u praksi najčešće ne radi.” “Većina firmi ovde ne gubi zbog alata, nego zbog lošeg procesa.” “Ne bih skalirao outreach dok ovo nije rešeno.”
+To ne mora da bude agresivno.
+Ne mora da bude drama.
+Ali mora da ima stav.
+Founder bez stava zvuči kao company page.
+A company page retko gradi poverenje kao osoba.
+Zato dobar founder content treba da pokaže kako founder razmišlja.
+Ne samo šta firma prodaje.
+
+Content mora biti povezan sa outreach-om
+Founder content ne treba da živi odvojeno od sales-a.
+Ako outreach ide ka CFO-ima, content treba da pokriva probleme koje CFO razume.
+Ako outreach ide ka Head of Sales-u, content treba da priča o pipeline-u, reply rate-u, follow-up-u, CRM signalima i kvalitetu razgovora.
+Ako outreach ide ka founder-ima, content treba da pogađa njihove probleme:
+zavisnost od referral-a, manjak predvidivog pipeline-a, previše sales-a na founder-u, nejasan positioning, problem sa skaliranjem distribucije.
+Content i outreach treba da pričaju istu priču iz različitih uglova.
+Outreach otvara direktan razgovor.
+Content gradi kontekst.
+Kada kupac dobije poruku i ode na profil, treba da vidi sadržaj koji potvrđuje ono što ste mu upravo napisali.
+Ako poruka kaže:
+“Pomažemo B2B firmama da naprave pipeline koji ne zavisi od preporuka”
+a profil ima 10 objava o tome kako referral-i nisu sales sistem, kako se gradi outbound, kako content greje kupce i kako CRM prati signale,
+poruka deluje mnogo jače.
+Ako profil nema ništa relevantno,
+poruka ostaje sama.
+
+Video content ima posebnu vrednost
+Text post može da objasni ideju.
+Carousel može da spakuje proces.
+Case study može da pokaže dokaz.
+Ali video ima nešto što drugi formati nemaju:
+kupac vidi osobu.
+Čuje kako founder objašnjava problem.
+Vidi da li priča iz iskustva.
+Vidi da li razume nijanse.
+Vidi da li zvuči kao neko ko stvarno zna šta radi ili kao neko ko ponavlja fraze.
+To je posebno važno u kompleksnoj B2B prodaji.
+Kada kupac bira između dve firme koje nude sličnu stvar, često ne pobeđuje samo bolji pitch.
+Pobeđuje firma kojoj više veruje.
+A video brže gradi osećaj poznatosti.
+Ne mora svaki video da ima hiljade pregleda.
+Ako ga pogleda 30 pravih ljudi i nekoliko njih stekne više poverenja u founder-a, to može biti vrednije od viralnog posta koji ne donese nijedan razgovor.
+Zato video ne gledamo samo kao content format.
+Gledamo ga kao trust format.
+
+Content nije samo za ljude koji su ready now
+Jedna od najvećih grešaka je očekivati da svaki post odmah donese lead.
+Većina kupaca nije spremna da kupi danas.
+Ali to ne znači da ih treba ignorisati.
+Content radi upravo za taj deo tržišta.
+Za ljude koji još nisu spremni, ali će biti za 3, 6 ili 12 meseci.
+Oni možda sada samo čitaju.
+Možda samo prate.
+Možda samo pamte.
+Možda se još nisu odlučili da im problem treba rešavanje.
+Ali ako kroz vreme stalno vide da razumete problem bolje od drugih, vi ulazite u njihovu mentalnu listu.
+I kada problem postane prioritet, ne kreću od nule.
+Već imaju ime koje im deluje poznato.
+To je razlog zašto founder content treba da bude dosledan.
+Ne zato što algoritam voli doslednost.
+Nego zato što poverenje ne nastaje iz jedne objave.
+Nastaje iz ponavljanja relevantnih ideja kroz vreme.
+
+Kako izgleda dobar founder content sistem
+Dobar sistem ne zavisi od toga da founder svaki dan sedi i smišlja postove.
+To se brzo raspadne.
+Founder-i imaju firmu da vode.
+Zato je bolji pristup da se content izvlači iz njihovog znanja.
+Na primer:
+jednom mesečno se snimi razgovor od 60 minuta, iz tog razgovora se izvuku glavne teme, od toga nastanu text postovi, short video klipovi, carousel-i, newsletter ideje, webinar teme, outreach follow-up materijal, i sales talking points.
+Founder ne mora da glumi content kreatora.
+Treba samo da priča o stvarima koje već zna.
+A sistem treba da to pretvori u distribuciju.
+To je ogromna razlika.
+Content koji se izmišlja često zvuči tanko.
+Content koji dolazi iz realnog rada ima težinu.
+
+Šta meriti kod founder contenta
+Engagement je koristan.
+Ali nije jedini KPI.
+U Founder-Led Growth-u gledamo i druge stvari:
+da li kupci pominju content na sales call-u, da li outreach ima bolji reply kada profil podržava poruku, koji postovi se mogu koristiti kao follow-up, koji content najbolje objašnjava problem, koji video gradi najviše poverenja, koji ljudi iz target firmi gledaju profil, ko reaguje na relevantne teme, da li sales razgovori počinju sa više konteksta.
+Nekad najbolji content nema najviše lajkova.
+Ali sales kaže:
+“Ljudi dolaze na call spremniji.”
+To je signal da content radi.
+Jer cilj nije da kupite pažnju bilo koga.
+Cilj je da dobijete poverenje pravih ljudi.
+
+Mini checklist za founder content
+Pre nego što krenete da pravite content, odgovorite:
+Koji problem naš kupac mora da razume pre razgovora?
+Koje pogrešne pretpostavke stalno moramo da ispravljamo?
+Koje objection-e stalno čujemo?
+Koje priče iz prakse pokazuju da razumemo problem?
+Koji stav imamo, a konkurencija ga ne govori jasno?
+Koji content bi kupac trebalo da vidi nakon što dobije outreach poruku?
+Koje teme podržavaju naš positioning?
+Koji format najbolje prenosi poverenje: text, video, carousel, case study ili webinar?
+Kako ćemo content koristiti u follow-up-u?
+Kako ćemo znati da content pomaže sales-u?
+Ako nemate odgovore na ova pitanja, lako ćete upasti u zamku da pravite content radi contenta.
+A to nije cilj.
+Founder content treba da radi jedan ozbiljan posao:
+da kupac pre sales razgovora već ima više poverenja nego što bi imao bez njega.
+To je razlog zašto je content ključni deo Founder-Led Growth-a.
+Ne zato što svi treba da postanu influenseri.
+Nego zato što u B2B prodaji poverenje počinje mnogo pre call-a.
+LEKCIJA 6
+Outreach po signalima: kako prilazite pravim ljudima u pravom trenutku
+Većina firmi radi outreach ovako:
+nađu listu, pošalju poruke, čekaju odgovore, pa onda pokušavaju da zaključe da li kanal radi.
+Problem je što takav outreach često kreće iz pogrešnog mesta.
+Kreće od pitanja:
+“Kome možemo da pošaljemo poruku?”
+A mnogo bolje pitanje je:
+“Ko trenutno ima razlog da obrati pažnju?”
+To je suština outreach-a po signalima.
+Ne šaljete poruku samo zato što neko ima pravu titulu.
+Šaljete poruku zato što postoji neki kontekst koji povećava šansu da je tema relevantna sada.
+To je velika razlika.
+Jer u B2B prodaji nije svaki dobar fit spreman za razgovor.
+Neko jeste idealan kupac na papiru, ali nema problem sada.
+Neko ima problem, ali nije prioritet.
+Neko ima prioritet, ali nema budžet.
+Neko ima budžet, ali nema internu podršku.
+Neko je video vaš content, kliknuo case study, bio na webinaru i već razume problem.
+To nisu isti leadovi.
+I ne treba da dobiju istu poruku.
+
+Obična lista nije isto što i dobra lista
+Sales Navigator, Apollo, Prospeo i slični alati mogu da daju dobar početak.
+Možete filtrirati po industriji, veličini firme, lokaciji, tituli, seniority nivou i sličnim kriterijumima.
+Ali to još uvek nije prava outbound lista.
+To je samo sirov materijal.
+Jer filter može da kaže:
+“Ova osoba je CEO firme od 50 zaposlenih u IT industriji.”
+Ali filter ne zna uvek:
+da li firma stvarno ima problem, da li je kupac aktivan na LinkedIn-u, da li profil odgovara vašem ICP-u, da li firma raste, da li imaju novi proizvod, da li zapošljavaju sales ljude, da li su skoro dobili investiciju, da li ulaze na novo tržište, da li imaju content koji pokazuje prioritet, da li je osoba pravi ulaz u buying committee.
+Zato lista mora da se obogati.
+Ne da bismo imali više podataka.
+Nego da bismo znali kome vredi prići prvo i iz kog ugla.
+
+Šta je signal
+Signal je svaki podatak koji nam pomaže da razumemo da li je osoba ili firma trenutno relevantnija za outreach.
+Signal ne mora da znači da je neko spreman da kupi.
+Ali može da pokaže da postoji veća šansa za razgovor.
+Primeri signala:
+firma zapošljava sales ili marketing ljude, firma raste po broju zaposlenih, imaju novi proizvod ili novu uslugu, šire se na novo tržište, objavili su da traže partnere, osoba je aktivna na LinkedIn-u, osoba priča o problemu koji vi rešavate, firma ima slab positioning u odnosu na ono što prodaje, founder je vidljiv, ali nema jasan content sistem, sales tim postoji, ali nema jasnu outbound mašinu, neko iz firme je reagovao na vaš content, lead je otvorio email, kliknuo link, gledao webinar, posetio profil, ili ranije bio u razgovoru pa se sada ponovo aktivirao.
+Jedan signal sam po sebi ne mora da znači mnogo.
+Ali više signala zajedno menjaju prioritet.
+Ako je firma dobar ICP fit, raste, zapošljava sales ljude, founder je aktivan na LinkedIn-u, ali content nije povezan sa prodajom, to je mnogo bolji lead od firme koja samo ima pravu industriju.
+
+Outreach po signalima menja poruku
+Kada nemate signal, poruka najčešće zvuči generički.
+“Vidim da ste CEO firme u IT industriji.”
+To nije dovoljno.
+Kupac zna da ste to našli iz filtera.
+Ali kada imate signal, možete otvoriti razgovor mnogo prirodnije.
+Na primer:
+“Video sam da širite sales tim. Kod dosta B2B firmi tada problem nije samo broj ljudi u sales-u, nego to što nemaju dovoljno jasan sistem za ICP, outreach i follow up.”
+To je drugačije.
+Ili:
+“Video sam da sve više komunicirate novi proizvod. Često se tu pojavi problem da product postoji, ali tržište još ne razume zašto bi menjalo trenutni način rada.”
+Ili:
+“Video sam da ste aktivni na LinkedIn-u, ali deluje da content još nije povezan sa sales procesom. Tu često postoji veliki prostor da founder profil bolje podrži outreach.”
+Ove poruke nisu personalizovane samo zbog personalizacije.
+One koriste signal da otvore relevantan problem.
+To je poenta.
+Personalizacija nije:
+“Video sam da ste bili na konferenciji.”
+Personalizacija je:
+“Video sam nešto što mi govori da bi ovaj problem možda bio relevantan za vas sada.”
+
+Nije svaki signal za direktan pitch
+Ovo je važno.
+Ako neko klikne link ili lajkuje post, to ne znači da treba odmah poslati agresivan sales pitch.
+Mnogo firmi pokvari warm signal jer reaguju prebrzo i previše direktno.
+Signal treba da odredi sledeći korak.
+Nekad je to direktna poruka.
+Nekad je case study.
+Nekad je poziv na webinar.
+Nekad je edukativan follow up.
+Nekad je samo da se osoba stavi u bolji nurture.
+Nekad je da se kontaktira druga osoba iz iste firme.
+Dobar sales sistem ne tretira svaki signal isto.
+Razlikuje nivo interesovanja.
+Na primer:
+Neko ko je samo video post možda nije spreman za poruku.
+Neko ko je kliknuo case study možda treba follow up sa relevantnim primerom.
+Neko ko je bio na webinaru i otvorio tri emaila možda jeste spreman za direktan razgovor.
+Neko ko je ranije rekao “javite se kasnije” i sada ponovo reaguje možda treba potpuno drugačiju poruku.
+Zato outreach po signalima nije samo bolje targetiranje.
+To je bolja odluka o sledećem koraku.
+
+Multi profile pristup
+U ozbiljnoj B2B prodaji, retko jedna osoba sama donosi odluku.
+Zato nije dovoljno da jedan profil iz vaše firme šalje poruke jednoj osobi iz target firme.
+Mnogo bolji pristup je da više ljudi iz vaše firme gradi prisutnost kod više ljudi iz njihove firme.
+Founder može da priča sa CEO-em ili founder-om.
+Sales osoba može da priča sa Head of Sales-om.
+Marketing osoba može da priča sa CMO-em ili growth osobom.
+GTM osoba može da priča sa operativnim ili revenue timom.
+AI osoba može da priča sa ljudima koji razmišljaju o automatizaciji procesa.
+Tako ne napadate firmu nasumično.
+Gradite kontekst u buying committee-ju.
+I onda se desi momenat koji je mnogo vredan:
+neko na call-u kaže:
+“Video sam vas više puta. Pisali ste i kolegi. Iskakali ste nam na LinkedIn-u.”
+To nije slučajno.
+To znači da firma više ne deluje kao nepoznat vendor.
+Deluje kao neko ko je već prisutan u njihovom svetu.
+U B2B-u je to velika prednost.
+
+Content pojačava outreach
+Outreach po signalima radi mnogo bolje kada osoba iza poruke ima content koji podržava temu.
+Ako pošaljete poruku o problemu referral zavisnosti, a vaš profil ima nekoliko dobrih objava o tome kako se gradi pipeline koji ne zavisi od preporuka, poruka je jača.
+Ako pišete o CRM signalima, a na profilu imate content koji objašnjava zašto CRM treba da bude radar, a ne baza kontakata, poruka je jača.
+Ako pozivate nekoga na webinar, a već ste objavljivali o toj temi, poziv deluje prirodnije.
+To je razlog zašto content i outreach moraju da rade zajedno.
+Content gradi kontekst.
+Outreach otvara razgovor.
+CRM prati signal.
+Follow up nastavlja edukaciju.
+Kada su ti delovi povezani, outreach više nije izolovana aktivnost.
+Postaje deo sistema.
+
+Kako izgleda proces outreach-a po signalima
+Prvo definišemo ICP.
+Zatim pravimo početnu listu firmi i ljudi.
+Onda obogaćujemo podatke.
+Gledamo firmu, profil, sajt, aktivnost, tržište, rast, hiring, content, potencijalni problem i buying committee.
+Zatim rangiramo leadove.
+Ko je jak fit.
+Ko ima timing signal.
+Ko je aktivan na LinkedIn-u.
+Ko treba da ide prvi.
+Ko treba nurture.
+Ko nije prioritet.
+Tek onda pišemo poruke.
+Ne pre.
+Jer dobra poruka dolazi iz dobrog konteksta.
+Ako ne znate zašto je osoba relevantna, teško ćete napisati poruku koja zvuči relevantno.
+
+Outreach ne služi samo da zakaže call
+Ovo je jedan od najvažnijih delova.
+Outreach je i market feedback mehanizam.
+Kroz outreach učite:
+koji segment najbolje reaguje, koja poruka otvara razgovor, koji problem ljudi prepoznaju, koji problem im nije prioritet, koje titule odgovaraju, koji objection se ponavlja, koji angle zvuči generički, koji content treba napraviti, koji webinar bi imao smisla, koji ICP treba izbaciti.
+Zato nije poenta samo poslati više poruka.
+Poenta je naučiti nešto iz svake kampanje.
+Ako outreach ne vraća insight nazad u positioning, content, CRM i sales, onda sistem ne uči.
+Samo šalje.
+A to je mnogo slabije.
+
+Najčešće greške
+Prva greška je preširoka lista.
+Ako je lista loša, poruka mora da bude magija.
+A magija se retko dešava.
+Druga greška je isti copy za sve.
+Ako svi dobiju istu poruku, ignorišete razlike u problemu, ulozi i timing-u.
+Treća greška je prebrz pitch.
+Kupac nije uvek spreman za call čim pokazuje mali signal.
+Nekad prvo treba poverenje.
+Četvrta greška je slab follow up.
+Većina firmi pošalje prvi follow up, možda drugi, pa stane.
+Ne zato što nema interesa.
+Nego zato što nemaju sistem.
+Peta greška je da se signali ne beleže u CRM.
+Ako se signal izgubi, gubi se i timing.
+A u sales-u je timing često pola posla.
+
+Šta meriti
+Kod outreach-a po signalima ne merimo samo broj poslatih poruka.
+Merimo:
+reply rate po segmentu, reply rate po signalu, meeting rate po poruci, kvalitet sastanaka, koji buyer role najbolje reaguje, koji signal najčešće vodi do razgovora, koji follow up dobija odgovor, koji content se koristi pre odgovora, koliko starih leadova se reaktivira, koliko leadova pređe iz cold u warm, koliko warm leadova pređe u razgovor.
+Ove metrike pokazuju da li sistem postaje pametniji.
+Ne samo glasniji.
+
+Mini checklist za outreach po signalima
+Pre nego što pošaljete poruku, proverite:
+Da li je firma stvarno ICP fit?
+Da li osoba ima pravu ulogu u buying procesu?
+Da li postoji neki timing signal?
+Da li znamo zašto bi tema bila relevantna sada?
+Da li imamo content koji podržava ovu poruku?
+Da li znamo koji je sledeći korak ako ne odgovori?
+Da li znamo kada ide follow up?
+Da li signal ulazi u CRM?
+Da li ovaj lead treba direktan pitch, edukaciju, webinar ili nurture?
+Ako nemate ove odgovore, verovatno ne radite outreach po signalima.
+Radite samo slanje poruka.
+A razlika između te dve stvari je ogromna.
+Slanje poruka pokušava da dobije odgovor.
+Outreach po signalima pokušava da otvori pravi razgovor u pravom trenutku.
+To je mnogo bolji način da se gradi pipeline.
+
+LEKCIJA 7
+Follow up sistem: zašto većina prodaje ne dolazi iz prve poruke
+Većina firmi se ponaša kao da će prodaja doći iz prve poruke.
+Pošalju outreach.
+Sačekaju par dana.
+Pošalju još jednu poruku.
+Ako nema odgovora, pređu na sledećeg lead-a.
+I onda kažu:
+“Ljudi nisu zainteresovani.”
+Ali mnogo češće problem nije u interesovanju.
+Problem je u tome što nisu ostali dovoljno dugo prisutni.
+Postoji često citirana statistika da se oko 80% prodaje desi između šestog i dvanaestog follow up-a.
+A oko 44% sales ljudi odustane već nakon prvog follow up-a.
+Čak i kada se te brojke razlikuju od istraživanja do istraživanja, poenta ostaje ista:
+većina firmi odustane mnogo ranije nego što ozbiljna B2B prodaja zahteva.
+Ne zato što ne znaju da follow up treba da postoji.
+Znaju.
+Ali nemaju sistem koji može da ga izdrži.
+Prvi follow up još nekako pošalju.
+Drugi isto.
+Kod trećeg više ne znaju šta novo da kažu.
+Četvrti počne da deluje neprijatno.
+Peti se zaboravi.
+Šesti nikada ne dođe.
+I tu se izgubi veliki deo pipeline-a.
+Ne zato što kupac nikada ne bi kupio.
+Nego zato što firma nije imala način da ostane prisutna bez da zvuči očajno.
+Follow up nije podsetnik
+Najčešća follow up poruka izgleda ovako:
+“Samo proveravam da li ste videli prethodnu poruku.”
+Ili:
+“Da li ste imali priliku da pogledate?”
+Ili:
+“Vraćam ovu poruku na vrh inbox-a.”
+Problem je što takva poruka ne daje kupcu nijedan novi razlog da odgovori.
+Samo ga podseća da vam već nije odgovorio.
+To nije pravi follow up.
+To je podsetnik.
+Dobar follow up treba da doda nešto novo.
+Novi ugao.
+Novi dokaz.
+Novi primer.
+Novi signal.
+Novi način da kupac razume problem.
+Ako prva poruka nije pokrenula razgovor, sledeća poruka ne treba samo da ponovi isto drugim rečima.
+Treba da pomeri kupca korak dalje.
+Follow up treba da bude mala edukativna sekvenca
+Dobra follow up sekvenca nije niz podsetnika.
+To je niz razloga zašto tema možda ima smisla.
+Prva poruka može da identifikuje problem.
+Druga može da pokaže cenu neaktivnosti.
+Treća može da donese relevantan case study.
+Četvrta može da pokaže signal iz njihove firme ili industrije.
+Peta može da razbije objection.
+Šesta može da ponudi webinar, guide ili drugi edukativni materijal.
+Sedma može da otvori razgovor iz potpuno drugog ugla.
+Tako kupac kroz vreme dobija više konteksta.
+Ne pritiskate ga da odgovori.
+Pomažete mu da bolje razume problem.
+To je mnogo prirodniji način da se gradi interesovanje.
+Kupac često nije rekao ne
+Kada neko ne odgovori, sales često to tumači kao odbijanje.
+Ali tišina može da znači mnogo stvari.
+Poruka je stigla u lošem trenutku.
+Kupac je bio zauzet.
+Tema mu jeste relevantna, ali nije prioritet.
+Nije znao dovoljno o vama.
+Nije imao dovoljno razloga da odgovori.
+Treba mu još dokaza.
+Mora prvo interno da pokrene temu.
+Budžet još nije otvoren.
+Postoji interesovanje, ali ne postoji urgency.
+Zato tišina nije isto što i ne.
+U kompleksnoj B2B prodaji, mnogo razgovora se otvori tek kada se promeni timing.
+A firma koja se javila samo jednom više nije prisutna kada se taj timing promeni.
+Follow up mora da prati fazu kupca
+Nije svaki lead u istoj fazi.
+Neko prvi put čuje za problem.
+Neko razume problem, ali ne zna koliko ga košta.
+Neko istražuje različita rešenja.
+Neko već poredi vendore.
+Neko je ranije pričao sa vama, ali nije bio spreman.
+Neko je skoro dobio novi budžet ili odgovornost.
+Zato ista poruka ne može da radi za sve.
+Lead koji je potpuno hladan možda treba edukaciju.
+Lead koji je pogledao case study možda treba relevantan primer.
+Lead koji je bio na webinaru možda treba direktan razgovor.
+Lead koji je ranije rekao “javite se kasnije” treba poruku povezanu sa prethodnim razgovorom.
+Dobar follow up ne pita samo:
+“Kada ponovo da se javimo?”
+Pita:
+“Šta ova osoba treba sledeće da vidi da bi joj razgovor imao više smisla?”
+Content je jedan od najboljih follow up alata
+Founder content ne služi samo za organski reach.
+Može da bude deo follow up sistema.
+Ako ste napisali dobar post o problemu koji kupac ima, pošaljite ga kada je relevantan.
+Ako imate video gde founder objašnjava čestu grešku, koristite ga.
+Ako imate case study iz slične industrije, pošaljite ga.
+Ako imate webinar koji dublje obrađuje temu, pozovite lead-a.
+Ako imate guide koji pomaže kupcu da interno objasni problem, prosledite ga.
+Tako content dobija mnogo veću vrednost.
+Nije samo objava.
+Postaje sales asset.
+I svaki dobar content komad može da bude novi razlog za follow up.
+Zašto ručni follow up najčešće propadne
+Ručni follow up zavisi od memorije i discipline sales osobe.
+A to nije dovoljno.
+Sales osoba ima nove leadove.
+Ima sastanke.
+Ima ponude.
+Ima interne obaveze.
+Ima CRM.
+Ima postojeće klijente.
+I onda follow up sa osobom koja nije odgovorila pre dve nedelje lako padne na dno liste.
+To nije problem karaktera.
+To je problem sistema.
+Ako follow up postoji samo u glavi osobe, pre ili kasnije će se izgubiti.
+Zato CRM mora da zna:
+kada ide sledeći kontakt,
+koji je bio prethodni ugao,
+šta je lead video,
+koji signal postoji,
+koji sadržaj mu je već poslat,
+šta treba da dobije sledeće,
+i kada lead treba vratiti u aktivan pipeline.
+Automatizacija može da kreira task.
+Može da pošalje podsetnik.
+Može da predloži sledeći sadržaj.
+Može da označi lead kada se ponovo aktivira.
+Može da pokrene nurture sekvencu.
+Ali čovek i dalje treba da odluči kada je potreban pravi razgovor.
+To je najbolja kombinacija.
+Sistem pamti.
+Sales razume kontekst.
+Ne automatizujte lošu sekvencu
+Automatizacija nije opravdanje za deset generičkih poruka.
+Ako poruke ne dodaju vrednost, automatizacija samo ubrzava iritiranje tržišta.
+Pre nego što automatizujete follow up, morate znati:
+koju priču gradite,
+koji objection rešavate,
+koji dokaz pokazujete,
+koji ugao uvodite,
+i šta želite da kupac razume posle svake poruke.
+Dobar follow up nije samo vremenska sekvenca.
+To je logična sekvenca.
+Svaki korak treba da ima razlog.
+Ako ne znate zašto šaljete sledeću poruku, nemojte je slati samo zato što je prošlo pet dana.
+Različiti nivoi follow up-a
+Dobar sistem može da ima nekoliko nivoa.
+Kratkoročni follow up
+Koristi se posle prve poruke, odgovora, sastanka ili slanja ponude.
+Cilj je da razgovor ne izgubi momentum.
+Ovde su bitni brzina, kontekst i jasan sledeći korak.
+Srednjoročni nurture
+Koristi se kada je problem relevantan, ali timing nije pravi.
+Lead može dobijati relevantan content, case study, webinar ili povremenu poruku sa novim uglom.
+Cilj nije da ga pritiskate.
+Cilj je da ostanete relevantni.
+Dugoročna reaktivacija
+Koristi se za leadove koji su ranije bili dobri, ali nisu kupili.
+Nakon nekoliko meseci možete proveriti da li se nešto promenilo.
+Možda firma raste.
+Možda imaju novu osobu u timu.
+Možda su dobili budžet.
+Možda je problem postao veći.
+Možda je prethodni vendor razočarao.
+Stari lead nije mrtav lead.
+Često je samo lead sa pogrešnim timing-om.
+Follow up posle sales call-a
+Veliki broj prilika ne propadne pre call-a.
+Propadne posle njega.
+Sastanak bude dobar.
+Kupac kaže da tema ima smisla.
+Pošalje se ponuda.
+I onda tišina.
+Tu većina firmi opet šalje:
+“Da li ste imali priliku da pogledate ponudu?”
+Bolji follow up posle call-a treba da vrati kupca na ono što je sam rekao.
+Na primer:
+“Na razgovoru ste pomenuli da vam najveći problem pravi X, posebno zato što utiče na Y. U ponudi smo zato fokus stavili na Z. Šaljem i primer kako smo sličnu situaciju rešili kod druge firme.”
+To je mnogo jače.
+Ne podsećate samo na dokument.
+Podsećate na razlog zbog kog je razgovor uopšte počeo.
+Dobar CRM treba da sačuva te detalje.
+Šta je kupac rekao.
+Koji problem mu je najvažniji.
+Ko je uključen u odluku.
+Koji rizik vidi.
+Šta mora interno da proveri.
+Koji je dogovoreni sledeći korak.
+Bez toga follow up postaje generički.
+Brzina je deo follow up sistema
+Kod inbound leadova timing je posebno važan.
+Kada neko popuni formu, traži kontakt ili pokaže jak intent, interesovanje je najjače tada.
+Ne sutra.
+Ne kada sales osoba stigne.
+Tada.
+Zato dobar sistem mora odmah da obavesti sales.
+Lead popuni formu.
+Podaci ulaze u CRM.
+Tim dobija obaveštenje.
+Kreira se task.
+Dodeljuje se odgovorna osoba.
+Sales dobija kontekst.
+Kontakt se radi brzo.
+To je mnogo bolji proces od:
+“Forme stižu na email, pa će neko pogledati.”
+U sales-u dobar lead može brzo da se ohladi.
+Sistem ne treba samo da vam donese signal.
+Treba da vam omogući da reagujete dok signal još vredi.
+Kako meriti follow up
+Ne treba gledati samo koliko je poruka poslato.
+Treba pratiti:
+posle kog kontakta ljudi najčešće odgovaraju,
+koji tip follow up-a dobija najviše odgovora,
+koji sadržaj najčešće otvara razgovor,
+koliko leadova se reaktivira,
+koliko prilika se izgubi zbog slabog sledećeg koraka,
+koliko vremena prolazi od signala do reakcije,
+koliko sales sastanaka dolazi iz follow up-a, a ne iz prve poruke,
+i koliko starih leadova se pretvara u pipeline.
+Ove brojke često pokažu da najveća prilika nije u još većoj listi.
+Nego u boljoj obradi ljudi koje već imate.
+Mini checklist za follow up sistem
+Pre nego što pustite kampanju, odgovorite:
+Koliko follow up poruka imamo?
+Da li svaka poruka dodaje nešto novo?
+Koji problem objašnjavamo kroz sekvencu?
+Koji objection rešavamo?
+Koji dokaz koristimo?
+Koji content možemo da pošaljemo?
+Kada lead prelazi iz direktnog outreach-a u nurture?
+Kada se vraća u aktivan follow up?
+Da li CRM automatski kreira sledeći task?
+Da li sales dobija obaveštenje kada se pojavi jak signal?
+Da li znamo posle kog kontakta najčešće dolazi odgovor?
+Da li postoji proces za reaktivaciju starih leadova?
+Ako nemate ove odgovore, follow up verovatno zavisi od motivacije pojedinca.
+A to nije sistem.
+Dobar follow up ne znači da dosadite kupcu.
+Znači da ostanete relevantni dovoljno dugo da vas kupac zapamti kada timing postane pravi.
+Jer veliki deo B2B prodaje ne dobije firma koja je poslala najbolju prvu poruku.
+Dobije ga firma koja je imala dovoljno dobar sistem da ostane prisutna.
+
+LEKCIJA 8
+Webinari: kako da edukujete kupce koji još nisu spremni za sales razgovor
+Neće svaki dobar kupac odmah pristati na sastanak.
+I to ne znači da nije zainteresovan.
+Možda prepoznaje problem, ali još nije dovoljno veliki prioritet.
+Možda nema budžet sada.
+Možda prvo mora da uključi još ljudi iz firme.
+Možda ne zna dovoljno o vama.
+Možda razmatra više opcija.
+Možda tek pokušava da razume šta mu zapravo treba.
+U tom trenutku direktan sales poziv često dolazi prerano.
+Kupac još nije spreman za razgovor o ponudi.
+Ali možda jeste spreman da nauči nešto korisno.
+Tu webinar ima ogromnu vrednost.
+Webinar je most između pažnje i sales razgovora.
+Ne tražite od kupca da odmah donese odluku.
+Dajete mu priliku da bolje razume problem, vidi kako razmišljate i stekne poverenje bez pritiska.
+Zato webinar nije samo marketing događaj.
+U dobrom Founder Led Growth sistemu, webinar je mehanizam za edukaciju, kvalifikaciju i ubrzavanje prodaje.
+Zašto kupac lakše prihvata webinar nego sales call
+Kada nekoga pozovete na sales call, kupac očekuje da ćete mu nešto prodavati.
+Odmah se pojavljuje otpor.
+Da li mi ovo uopšte treba?
+Koliko će trajati?
+Da li će me pritiskati?
+Da li ću posle dobijati deset poruka?
+Da li sada imam vremena da razmišljam o ovome?
+Kod webinara je odnos drugačiji.
+Kupac dolazi da dobije znanje.
+Ne mora odmah da priča.
+Ne mora da donese odluku.
+Ne mora da objašnjava svoju situaciju.
+Može samo da sluša.
+Zato webinar može da privuče ljude koji nikada ne bi odmah pristali na demo ili konsultaciju.
+To su često veoma dobri budući kupci.
+Samo još nisu spremni za direktan sales korak.
+Dobar webinar ne počinje vašom uslugom
+Najveća greška je napraviti webinar koji je prikrivena prezentacija firme.
+Prvih deset minuta pričate ko ste.
+Zatim objašnjavate svoju metodologiju.
+Onda pokazujete usluge.
+Na kraju pozovete ljude da zakažu call.
+To nije webinar.
+To je dugačak sales pitch.
+Dobar webinar treba da krene od problema koji kupac već oseća.
+Na primer:
+Kako napraviti sales sistem koji ne zavisi od preporuka
+Zašto vam outbound ne radi iako pišete pravim ljudima
+Kako founder content pomaže sales timu da ne počinje svaki razgovor od nule
+Kako povezati outreach, content i CRM u stabilan pipeline
+Da li vam i dalje trebaju SDR ljudi kada automatizujete sales sistem
+Kako prodavati product, a kako uslugu preko LinkedIn-a
+Naslov treba da opiše rezultat ili problem koji kupac želi da razume.
+Ne ono što vi želite da mu prodate.
+Webinar treba da promeni način na koji kupac vidi problem
+Najbolji webinar nije onaj posle kog kupac ima najviše beležaka.
+Najbolji je onaj posle kog problem vidi drugačije.
+Pre webinara možda misli:
+“Treba nam bolja outreach poruka.”
+Posle webinara treba da razume:
+“Problem nije samo poruka. Nemamo jasan ICP, content koji gradi poverenje, follow up sistem i CRM signale.”
+Pre webinara možda misli:
+“Treba samo da zaposlimo još jednog sales čoveka.”
+Posle webinara treba da razume:
+“Ako nemamo sistem, nova osoba će samo ručno raditi više istog.”
+Pre webinara možda misli:
+“Content je nešto što marketing treba da objavljuje.”
+Posle webinara treba da razume:
+“Content treba da pripremi kupca za sales razgovor.”
+To je pravi cilj.
+Webinar treba da uvede novi okvir razmišljanja.
+A taj okvir prirodno vodi ka vašem rešenju.
+Ne morate agresivno da prodajete.
+Ako kupac prihvati vašu dijagnozu problema, mnogo lakše će razumeti zašto mu je potreban vaš sistem.
+Kako izabrati temu
+Dobra tema obično dolazi iz realnih sales razgovora.
+Pogledajte:
+koje pitanje kupci stalno postavljaju,
+koji problem pogrešno razumeju,
+koji objection se ponavlja,
+gde najčešće odlažu odluku,
+šta moraju interno da objasne,
+koju grešku prave pre nego što dođu kod vas,
+i šta treba da poveruju da bi sledeći korak imao smisla.
+Ako na svakom call-u objašnjavate istu stvar, verovatno imate webinar temu.
+Ako kupci stalno kažu da zavise od preporuka, tema može biti:
+Kako napraviti sales sistem koji ne zavisi od preporuka
+Ako firme misle da im treba samo bolji copy, tema može biti:
+Zašto vam outbound ne radi iako imate dobru poruku
+Ako founder-i ne razumeju vezu između contenta i prodaje, tema može biti:
+Kako content gradi poverenje koje povećava rezultate outreach-a
+Dobar webinar rešava jednu veliku konfuziju.
+Ne pokušava da objasni sve što znate.
+Jednostavna struktura dobrog webinara
+Webinar treba da ima jasan tok.
+Prvi deo
+Problem koji kupac prepoznaje
+Počnite od situacije koju publika već živi.
+Na primer:
+Firma dobija posao kroz preporuke.
+Pipeline deluje stabilno.
+Niko ne gradi aktivan sales sistem.
+Onda veliki klijent ode i odjednom svi žele rezultate za trideset dana.
+Kupac treba odmah da pomisli:
+“Ovo zvuči kao mi.”
+Drugi deo
+Zašto trenutni pristup ne radi
+Objasnite gde firme greše.
+Ne napadajte ih.
+Pokažite zašto je stari pristup logično nastao, ali više nije dovoljan.
+Na primer:
+outreach bez contenta pokušava sam da izgradi poverenje,
+content bez positioning-a postaje random objavljivanje,
+CRM bez signala postaje baza kontakata,
+follow up bez sistema zavisi od discipline pojedinca,
+referral bez aktivne distribucije ne može da napravi predvidiv pipeline.
+Treći deo
+Novi način razmišljanja
+Ovde uvodite svoj framework.
+Na primer:
+jasan ICP,
+positioning,
+founder content,
+outreach po signalima,
+webinar,
+CRM,
+follow up,
+AI automatizacije,
+sales sa kontekstom.
+Ne predstavljate listu usluga.
+Predstavljate način na koji delovi rade zajedno.
+Četvrti deo
+Praktičan primer
+Pokažite kako sistem izgleda u realnosti.
+Na primer:
+odaberemo jedan ICP segment,
+definišemo problem,
+napravimo content teme,
+pokrenemo outreach,
+pratimo reakcije,
+pozovemo zainteresovane na webinar,
+signali ulaze u CRM,
+sales dobija prioritetne leadove,
+follow up koristi relevantan content,
+merimo koji segment i angle stvaraju pipeline.
+Što je primer konkretniji, webinar će imati više vrednosti.
+Peti deo
+Sledeći korak
+Na kraju nemojte samo reći:
+“Zakažite call.”
+Recite kome call ima smisla.
+Na primer:
+“Ako ste B2B firma koja i dalje većinu novih poslova dobija kroz preporuke i želite da vidite kako bi ovakav sistem izgledao za vaš ICP, možete zakazati razgovor sa nama.”
+To kvalifikuje ljude.
+Ne treba vam svaki učesnik.
+Treba vam nekoliko pravih.
+Webinar je istovremeno i kvalifikacioni signal
+Registracija za webinar nije isto što i lajk na post.
+Osoba je videla temu.
+Ocenila da joj je dovoljno važna.
+Ostavila podatke.
+Odvojila vreme.
+Možda prisustvovala.
+Možda postavila pitanje.
+Možda ostala do kraja.
+Svaki od tih koraka je signal.
+Neko ko se samo registrovao nije isti kao osoba koja je ostala do kraja i postavila konkretno pitanje.
+Zato podatke sa webinara treba povezati sa CRM sistemom.
+Možemo pratiti:
+ko se registrovao,
+ko je prisustvovao,
+koliko dugo je ostao,
+koje pitanje je postavio,
+na koju temu je reagovao,
+da li je posle otvorio email,
+da li je kliknuo case study,
+da li je već bio u outreach kampanji,
+da li je neko drugi iz iste firme prisustvovao.
+Tako webinar ne ostaje izolovan događaj.
+Postaje deo slike o kupcu.
+Webinar ne služi samo za nove leadove
+Webinar možete koristiti na više načina.
+Možete pozvati hladne leadove koji još nisu spremni za call.
+Možete ponovo aktivirati stare leadove.
+Možete ga poslati ljudima koji su rekli da tema nije prioritet sada.
+Možete pozvati više ljudi iz iste target firme.
+Možete ga koristiti posle prvog sales razgovora.
+Možete ga poslati postojećim kupcima koji razmatraju dodatnu uslugu.
+Možete ga koristiti kao razlog za follow up.
+Zato vrednost webinara nije samo u broju registracija.
+Njegova vrednost je u tome što daje sales timu prirodan razlog da ponovo otvori razgovor.
+Umesto:
+“Samo proveravam da li ste videli prethodnu poruku.”
+možete reći:
+“Organizujemo webinar o problemu koji ste pomenuli. Mislim da bi vam deo o povezivanju contenta i outreach-a bio posebno relevantan.”
+To je mnogo bolji follow up.
+Jedan webinar može da postane mesec dana contenta
+Webinar ne treba posmatrati samo kao događaj koji se završi nakon sat vremena.
+Iz jednog dobrog webinara možete dobiti:
+više kratkih video klipova,
+text postove,
+carousel,
+newsletter,
+FAQ sadržaj,
+kratke odgovore na objection-e,
+sales follow up materijal,
+delove za sajt,
+case study objašnjenja,
+i snimak koji kasnije šaljete leadovima.
+To znači da webinar može postati centralni content asset za celu kampanju.
+Pre webinara objavljujete problem.
+Tokom promocije objašnjavate različite uglove.
+Nakon webinara delite glavne lekcije.
+Sales koristi snimak i isečke u follow up-u.
+Tako jedna tema dobija mnogo duži život.
+Live webinar ili snimljeni webinar
+Live webinar ima posebnu vrednost.
+Postoji konkretan termin.
+Ljudi imaju razlog da se registruju sada.
+Mogu da postave pitanje.
+Vi dobijate direktan feedback.
+Možete da vidite koje teme izazivaju najviše reakcija.
+Snimljeni webinar je bolji za dugoročni nurture.
+Lead može da ga pogleda kada njemu odgovara.
+Sales može da ga šalje tokom cele godine.
+Najbolji sistem koristi oba.
+Prvo organizujete live webinar.
+Zatim snimak pretvorite u asset koji se koristi u outreach-u, follow up-u, contentu i CRM nurture procesu.
+Kako promovisati webinar
+Nemojte se osloniti samo na jednu LinkedIn objavu.
+Dobar webinar treba da ima više izvora publike.
+Founder content može da objasni problem.
+Sales može direktno da pozove relevantne leadove.
+Stari leadovi mogu da dobiju email.
+Postojeći kupci mogu da proslede poziv kolegama.
+Više ljudi iz vaše firme može da promoviše webinar iz svog ugla.
+Možete kontaktirati više osoba unutar iste target firme.
+Možete koristiti retargeting za ljude koji su već imali interakciju sa vama.
+Možete uključiti partnera koji ima sličnu publiku.
+Najbolja promocija ne ponavlja samo:
+“Prijavite se na webinar.”
+Ona kroz više objava pokazuje zašto tema zaslužuje pažnju.
+Jedna objava može da objasni problem.
+Druga može da pokaže statistiku.
+Treća može da ispriča situaciju sa klijentom.
+Četvrta može da razbije čestu zabludu.
+Peta može da pokaže šta će tačno ljudi naučiti.
+Tako promocija sama po sebi već edukuje tržište.
+Follow up posle webinara
+Najveća greška je završiti webinar i poslati isti email svima.
+“Hvala na prisustvu. Evo snimka.”
+To je minimum.
+Bolji follow up treba da zavisi od ponašanja.
+Osoba koja je prisustvovala do kraja može dobiti direktnije pitanje.
+Osoba koja se registrovala, ali nije došla, može dobiti snimak i glavne lekcije.
+Osoba koja je postavila pitanje može dobiti odgovor i relevantan case study.
+Osoba iz target firme može dobiti personalizovan follow up.
+Stari lead može dobiti poruku povezanu sa prethodnim razgovorom.
+Neko ko je pokazao više signala može dobiti poziv na konsultaciju.
+Neko ko još nije spreman može ući u nurture.
+Webinar nije kraj procesa.
+Često je tek početak ozbiljnijeg razgovora.
+Šta meriti
+Broj registracija je koristan, ali nije dovoljan.
+Treba pratiti:
+koliko ljudi je prisustvovalo,
+koliko dugo su ostali,
+koliko target firmi je bilo prisutno,
+koliko ljudi je postavilo pitanje,
+koliko sastanaka je otvoreno,
+koliko starih leadova je reaktivirano,
+koliko učesnika je kasnije reagovalo na content,
+koji segment je pokazao najviše interesovanja,
+koja tema je izazvala najviše pitanja,
+i koliko pipeline-a je webinar pomogao da se napravi ili ubrza.
+Webinar sa pedeset pravih ljudi može biti mnogo vredniji od webinara sa petsto pogrešnih.
+Ne merimo samo publiku.
+Merimo kvalitet i sledeće korake.
+Najčešće greške
+Prva greška je preširoka tema.
+Naslov poput:
+“Kako povećati prodaju”
+ne govori dovoljno.
+Tema treba da bude specifična za problem i kupca.
+Druga greška je previše prodaje.
+Ako prvih dvadeset minuta pričate o sebi, ljudi će izgubiti pažnju.
+Treća greška je previše teorije.
+Kupac želi framework, ali želi i konkretne primere.
+Četvrta greška je slab CTA.
+Ljudi moraju jasno da razumeju kome sledeći korak ima smisla.
+Peta greška je da podaci ne uđu u CRM.
+Ako ne znate ko je prisustvovao i šta je uradio posle, gubite najveći deo vrednosti.
+Šesta greška je da nema follow up sistema.
+Dobar webinar bez dobrog follow up-a može stvoriti pažnju, ali ne i pipeline.
+Mini checklist za webinar
+Pre nego što zakažete webinar, odgovorite:
+Koji konkretan problem obrađujemo?
+Za koji ICP je tema napravljena?
+Koju pogrešnu pretpostavku želimo da promenimo?
+Šta kupac treba da razume do kraja?
+Koji praktičan framework dajemo?
+Koji primer možemo da pokažemo?
+Ko promoviše webinar?
+Koje leadove direktno pozivamo?
+Kako registracije ulaze u CRM?
+Koje signale pratimo?
+Koji follow up dobija osoba koja je prisustvovala?
+Koji follow up dobija osoba koja nije došla?
+Kako ćemo webinar pretvoriti u dodatni content?
+Koji je prirodan sledeći korak za kvalifikovanog kupca?
+Ako nemate ove odgovore, webinar lako postane još jedan događaj koji donese malo pažnje i brzo se zaboravi.
+Dobar webinar radi mnogo više.
+Edukativno priprema tržište.
+Gradi poverenje.
+Otkriva ko ima pravi problem.
+Daje sales timu novi razlog za razgovor.
+I pomaže kupcu da pređe iz:
+“Ovo mi je zanimljivo”
+u:
+“Ovo je nešto što treba da rešimo.”
+LEKCIJA 9
+CRM i buying signals: kako da znate ko se zagreva
+Većina firmi koristi CRM kao mesto gde beleži šta se već desilo.
+Ko je bio na sastanku.
+Ko je dobio ponudu.
+Ko je u kojoj fazi.
+Ko je rekao da nije zainteresovan.
+Ko je prestao da odgovara.
+To jeste korisno.
+Ali to je samo mali deo onoga što CRM treba da radi.
+Dobar CRM ne treba samo da vam pokaže prošlost.
+Treba da vam pomogne da odlučite šta da uradite sledeće.
+Ko danas zaslužuje pažnju?
+Ko se zagreva?
+Koji lead je pokazao više interesovanja?
+Kome treba poslati case study?
+Ko je spreman za direktan razgovor?
+Ko još uvek nije spreman, ali treba da ostane u nurture procesu?
+Ko je ranije rekao da nije pravi trenutak, ali sada pokazuje novi signal?
+Ako CRM ne pomaže da odgovorite na ova pitanja, onda nije sales sistem.
+Samo je urednija baza kontakata.
+Kontakti nisu pipeline
+Firma može imati deset hiljada kontakata u CRM sistemu i opet nemati pipeline.
+Jer kontakt sam po sebi ne znači mnogo.
+Možda je osoba nekada preuzela guide.
+Možda je bila na webinaru.
+Možda je odgovorila na poruku pre osam meseci.
+Možda je bila na sastanku, ali timing nije bio dobar.
+Možda je posetila sajt.
+Možda je samo dodata iz Sales Navigatora.
+Sve su to kontakti.
+Ali pipeline nastaje tek kada postoji kombinacija nekoliko stvari:
+dobar ICP fit,
+relevantan problem,
+dovoljan nivo poverenja,
+signal interesovanja,
+pravi timing,
+i jasan sledeći korak.
+Zadatak CRM sistema je da vam pomogne da tu kombinaciju prepoznate.
+Šta je buying signal
+Buying signal je ponašanje ili promena koja može da pokaže da kupac postaje spremniji za razgovor.
+Ne znači svaki signal da osoba želi da kupi.
+Ali znači da se nešto promenilo.
+Primeri signala mogu biti:
+osoba je otvorila nekoliko email poruka,
+kliknula je relevantan case study,
+registrovala se za webinar,
+prisustvovala webinaru,
+ostala do kraja,
+postavila konkretno pitanje,
+pogledala video,
+reagovala na founder content,
+posetila LinkedIn profil,
+posetila određenu stranicu na sajtu,
+ponovo se aktivirala nakon dužeg perioda,
+firma zapošljava sales ili marketing ljude,
+firma je dobila investiciju,
+ušla je na novo tržište,
+promenila je rukovodstvo,
+pokrenula je novi proizvod,
+ili je neko iz firme počeo da priča o problemu koji vi rešavate.
+Jedan signal ne mora da znači mnogo.
+Ali više signala zajedno može da pokaže ozbiljan momentum.
+Jedan signal nije intent
+Ovo je važna razlika.
+Ako neko lajkuje post, to ne znači da želi sales call.
+Ako otvori email, to ne znači da želi ponudu.
+Ako poseti sajt, to ne znači da je spreman da kupi.
+Najgora reakcija je da svaku malu aktivnost pretvorite u agresivan pitch.
+Kupac tada ima osećaj da ga pratite.
+Signal treba da pomogne sales timu da proceni kontekst.
+Ne da automatski napadne lead.
+Na primer, lajk na jednom postu možda ne znači ništa.
+Ali ako osoba:
+odgovara vašem ICP-u,
+već je bila u outreach kampanji,
+pogledala je dva relevantna posta,
+kliknula case study,
+registrovala se za webinar,
+i dolazi iz firme koja upravo širi sales tim,
+onda imate potpuno drugačiju situaciju.
+To više nije običan cold lead.
+Postoji kontekst.
+Postoji poznatost.
+Postoji moguća potreba.
+Postoji razlog da sales obrati pažnju.
+Dobar CRM povezuje signale
+U većini firmi podaci postoje, ali su razbacani.
+Outreach je u jednom alatu.
+Email je u drugom.
+LinkedIn aktivnost je na platformi.
+Webinar registracije su u posebnom sistemu.
+Forme dolaze na email.
+Sales beleške su u CRM sistemu.
+Neke informacije su u Google Sheet tabeli.
+Neke su u Slack porukama.
+Neke postoje samo u glavi sales osobe.
+Problem nije manjak podataka.
+Problem je što niko ne vidi celu sliku.
+Dobar CRM treba da poveže što više relevantnih podataka na jednom mestu.
+Kada sales otvori kontakt, treba da vidi:
+ko je osoba,
+iz koje firme dolazi,
+zašto je ICP fit,
+koji problem možda ima,
+koje poruke je dobila,
+šta je otvorila,
+šta je kliknula,
+koji content je videla,
+da li je bila na webinaru,
+da li je ranije pričala sa nama,
+šta je tada rekla,
+koji je poslednji signal,
+i koji je preporučeni sledeći korak.
+To je kontekst.
+A kontekst menja kvalitet sales razgovora.
+CRM treba da bude radar
+Najbolji način da razmišljate o CRM sistemu je kao o radaru.
+Radar ne pravi prilike sam.
+Ali pokazuje gde se nešto dešava.
+Pomaže sales timu da razlikuje:
+hladan kontakt,
+dobar ICP fit,
+lead koji se zagreva,
+lead koji pokazuje intent,
+aktivnu priliku,
+stari lead koji se ponovo aktivira,
+i kontakt koji trenutno nije prioritet.
+Bez radara, sales reaguje nasumično.
+Zove poslednjeg leada koji je ušao.
+Radi ono čega se seti.
+Vraća se ljudima koje lično pamti.
+Troši vreme na najglasniju priliku.
+Zaboravlja ljude koji su rekli da se javi kasnije.
+Sa dobrim radarom, prioritet nije zasnovan samo na osećaju.
+Zasnovan je na podacima i kontekstu.
+Lead scoring mora da ima smisla
+Mnoge firme uvedu lead scoring i onda svakom ponašanju dodele poene.
+Otvoren email donosi dva poena.
+Klik donosi pet.
+Webinar donosi deset.
+Poseta sajtu donosi tri.
+Kada lead pređe određeni broj, sales dobija obaveštenje.
+To može biti korisno.
+Ali može i da napravi mnogo lažnih signala.
+Jer nije svaka aktivnost jednako važna.
+Osoba može da klikne više puta, ali da uopšte nije dobar kupac.
+Druga osoba može da bude savršen ICP i da ne klikće skoro ništa, ali da je pročitala nekoliko poruka i interno istražuje opcije.
+Zato scoring ne treba da gleda samo ponašanje.
+Treba da spoji najmanje tri elementa.
+Prvi element
+ICP fit
+Da li je firma pravi tip kupca?
+Da li odgovara veličina?
+Industrija?
+Geografija?
+Tip ponude?
+Budžetski kapacitet?
+Da li osoba ima relevantnu ulogu?
+Drugi element
+Problem i timing
+Da li postoji signal da firma ima problem?
+Da li se nešto promenilo?
+Da li rastu?
+Zapošljavaju?
+Pokreću novu ponudu?
+Ulaze na tržište?
+Menjaju proces?
+Da li je ovo tema koja bi sada mogla da bude prioritet?
+Treći element
+Ponašanje
+Da li osoba konzumira content?
+Da li klikće relevantne materijale?
+Da li prisustvuje webinarima?
+Da li odgovara na poruke?
+Da li se vraća na sajt?
+Da li je uključeno više ljudi iz iste firme?
+Kada spojite fit, timing i ponašanje, scoring postaje mnogo korisniji.
+Ne pokušavate da pogodite ko će sigurno kupiti.
+Pokušavate da odlučite gde sales treba prvo da uloži vreme.
+Buying committee signali
+U ozbiljnoj B2B prodaji često nije dovoljna aktivnost jedne osobe.
+Mnogo jači signal može biti kada više ljudi iz iste firme počne da reaguje.
+Na primer:
+jedna osoba se registruje za webinar,
+druga pogleda founder profil,
+treća odgovori na outreach,
+četvrta preuzme guide,
+a peta poseti pricing ili case study stranicu.
+Pojedinačno, svaka aktivnost može delovati slabo.
+Zajedno, pokazuju da se tema možda interno širi.
+Zato CRM ne treba da gleda samo individualni kontakt.
+Treba da gleda i account nivo.
+Da li više ljudi iz iste firme pokazuje interesovanje?
+Koje funkcije su uključene?
+Da li postoji osoba koja oseća problem?
+Ko kontroliše budžet?
+Ko može interno da pokrene razgovor?
+Ko može da blokira odluku?
+Kada vidite account sliku, mnogo lakše možete da radite multi profile outreach i multi threading.
+Multi threading kroz CRM
+Ako jedna osoba prestane da odgovara, deal ne mora da bude mrtav.
+Možda ta osoba nije pravi vlasnik problema.
+Možda nema dovoljno uticaja.
+Možda joj tema nije prioritet.
+Možda je promenila poziciju.
+Zato je korisno znati ko je još relevantan unutar firme.
+CRM treba da pokaže:
+ko je već kontaktiran,
+sa kog profila,
+koji angle je korišćen,
+ko je odgovorio,
+ko je video content,
+ko je bio na webinaru,
+i ko još nije uključen.
+Tako ne šaljete pet istih poruka istoj firmi.
+Koordinisano gradite prisutnost.
+Jedan član vašeg tima može da priča sa founder-om.
+Drugi sa sales liderom.
+Treći sa marketing osobom.
+Svako koristi ugao koji odgovara ulozi te osobe.
+Svi podaci se vraćaju u isti sistem.
+Tako firma vidi jednu koordinisanu priču, a ne nasumične poruke.
+CRM mora da pokreće sledeću akciju
+Podatak bez akcije nema veliku vrednost.
+Ako CRM samo pokaže da je neko kliknuo link, ali niko ne zna šta sada treba uraditi, signal će se izgubiti.
+Zato svaki važan signal treba da ima logiku sledećeg koraka.
+Na primer:
+Ako je lead dobar fit i registruje se za webinar, može dobiti personalizovan poziv.
+Ako prisustvuje do kraja, sales dobija task za follow up.
+Ako klikne case study iz svoje industrije, može dobiti još jedan relevantan primer.
+Ako više ljudi iz iste firme pokaže aktivnost, account se podiže na listi prioriteta.
+Ako stari lead ponovo otvori više poruka, sales dobija obaveštenje.
+Ako lead kaže da se javite za tri meseca, CRM automatski kreira zadatak.
+Ako popuni formu sa jakim intentom, sales tim odmah dobija obaveštenje.
+CRM ne treba samo da beleži signal.
+Treba da ga pretvori u akciju.
+Brzina reakcije je deo CRM sistema
+Kada neko pokaže slab signal, ne morate odmah reagovati.
+Ali kada pokaže jak signal, brzina postaje važna.
+Jak signal može biti:
+popunjena kontakt forma,
+zahtev za demo,
+pitanje o ceni,
+odgovor na outreach,
+registracija više osoba iz iste firme,
+konkretno pitanje na webinaru,
+ili ponovna aktivacija starog ozbiljnog leada.
+U tim situacijama proces mora da bude brz.
+Lead ulazi u CRM.
+Dobija odgovornu osobu.
+Sales dobija obaveštenje.
+Uz obaveštenje dobija i kontekst.
+Zna odakle je lead došao.
+Šta je video.
+Koji problem ga zanima.
+Koje podatke je ostavio.
+Da li je ranije bio u kontaktu.
+Koji je najbolji sledeći korak.
+Bez tog konteksta, brz odgovor može i dalje da bude loš.
+Cilj nije samo reagovati brzo.
+Cilj je reagovati brzo i relevantno.
+Stari leadovi su često najpotcenjeniji deo CRM sistema
+Većina firmi stalno traži nove leadove.
+A u CRM sistemu već ima veliki broj ljudi koji su nekada pokazali interesovanje.
+Nisu kupili jer:
+nije bio pravi trenutak,
+nije bilo budžeta,
+nisu imali interni kapacitet,
+prioritet se promenio,
+odluka je odložena,
+ili su izabrali drugo rešenje.
+To ne znači da zauvek nisu kupci.
+Možda se situacija promenila.
+Zato treba pratiti stare leadove.
+Da li su promenili posao?
+Da li je firma porasla?
+Da li su zaposlili novu osobu?
+Da li su ponovo počeli da gledaju content?
+Da li se pojavila nova potreba?
+Da li je prošao period koji su pomenuli?
+Reaktivacija starog leada često može biti mnogo lakša od potpuno hladnog outreach-a.
+Već postoji kontekst.
+Već znaju ko ste.
+Već su razmišljali o problemu.
+Samo timing ranije nije bio dobar.
+CRM ne treba da zavisi od ručnog unosa
+Ako sales mora ručno da unosi svaki podatak, sistem će pre ili kasnije postati netačan.
+Ljudi zaborave.
+Kasne.
+Ne upišu sve.
+Svako koristi drugačiji format.
+Neko napiše detaljne beleške.
+Neko samo napiše:
+“Dobar call.”
+Zato što više podataka treba automatski da ulazi u CRM.
+Iz formi.
+Iz outreach alata.
+Iz email sistema.
+Iz webinar platforme.
+Iz kalendara.
+Iz call snimaka.
+Iz lead enrichment alata.
+Iz drugih relevantnih izvora.
+Automatizacija može da:
+kreira kontakt,
+poveže ga sa firmom,
+zabeleži izvor,
+doda aktivnost,
+ažurira score,
+kreira task,
+pošalje obaveštenje,
+i predloži sledeći korak.
+Sales i dalje treba da unese ono što automatizacija ne može dobro da razume.
+Pravi problem kupca.
+Internu dinamiku.
+Rizike.
+Objection-e.
+Budžet.
+Prioritet.
+Način donošenja odluke.
+Automatizacija čuva podatke.
+Čovek dodaje značenje.
+AI može da pomogne da CRM postane pametniji
+AI ne treba samo da napiše follow up poruku.
+Može da pomogne da se iz velike količine podataka izvuku korisni obrasci.
+Može da sažme sales call.
+Može da izdvoji glavne probleme.
+Može da prepozna objection-e koji se ponavljaju.
+Može da predloži naredni korak.
+Može da klasifikuje lead po segmentu.
+Može da primeti da više ljudi iz iste firme pokazuje aktivnost.
+Može da predloži relevantan content.
+Može da upozori da je deal dugo bez aktivnosti.
+Može da pronađe stare leadove koji imaju razlog za reaktivaciju.
+Ali AI je koristan samo ako su podaci dobri.
+Ako je CRM haotičan, AI će samo brže analizirati haos.
+Zato prvo morate imati jasnu strukturu.
+Koje podatke pratimo?
+Zašto ih pratimo?
+Koji signal je važan?
+Šta radimo kada se pojavi?
+Ko je odgovoran?
+Tek onda AI može da doda stvarnu vrednost.
+Kako organizovati CRM faze
+CRM faze treba da prate realan kupovni proces.
+Ne samo interne aktivnosti sales tima.
+Loša struktura može izgledati ovako:
+Novi lead.
+Kontaktiran.
+Follow up.
+Call.
+Ponuda.
+Dobijen ili izgubljen.
+To je previše grubo.
+Bolji sistem može da razlikuje:
+ICP fit bez aktivnosti,
+kontakt u outreach procesu,
+lead sa prvim signalom,
+warm lead,
+kvalifikovan razgovor,
+aktivna prilika,
+ponuda ili poslovni slučaj,
+odluka,
+nurture,
+reaktivacija,
+dobijen,
+izgubljen.
+Ne mora svaka firma imati iste faze.
+Ali faze moraju da pomognu timu da zna:
+gde se kupac nalazi,
+šta treba da se desi sledeće,
+i kada prilika više nije aktivna.
+Ako ljudi različito tumače faze, CRM podaci brzo gube vrednost.
+Šta meriti
+Dobar CRM omogućava da pratite mnogo više od broja dealova.
+Možete pratiti:
+koliko leadova ulazi po izvoru,
+koji segment daje najbolje razgovore,
+koji signal najčešće prethodi sastanku,
+koliko vremena prolazi od prvog kontakta do odgovora,
+koliko leadova se zagreva kroz content,
+koliko webinar učesnika prelazi u razgovor,
+koliko starih leadova se reaktivira,
+koliko brzo sales reaguje na jak signal,
+koliko prilika stoji bez sledećeg koraka,
+gde se dealovi najčešće zaustavljaju,
+koji objection se najčešće pojavljuje,
+koji content najviše pomaže sales-u,
+i koliko pipeline-a dolazi iz warm signala.
+Ovo vam pomaže da poboljšate ceo GTM sistem.
+Ne samo CRM.
+Možda ćete otkriti da jedan ICP daje mnogo bolji pipeline.
+Možda jedan webinar otvara više kvalitetnih razgovora.
+Možda content o određenom problemu privlači najbolje kupce.
+Možda većina dealova propada jer je follow up slab.
+Možda sales prekasno reaguje na forme.
+CRM treba da vam pomogne da vidite te obrasce.
+Najčešće greške
+Prva greška je da CRM uvedete kao administrativnu obavezu.
+Ako sales ne vidi vrednost, podaci će biti loši.
+Druga greška je previše polja.
+Ako tražite da se ručno popunjava sve, ljudi će preskakati.
+Treća greška je da svaki klik tretirate kao intent.
+To stvara buku.
+Četvrta greška je da se prati samo pojedinac, a ne firma.
+Tako ne vidite buying committee.
+Peta greška je da nema jasnog sledećeg koraka.
+Lead ostaje u fazi, ali niko ne zna šta dalje.
+Šesta greška je da CRM nije povezan sa drugim kanalima.
+Tada podaci ostaju fragmentirani.
+Sedma greška je da stari leadovi nemaju reaktivacioni proces.
+Osma greška je da se CRM koristi samo za reporting management-u.
+CRM prvo treba da pomogne sales osobi da radi bolji posao.
+Mini checklist za CRM i buying signals
+Da li svaki kontakt ima jasno poreklo?
+Da li znamo zašto je lead ICP fit?
+Da li pratimo signale iz outreach-a, contenta, webinara i sajta?
+Da li možemo da vidimo sve kontakte iz iste firme?
+Da li imamo jasan lead scoring model?
+Da li scoring kombinuje fit, timing i ponašanje?
+Da li svaki važan signal pokreće sledeću akciju?
+Da li sales dobija obaveštenje kada se pojavi jak intent?
+Da li uz obaveštenje dobija dovoljno konteksta?
+Da li postoji proces za nurture?
+Da li postoji proces za reaktivaciju starih leadova?
+Da li CRM automatski kreira zadatke?
+Da li su faze jasne svim članovima tima?
+Da li pratimo vreme od signala do reakcije?
+Da li znamo koji signali najčešće vode do pipeline-a?
+Ako ne možete jasno da odgovorite na ova pitanja, verovatno imate CRM alat.
+Ali još nemate pravi CRM sistem.
+Dobar CRM ne stvara interesovanje ni iz čega.
+Ali sprečava da interesovanje koje već postoji ostane neprimećeno.
+Pomaže vam da vidite ko se zagreva.
+Daje sales timu kontekst.
+Pamti ono što bi ljudi zaboravili.
+I omogućava da reagujete kada timing postane pravi.
+Zato CRM u Founder Led Growth sistemu nije mesto gde se čuvaju kontakti.
+To je centralno mesto gde se pažnja pretvara u sledeću sales akciju.
+LEKCIJA 10
+AI workflow-i: kako povezati sales sistem bez ručnog haosa
+Većina firmi danas koristi AI na najplićem mogućem nivou.
+Napiši mi outreach poruku.
+Sažmi ovaj call.
+Daj mi pet ideja za LinkedIn post.
+Prepravi ovaj email.
+To jeste korisno.
+Ali nije velika transformacija.
+Prava vrednost AI-a nije u tome da napiše još jednu poruku.
+Prava vrednost je kada AI poveže podatke, prepozna signal i pomogne timu da uradi pravi sledeći korak.
+Drugim rečima:
+AI ne treba samo da proizvodi više outputa.
+Treba da pomogne sales sistemu da donosi bolje odluke.
+AI ne popravlja loš proces
+Ovo je prvo pravilo.
+Ako nemate jasan ICP, AI će brže pronaći pogrešne ljude.
+Ako je positioning nejasan, AI će brže napisati više nejasnih poruka.
+Ako je follow up sekvenca loša, automatizacija će brže poslati više loših follow up poruka.
+Ako je CRM haotičan, AI će analizirati haos.
+Ako ne znate koji signal je važan, dobićete mnogo podataka bez jasne akcije.
+Zato AI ne treba uvoditi kao prvo rešenje.
+Prvo definišete sistem.
+Ko je naš kupac?
+Koji problem rešavamo?
+Koje signale pratimo?
+Koji sledeći korak ima smisla?
+Ko je odgovoran?
+Šta želimo da automatizujemo?
+Tek onda dodajete AI.
+AI treba da ubrza dobar proces.
+Ne da prikrije da proces ne postoji.
+Gde AI stvarno može da pomogne
+Dobar Founder Led Growth sistem ima mnogo pokretnih delova.
+ICP.
+Liste.
+Content.
+Outreach.
+Follow up.
+Webinari.
+CRM.
+Sales call-ovi.
+Buying signals.
+Reaktivacija starih leadova.
+Ako sve to zavisi od ručnog rada, sistem će brzo postati spor i nepouzdan.
+AI može da pomogne u nekoliko ključnih delova.
+Istraživanje leadova
+AI može da pregleda profil osobe, sajt firme, job oglase, objave, industriju, veličinu i druge podatke.
+Može da pomogne da odgovorite:
+Da li je firma stvarno dobar ICP fit?
+Koji problem je najverovatnije relevantan?
+Koji signal postoji?
+Koji buyer je najbolji prvi kontakt?
+Da li je osoba aktivna na LinkedIn-u?
+Koji ugao poruke ima smisla?
+Ovo ne znači da AI sam bira celu strategiju.
+Ali može da ukloni mnogo ručnog istraživanja.
+Umesto da sales osoba provede petnaest minuta na svakom lead-u, može da dobije kratak pregled i odluči gde vredi uložiti dodatnu pažnju.
+ICP scoring
+Liste iz Sales Navigatora, Apolla ili drugih alata nisu savršene.
+Zato AI može da pomogne da se leadovi rangiraju.
+Na primer:
+Tier 1 može biti jak ICP fit, dobar timing i aktivna osoba.
+Tier 2 može biti dobar fit, ali bez jasnog signala.
+Tier 3 može biti slabiji fit ili manje relevantna uloga.
+Rejected može biti osoba ili firma koja uopšte ne odgovara kampanji.
+Tako sales ne kreće od liste od osamsto ljudi koji svi izgledaju isto.
+Dobija prioritet.
+Ko ide prvi.
+Ko ide u nurture.
+Ko zahteva dublji research.
+Ko uopšte ne treba da dobije poruku.
+To smanjuje trošenje vremena i štiti reputaciju firme.
+Priprema poruka
+AI može da pomogne da se poruka prilagodi segmentu, ulozi i signalu.
+Ali cilj nije da svaka poruka ima generičku personalizaciju.
+“Video sam da ste objavili post.”
+“Čestitam na novoj poziciji.”
+“Video sam da volite planinarenje.”
+To često ne doprinosi razgovoru.
+Dobra personalizacija treba da poveže signal sa problemom.
+Na primer:
+firma širi sales tim,
+pokrenula je novi proizvod,
+ušla je na novo tržište,
+founder priča o problemu sa pipeline-om,
+firma zapošljava određene uloge,
+ili je više ljudi iz iste firme pokazalo interesovanje.
+AI može da pripremi kontekst.
+Čovek treba da proceni da li poruka zvuči prirodno i da li ima strateškog smisla.
+Follow up
+AI može da predloži sledeći follow up na osnovu prethodne komunikacije.
+Može da zna:
+šta je već poslato,
+koji objection postoji,
+koji content je relevantan,
+koji signal se pojavio,
+koliko je vremena prošlo,
+i koji sledeći korak ima smisla.
+To je mnogo bolje od generičke poruke:
+“Samo proveravam da li ste videli prethodni email.”
+Na primer, AI može da predloži:
+novi ugao,
+relevantan case study,
+poziv na webinar,
+odgovor na objection,
+kratak insight,
+ili reaktivacionu poruku povezanu sa prethodnim razgovorom.
+Sales osoba i dalje treba da odluči šta šalje.
+Ali ne mora svaki put da kreće od praznog ekrana.
+Sažimanje sales call-ova
+Sales call sadrži mnogo važnih informacija.
+Problem.
+Urgency.
+Budžet.
+Proces odlučivanja.
+Objection.
+Interna dinamika.
+Sledeći korak.
+Bez sistema, veliki deo toga ostane u beleškama ili u glavi sales osobe.
+AI može da sažme razgovor i izdvoji:
+glavne probleme,
+željeni ishod,
+razloge za promenu,
+rizike,
+ko je uključen u odluku,
+šta kupac mora interno da proveri,
+koji objection postoji,
+i šta treba da bude sledeći korak.
+Te informacije mogu automatski da uđu u CRM.
+Tako se kontekst ne gubi.
+I sledeći follow up može da bude mnogo precizniji.
+Analiza objection-a
+Ako snimate i analizirate sales razgovore, AI može da prepozna obrasce.
+Na primer:
+kupci stalno ne razumeju razliku između vas i konkurencije,
+često kažu da nije pravi trenutak,
+ne vide cenu neaktivnosti,
+misle da mogu sve interno,
+ne razumeju proces,
+ne veruju da će njihov tim koristiti proizvod,
+ili misle da je rešenje preskupo.
+To je veoma vredan podatak.
+Jer isti objection treba da se vrati nazad u ceo GTM sistem.
+Može postati:
+content tema,
+webinar,
+nova sekcija na sajtu,
+case study,
+promena u outreach poruci,
+bolje pitanje na sales call-u,
+ili korekcija samog offer-a.
+AI tako pomaže da firma uči iz razgovora.
+Ne samo da ih beleži.
+AI kao connective tissue
+Najveći problem modernih sales timova nije manjak alata.
+Problem je što alati ne pričaju međusobno.
+LinkedIn je odvojen.
+Email je odvojen.
+CRM je odvojen.
+Webinar je odvojen.
+Forme su odvojene.
+Call snimci su odvojeni.
+Content analytics je odvojen.
+Zato tim ima mnogo podataka, ali nema jednu jasnu sliku.
+AI workflow može da bude vezivno tkivo između tih sistema.
+Na primer:
+Lead popuni formu.
+Podaci se automatski obogate.
+AI proveri ICP fit.
+Lead dobije score.
+Kreira se kontakt u CRM-u.
+Dodeljuje se sales osoba.
+Tim dobija obaveštenje na Discordu ili Slack-u.
+Obaveštenje sadrži kratak pregled firme, potencijalni problem i preporučeni sledeći korak.
+Sales odmah zove lead.
+Call se snimi.
+AI sažme razgovor.
+Glavni problemi i sledeći koraci ulaze u CRM.
+Ako lead nije spreman, ulazi u nurture.
+Dobija relevantan content i poziv na webinar.
+Kada ponovo pokaže jak signal, sales dobija novo obaveštenje.
+To je pravi workflow.
+Nije samo jedna automatizacija.
+To je povezivanje celog puta kupca.
+AI treba da uklanja ručni rad, ne ljudski odnos
+Postoji strah da će automatizacija učiniti sales potpuno bezličnim.
+I može.
+Ako se loše koristi.
+Ali dobar sistem radi suprotno.
+Automatizuje ono što ljudima oduzima vreme.
+Kopiranje podataka.
+Čišćenje lista.
+Unos u CRM.
+Kreiranje taskova.
+Sažimanje call-ova.
+Prepoznavanje aktivnosti.
+Podsetnike.
+Osnovnu klasifikaciju.
+Tako sales osoba ima više vremena za ono što AI ne radi dobro.
+Da razume nijansu.
+Da postavi dobro pitanje.
+Da prepozna unutrašnju politiku firme.
+Da izgradi odnos.
+Da vodi težak razgovor.
+Da pregovara.
+Da pomogne kupcu da donese odluku.
+Cilj nije manje ljudskog sales-a.
+Cilj je manje ljudskog vremena potrošenog na administraciju.
+Šta SDR radi u automatizovanom sistemu
+Kada automatizujete research, enrichment, scoring, taskove i deo follow up-a, menja se i uloga SDR osobe.
+SDR više ne treba da bude neko ko ceo dan:
+kopira podatke,
+šalje iste poruke,
+ručno proverava profile,
+ažurira CRM,
+i pamti kome treba da se javi.
+To veliki deo sistema može da uradi brže i preciznije.
+Ali SDR i dalje ima veoma važnu ulogu.
+Treba da:
+razume ICP,
+pročita signal,
+proceni timing,
+izabere pravi ugao,
+personalizuje tamo gde stvarno vredi,
+kontaktira više ljudi unutar target firme,
+koristi content kao deo razgovora,
+reaguje brzo na warm leadove,
+i pretvara podatke u pravi ljudski razgovor.
+Automatizacija ne ukida SDR ulogu.
+Podigne je na viši nivo.
+Loš SDR model meri broj poslatih poruka.
+Dobar SDR model meri kvalitet otvorenih razgovora.
+Content workflow
+AI može da pomogne i founder content sistemu.
+Na primer:
+snimi se intervju sa founder-om,
+AI napravi transkript,
+izdvoji glavne ideje,
+prepozna jake stavove,
+pronađe priče, objection-e i primere,
+predloži strukture za postove,
+izdvoji delove za video klipove,
+poveže teme sa ICP segmentima,
+i označi koji content može da se koristi u outreach-u i follow up-u.
+Ali finalni content i dalje mora da zvuči kao founder.
+AI ne treba da izmisli mišljenje.
+Treba da pomogne da se ono što founder već zna lakše izvuče i distribuira.
+To je važna razlika.
+AI generisan content bez iskustva zvuči prazno.
+AI podržan content iz realnog iskustva može da bude veoma dobar.
+Reaktivacija starih leadova
+Jedna od najboljih primena AI-a je rad sa postojećom bazom.
+Većina firmi ima stotine ili hiljade starih kontakata.
+Neko je bio na call-u.
+Neko je rekao da se javite kasnije.
+Neko je preuzeo materijal.
+Neko je bio na webinaru.
+Neko je dobio ponudu.
+Neko je ranije bio dobar fit, ali nije imao timing.
+AI može da pomogne da se baza pregleda i grupiše.
+Ko je i dalje relevantan?
+Ko je promenio firmu?
+Ko sada ima višu poziciju?
+Ko dolazi iz firme koja raste?
+Ko je ranije imao konkretan problem?
+Ko je rekao tačan period kada treba da se javite?
+Ko ponovo pokazuje aktivnost?
+Tako se ne oslanjate samo na nove leadove.
+Koristite vrednost koju već imate u CRM sistemu.
+Gde treba biti oprezan
+AI može da napravi i mnogo problema.
+Previše automatizovanih poruka
+Ako AI šalje veliki broj generičkih poruka, reputacija firme brzo pada.
+Lažna personalizacija
+Pominjanje slučajnog detalja sa profila ne znači da je poruka relevantna.
+Loši podaci
+Ako su podaci netačni, workflow može pogrešno kvalifikovati lead ili poslati poruku pogrešnoj osobi.
+Previše signala
+Ako svaki klik pravi task, sales tim će biti zatrpan bukom.
+Gubitak ljudskog tona
+Ako svaka poruka zvuči kao AI, poverenje pada.
+Automatizacija bez kontrole
+Svaki važan workflow treba da ima jasnu logiku, vlasnika i način da se proveri kvalitet.
+AI ne treba pustiti da sam vodi ceo sales proces.
+Treba mu dati jasne granice.
+Kako odabrati šta prvo automatizovati
+Nemojte pokušati da automatizujete sve odjednom.
+Počnite od dela procesa koji:
+uzima mnogo vremena,
+često se ponavlja,
+ima jasna pravila,
+i ne zahteva mnogo ljudske procene.
+Dobar početak može biti:
+automatski unos form leadova u CRM,
+obogaćivanje osnovnih podataka,
+obaveštenje sales timu,
+kreiranje taska,
+sažimanje call-a,
+praćenje follow up datuma,
+ili reaktivacija leadova koji su rekli da se javite kasnije.
+Kada to radi stabilno, dodajte sledeći workflow.
+Ne gradite komplikovan sistem koji niko ne razume.
+Bolje je imati tri jednostavna workflow-a koja rade nego dvadeset automatizacija koje stalno pucaju.
+Kako meriti vrednost AI workflow-a
+Ne merite uspeh samo kroz broj automatizovanih zadataka.
+Merite:
+koliko vremena je sales tim uštedeo,
+koliko leadova je pravilno klasifikovano,
+koliko brzo se reaguje na form lead,
+koliko follow up taskova je završeno na vreme,
+koliko starih leadova je reaktivirano,
+koliko manje podataka nedostaje u CRM-u,
+koliko sastanaka dolazi iz warm signala,
+koliko brzo se call beleške pretvaraju u sledeću akciju,
+i koliko više vremena sales provodi u stvarnim razgovorima.
+AI workflow treba da poboljša poslovni rezultat.
+Ne samo da izgleda impresivno na demo-u.
+Alati koji mogu da pomognu
+Izbor alata zavisi od sistema koji već koristite.
+Za povezivanje workflow-a često se koriste:
+Make,
+n8n,
+Zapier,
+Clay,
+HubSpot,
+Pipedrive,
+Close,
+Attio,
+Apollo,
+Prospeo,
+FullEnrich,
+Fireflies,
+Fathom,
+OpenAI,
+Claude,
+Claude Code,
+Cursor,
+i različiti enrichment i intent alati.
+Ne treba vam svaki alat.
+To je česta greška.
+Alat treba da reši konkretan problem u procesu.
+Ne uvodite alat zato što je popularan.
+Uvedite ga kada znate:
+koji podatak ulazi,
+šta sistem treba da uradi,
+koja odluka izlazi,
+ko dobija obaveštenje,
+i kako merite rezultat.
+Mini checklist za AI workflow-e
+Pre nego što automatizujete proces, odgovorite:
+Da li je proces jasno definisan?
+Da li znamo koji je početni signal?
+Koje podatke sistem treba da prikupi?
+Da li su ti podaci pouzdani?
+Šta AI treba da proceni?
+Koji deo zahteva ljudsku odluku?
+Koja akcija treba da se pokrene?
+Gde se podatak čuva?
+Ko dobija obaveštenje?
+Šta se dešava ako automatizacija pogreši?
+Kako proveravamo kvalitet?
+Ko je vlasnik workflow-a?
+Koju poslovnu metriku poboljšavamo?
+Ako nemate jasne odgovore, verovatno još nije vreme za automatizaciju.
+Prvo sredite proces.
+Zatim uvedite AI.
+Jer cilj nije da imate više automatizacija.
+Cilj je da imate sales sistem koji manje zavisi od ručnog rada, manje zaboravlja, brže reaguje i daje ljudima bolji kontekst.
+AI u Founder Led Growth sistemu ne zamenjuje strategiju.
+Ne zamenjuje poverenje.
+Ne zamenjuje dobar sales razgovor.
+Povezuje delove sistema tako da prava osoba dobije pravi kontekst u pravom trenutku.
+Tu nastaje stvarna vrednost.
+LEKCIJA 11
+LinkedIn Ads i retargeting: kako skalirati ono što već radi
+Paid Ads mogu veoma brzo da potroše budžet.
+Posebno u B2B prodaji.
+Publika je manja.
+Klikovi su skuplji.
+Sales ciklus je duži.
+Većina ljudi nije spremna za kupovinu u trenutku kada vidi oglas.
+Zato LinkedIn Ads ne treba da budu prva stvar koju firma pokrene.
+Ako positioning nije jasan, oglasi će samo većem broju ljudi pokazati nejasnu poruku.
+Ako ne znate koji ICP najbolje reaguje, platićete da testirate preširoku publiku.
+Ako content još nije izgradio poverenje, oglasi će izgledati kao još jedan hladan pitch.
+Ako nemate CRM i follow up sistem, pažnja koju ste platili brzo će se izgubiti.
+Ads ne popravljaju slab GTM sistem.
+Samo ga skaliraju.
+Zato u Founder Led Growth sistemu oglase uvodimo tek kada već znamo:
+koji segment reaguje,
+koji problem privlači pažnju,
+koji content gradi poverenje,
+koji webinar donosi prave ljude,
+koji outreach angle otvara razgovor,
+i koji sledeći korak vodi ka pipeline-u.
+Tek tada paid distribucija dobija pravi smisao.
+Organski content je laboratorija
+Pre nego što potrošite budžet, organski content može da vam pokaže šta tržište razume.
+Ne treba gledati samo koji post ima najviše lajkova.
+Treba gledati:
+koji problem privlači prave ljude,
+koje objave target kupci čuvaju,
+koje teme pokreću komentare iz ciljne industrije,
+koji postovi donose profil posete,
+koji content sales koristi u razgovorima,
+koje objave kupci pominju na call-u,
+i koji ugao povećava odgovore u outreach kampanjama.
+To je veoma vredan feedback.
+Umesto da nasumično pravite oglase, možete da uzmete poruke koje već pokazuju znakove života i proširite njihovu distribuciju.
+Organski content testira.
+Oglasi skaliraju.
+To ne znači da će svaki dobar organski post postati dobar oglas.
+Ali znači da ne krećete potpuno naslepo.
+Već imate dokaz da određeni problem ili ugao izaziva pažnju.
+Ads nisu samo lead generation kanal
+Većina firmi pokrene oglase i odmah traži lead.
+Zakažite demo.
+Popunite formu.
+Kontaktirajte nas.
+Preuzmite ponudu.
+To može da radi kada kupac već razume problem i aktivno traži rešenje.
+Ali kod kompleksne B2B prodaje većina publike još nije u toj fazi.
+Ne poznaju vas.
+Ne razumeju dovoljno problem.
+Ne znaju zašto ste drugačiji.
+Nemaju urgency.
+Ne veruju vam dovoljno da ostave podatke.
+Zato oglasi mogu da imaju različite uloge.
+Mogu da:
+grade poznatost,
+distribuiraju founder content,
+objašnjavaju problem,
+promovišu webinar,
+prikazuju case study,
+reaktiviraju ljude koji su već imali kontakt sa vama,
+podrže target account kampanju,
+ili dovedu kvalifikovanog kupca do direktnog razgovora.
+Ne mora svaki oglas odmah da traži sastanak.
+Nekad je njegov posao samo da pomeri kupca jedan korak dalje.
+Hladna publika i retargeting nisu isto
+Hladna publika vas možda vidi prvi put.
+Retargeting publika je već imala neku interakciju sa vama.
+Možda je:
+pogledala video,
+posetila sajt,
+otvorila lead magnet,
+bila na webinaru,
+reagovala na content,
+posetila profil,
+ili bila deo outreach kampanje.
+Zato ove dve grupe ne treba da dobiju istu poruku.
+Hladnoj publici prvo treba pomoći da prepozna problem.
+Retargeting publici možete dati više dokaza i jasniji sledeći korak.
+Na primer:
+Hladan oglas može da kaže:
+“Referral-i su najbolji leadovi. Ali ako su vam glavni sales kanal, nemate predvidiv pipeline.”
+Retargeting oglas može da kaže:
+“Pogledajte kako se founder content, outreach, webinari i CRM signali povezuju u jedan sales sistem.”
+Još toplija publika može dobiti:
+“Zakažite GTM audit i pogledajte gde vam trenutno curi pipeline.”
+Ista firma.
+Ista ponuda.
+Drugačiji nivo svesti.
+Founder content može da postane oglas
+Jedna od najboljih primena LinkedIn Ads-a je distribucija contenta sa ličnih profila.
+Ljudi često više veruju osobi nego company page-u.
+Posebno kada founder govori jasno, konkretno i iz iskustva.
+Dobar founder post može da se distribuira ka:
+ciljnim industrijama,
+relevantnim titulama,
+odabranim firmama,
+postojećim leadovima,
+ili ljudima koji su već imali neki kontakt sa brendom.
+Tako content ne zavisi samo od organskog reach-a.
+Možete sistemski da povećate broj pravih ljudi koji ga vidi.
+Ali content mora da bude dobar.
+Ako post zvuči kao reklama, plaćena distribucija ga neće popraviti.
+Ako founder zaista objašnjava problem, pokazuje stav i daje vrednost, oglas može da izgleda mnogo prirodnije od klasične company reklame.
+Kupac ne dobija samo pitch.
+Dobija način razmišljanja osobe koja stoji iza firme.
+Retargeting pretvara poznatost u poverenje
+Kupac retko donosi ozbiljnu B2B odluku posle jednog touchpoint-a.
+Može prvo da vidi post.
+Zatim dobije outreach poruku.
+Onda poseti profil.
+Kasnije vidi case study oglas.
+Nakon toga dobije poziv na webinar.
+Pogleda deo webinara.
+Dobije follow up.
+Tek onda prihvati razgovor.
+Nijedan touchpoint sam nije napravio prodaju.
+Ali zajedno su smanjili osećaj rizika.
+To je prava vrednost retargeting-a.
+Ne pokušavate da naterate potpuno hladnu osobu da odmah kupi.
+Pomažete ljudima koji su već pokazali pažnju da kroz vreme vide više konteksta i dokaza.
+Retargeting publika može da vidi:
+case study,
+iskustvo klijenta,
+founder video,
+objašnjenje procesa,
+odgovor na čest objection,
+poziv na webinar,
+guide,
+ili konkretnu ponudu za sledeći korak.
+Tako svaka nova interakcija nadograđuje prethodnu.
+Oglasi mogu da podrže outbound
+Outreach i Ads ne treba da budu odvojeni kanali.
+Mogu da rade zajedno.
+Na primer:
+napravite listu target firmi,
+identifikujete relevantne decision maker-e,
+pokrenete outreach sa nekoliko profila,
+istovremeno prikazujete relevantan content toj publici,
+zatim promovišete webinar,
+a nakon webinara koristite retargeting sa case study-jima i direktnijom ponudom.
+Kada sales pošalje poruku, kupac možda već prepoznaje founder-a.
+Kada kupac proveri profil, vidi relevantan content.
+Kada ne odgovori odmah, oglasi nastavljaju da grade kontekst.
+Kada se promeni timing, vaša firma nije potpuno nepoznata.
+To je mnogo jači sistem od situacije u kojoj outreach šalje poruke, dok marketing istim ljudima prikazuje potpuno nepovezane oglase.
+Account based distribucija
+Kod većih B2B dealova često ne želite hiljade nasumičnih leadova.
+Želite pažnju unutar ograničenog broja pravih firmi.
+Tada oglasi mogu da podrže account based pristup.
+Odaberete listu target kompanija.
+Definišete buying committee.
+Napravite content za različite uloge.
+Founder govori o poslovnom problemu.
+Sales lider govori o pipeline-u.
+Marketing osoba govori o trust-u i distribuciji.
+GTM osoba govori o procesu i podacima.
+AI stručnjak govori o automatizaciji.
+Različiti ljudi unutar target firme mogu da vide različite delove iste priče.
+CEO vidi poslovni rizik.
+Head of Sales vidi problem sa procesom.
+CMO vidi problem sa contentom.
+Operations osoba vidi problem sa ručnim radom.
+Tako se poruka širi unutar firme.
+Ne oslanjate se na jednu osobu da sve interno objasni.
+Pomažete buying committee-ju da iz više uglova razume isti problem.
+LinkedIn Lead Gen forme
+LinkedIn forme mogu biti korisne jer osoba ne mora da napusti platformu.
+Podaci se često automatski popune.
+To smanjuje trenje.
+Ali manje trenja ne znači automatski i bolji lead.
+Neko može veoma lako da preuzme guide ili se prijavi za webinar, bez ozbiljne namere.
+Zato forma treba da uradi dve stvari.
+Prvo, da bude dovoljno jednostavna da prava osoba ne odustane.
+Drugo, da prikupi dovoljno konteksta da možete proceniti kvalitet.
+Pitanja mogu da otkriju:
+veličinu firme,
+glavni sales problem,
+trenutni način dolaska do kupaca,
+veličinu sales tima,
+prioritet,
+ili željeni sledeći korak.
+Ne treba imati deset pitanja.
+Ali ne treba ni tretirati svaki email kao kvalifikovan lead.
+Podaci iz forme treba automatski da uđu u CRM.
+Lead treba da dobije izvor.
+Treba da bude obogaćen.
+Treba da se proveri ICP fit.
+Sales treba da dobije obaveštenje kada lead pokazuje jak intent.
+Bez tog procesa, forma samo puni još jednu tabelu.
+Webinar promocija kroz Ads
+Webinar je dobar offer za LinkedIn publiku jer ne traži odmah sales razgovor.
+Možete napraviti više oglasa oko iste teme.
+Jedan oglas objašnjava problem.
+Drugi pokazuje čestu grešku.
+Treći daje praktičan primer.
+Četvrti predstavlja šta će ljudi naučiti.
+Peti koristi kratki founder video.
+Tako ne promovišete samo događaj.
+Gradite celu priču oko problema.
+Nakon webinara, retargeting može da pokaže:
+snimak,
+glavne lekcije,
+kratke video isečke,
+case study,
+ili poziv na razgovor za ljude koji su pokazali dovoljno interesa.
+To webinar pretvara iz jednokratnog događaja u kampanju koja može trajati nedeljama.
+Kako izabrati pravi offer
+Najveća greška je da ista ponuda ide ka svima.
+Hladna publika možda neće zakazati konsultaciju.
+Ali možda hoće da pogleda dobar video.
+Osoba koja je više puta gledala content možda će preuzeti guide.
+Osoba koja je bila na webinaru možda će pogledati case study.
+Osoba koja je pokazala više jakih signala možda će prihvatiti audit ili sales razgovor.
+Zato offer treba da prati nivo spremnosti.
+Možete razmišljati kroz nekoliko koraka.
+Prvi korak
+Pažnja
+Founder post.
+Video.
+Jaka ideja.
+Problem koji kupac prepoznaje.
+Drugi korak
+Edukacija
+Guide.
+Carousel.
+Webinar.
+Newsletter.
+Detaljniji video.
+Treći korak
+Dokaz
+Case study.
+Rezultat.
+Primer procesa.
+Iskustvo klijenta.
+Četvrti korak
+Razgovor
+Audit.
+Konsultacija.
+Demo.
+Procena trenutnog sistema.
+Nije svaki kupac spreman za četvrti korak.
+Dobar paid sistem daje mu prirodan put do njega.
+Kreativa je deo targetiranja
+Na LinkedIn-u ne targetira samo podešavanje kampanje.
+Targetira i poruka.
+Možete izabrati savršenu industriju i titulu.
+Ali ako je oglas generički, pravi kupac neće osetiti da je namenjen njemu.
+Na primer:
+“Povećajte prodaju uz našu modernu platformu”
+može biti namenjeno bilo kome.
+Mnogo jača poruka je:
+“Vaš sales tim ne treba još jednu listu. Treba da zna koje firme imaju razlog da pričaju sada.”
+Pravi kupac se prepoznaje.
+Pogrešan kupac prolazi dalje.
+To je dobro.
+Ne želite svaki klik.
+Želite pažnju relevantne osobe.
+Dobar oglas jasno pokazuje:
+kome se obraća,
+koji problem prepoznaje,
+koju grešku otkriva,
+šta kupac može da nauči,
+i koji je sledeći mali korak.
+Nemojte gledati samo cenu klika
+Kod B2B kampanja lako je upasti u zamku površnih metrika.
+Cena klika.
+Broj pregleda.
+CTR.
+Cena registracije.
+Broj leadova.
+Sve su to korisne metrike.
+Ali ne govore celu priču.
+Jeftin lead može da bude potpuno pogrešna osoba.
+Skup lead može da dođe iz target firme i da postane ozbiljan deal.
+Zato treba pratiti ceo put.
+Ko je video oglas?
+Ko je reagovao?
+Ko je odgovarajući ICP?
+Ko je prisustvovao webinaru?
+Ko je ušao u razgovor?
+Ko je postao kvalifikovana prilika?
+Koji segment je napravio pipeline?
+Koja kampanja je ubrzala postojeći deal?
+Koji content je pomogao sales timu?
+Na kraju nije najvažnije koliko je koštao klik.
+Važnije je koliko košta kvalitetan razgovor i koliko pipeline-a nastaje iz kampanje.
+Kako znati šta treba skalirati
+Ne skalirajte kampanju samo zato što ima dobar CTR.
+Pogledajte kvalitet ljudi koji reaguju.
+Dobri signali za skaliranje mogu biti:
+pravi ICP klikće,
+target firme gledaju content,
+kvalitetne osobe se registruju,
+sales dobija relevantne odgovore,
+webinar privlači pravu publiku,
+leadovi pominju oglas ili content na call-u,
+više ljudi iz iste firme pokazuje aktivnost,
+i kampanja utiče na kvalifikovan pipeline.
+Kada to vidite, možete povećati budžet.
+Možete proširiti publiku.
+Možete testirati više kreativa.
+Možete dodati slične segmente.
+Možete napraviti dublji nurture.
+Ali prvo morate potvrditi da sistem privlači prave ljude.
+Više loših leadova nije skaliranje.
+To je samo veći problem.
+Organski content i Ads treba da dele insight-e
+Plaćene i organske kampanje treba stalno da uče jedna od druge.
+Ako jedan organski post privlači mnogo target ljudi, testirajte ga kao oglas.
+Ako oglas sa određenim problemom ima dobar kvalitet reakcija, napravite više organskog contenta o toj temi.
+Ako webinar privlači određenu industriju, napravite posebnu kampanju za taj segment.
+Ako target publika ne reaguje na određeni angle, vratite feedback u positioning i outreach.
+Ako case study odlično radi u retargeting-u, neka ga sales koristi u follow up-u.
+Tako sistem postaje pametniji.
+Content ne postoji u jednom timu.
+Ads u drugom.
+Outreach u trećem.
+Svi koriste iste tržišne insight-e.
+Koliki budžet je potreban
+Ne postoji jedan broj koji odgovara svakoj firmi.
+Budžet zavisi od:
+veličine publike,
+tržišta,
+vrednosti deal-a,
+cilja kampanje,
+formata,
+trajanja sales ciklusa,
+i količine contenta koji testirate.
+Ali jedno pravilo je korisno:
+Nemojte rasporediti mali budžet na deset kampanja, pet publika i dvadeset oglasa.
+Nećete dobiti dovoljno podataka ni za jednu odluku.
+Bolje je imati:
+jedan jasan ICP segment,
+jedan glavni problem,
+nekoliko dobrih kreativa,
+jasan sledeći korak,
+i dovoljno vremena da kampanja pokaže obrazac.
+Paid B2B distribucija zahteva strpljenje.
+Posebno kada cilj nije impulsna kupovina, već ozbiljan poslovni razgovor.
+Najčešće greške
+Prva greška je prerano pokretanje Ads-a.
+Positioning, ICP i offer još nisu potvrđeni.
+Druga greška je da svaki oglas odmah traži demo.
+Publika još nije spremna.
+Treća greška je generička kreativa.
+Oglas ne pokazuje kome je namenjen.
+Četvrta greška je ista poruka za hladnu i toplu publiku.
+Peti problem je odvajanje od outreach-a i CRM-a.
+Marketing pravi pažnju, ali sales ne zna šta da radi sa njom.
+Šesta greška je gledanje samo lead cene.
+Ne prati se kvalitet i pipeline.
+Sedma greška je previše kampanja sa premalim budžetom.
+Osma greška je da nema retargeting sistema.
+Ljudi pokažu interesovanje, a zatim vas više nikada ne vide.
+Deveta greška je da firma skalira kampanju pre nego što potvrdi kvalitet kupaca.
+Mini checklist za LinkedIn Ads i retargeting
+Pre nego što pokrenete kampanju, odgovorite:
+Da li imamo potvrđen ICP?
+Da li znamo koji problem privlači pažnju tog segmenta?
+Da li organski content već pokazuje koji uglovi rade?
+Koji je cilj kampanje?
+Da li gradimo pažnju, edukujemo, pokazujemo dokaz ili tražimo razgovor?
+Koju poruku dobija hladna publika?
+Koju poruku dobija retargeting publika?
+Koji content promovišemo?
+Da li imamo jasan offer za nivo spremnosti kupca?
+Kako se leadovi unose u CRM?
+Kako proveravamo ICP fit?
+Ko dobija obaveštenje?
+Koji follow up se pokreće?
+Da li sales zna koje oglase i content lead može da vidi?
+Da li pratimo kvalitet razgovora i pipeline, a ne samo klikove?
+Da li imamo dovoljno budžeta da prikupimo smislen podatak?
+Da li skaliramo nešto što je već pokazalo da radi?
+Ako nemate jasne odgovore, oglasi verovatno još nisu sledeći korak.
+Prvo potvrdite poruku kroz content, outreach i razgovore sa tržištem.
+Zatim koristite LinkedIn Ads da relevantnu poruku vidi više pravih ljudi.
+Jer paid distribucija ne treba da zameni Founder Led Growth sistem.
+Treba da ga ubrza.
+Kada positioning, content, outreach, webinar, CRM i follow up već rade zajedno, oglasi mogu da povećaju poznatost, prošire poverenje i ubrzaju put od prvog kontakta do ozbiljnog sales razgovora.
+LEKCIJA 12
+Kako izgleda ceo Founder Led Growth sistem u praksi
+Do sada smo pričali o svakom delu sistema posebno.
+ICP.
+Positioning.
+Founder content.
+Outreach po signalima.
+Follow up.
+Webinari.
+CRM.
+AI workflow-i.
+LinkedIn Ads.
+Svaki od tih delova može pojedinačno da donese rezultat.
+Ali najveća vrednost nastaje tek kada počnu da rade zajedno.
+To je suština Founder Led Growth-a.
+Ne pravite još jedan marketing kanal.
+Ne pravite još jednu outreach kampanju.
+Ne uvodite još jedan alat.
+Gradite sistem u kome svaki deo pomaže sledećem.
+Content povećava poverenje.
+Outreach testira tržište.
+Webinar edukuje zainteresovane ljude.
+CRM beleži kontekst i signale.
+Follow up održava relevantnost.
+AI povezuje podatke i pokreće akcije.
+Ads šire poruke koje su već pokazale da rade.
+Sales dobija bolje pripremljenog kupca.
+To je potpuno drugačije od situacije u kojoj svako radi nešto svoje.
+Kako izgleda firma bez sistema
+Marketing pravi content prema svom kalendaru.
+Sales šalje poruke prema svojoj listi.
+Founder povremeno objavi nešto kada ima vremena.
+Webinar se organizuje kao izolovan događaj.
+Leadovi sa formi završavaju u email inbox-u.
+CRM se ažurira kada se neko seti.
+Follow up zavisi od discipline sales osobe.
+Ads promovišu drugu poruku od one koju koristi outreach.
+AI se koristi da napiše još poruka.
+Svaka aktivnost postoji.
+Ali ne postoji zajednički tok.
+Zbog toga firma može da radi mnogo, a da i dalje nema kontrolu nad pipeline-om.
+Problem nije u tome što nema dovoljno aktivnosti.
+Problem je što aktivnosti ne rade zajedno.
+Kako izgleda firma sa Founder Led Growth sistemom
+Firma zna koji segment trenutno želi da testira.
+Zna koji problem želi da otvori.
+Founder i stručnjaci iz firme prave content koji taj problem objašnjava iz više uglova.
+Outreach se pokreće ka odabranim firmama i ljudima.
+Poruke koriste isti positioning kao content.
+Reakcije iz outreach-a vraćaju se nazad u strategiju.
+Objection-i postaju nove content teme.
+Zainteresovani ljudi dobijaju relevantan case study, guide ili poziv na webinar.
+Njihove aktivnosti ulaze u CRM.
+Kada se pojavi jači signal, sales dobija obaveštenje i kontekst.
+Ako osoba još nije spremna, ulazi u nurture i follow up proces.
+Kada se potvrdi da određeni segment, poruka i content rade, LinkedIn Ads povećavaju distribuciju.
+AI povezuje podatke, sažima razgovore, kreira taskove i pomaže timu da ništa ne zaboravi.
+Sistem kroz svaki ciklus uči nešto novo.
+To je prava razlika.
+Korak 1
+Biramo jedan ICP segment
+Ne počinjemo od svih potencijalnih kupaca.
+Biramo jedan segment gde postoji dobra kombinacija:
+jak problem,
+dovoljan budžet,
+dostupni decision maker-i,
+jasan način da ih pronađemo,
+i razlog da reaguju sada.
+Na primer:
+B2B uslužne firme od 10 do 50 ljudi koje većinu novih poslova dobijaju kroz preporuke.
+To je mnogo korisnije od:
+“Ciljamo sve B2B firme.”
+Kada je segment jasan, sve posle postaje lakše.
+Znamo kako kupac razmišlja.
+Znamo koje probleme ima.
+Znamo ko donosi odluku.
+Znamo šta mu je važno.
+Znamo gde možemo da ga pronađemo.
+Korak 2
+Definišemo problem i positioning
+Zatim definišemo koji problem želimo da otvorimo.
+Ne pričamo odmah o usluzi.
+Pričamo o situaciji koju kupac već prepoznaje.
+Na primer:
+Firma ima dobar delivery i zadovoljne klijente, ali nema predvidiv način da svaki mesec otvara nove razgovore.
+Novi poslovi dolaze kroz preporuke.
+Kada preporuke stanu, pipeline se brzo prazni.
+Positioning zatim jasno povezuje taj problem sa našim rešenjem.
+Na primer:
+“Pomažemo B2B firmama koje zavise od preporuka da naprave predvidiv sales pipeline kroz founder content, outreach po signalima i CRM sistem.”
+Kupac treba brzo da razume:
+da li je ovo za mene,
+koji problem rešava,
+i kako se razlikuje od obične LinkedIn ili outreach agencije.
+Korak 3
+Pravimo content koji priprema kupca
+Sledeće pitanje nije:
+“Šta objavljujemo ove nedelje?”
+Pitanje je:
+“Šta kupac mora da razume pre nego što bude spreman za razgovor?”
+Ako segment zavisi od preporuka, content može da pokrije:
+zašto referral-i nisu predvidiv sales sistem,
+zašto pipeline treba graditi dok stvari idu dobro,
+zašto outbound sam više nije dovoljan,
+kako founder content gradi poverenje,
+zašto većina follow up-a propadne,
+i kako CRM pokazuje ko se zagreva.
+Svaka tema pomera kupca korak dalje.
+Content ne prodaje uslugu direktno.
+Pomaže kupcu da bolje razume svoj problem.
+Kada kasnije dobije outreach poruku, ona više ne dolazi bez konteksta.
+Korak 4
+Outreach testira tržište
+Sada pravimo listu firmi i ljudi.
+Ne šaljemo poruke odmah svima.
+Prvo proveravamo:
+da li je firma pravi fit,
+ko ima relevantnu ulogu,
+koji timing signal postoji,
+ko je aktivan,
+i koji ugao poruke ima najviše smisla.
+Zatim pokrećemo manje testove.
+Možemo testirati:
+dva segmenta,
+više buyer uloga,
+nekoliko problema,
+različite ulazne poruke,
+i različite sledeće korake.
+Outreach tada nije samo alat za zakazivanje sastanaka.
+On postaje način da brzo učimo od tržišta.
+Ko odgovara?
+Ko ne odgovara?
+Koji problem ljudi prepoznaju?
+Koji angle izaziva otpor?
+Koji segment donosi kvalitetnije razgovore?
+Šta kupci stalno pitaju?
+Svaki odgovor pomaže da sistem postane precizniji.
+Korak 5
+Feedback ulazi u content i positioning
+Ako outreach pokaže da kupci ne razumeju određeni problem, pravimo content o njemu.
+Ako se isti objection ponavlja na sales call-ovima, pretvaramo ga u post, video ili webinar.
+Ako jedan segment mnogo bolje reaguje, povećavamo fokus na njega.
+Ako ljudi pogrešno tumače ponudu, menjamo positioning.
+Ako jedna poruka otvara dobre razgovore, koristimo isti ugao kroz druge kanale.
+To znači da content plan ne nastaje nasumično.
+Nastaje iz tržišnog feedback-a.
+Sales uči od kupaca.
+Content objašnjava ono što kupci još ne razumeju.
+Outreach zatim koristi bolju poruku.
+Sledeći krug daje još kvalitetnije podatke.
+Sistem tako stalno uči.
+Korak 6
+Zainteresovane ljude ne guramo odmah na call
+Neće svaka osoba koja pokaže interesovanje biti spremna za sales razgovor.
+Neko će reagovati na post.
+Neko će otvoriti nekoliko poruka.
+Neko će kliknuti case study.
+Neko će reći da tema ima smisla, ali nije prioritet sada.
+Umesto da sve guramo ka istom CTA-u, nudimo sledeći korak koji odgovara nivou spremnosti.
+To može biti:
+relevantan post,
+case study,
+kratki video,
+guide,
+webinar,
+ili direktan razgovor.
+Dobar sistem ne pita samo:
+“Da li želiš sastanak?”
+Pita:
+“Šta ovoj osobi sledeće treba da bi bolje razumela problem i stekla više poverenja?”
+Korak 7
+Webinar produbljuje interesovanje
+Webinar okuplja ljude koji prepoznaju problem, ali još nisu spremni za direktnu prodaju.
+Na webinaru ne predstavljamo samo svoje usluge.
+Objašnjavamo:
+zašto problem postoji,
+zašto trenutni pristup ne radi,
+kako novi sistem izgleda,
+i kako da kupac proceni svoju trenutnu situaciju.
+Tokom webinara dobijamo nove signale.
+Ko se registrovao?
+Ko je prisustvovao?
+Ko je ostao do kraja?
+Ko je postavio pitanje?
+Koja tema je izazvala najviše interesovanja?
+Ti podaci ulaze u CRM.
+Sales sada ne vidi samo ime i email.
+Vidi i kontekst.
+Korak 8
+CRM spaja celu priču
+CRM postaje centralno mesto sistema.
+Za svaki kontakt treba da znamo:
+ko je osoba,
+iz koje firme dolazi,
+zašto je ICP fit,
+koje poruke je dobila,
+koji content je videla,
+da li je bila na webinaru,
+šta je otvorila,
+šta je kliknula,
+da li je ranije pričala sa nama,
+koji problem je pomenula,
+i šta treba da se desi sledeće.
+Tako sales ne reaguje nasumično.
+Može da razlikuje:
+hladan kontakt,
+dobar fit bez signala,
+warm lead,
+aktivnu priliku,
+stari lead za reaktivaciju,
+i osobu koja još treba nurture.
+CRM ne služi samo da management vidi brojeve.
+Treba da pomogne sales timu da svaki dan zna gde prvo da uloži pažnju.
+Korak 9
+Follow up održava prisutnost
+Kada osoba ne odgovori odmah, ne proglašavamo je izgubljenom.
+Možda nije pravi trenutak.
+Možda joj treba više dokaza.
+Možda problem još nije dovoljno veliki.
+Možda prvo mora da uključi druge ljude.
+Zato follow up treba da dodaje nove razloge za razgovor.
+Jedan follow up može da donese novi insight.
+Drugi case study.
+Treći poziv na webinar.
+Četvrti odgovor na čest objection.
+Peti novi signal iz njihove firme.
+Šesti reaktivaciju nakon nekoliko meseci.
+Ne šaljemo poruke samo da bismo podsetili kupca da nam nije odgovorio.
+Ostajemo prisutni kroz relevantnu vrednost.
+Korak 10
+AI uklanja ručni haos
+Kada broj kontakata, signala i aktivnosti poraste, ručni sistem počinje da puca.
+Tu AI i automatizacije preuzimaju ponavljajuće poslove.
+Mogu da:
+obogate lead podatke,
+procene ICP fit,
+rangiraju leadove,
+kreiraju kontakte u CRM-u,
+beleže aktivnosti,
+sažmu sales call,
+izdvoje objection-e,
+kreiraju taskove,
+pošalju obaveštenje timu,
+predlože relevantan content,
+i pronađu stare leadove za reaktivaciju.
+Ali odluke koje zahtevaju razumevanje kupca ostaju ljudima.
+AI pamti i povezuje.
+Sales razume kontekst i vodi razgovor.
+Tako ljudi imaju više vremena za kvalitetan rad, a manje za kopiranje podataka i administraciju.
+Korak 11
+Sales dobija lead sa kontekstom
+U klasičnom outbound sistemu sales često dobije:
+ime,
+titulu,
+firmu,
+email,
+i možda jednu generičku napomenu.
+U Founder Led Growth sistemu može da dobije:
+zašto je firma dobar fit,
+koji signal postoji,
+koji content je osoba videla,
+koje poruke je dobila,
+da li je bila na webinaru,
+koji problem je pokazala,
+ko je još iz firme aktivan,
+i koji sledeći ugao ima smisla.
+To menja kvalitet razgovora.
+Sales više ne počinje od:
+“Da li imate ovaj problem?”
+Može da počne od konkretnijeg konteksta.
+Kupac oseća da razgovor nije potpuno hladan.
+Sales brže dolazi do suštine.
+Manje vremena se troši na osnovna objašnjenja.
+Više vremena ostaje za stvarni problem i odluku.
+Korak 12
+Skaliramo tek kada nešto potvrđeno radi
+Kada vidimo da:
+jedan ICP segment dobro reaguje,
+određeni problem privlači pažnju,
+founder content gradi poverenje,
+outreach otvara kvalitetne razgovore,
+webinar privlači pravu publiku,
+follow up reaktivira leadove,
+i CRM signali pomažu sales timu,
+tek tada povećavamo distribuciju.
+Možemo da:
+povećamo broj target firmi,
+uključimo više profila,
+proširimo content produkciju,
+organizujemo dodatne webinare,
+uvedemo LinkedIn Ads,
+napravimo retargeting,
+i automatizujemo više delova procesa.
+Skaliranje nije slanje više poruka.
+Skaliranje je povećavanje obima procesa koji je već pokazao da donosi kvalitetan pipeline.
+Ako nešto ne radi na malom broju pravih kupaca, veći budžet ga neće popraviti.
+Kako izgleda jedan realan ciklus
+Zamislimo da prodajemo B2B uslužnim firmama koje zavise od preporuka.
+Prvo odaberemo segment.
+Zatim definišemo positioning oko predvidivog pipeline-a.
+Founder objavljuje content o referral zavisnosti, sales sistemima i problemima sa follow up-om.
+Sales tim pravi listu relevantnih founder-a i Head of Sales osoba.
+Lista se obogaćuje signalima.
+Outreach se pokreće kroz više uglova.
+Neko odgovori odmah.
+Neko pogleda profil.
+Neko reaguje na post.
+Neko se registruje za webinar.
+Sve aktivnosti ulaze u CRM.
+Osoba koja odgovori dobija direktan razgovor.
+Osoba koja još nije spremna dobija webinar i relevantan content.
+Nakon webinara sales kontaktira ljude sa najjačim signalima.
+Objection-i sa razgovora postaju nove content teme.
+Najbolji postovi dobijaju dodatnu distribuciju kroz Ads.
+Stari leadovi se reaktiviraju kada ponovo pokažu interesovanje.
+Nakon nekoliko ciklusa firma više ne zavisi samo od preporuka.
+Ima sistem koji redovno:
+otkriva prave firme,
+gradi poverenje,
+otvara razgovore,
+prati signale,
+i reaguje kada timing postane pravi.
+Ko je vlasnik sistema
+Jedan od najvećih problema je kada niko nije vlasnik celog procesa.
+Marketing gleda content.
+Sales gleda sastanke.
+Operations gleda CRM.
+Founder povremeno daje ideje.
+Agencija radi outreach.
+Niko ne gleda kako sve zajedno utiče na pipeline.
+Founder Led Growth sistem mora da ima vlasnika.
+To može biti founder.
+Head of Growth.
+GTM lider.
+Revenue osoba.
+Ili mali tim koji radi zajedno.
+Vlasnik sistema treba da prati:
+koji ICP testiramo,
+šta učimo iz outreach-a,
+koje teme rade,
+koji objection-i se pojavljuju,
+koji signali vode do sastanka,
+gde leadovi ispadaju,
+i šta menjamo u sledećem ciklusu.
+Bez vlasnika, delovi će se ponovo razdvojiti.
+Kako znati da sistem počinje da radi
+Prvi signal nije nužno eksplozija broja leadova.
+Često prvo vidite druge promene.
+Kupci pominju content na sastancima.
+Outreach odgovori postaju relevantniji.
+Sales razgovori brže dolaze do konkretnog problema.
+Više ljudi iz iste firme ulazi u kontakt.
+Stari leadovi se vraćaju.
+Founder više ne mora svaki put da objašnjava sve od početka.
+CRM počinje da pokazuje jasne prioritete.
+Tim zna šta je sledeći korak.
+Content teme dolaze iz realnih razgovora.
+Marketing i sales počinju da koriste isti jezik.
+To su znaci da više ne radite nasumične aktivnosti.
+Gradite infrastrukturu za prihod.
+Šta Founder Led Growth nije
+Founder Led Growth nije:
+svakodnevno objavljivanje bez strategije,
+masovno slanje automatizovanih poruka,
+lični brend radi popularnosti,
+CRM pun kontakata bez sledećih koraka,
+AI koji generiše generički content,
+webinar bez follow up-a,
+ili Ads kampanja koja pokušava da reši slab positioning.
+To su samo odvojene aktivnosti.
+Founder Led Growth je način da se ekspertiza founder-a i tima pretvori u sistem koji gradi poverenje, uči od tržišta i pomaže sales-u da otvara kvalitetnije razgovore.
+Mini checklist za ceo sistem
+Da li imamo jasno definisan ICP segment?
+Da li znamo koji problem trenutno testiramo?
+Da li je positioning jasan za nekoliko sekundi?
+Da li founder content priprema kupca za razgovor?
+Da li outreach testira segmente i poruke?
+Da li feedback iz sales-a ulazi u content?
+Da li imamo sledeći korak za ljude koji nisu spremni za call?
+Da li koristimo webinar za edukaciju i kvalifikaciju?
+Da li CRM povezuje sve aktivnosti i signale?
+Da li svaki važan signal pokreće akciju?
+Da li follow up dodaje novu vrednost?
+Da li postoji proces za reaktivaciju starih leadova?
+Da li AI uklanja ručni rad?
+Da li sales dobija kontekst, a ne samo kontakt?
+Da li Ads skaliraju poruke koje su već potvrđene?
+Da li jedna osoba ili tim ima vlasništvo nad celim sistemom?
+Da li merimo kvalitet pipeline-a, a ne samo količinu aktivnosti?
+Ako na većinu pitanja odgovarate sa ne, to ne znači da morate sve da uvedete odjednom.
+Počnite od osnove.
+Jedan ICP.
+Jedan problem.
+Jedan jasan positioning.
+Jedan founder profil.
+Jedna outreach kampanja.
+Jedan CRM tok.
+Jedan follow up sistem.
+Zatim dodajte sledeći sloj.
+Dobar Founder Led Growth sistem ne nastaje preko noći.
+Ali svaki deo koji povežete smanjuje zavisnost od sreće, preporuka i ručnog rada.
+I povećava kontrolu nad time kako nova poslovna prilika nastaje.
+To je krajnji cilj.
+Ne da potpuno izbacite preporuke.
+Ne da automatizujete svaki ljudski razgovor.
+Ne da founder postane influenser.
+Nego da napravite sales sistem koji konstantno gradi poverenje, prepoznaje pravi timing i otvara razgovore sa pravim kupcima.
+Referral-i tada ostaju odličan kanal.
+Ali više nisu jedini plan.
+

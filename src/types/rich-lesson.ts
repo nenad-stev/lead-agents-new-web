@@ -116,6 +116,56 @@ export type RichZoneCardsBlock = {
   cards: RichZoneCard[];
 };
 
+export type RichBigStatementBlock = {
+  type: "big-statement";
+  eyebrow?: LocalizedText;
+  statement: LocalizedText;
+  support?: LocalizedText;
+  variant?: "accent" | "danger" | "quiet";
+};
+
+export type RichCascadeBlock = {
+  type: "cascade";
+  title?: LocalizedText;
+  trigger: LocalizedText;
+  steps: LocalizedText[];
+  punchline: LocalizedText;
+};
+
+export type RichUnknownGridBlock = {
+  type: "unknown-grid";
+  title?: LocalizedText;
+  items: Array<{
+    mark: LocalizedText;
+    label: LocalizedText;
+    detail: LocalizedText;
+  }>;
+};
+
+export type RichForkPathsBlock = {
+  type: "fork-paths";
+  versus?: LocalizedText;
+  left: {
+    label: LocalizedText;
+    title: LocalizedText;
+    body: LocalizedText;
+    tone?: "muted" | "danger";
+  };
+  right: {
+    label: LocalizedText;
+    title: LocalizedText;
+    body: LocalizedText;
+    tone?: "accent";
+  };
+};
+
+export type RichCostStampBlock = {
+  type: "cost-stamp";
+  left: { value: LocalizedText; label: LocalizedText };
+  right: { value: LocalizedText; label: LocalizedText };
+  note: LocalizedText;
+};
+
 export type RichVideoEmbed = {
   title: LocalizedText;
   channel: LocalizedText;
@@ -143,6 +193,7 @@ export type RichRelatedLesson = {
 
 export type RichLessonBlock =
   | { type: "paragraphs"; paragraphs: LocalizedList }
+  | { type: "lead"; text: LocalizedText }
   | { type: "bullets"; items: LocalizedList }
   | { type: "callout"; variant?: "default" | "accent" | "tip"; text: LocalizedText }
   | RichTableBlock
@@ -161,6 +212,11 @@ export type RichLessonBlock =
   | RichComparisonCardsBlock
   | RichIllustrationBlock
   | RichZoneCardsBlock
+  | RichBigStatementBlock
+  | RichCascadeBlock
+  | RichUnknownGridBlock
+  | RichForkPathsBlock
+  | RichCostStampBlock
   | {
       type: "section";
       id: string;

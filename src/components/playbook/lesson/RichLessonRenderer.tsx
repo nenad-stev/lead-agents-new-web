@@ -17,6 +17,13 @@ import { LessonIllustration } from "@/components/playbook/lesson/LessonIllustrat
 import { LessonPipelineFlow } from "@/components/playbook/lesson/LessonPipelineFlow";
 import { LessonStatRow } from "@/components/playbook/lesson/LessonStatRow";
 import { LessonZoneCards } from "@/components/playbook/lesson/LessonZoneCards";
+import {
+  LessonBigStatement,
+  LessonCascade,
+  LessonCostStamp,
+  LessonForkPaths,
+  LessonUnknownGrid,
+} from "@/components/playbook/lesson/LessonCreativeBlocks";
 import { ll, lt, lessonSectionClass } from "@/components/playbook/lesson/lesson-utils";
 
 type RichLessonRendererProps = {
@@ -46,6 +53,8 @@ function BlockRenderer({
           ))}
         </div>
       );
+    case "lead":
+      return <p className="playbook-lesson-lead">{lt(block.text, locale)}</p>;
     case "bullets":
       return <LessonBulletList locale={locale} items={block.items} />;
     case "callout":
@@ -145,6 +154,16 @@ function BlockRenderer({
           cards={block.cards}
         />
       );
+    case "big-statement":
+      return <LessonBigStatement locale={locale} block={block} />;
+    case "cascade":
+      return <LessonCascade locale={locale} block={block} />;
+    case "unknown-grid":
+      return <LessonUnknownGrid locale={locale} block={block} />;
+    case "fork-paths":
+      return <LessonForkPaths locale={locale} block={block} />;
+    case "cost-stamp":
+      return <LessonCostStamp locale={locale} block={block} />;
     case "section":
       if (block.id === "visuals") {
         return null;
@@ -180,7 +199,7 @@ export function RichLessonRenderer({
   previousLabel,
   nextLabel,
 }: RichLessonRendererProps) {
-  const faqTitle = { sr: "Česta pitanja (SEO)", en: "FAQ" };
+  const faqTitle = { sr: "Česta pitanja", en: "FAQ" };
   const sourcesTitle = {
     sr: "Izvori i dalje čitanje",
     en: "Sources & further reading",

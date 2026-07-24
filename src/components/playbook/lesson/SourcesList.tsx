@@ -9,6 +9,8 @@ type SourcesListProps = {
 };
 
 export function SourcesList({ locale, title, sources }: SourcesListProps) {
+  if (!sources.length) return null;
+
   return (
     <div className="playbook-lesson-sources">
       <h2 className="playbook-lesson-section__title">{lt(title, locale)}</h2>
