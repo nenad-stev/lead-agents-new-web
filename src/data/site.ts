@@ -23,6 +23,9 @@ export const routes = {
       `/growth-playbook/founder-led-growth/${lessonSlug}`,
     webinars: "/webinar",
     webinar: (slug: string) => `/webinar/${slug}`,
+    leadGenerationMaleFirme: "/lead-generation-male-firme",
+    leadGenerationSrednjeFirme: "/lead-generation-srednje-firme",
+    leadGenerationEnterprise: "/lead-generation-enterprise",
   },
   en: {
     home: "/en",
@@ -37,6 +40,9 @@ export const routes = {
       `/en/growth-playbook/founder-led-growth/${lessonSlug}`,
     webinars: "/en/webinar",
     webinar: (slug: string) => `/en/webinar/${slug}`,
+    leadGenerationMaleFirme: "/en/lead-generation-small-companies",
+    leadGenerationSrednjeFirme: "/en/lead-generation-mid-market",
+    leadGenerationEnterprise: "/en/lead-generation-enterprise",
   },
 } as const;
 

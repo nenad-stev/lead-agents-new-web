@@ -6,6 +6,7 @@ import { useCallback, useEffect, useRef, useState } from "react";
 
 import { founderLedGrowthLessons } from "@/data/founderLedGrowthLessons";
 import { getServiceAnchor, homeServices } from "@/data/home";
+import { HIDDEN_UNTIL_LAUNCH } from "@/data/previewSurfaces";
 import { hasServicePage } from "@/data/services";
 import { getRoutes } from "@/data/site";
 import type { Dictionary } from "@/lib/i18n";
@@ -17,7 +18,7 @@ type MainNavProps = {
   languageHref: string;
 };
 
-type OpenMenu = "services" | "education" | null;
+type OpenMenu = "services" | "leadGeneration" | "education" | null;
 
 function ChevronIcon() {
   return (
@@ -71,6 +72,16 @@ function PlayIcon() {
     <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.75" aria-hidden>
       <rect x="3.5" y="4.5" width="17" height="15" rx="2.5" />
       <path d="m10 9 5 3-5 3V9Z" fill="currentColor" stroke="none" />
+    </svg>
+  );
+}
+
+function TargetIcon() {
+  return (
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.75" aria-hidden>
+      <circle cx="12" cy="12" r="8" />
+      <circle cx="12" cy="12" r="3" />
+      <path d="M12 2v2M12 20v2M2 12h2M20 12h2" strokeLinecap="round" />
     </svg>
   );
 }
@@ -252,19 +263,21 @@ export function MainNav({ locale, dictionary, languageHref }: MainNavProps) {
 
   const educationPanel = (
     <div className="nav-mega__edu-grid">
-      <Link href={routes.growthPlaybook} className="nav-mega__edu-card" role="menuitem">
-        <span className="nav-mega__edu-icon">
-          <BookIcon />
-        </span>
-        <span className="nav-mega__edu-meta">
-          {lessonCount} {nav.lessonsCount}
-        </span>
-        <p className="nav-mega__edu-title">{nav.growthPlaybook}</p>
-        <p className="nav-mega__edu-desc">{nav.educationPlaybookDesc}</p>
-        <span className="nav-mega__arrow mt-auto">
-          <ArrowIcon />
-        </span>
-      </Link>
+      {!HIDDEN_UNTIL_LAUNCH.founderLedGrowth ? (
+        <Link href={routes.growthPlaybook} className="nav-mega__edu-card" role="menuitem">
+          <span className="nav-mega__edu-icon">
+            <BookIcon />
+          </span>
+          <span className="nav-mega__edu-meta">
+            {lessonCount} {nav.lessonsCount}
+          </span>
+          <p className="nav-mega__edu-title">{nav.growthPlaybook}</p>
+          <p className="nav-mega__edu-desc">{nav.educationPlaybookDesc}</p>
+          <span className="nav-mega__arrow mt-auto">
+            <ArrowIcon />
+          </span>
+        </Link>
+      ) : null}
 
       <Link href={routes.caseStudies} className="nav-mega__edu-card" role="menuitem">
         <span className="nav-mega__edu-icon">
@@ -300,6 +313,50 @@ export function MainNav({ locale, dictionary, languageHref }: MainNavProps) {
     </div>
   );
 
+  const leadGenerationItems = [
+    {
+      href: routes.leadGenerationMaleFirme,
+      title:
+        locale === "sr"
+          ? "Lead Generation za male firme"
+          : "Lead Generation for small companies",
+      desc: nav.leadGenerationMaleDesc,
+    },
+    {
+      href: routes.leadGenerationSrednjeFirme,
+      title:
+        locale === "sr"
+          ? "Lead Generation za srednje firme"
+          : "Lead Generation for mid market",
+      desc: nav.leadGenerationMidDesc,
+    },
+    {
+      href: routes.leadGenerationEnterprise,
+      title:
+        locale === "sr"
+          ? "Lead Generation za enterprise firme"
+          : "Lead Generation for enterprise",
+      desc: nav.leadGenerationEnterpriseDesc,
+    },
+  ];
+
+  const leadGenerationPanel = (
+    <div className="nav-mega__edu-grid">
+      {leadGenerationItems.map((item) => (
+        <Link key={item.href} href={item.href} className="nav-mega__edu-card" role="menuitem">
+          <span className="nav-mega__edu-icon">
+            <TargetIcon />
+          </span>
+          <p className="nav-mega__edu-title">{item.title}</p>
+          <p className="nav-mega__edu-desc">{item.desc}</p>
+          <span className="nav-mega__arrow mt-auto">
+            <ArrowIcon />
+          </span>
+        </Link>
+      ))}
+    </div>
+  );
+
   return (
     <div ref={navRef}>
       <nav className="hidden items-center gap-6 md:flex" aria-label="Main navigation">
@@ -313,6 +370,20 @@ export function MainNav({ locale, dictionary, languageHref }: MainNavProps) {
         >
           {servicesPanel}
         </NavDropdownPanel>
+
+        {!HIDDEN_UNTIL_LAUNCH.leadGeneration ? (
+          <NavDropdownPanel
+            id="leadGeneration"
+            label={nav.leadGeneration}
+            isOpen={openMenu === "leadGeneration"}
+            onOpen={openMenuNow}
+            onScheduleClose={scheduleCloseMenu}
+            onCloseNow={closeMenus}
+            panelClassName="nav-dropdown__flyout--education"
+          >
+            {leadGenerationPanel}
+          </NavDropdownPanel>
+        ) : null}
 
         <NavDropdownPanel
           id="education"
@@ -401,6 +472,36 @@ export function MainNav({ locale, dictionary, languageHref }: MainNavProps) {
               ) : null}
             </li>
 
+            {!HIDDEN_UNTIL_LAUNCH.leadGeneration ? (
+              <li className="nav-mobile-group">
+                <button
+                  type="button"
+                  className="nav-mobile-group__trigger"
+                  aria-expanded={mobileGroup === "leadGeneration"}
+                  onClick={() =>
+                    setMobileGroup((g) => (g === "leadGeneration" ? null : "leadGeneration"))
+                  }
+                >
+                  {nav.leadGeneration}
+                  <ChevronIcon />
+                </button>
+                {mobileGroup === "leadGeneration" ? (
+                  <div className="nav-mobile-group__panel">
+                    {leadGenerationItems.map((item) => (
+                      <Link
+                        key={item.href}
+                        href={item.href}
+                        className="nav-mobile-link"
+                        onClick={() => setMobileOpen(false)}
+                      >
+                        {item.title}
+                      </Link>
+                    ))}
+                  </div>
+                ) : null}
+              </li>
+            ) : null}
+
             <li className="nav-mobile-group">
               <button
                 type="button"
@@ -415,13 +516,15 @@ export function MainNav({ locale, dictionary, languageHref }: MainNavProps) {
               </button>
               {mobileGroup === "education" ? (
                 <div className="nav-mobile-group__panel">
-                  <Link
-                    href={routes.growthPlaybook}
-                    className="nav-mobile-link"
-                    onClick={() => setMobileOpen(false)}
-                  >
-                    {nav.growthPlaybook}
-                  </Link>
+                  {!HIDDEN_UNTIL_LAUNCH.founderLedGrowth ? (
+                    <Link
+                      href={routes.growthPlaybook}
+                      className="nav-mobile-link"
+                      onClick={() => setMobileOpen(false)}
+                    >
+                      {nav.growthPlaybook}
+                    </Link>
+                  ) : null}
                   <Link
                     href={routes.caseStudies}
                     className="nav-mobile-link"

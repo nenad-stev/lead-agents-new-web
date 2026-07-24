@@ -7,6 +7,7 @@ export const en = {
   nav: {
     home: "Home",
     services: "Services",
+    leadGeneration: "Lead Generation",
     education: "Education",
     caseStudies: "Case studies",
     webinars: "Webinars",
@@ -24,6 +25,9 @@ export const en = {
       "Real projects, numbers, and lessons from working with startups and established B2B teams.",
     educationWebinarsDesc:
       "Webinar replay pages with tactics, frameworks, and practical examples for LinkedIn sales.",
+    leadGenerationMaleDesc: "Founder Led Growth for companies with 1 to 30 employees.",
+    leadGenerationMidDesc: "Expert Led Growth for companies with 31 to 100 employees.",
+    leadGenerationEnterpriseDesc: "Sales process audit and multi channel revenue system.",
     lessonsCount: "lessons",
     languageSwitch: "SR",
   },

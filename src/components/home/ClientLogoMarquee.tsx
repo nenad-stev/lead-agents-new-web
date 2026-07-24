@@ -1,13 +1,14 @@
 import Image from "next/image";
 
-import { homeClients } from "@/data/home";
+import { visibleClientLogos } from "@/data/clients";
 
 type ClientLogoMarqueeProps = {
   durationSeconds?: number;
 };
 
-export function ClientLogoMarquee({ durationSeconds = 35 }: ClientLogoMarqueeProps) {
-  const track = [...homeClients, ...homeClients];
+export function ClientLogoMarquee({ durationSeconds = 45 }: ClientLogoMarqueeProps) {
+  const logos = visibleClientLogos;
+  const track = [...logos, ...logos];
 
   return (
     <div className="relative overflow-hidden">

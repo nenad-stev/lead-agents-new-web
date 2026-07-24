@@ -1,6 +1,7 @@
 import Link from "next/link";
 
 import { getServiceAnchor, homeServices } from "@/data/home";
+import { HIDDEN_UNTIL_LAUNCH } from "@/data/previewSurfaces";
 import { hasServicePage } from "@/data/services";
 import { getRoutes, siteConfig } from "@/data/site";
 import type { Dictionary, Locale } from "@/lib/i18n";
@@ -67,11 +68,13 @@ export function Footer({ locale, dictionary }: FooterProps) {
                   {footer.links.caseStudies}
                 </Link>
               </li>
-              <li>
-                <Link href={routes.growthPlaybook} className="text-muted hover:text-accent">
-                  {dictionary.nav.growthPlaybook}
-                </Link>
-              </li>
+              {!HIDDEN_UNTIL_LAUNCH.founderLedGrowth ? (
+                <li>
+                  <Link href={routes.growthPlaybook} className="text-muted hover:text-accent">
+                    {dictionary.nav.growthPlaybook}
+                  </Link>
+                </li>
+              ) : null}
               <li>
                 <Link href={routes.salesTools} className="text-muted hover:text-accent">
                   {footer.links.salesTools}

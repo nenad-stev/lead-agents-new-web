@@ -87,8 +87,8 @@ export const founderLedGrowthCluster: PlaybookCluster = {
     en: "B2B founders, agency owners, and SaaS companies with 5-50 employees selling services or software with longer sales cycles.",
   },
   outcome: {
-    sr: "Operativni B2B revenue sistem: ICP i profil, outreach + content paralelno, engagement, webinari, ads, CRM i buying signali koji pokreću pravovremen topliji outreach.",
-    en: "An operational B2B revenue system: ICP and profile, outreach + content in parallel, engagement, webinars, ads, CRM, and buying signals that trigger timely warmer outreach.",
+    sr: "Sales sistem u kom content gradi poverenje, outreach testira tržište, webinari edukuju, CRM prati ko se zagreva, follow-up održava prisutnost, AI uklanja ručni haos, a Ads skaliraju ono što već radi.",
+    en: "A sales system where content builds trust, outreach tests the market, webinars educate, CRM tracks who’s warming up, follow-up keeps presence, AI removes manual chaos, and ads scale what already works.",
   },
   relatedCaseStudySlugs: [],
   meta: {
@@ -97,8 +97,8 @@ export const founderLedGrowthCluster: PlaybookCluster = {
       en: "Founder-Led Growth Playbook | Lead Agents",
     },
     description: {
-      sr: "Kompletan sistem za B2B founder-e koji žele da koriste LinkedIn, content, outreach, ads, CRM i intent signale za izgradnju pipeline-a.",
-      en: "A complete system for B2B founders who want to use LinkedIn, content, outreach, ads, CRM and intent signals to build pipeline.",
+      sr: "12 lekcija: od referral zavisnosti i ICP-a, preko founder contenta, signal outreach-a i follow-upa, do webinara, CRM-a, AI workflow-a i LinkedIn Ads-a — kao jedan sales sistem.",
+      en: "12 lessons: from referral dependency and ICP, through founder content, signal outreach and follow-up, to webinars, CRM, AI workflows, and LinkedIn Ads — as one sales system.",
     },
   },
   hero: {
@@ -107,10 +107,10 @@ export const founderLedGrowthCluster: PlaybookCluster = {
       en: "Founder-Led Growth Playbook",
     },
     subtitle: {
-      sr: "Sistem koji povezuje founder content, outreach, webinare, CRM signale, follow-up, AI workflow-e i sales proces — da referral-i ostanu bonus, ne osnova.",
-      en: "A system that connects founder content, outreach, webinars, CRM signals, follow-up, AI workflows, and sales process — so referrals stay a bonus, not the foundation.",
+      sr: "12 lekcija koje povezuju founder content, outreach po signalima, follow-up, webinare, CRM, AI i Ads — da referral-i ostanu bonus, ne osnova pipeline-a.",
+      en: "12 lessons that connect founder content, signal-based outreach, follow-up, webinars, CRM, AI, and ads — so referrals stay a bonus, not the foundation of pipeline.",
     },
-    primaryCta: { sr: "Kreni od prve lekcije", en: "Start the first lesson" },
+    primaryCta: { sr: "Pogledaj 12 lekcija", en: "Browse 12 lessons" },
     secondaryCta: { sr: "Zakaži konsultaciju", en: "Book a consultation" },
   },
   intro: {
@@ -122,35 +122,35 @@ export const founderLedGrowthCluster: PlaybookCluster = {
       sr: [
         "Većina B2B firmi ne kreće da gradi sales sistem zato što ima plan. Krene zato što mora — veliki klijent ode, referral-i stanu, pipeline se isprazni.",
         "Referral-i su odlični. Ali ako su vam referral-i glavni sales kanal, nemate sales sistem. Imate zavisnost od tuđeg tajminga.",
-        "Ovaj playbook nije još jedna LinkedIn taktika. Pokazuje Founder-Led Growth sistem koji povezuje founder content, outreach, webinare, CRM signale, follow-up, AI workflow-e i sales proces.",
-        "Cilj nije da founder postane influenser. Cilj je da kupac, pre sales razgovora, već ima osećaj: znam ko su, razumem šta rade, deluju relevantno.",
+        "Ovaj playbook nije još jedna LinkedIn taktika. Kroz 12 lekcija pokazuje Founder-Led Growth sistem: od temelja (zašto referral-i i outbound sami nisu dovoljni), preko ICP-a i positioning-a, do contenta, outreach-a, follow-upa, webinara, CRM-a, AI-a i Ads-a.",
+        "Cilj nije da founder postane influenser. Cilj je da kupac, pre sales razgovora, već ima osećaj: znam ko su, razumem šta rade, deluju relevantno — i da tim ima sistem koji to gradi iz ciklusa u ciklus.",
       ],
       en: [
         "Most B2B companies don’t start building a sales system because they have a plan. They start because they have to — a big client leaves, referrals stall, the pipeline empties.",
         "Referrals are great. But if referrals are your main sales channel, you don’t have a sales system. You have a dependency on someone else’s timing.",
-        "This playbook isn’t another LinkedIn tactic. It shows a Founder-Led Growth system that connects founder content, outreach, webinars, CRM signals, follow-up, AI workflows, and sales process.",
-        "The goal isn’t to turn the founder into an influencer. The goal is that before a sales conversation, the buyer already feels: I know who they are, I understand what they do, they feel relevant.",
+        "This playbook isn’t another LinkedIn tactic. Across 12 lessons it shows a Founder-Led Growth system: from the foundation (why referrals and outbound alone aren’t enough), through ICP and positioning, to content, outreach, follow-up, webinars, CRM, AI, and ads.",
+        "The goal isn’t to turn the founder into an influencer. The goal is that before a sales conversation, the buyer already feels: I know who they are, I understand what they do, they feel relevant — and that the team has a system that builds that cycle after cycle.",
       ],
     },
   },
   framework: {
     title: {
-      sr: "Lead Agents Founder-Led Growth okvir",
-      en: "Lead Agents Founder-Led Growth framework",
+      sr: "Kako 12 lekcija grade sistem",
+      en: "How 12 lessons build the system",
     },
     description: {
-      sr: "Temelj → ICP & positioning → content → outreach & follow-up → webinari → CRM & AI → ads → ceo sistem. 8 faza, 12 lekcija.",
-      en: "Foundation → ICP & positioning → content → outreach & follow-up → webinars → CRM & AI → ads → full system. 8 phases, 12 lessons.",
+      sr: "Temelj → ICP & positioning → content → outreach & follow-up → webinari → CRM & AI → Ads → ceo sistem. Svaka lekcija priprema sledeću.",
+      en: "Foundation → ICP & positioning → content → outreach & follow-up → webinars → CRM & AI → ads → full system. Each lesson prepares the next.",
     },
   },
   roadmap: {
     title: {
-      sr: "Roadmap lekcija",
-      en: "Lesson roadmap",
+      sr: "Sve lekcije",
+      en: "All lessons",
     },
     description: {
-      sr: "12 lekcija iz novog FLG playbook-a. Počni od Lekcije 1 — zašto referral-i nisu sales sistem.",
-      en: "12 lessons from the new FLG playbook. Start with Lesson 1 — why referrals aren’t a sales system.",
+      sr: "Počni od Lekcije 1 — zašto referral-i nisu sales sistem — pa idi redom. Faza po faza, do celog sistema u Lekciji 12.",
+      en: "Start with Lesson 1 — why referrals aren’t a sales system — then go in order. Phase by phase, through to the full system in Lesson 12.",
     },
   },
   toolsSection: {
@@ -159,8 +159,8 @@ export const founderLedGrowthCluster: PlaybookCluster = {
       en: "Recommended tools",
     },
     description: {
-      sr: "Alati koje koristimo u Founder-Led Growth implementacijama, više detalja u našem direktorijumu prodajnih alata.",
-      en: "Tools we use in Founder-Led Growth implementations, more details in our sales tools directory.",
+      sr: "Alati koje koristimo uz lekcije o CRM-u, outreach-u, contentu i AI workflow-ima — više detalja u direktorijumu prodajnih alata.",
+      en: "Tools we use alongside the CRM, outreach, content, and AI workflow lessons — more detail in the sales tools directory.",
     },
   },
   cta: {
@@ -169,8 +169,8 @@ export const founderLedGrowthCluster: PlaybookCluster = {
       en: "Want us to implement Founder-Led Growth for your company?",
     },
     text: {
-      sr: "Lead Agents pomaže B2B kompanijama da implementiraju ceo Founder-Led Growth sistem: outreach + content paralelno, CRM, buying signali i ads koji skaliraju ono što već radi.",
-      en: "Lead Agents helps B2B companies implement the full Founder-Led Growth system: outreach + content in parallel, CRM, buying signals, and ads that scale what already works.",
+      sr: "Lead Agents pomaže B2B kompanijama da spoje ICP, founder content, outreach po signalima, follow-up, webinare, CRM i Ads u jedan pipeline sistem — ne u odvojene taktike.",
+      en: "Lead Agents helps B2B companies connect ICP, founder content, signal-based outreach, follow-up, webinars, CRM, and ads into one pipeline system — not separate tactics.",
     },
     button: { sr: "Zakaži konsultaciju", en: "Book a consultation" },
   },
@@ -232,8 +232,8 @@ export const founderLedGrowthCluster: PlaybookCluster = {
       name: "Smartlead",
       category: { sr: "Email outreach", en: "Email outreach" },
       description: {
-        sr: "Email sekvence za nurture leadova koji nisu spremni za SQL sastanak.",
-        en: "Email sequences to nurture leads not yet ready for an SQL meeting.",
+        sr: "Email sekvence za nurture leadova koji još nisu spremni za sales razgovor.",
+        en: "Email sequences to nurture leads not yet ready for a sales conversation.",
       },
     },
     {
@@ -241,8 +241,8 @@ export const founderLedGrowthCluster: PlaybookCluster = {
       name: "Taplio",
       category: { sr: "LinkedIn content", en: "LinkedIn content" },
       description: {
-        sr: "Planiranje i analitika LinkedIn content-a za founder-e.",
-        en: "Planning and analytics for founder LinkedIn content.",
+        sr: "Planiranje i analitika founder contenta koji greje kupce pre outreach-a.",
+        en: "Planning and analytics for founder content that warms buyers before outreach.",
       },
     },
     {
@@ -250,8 +250,8 @@ export const founderLedGrowthCluster: PlaybookCluster = {
       name: "Shield Analytics",
       category: { sr: "LinkedIn analytics", en: "LinkedIn analytics" },
       description: {
-        sr: "Dubinska analitika performansi profila i postova.",
-        en: "Deep analytics for profile and post performance.",
+        sr: "Analitika postova i teme koje privlače pravi ICP — laboratorija pre Ads-a.",
+        en: "Analytics on posts and themes that attract the right ICP — the lab before ads.",
       },
     },
   ],

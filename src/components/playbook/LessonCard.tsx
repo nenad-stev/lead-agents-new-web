@@ -28,7 +28,7 @@ export function LessonCard({
   minutesLabel,
 }: LessonCardProps) {
   return (
-    <article className="group flex h-full flex-col rounded-2xl border border-border bg-card/60 p-6 transition-colors hover:border-accent/40 hover:bg-card">
+    <article className="relative group flex h-full flex-col rounded-2xl border border-border bg-card/60 p-6 transition-colors hover:border-accent/40 hover:bg-card">
       <div className="mb-4 flex flex-wrap items-center gap-3 text-xs font-semibold uppercase tracking-wider text-muted-subtle">
         <span className="text-accent">
           {t(lessonNumberLabel, locale)} {lesson.order}

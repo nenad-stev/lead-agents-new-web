@@ -80,4 +80,16 @@ export const staticPaths = {
     sr: routes.sr.webinar("kako-prodati-usluge-na-linkedin-u-2026"),
     en: routes.en.webinar("how-to-sell-your-services-on-linkedin-in-2026"),
   },
+  leadGenerationMaleFirme: {
+    sr: routes.sr.leadGenerationMaleFirme,
+    en: routes.en.leadGenerationMaleFirme,
+  },
+  leadGenerationSrednjeFirme: {
+    sr: routes.sr.leadGenerationSrednjeFirme,
+    en: routes.en.leadGenerationSrednjeFirme,
+  },
+  leadGenerationEnterprise: {
+    sr: routes.sr.leadGenerationEnterprise,
+    en: routes.en.leadGenerationEnterprise,
+  },
 } as const satisfies Record<string, LocalizedPathPair>;

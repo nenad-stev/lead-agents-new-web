@@ -1,4 +1,7 @@
+import type { ReactNode } from "react";
+
 import { PhaseRoadmap } from "@/components/playbook/PhaseRoadmap";
+import { PlaybookCurriculumIndex } from "@/components/playbook/PlaybookCurriculumIndex";
 import { PlaybookHero } from "@/components/playbook/PlaybookHero";
 import { RecommendedTools } from "@/components/playbook/RecommendedTools";
 import { Footer } from "@/components/layout/Footer";
@@ -19,6 +22,8 @@ type PlaybookClusterPageProps = {
     salesTool: (slug: string) => string;
     salesToolsHub: string;
   };
+  /** Optional waitlist / gate block after the curriculum */
+  afterCurriculum?: ReactNode;
 };
 
 const viewToolLabel = { sr: "Pogledaj alat", en: "View tool" };
@@ -28,10 +33,8 @@ export function PlaybookClusterPage({
   dictionary,
   cluster,
   paths,
+  afterCurriculum,
 }: PlaybookClusterPageProps) {
-  const firstLesson = cluster.lessons[0];
-  const firstLessonHref = firstLesson ? paths.lesson(firstLesson.slug) : paths.cluster;
-
   return (
     <>
       <Header locale={locale} dictionary={dictionary} />
@@ -42,7 +45,7 @@ export function PlaybookClusterPage({
           subtitle={cluster.hero.subtitle}
           primaryCta={cluster.hero.primaryCta}
           secondaryCta={cluster.hero.secondaryCta}
-          primaryHref={firstLessonHref}
+          primaryHref="#curriculum"
           secondaryHref={paths.contact}
           eyebrow={t(cluster.labels.growthPlaybook, locale)}
         />
@@ -74,29 +77,12 @@ export function PlaybookClusterPage({
           description={t(cluster.framework.description, locale)}
           className="border-t border-border/50 bg-card/20"
         >
-          <ol className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          <ol className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
             {cluster.phases.map((phase) => {
-              const hasLessons = cluster.lessons.some(
+              const lessonCount = cluster.lessons.filter(
                 (lesson) => lesson.phaseId === phase.id,
-              );
+              ).length;
               const phaseAnchor = `#phase-${phase.id}`;
-
-              if (!hasLessons) {
-                return (
-                  <li
-                    key={phase.id}
-                    className="rounded-2xl border border-border bg-background/80 p-5"
-                  >
-                    <span className="font-mono text-xs font-semibold text-accent">
-                      {String(phase.order).padStart(2, "0")}
-                    </span>
-                    <h3 className="mt-2 font-bold text-foreground">
-                      {t(phase.title, locale)}
-                    </h3>
-                    <p className="mt-2 text-sm text-muted">{t(phase.description, locale)}</p>
-                  </li>
-                );
-              }
 
               return (
                 <li key={phase.id}>
@@ -113,8 +99,15 @@ export function PlaybookClusterPage({
                     <p className="mt-2 flex-1 text-sm text-muted">
                       {t(phase.description, locale)}
                     </p>
-                    <span className="mt-4 text-xs font-semibold uppercase tracking-wider text-accent opacity-0 transition-opacity group-hover:opacity-100 group-focus-visible:opacity-100">
-                      {locale === "sr" ? "Pogledaj lekcije ↓" : "View lessons ↓"}
+                    <span className="mt-4 text-xs font-semibold uppercase tracking-wider text-muted-subtle">
+                      {lessonCount}{" "}
+                      {locale === "sr"
+                        ? lessonCount === 1
+                          ? "lekcija"
+                          : "lekcije"
+                        : lessonCount === 1
+                          ? "lesson"
+                          : "lessons"}
                     </span>
                   </a>
                 </li>
@@ -124,8 +117,37 @@ export function PlaybookClusterPage({
         </Section>
 
         <Section
+          id="curriculum"
+          title={
+            locale === "sr"
+              ? "Put kroz 12 lekcija"
+              : "The path through 12 lessons"
+          }
+          description={
+            locale === "sr"
+              ? "Redosled je namerno: svaka lekcija gradi na prethodnoj — od zavisnosti od referral-a do celog sistema u praksi."
+              : "The order is intentional: each lesson builds on the last — from referral dependency to the full system in practice."
+          }
+        >
+          <PlaybookCurriculumIndex
+            locale={locale}
+            cluster={cluster}
+            lessonHref={paths.lesson}
+          />
+          <p className="mt-6 text-sm text-muted">
+            <a href="#roadmap" className="font-semibold text-accent hover:underline">
+              {locale === "sr"
+                ? "Ili pregledaj po fazama ↓"
+                : "Or browse by phase ↓"}
+            </a>
+          </p>
+        </Section>
+
+        <Section
+          id="roadmap"
           title={t(cluster.roadmap.title, locale)}
           description={t(cluster.roadmap.description, locale)}
+          className="border-t border-border/50 bg-card/20"
         >
           <PhaseRoadmap
             locale={locale}
@@ -133,6 +155,8 @@ export function PlaybookClusterPage({
             lessonHref={paths.lesson}
           />
         </Section>
+
+        {afterCurriculum}
 
         <Section
           title={t(cluster.toolsSection.title, locale)}

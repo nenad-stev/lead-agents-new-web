@@ -138,6 +138,27 @@ function getLanguageSwitchPath(pathname: string, targetLocale: Locale): string {
     return routes.growthPlaybook;
   }
 
+  const leadGenerationPairs: Array<{ sr: string; en: string }> = [
+    {
+      sr: "/lead-generation-male-firme",
+      en: "/en/lead-generation-small-companies",
+    },
+    {
+      sr: "/lead-generation-srednje-firme",
+      en: "/en/lead-generation-mid-market",
+    },
+    {
+      sr: "/lead-generation-enterprise",
+      en: "/en/lead-generation-enterprise",
+    },
+  ];
+
+  for (const pair of leadGenerationPairs) {
+    if (pathname === pair.sr || pathname === pair.en) {
+      return targetLocale === "en" ? pair.en : pair.sr;
+    }
+  }
+
   return routes.home;
 }
 

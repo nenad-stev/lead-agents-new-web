@@ -1,17 +1,15 @@
 import type { Metadata } from "next";
 
-import { Footer } from "@/components/layout/Footer";
-import { Header } from "@/components/layout/Header";
 import { ContentLocker } from "@/components/playbook/ContentLocker";
-import { PlaybookHero } from "@/components/playbook/PlaybookHero";
+import { PlaybookClusterPage } from "@/components/playbook/PlaybookClusterPage";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { Section } from "@/components/ui/Section";
 import { founderLedGrowthCluster } from "@/data/founderLedGrowth";
+import { getPlaybookPaths } from "@/data/playbooks";
 import { getRoutes } from "@/data/site";
 import { getDictionary } from "@/lib/i18n";
 import { breadcrumbSchema, courseSchema } from "@/lib/schema";
 import { pageMetadata, staticPaths } from "@/lib/seo";
-import { t, tList } from "@/types/playbook";
 
 const locale = "sr";
 
@@ -20,11 +18,13 @@ export const metadata: Metadata = pageMetadata({
   paths: staticPaths.growthPlaybook,
   title: founderLedGrowthCluster.meta.title.sr,
   description: founderLedGrowthCluster.meta.description.sr,
+  robots: { index: false, follow: false },
 });
 
 export default function FounderLedGrowthPlaybookPage() {
   const dictionary = getDictionary(locale);
   const routes = getRoutes(locale);
+  const paths = getPlaybookPaths(locale, founderLedGrowthCluster.slug);
 
   return (
     <>
@@ -32,7 +32,10 @@ export default function FounderLedGrowthPlaybookPage() {
         data={[
           breadcrumbSchema([
             { name: "Početna", path: routes.home },
-            { name: founderLedGrowthCluster.hero.title[locale], path: routes.growthPlaybook },
+            {
+              name: founderLedGrowthCluster.hero.title[locale],
+              path: routes.growthPlaybook,
+            },
           ]),
           courseSchema({
             name: founderLedGrowthCluster.hero.title[locale],
@@ -42,35 +45,28 @@ export default function FounderLedGrowthPlaybookPage() {
           }),
         ]}
       />
-      <Header locale={locale} dictionary={dictionary} />
-      <main>
-        <PlaybookHero
-          locale={locale}
-          title={founderLedGrowthCluster.hero.title}
-          subtitle={founderLedGrowthCluster.hero.subtitle}
-          primaryCta={{ sr: "Uskoro live", en: "Going live soon" }}
-          secondaryCta={founderLedGrowthCluster.hero.secondaryCta}
-          primaryHref="#flg-waitlist"
-          secondaryHref={routes.contact}
-          eyebrow={t(founderLedGrowthCluster.labels.growthPlaybook, locale)}
-        />
-
-        <Section
-          eyebrow={t(founderLedGrowthCluster.labels.growthPlaybook, locale)}
-          title={t(founderLedGrowthCluster.intro.title, locale)}
-        >
-          <div className="max-w-3xl space-y-4 text-lg leading-relaxed text-muted">
-            {tList(founderLedGrowthCluster.intro.paragraphs, locale).map((paragraph) => (
-              <p key={paragraph.slice(0, 48)}>{paragraph}</p>
-            ))}
-          </div>
-        </Section>
-
-        <Section id="flg-waitlist" title="Uskoro live">
-          <ContentLocker locale={locale} />
-        </Section>
-      </main>
-      <Footer locale={locale} dictionary={dictionary} />
+      <PlaybookClusterPage
+        locale={locale}
+        dictionary={dictionary}
+        cluster={founderLedGrowthCluster}
+        paths={{
+          cluster: paths.cluster,
+          lesson: paths.lesson,
+          contact: routes.contact,
+          salesTool: routes.salesTool,
+          salesToolsHub: routes.salesTools,
+        }}
+        afterCurriculum={
+          <Section
+            id="flg-waitlist"
+            title="Uskoro javno dostupno"
+            description="Lekcije su u preview režimu. Ostavi email — javićemo ti čim playbook bude otvoren za sve."
+            className="border-t border-border/50"
+          >
+            <ContentLocker locale={locale} />
+          </Section>
+        }
+      />
     </>
   );
 }

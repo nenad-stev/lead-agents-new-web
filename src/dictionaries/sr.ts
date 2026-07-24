@@ -7,6 +7,7 @@ export const sr = {
   nav: {
     home: "Početna",
     services: "Usluge",
+    leadGeneration: "Lead Generation",
     education: "Edukacija",
     caseStudies: "Case studije",
     webinars: "Webinari",
@@ -24,6 +25,9 @@ export const sr = {
       "Realni projekti, brojevi i šta smo naučili radeći sa startapima i established timovima.",
     educationWebinarsDesc:
       "Webinar replay stranice sa taktikama, framework-ima i konkretnim primerima za LinkedIn prodaju.",
+    leadGenerationMaleDesc: "Founder Led Growth za firme od 1 do 30 zaposlenih.",
+    leadGenerationMidDesc: "Expert Led Growth za firme od 31 do 100 zaposlenih.",
+    leadGenerationEnterpriseDesc: "Sales process audit i multi channel revenue sistem.",
     lessonsCount: "lekcija",
     languageSwitch: "EN",
   },

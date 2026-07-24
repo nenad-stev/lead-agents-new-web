@@ -56,7 +56,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...localizedPair(routes.sr.contact, routes.en.contact, "monthly", 0.8),
     ...localizedPair(routes.sr.caseStudies, routes.en.caseStudies, "weekly", 0.9),
     ...localizedPair(routes.sr.salesTools, routes.en.salesTools, "weekly", 0.85),
-    ...localizedPair(routes.sr.growthPlaybook, routes.en.growthPlaybook, "weekly", 0.9),
+    // FLG + lead-gen pages stay live for review but out of sitemap until launch
     ...localizedPair(routes.sr.webinars, routes.en.webinars, "weekly", 0.85),
     ...localizedPair(
       routes.sr.webinar("kako-prodati-usluge-na-linkedin-u-2026"),

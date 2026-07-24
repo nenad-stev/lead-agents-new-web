@@ -42,6 +42,10 @@ function isContactPage(pathname: string) {
   return pathname === "/kontakt" || pathname === "/en/contact";
 }
 
+function isLessonPage(pathname: string) {
+  return pathname.startsWith("/lessons") || pathname.startsWith("/en/lessons");
+}
+
 export function ExitIntentPopup() {
   const pathname = usePathname();
   const locale = getLocaleFromPathname(pathname);
@@ -61,7 +65,12 @@ export function ExitIntentPopup() {
   }, []);
 
   useEffect(() => {
-    if (!isDesktopViewport() || isDismissed() || isContactPage(pathname)) {
+    if (
+      !isDesktopViewport() ||
+      isDismissed() ||
+      isContactPage(pathname) ||
+      isLessonPage(pathname)
+    ) {
       return;
     }
 
