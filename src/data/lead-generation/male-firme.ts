@@ -311,7 +311,7 @@ export const maleFirmeContent: LeadGenerationPageContent = {
     },
     stats: [
       {
-        value: "30+",
+        value: "40+",
         label: { sr: "B2B klijenata", en: "B2B clients" },
       },
       {

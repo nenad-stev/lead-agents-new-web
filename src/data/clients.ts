@@ -25,8 +25,8 @@ export type ClientLogo = {
   service?: ClientService | string;
 };
 
-/** Ukupan broj klijenata za prikaz u sekciji (npr. „30+“) */
-export const TOTAL_CLIENT_COUNT = 30;
+/** Ukupan broj klijenata za prikaz u sekciji (npr. „40+“) */
+export const TOTAL_CLIENT_COUNT = 40;
 
 /**
  * Brendovi prikazani u gridu / marqueeu.

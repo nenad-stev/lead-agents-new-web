@@ -38,12 +38,12 @@ const stats = {
   sr: [
     { value: "93", label: "Sastanaka u jednoj kampanji" },
     { value: "10+", label: "Alata testirano za vas" },
-    { value: "30+", label: "B2B klijenata" },
+    { value: "40+", label: "B2B klijenata" },
   ],
   en: [
     { value: "93", label: "Meetings in one campaign" },
     { value: "10+", label: "Tools tested for you" },
-    { value: "30+", label: "B2B clients" },
+    { value: "40+", label: "B2B clients" },
   ],
 } as const;
 

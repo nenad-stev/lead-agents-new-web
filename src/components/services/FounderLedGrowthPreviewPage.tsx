@@ -38,12 +38,12 @@ function t(text: LocalizedText, locale: Locale) {
 
 const stats = {
   sr: [
-    { value: "30+", label: "B2B klijenata" },
+    { value: "40+", label: "B2B klijenata" },
     { value: "$120M", label: "Pipeline generisano" },
     { value: "5 god", label: "Iskustva na tržištu" },
   ],
   en: [
-    { value: "30+", label: "B2B clients" },
+    { value: "40+", label: "B2B clients" },
     { value: "$120M", label: "Pipeline generated" },
     { value: "5 yrs", label: "In the market" },
   ],

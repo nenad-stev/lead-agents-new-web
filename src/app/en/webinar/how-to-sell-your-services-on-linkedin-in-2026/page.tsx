@@ -188,7 +188,7 @@ export default function WebinarLinkedIn2026EnPage() {
                 controllable pipeline.
               </p>
               <p className="max-w-4xl rounded-xl border border-accent/35 bg-accent/10 px-4 py-3 text-sm text-foreground/90">
-                Methodology used with 30+ B2B clients and applied across more than $120M in sales
+                Methodology used with 40+ B2B clients and applied across more than $120M in sales
                 pipeline.
               </p>
               <div className="flex flex-wrap gap-3">

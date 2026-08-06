@@ -209,7 +209,7 @@ export default function WebinarLinkedIn2026Page() {
                 brand founder-a i jasniji pipeline.
               </p>
               <p className="max-w-4xl rounded-xl border border-accent/35 bg-accent/10 px-4 py-3 text-sm text-foreground/90">
-                Metodologija koju koristimo u radu sa 30+ B2B klijenata i kroz koju smo pomogli u
+                Metodologija koju koristimo u radu sa 40+ B2B klijenata i kroz koju smo pomogli u
                 izgradnji preko $120M sales pipeline-a.
               </p>
               <div className="flex flex-wrap gap-3">
