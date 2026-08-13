@@ -3,7 +3,7 @@
 import Image from "next/image";
 import { useEffect, useState } from "react";
 
-import { homeTestimonials } from "@/data/home";
+import { homeFeaturedTestimonialVideo, homeTestimonials } from "@/data/home";
 import { Section } from "@/components/ui/Section";
 import type { Locale } from "@/lib/i18n";
 
@@ -18,6 +18,89 @@ type TestimonialsSectionProps = {
   title: string;
   subtitle: string;
 };
+
+function PlayIcon() {
+  return (
+    <svg
+      width="72"
+      height="72"
+      viewBox="0 0 72 72"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+      aria-hidden
+      className="drop-shadow-lg"
+    >
+      <circle cx="36" cy="36" r="36" fill="rgba(0,0,0,0.5)" />
+      <path d="M29 22L51 36L29 50V22Z" fill="#FFCC00" />
+    </svg>
+  );
+}
+
+function FeaturedTestimonialVideo({ locale }: { locale: Locale }) {
+  const video = homeFeaturedTestimonialVideo;
+  const [playing, setPlaying] = useState(false);
+  const embedTitle = `Video testimonial — ${video.name}`;
+  const playLabel =
+    locale === "sr" ? `Pusti video: ${video.name}` : `Play video: ${video.name}`;
+
+  return (
+    <div className="mb-12 md:mb-14">
+      <div className="mx-auto w-full max-w-[280px] overflow-hidden rounded-2xl border border-border bg-card/50 p-2 sm:max-w-[320px] sm:p-3">
+        <div className="relative aspect-[9/16] w-full overflow-hidden rounded-xl bg-black">
+          {playing ? (
+            <iframe
+              src={`https://www.youtube-nocookie.com/embed/${video.youtubeId}?autoplay=1&rel=0`}
+              title={embedTitle}
+              className="absolute inset-0 h-full w-full"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowFullScreen
+            />
+          ) : (
+            <button
+              type="button"
+              onClick={() => setPlaying(true)}
+              className="group absolute inset-0 h-full w-full focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent"
+              aria-label={playLabel}
+            >
+              <Image
+                src={video.image}
+                alt=""
+                fill
+                className="object-cover object-center transition group-hover:scale-[1.02]"
+                sizes="320px"
+              />
+              <span className="absolute inset-0 bg-black/25 transition group-hover:bg-black/35" />
+              <span className="absolute inset-0 flex items-center justify-center">
+                <PlayIcon />
+              </span>
+            </button>
+          )}
+        </div>
+      </div>
+
+      <blockquote className="mx-auto mt-6 max-w-2xl text-center">
+        <p className="text-base leading-relaxed text-muted md:text-lg">
+          &ldquo;{video.quote[locale]}&rdquo;
+        </p>
+        <footer className="mt-5 flex items-center justify-center gap-3">
+          <div className="relative h-12 w-12 shrink-0 overflow-hidden rounded-full border border-border/80">
+            <Image
+              src={video.image}
+              alt={video.name}
+              fill
+              className="object-cover object-center"
+              sizes="48px"
+            />
+          </div>
+          <cite className="not-italic text-left">
+            <p className="font-semibold text-foreground">{video.name}</p>
+            <p className="text-sm text-muted">{video.role[locale]}</p>
+          </cite>
+        </footer>
+      </blockquote>
+    </div>
+  );
+}
 
 function TestimonialCard({
   item,
@@ -100,6 +183,8 @@ export function TestimonialsSection({ locale, title, subtitle }: TestimonialsSec
       description={subtitle}
       className="home-section home-section--alt"
     >
+      <FeaturedTestimonialVideo locale={locale} />
+
       <div
         className="overflow-hidden"
         role="region"

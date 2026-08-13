@@ -13,16 +13,13 @@ const copy = {
     eyebrow: "Edukacija",
     title: "Besplatni resursi za B2B rast na LinkedIn-u",
     subtitle:
-      "Playbook, prodajni alati, webinari i case studije — sve na jednom mestu, bez registracije za pregled.",
-    playbookTitle: "Founder-Led Growth Playbook",
-    playbookDescription:
-      "12 lekcija o ICP-u, outreach-u, contentu, CRM-u, buying signalima i LinkedIn Ads-u.",
+      "Prodajni alati, webinari i case studije — sve na jednom mestu, bez registracije za pregled.",
     toolsTitle: "Prodajni alati",
     toolsDescription:
       "Pregledi, cene i alternative alata koje koristimo u B2B kampanjama.",
     webinarTitle: "Webinari",
     webinarDescription:
-      "Replay stranice sa taktikama za LinkedIn prodaju i Founder-Led Growth sistem.",
+      "Replay stranice sa taktikama za LinkedIn prodaju i B2B outreach.",
     caseStudiesTitle: "Case studije",
     allCaseStudies: "Pogledaj sve case studije",
     readCaseStudy: "Pročitaj case study",
@@ -31,16 +28,13 @@ const copy = {
     eyebrow: "Education",
     title: "Free resources for B2B growth on LinkedIn",
     subtitle:
-      "Playbook, sales tools, webinars, and case studies — all in one place, no signup required to browse.",
-    playbookTitle: "Founder-Led Growth Playbook",
-    playbookDescription:
-      "12 lessons on ICP, outreach, content, CRM, buying signals, and LinkedIn Ads.",
+      "Sales tools, webinars, and case studies — all in one place, no signup required to browse.",
     toolsTitle: "Sales tools",
     toolsDescription:
       "Reviews, pricing, and alternatives for tools we use in B2B campaigns.",
     webinarTitle: "Webinars",
     webinarDescription:
-      "Replay pages with tactics for LinkedIn sales and the Founder-Led Growth system.",
+      "Replay pages with tactics for LinkedIn sales and B2B outreach.",
     caseStudiesTitle: "Case studies",
     allCaseStudies: "View all case studies",
     readCaseStudy: "Read case study",
@@ -56,11 +50,6 @@ export function HomeResourcesSection({ locale }: HomeResourcesSectionProps) {
       : "how-to-sell-your-services-on-linkedin-in-2026";
 
   const resourceCards = [
-    {
-      href: routes.growthPlaybook,
-      title: t.playbookTitle,
-      description: t.playbookDescription,
-    },
     {
       href: routes.salesTools,
       title: t.toolsTitle,
@@ -82,7 +71,7 @@ export function HomeResourcesSection({ locale }: HomeResourcesSectionProps) {
         <h2 className="mt-3 max-w-3xl text-3xl font-bold text-foreground md:text-4xl">{t.title}</h2>
         <p className="mt-4 max-w-2xl text-lg text-muted">{t.subtitle}</p>
 
-        <div className="mt-10 grid gap-5 md:grid-cols-3">
+        <div className="mt-10 grid gap-5 md:grid-cols-2">
           {resourceCards.map((card) => (
             <Link
               key={card.href}

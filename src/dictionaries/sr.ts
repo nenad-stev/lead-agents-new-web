@@ -2,7 +2,7 @@ export const sr = {
   meta: {
     title: "Lead Agents - Sales & Marketing Agencija",
     description:
-      "Pomažemo B2B kompanijama da prodaju svoje usluge na LinkedIn-u kroz Founder Led Growth sistem.",
+      "Pomažemo B2B kompanijama da prodaju svoje usluge na LinkedIn-u kroz content, outreach i targetirane kampanje.",
   },
   nav: {
     home: "Početna",
@@ -35,7 +35,7 @@ export const sr = {
     eyebrow: "Sales & Marketing Agencija",
     title: "Pomažemo B2B kompanijama da prodaju usluge na LinkedIn-u",
     subtitle:
-      "Kombinujemo content, outreach i LinkedIn reklame u jedan Founder Led Growth sistem koji puni vaš pipeline idealnim klijentima.",
+      "Kombinujemo content, outreach i LinkedIn reklame u jedan sistem koji puni vaš pipeline idealnim klijentima.",
     primaryCta: "Zakaži besplatnu konsultaciju",
     secondaryCta: "Pogledaj case studije",
   },
@@ -46,7 +46,7 @@ export const sr = {
   home: {
     clientsTitle: "klijenata sa kojima smo radili",
     clientsSubtitle:
-      "Od startapa do established B2B timova - Founder Led Growth, outreach i LinkedIn strategija.",
+      "Od startapa do established B2B timova - outreach, content i LinkedIn strategija.",
     clientsImpact:
       "5 godina iskustva · preko $120M pipeline vrednosti za timove sa kojima radimo.",
     clientsMoreLabel: "još klijenata",
@@ -64,19 +64,19 @@ export const sr = {
     teamExpertise: "Naš tim pokriva",
     flagshipBadge: "Naše glavno rešenje",
     flagshipIncludes: "Sistem uključuje",
-    supportingServicesTitle: "Specijalizovane usluge",
+    supportingServicesTitle: "Naše usluge",
     supportingServicesSubtitle:
-      "Dodatne komponente koje se mogu kombinovati sa Founder Led Growth ili koristiti samostalno.",
+      "Biramo miks usluga prema vašim ciljevima — outreach, content, ads ili branding.",
   },
   services: {
     title: "Šta možemo da uradimo za vas",
     subtitle:
-      "Počinjemo od kompletnog Founder Led Growth sistema, zatim biramo dodatne usluge prema vašim ciljevima.",
+      "Biramo miks usluga prema vašim ciljevima — od cold outreach-a i contenta do ads kampanja i ličnog brendinga.",
   },
   cta: {
     eyebrow: "Besplatna konsultacija",
     title: "Spremni da popunite pipeline?",
-    text: "Zakažite besplatnu konsultaciju i saznajte kako Founder Led Growth može da radi za vaš tim.",
+    text: "Zakažite besplatnu konsultaciju i saznajte kako možemo da pomognemo vašem timu da generiše više kvalifikovanih leadova.",
     button: "Zakaži konsultaciju",
   },
   exitIntent: {

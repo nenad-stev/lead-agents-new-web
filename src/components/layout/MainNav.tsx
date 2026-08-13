@@ -252,7 +252,7 @@ export function MainNav({ locale, dictionary, languageHref }: MainNavProps) {
 
       <div className="nav-mega__footer">
         <span className="text-xs text-muted-subtle">
-          {locale === "sr" ? "5 usluga · jedan Founder Led Growth sistem" : "5 services · one Founder Led Growth system"}
+          {locale === "sr" ? "4 usluge · LinkedIn, outreach i ads" : "4 services · LinkedIn, outreach & ads"}
         </span>
         <Link href={servicesAnchor} className="nav-mega__footer-link" role="menuitem">
           {nav.viewAllServices} →

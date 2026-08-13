@@ -2,7 +2,7 @@ export const en = {
   meta: {
     title: "Lead Agents - Sales & Marketing Agency",
     description:
-      "We help B2B companies sell their services on LinkedIn through a Founder Led Growth system.",
+      "We help B2B companies sell their services on LinkedIn through content, outreach, and targeted campaigns.",
   },
   nav: {
     home: "Home",
@@ -35,7 +35,7 @@ export const en = {
     eyebrow: "Sales & Marketing Agency",
     title: "We help B2B companies sell their services on LinkedIn",
     subtitle:
-      "We combine content, outreach, and LinkedIn ads into one Founder Led Growth system that fills your pipeline with ideal clients.",
+      "We combine content, outreach, and LinkedIn ads into one system that fills your pipeline with ideal clients.",
     primaryCta: "Book a free consultation",
     secondaryCta: "View case studies",
   },
@@ -46,7 +46,7 @@ export const en = {
   home: {
     clientsTitle: "clients we've worked with",
     clientsSubtitle:
-      "From startups to established B2B teams - Founder Led Growth, outreach, and LinkedIn strategy.",
+      "From startups to established B2B teams - outreach, content, and LinkedIn strategy.",
     clientsImpact:
       "Five years in · over $120M in pipeline for the teams we partner with.",
     clientsMoreLabel: "more clients",
@@ -64,19 +64,19 @@ export const en = {
     teamExpertise: "Our team covers",
     flagshipBadge: "Our flagship solution",
     flagshipIncludes: "The system includes",
-    supportingServicesTitle: "Specialized services",
+    supportingServicesTitle: "Our services",
     supportingServicesSubtitle:
-      "Additional components you can combine with Founder Led Growth or use on their own.",
+      "We mix services around your goals — outreach, content, ads, or branding.",
   },
   services: {
     title: "What we can do for you",
     subtitle:
-      "We start with the complete Founder Led Growth system, then add specialized services based on your goals.",
+      "We mix services around your goals — from cold outreach and content to ads campaigns and personal branding.",
   },
   cta: {
     eyebrow: "Free consultation",
     title: "Ready to fill your pipeline?",
-    text: "Book a free consultation and see how Founder Led Growth can work for your team.",
+    text: "Book a free consultation and see how we can help your team generate more qualified leads.",
     button: "Book consultation",
   },
   exitIntent: {

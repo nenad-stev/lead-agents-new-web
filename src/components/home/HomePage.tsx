@@ -7,7 +7,7 @@ import { Button } from "@/components/ui/Button";
 import { CtaSection } from "@/components/ui/CtaSection";
 import { Section } from "@/components/ui/Section";
 import { getCaseStudyBySlug } from "@/data/case-studies";
-import { homeFlagshipService, homeSupportingServices } from "@/data/home";
+import { homeSupportingServices } from "@/data/home";
 import { hasServicePage } from "@/data/services";
 import { getRoutes } from "@/data/site";
 import type { Dictionary, Locale } from "@/lib/i18n";
@@ -15,7 +15,6 @@ import type { Dictionary, Locale } from "@/lib/i18n";
 import { HomeAmbientBackground } from "./HomeAmbientBackground";
 import { HomeResourcesSection } from "./HomeResourcesSection";
 import { CaseStudyHighlight } from "./CaseStudyHighlight";
-import { FlagshipServiceSection } from "./FlagshipServiceSection";
 import { GrowthArrows } from "./GrowthArrows";
 import { HeroParticleField } from "./HeroParticleField";
 import { ClientsSection } from "./ClientsSection";
@@ -79,84 +78,61 @@ export function HomePage({ locale, dictionary }: HomePageProps) {
         >
           <GrowthArrows variant="section" className="opacity-60" />
 
-          <AnimateInView delay={80}>
-            <FlagshipServiceSection
-              locale={locale}
-              href={routes.service(homeFlagshipService.slug)}
-              contactHref={routes.contact}
-              labels={{
-                badge: home.flagshipBadge,
-                learnMore: dictionary.pages.serviceDetail.learnMore,
-                cta: dictionary.hero.primaryCta,
-                includes: home.flagshipIncludes,
-              }}
-            />
-          </AnimateInView>
+          <div className="grid gap-5 sm:grid-cols-2">
+            {homeSupportingServices.map((service, index) => {
+              const serviceHref = hasServicePage(service.slug)
+                ? routes.service(service.slug)
+                : null;
+              const cardClass =
+                "home-card-hover flex h-full flex-col rounded-2xl border border-border/80 bg-card/80 p-5 md:p-6";
 
-          <AnimateInView delay={120} className="mt-14 md:mt-16">
-            <h3 className="text-xl font-bold text-foreground md:text-2xl">
-              {home.supportingServicesTitle}
-            </h3>
-            <p className="mt-2 max-w-2xl text-sm leading-relaxed text-muted md:text-base">
-              {home.supportingServicesSubtitle}
-            </p>
-
-            <div className="mt-8 grid gap-5 sm:grid-cols-2">
-              {homeSupportingServices.map((service, index) => {
-                const serviceHref = hasServicePage(service.slug)
-                  ? routes.service(service.slug)
-                  : null;
-                const cardClass =
-                  "home-card-hover flex h-full flex-col rounded-2xl border border-border/80 bg-card/80 p-5 md:p-6";
-
-                const cardContent = (
-                  <>
-                    <span className="flex items-center gap-2 text-xs font-semibold text-accent/80">
-                      {String(index + 1).padStart(2, "0")}
-                      <span className="text-accent/50 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5">
-                        ↗
+              const cardContent = (
+                <>
+                  <span className="flex items-center gap-2 text-xs font-semibold text-accent/80">
+                    {String(index + 1).padStart(2, "0")}
+                    <span className="text-accent/50 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5">
+                      ↗
+                    </span>
+                  </span>
+                  <h4 className="mt-3 text-lg font-bold text-foreground">
+                    {service.title[locale]}
+                  </h4>
+                  <p className="mt-2 flex-1 text-sm leading-relaxed text-muted">
+                    {service.description[locale]}
+                  </p>
+                  {serviceHref ? (
+                    <span className="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-accent group-hover:underline">
+                      {dictionary.pages.serviceDetail.learnMore}
+                      <span aria-hidden className="transition-transform group-hover:translate-x-1">
+                        →
                       </span>
                     </span>
-                    <h4 className="mt-3 text-lg font-bold text-foreground">
-                      {service.title[locale]}
-                    </h4>
-                    <p className="mt-2 flex-1 text-sm leading-relaxed text-muted">
-                      {service.description[locale]}
-                    </p>
-                    {serviceHref ? (
-                      <span className="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-accent group-hover:underline">
-                        {dictionary.pages.serviceDetail.learnMore}
-                        <span aria-hidden className="transition-transform group-hover:translate-x-1">
-                          →
-                        </span>
-                      </span>
-                    ) : null}
-                  </>
-                );
+                  ) : null}
+                </>
+              );
 
-                const wrappedCard = serviceHref ? (
-                  <Link
-                    key={service.slug}
-                    id={`usluga-${service.slug}`}
-                    href={serviceHref}
-                    className={`${cardClass} group focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent`}
-                  >
-                    {cardContent}
-                  </Link>
-                ) : (
-                  <article key={service.slug} id={`usluga-${service.slug}`} className={cardClass}>
-                    {cardContent}
-                  </article>
-                );
+              const wrappedCard = serviceHref ? (
+                <Link
+                  key={service.slug}
+                  id={`usluga-${service.slug}`}
+                  href={serviceHref}
+                  className={`${cardClass} group focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent`}
+                >
+                  {cardContent}
+                </Link>
+              ) : (
+                <article key={service.slug} id={`usluga-${service.slug}`} className={cardClass}>
+                  {cardContent}
+                </article>
+              );
 
-                return (
-                  <AnimateInView key={service.slug} delay={160 + index * 70}>
-                    {wrappedCard}
-                  </AnimateInView>
-                );
-              })}
-            </div>
-          </AnimateInView>
+              return (
+                <AnimateInView key={service.slug} delay={80 + index * 70}>
+                  {wrappedCard}
+                </AnimateInView>
+              );
+            })}
+          </div>
 
           <AnimateInView delay={200} className="mt-10 flex justify-center">
             <Button href={routes.contact}>{dictionary.cta.button}</Button>

@@ -72,18 +72,26 @@ export const homeSupportingServices = [
   },
 ] as const;
 
-/** All services for footer anchors and listings */
-export const homeServices = [
-  {
-    slug: homeFlagshipService.slug,
-    title: homeFlagshipService.title,
-    description: homeFlagshipService.headline,
-  },
-  ...homeSupportingServices,
-] as const;
+/** Public services for footer anchors and homepage listings (FLG soft-hidden until launch). */
+export const homeServices = [...homeSupportingServices] as const;
 
 export type { ClientLogo as HomeClient } from "./clients";
 export { clientLogos as homeClients, TOTAL_CLIENT_COUNT } from "./clients";
+
+/** Featured client video above the text testimonial carousel on the homepage. */
+export const homeFeaturedTestimonialVideo = {
+  youtubeId: "HglstFyIaB4",
+  name: "Geoff Cudd",
+  role: {
+    sr: "Founder @ Deal Prospectors",
+    en: "Founder @ Deal Prospectors",
+  },
+  image: "/images/testimonials/geoff-cudd.jpg",
+  quote: {
+    sr: "Radim sa Lead Agents već par godina i apsolutno su neverovatni. Postali su deo mog tima i jako se oslanjam na njih. Ne znam gde bi naš biznis bio bez njih.",
+    en: "I've worked with Lead Agents now for a couple of years, and they're absolutely amazing. They've become a part of my team, and I'm heavily dependent on them. I don't know where our business would be without them.",
+  },
+} as const;
 
 export const homeTestimonials = [
   {
@@ -188,7 +196,7 @@ export const homeTeam = {
     },
   ] satisfies TeamMember[],
   expertise: [
-    { sr: "Founder Led Growth", en: "Founder Led Growth" },
+    { sr: "B2B revenue sistemi", en: "B2B revenue systems" },
     { sr: "GTM & outbound", en: "GTM & outbound" },
     { sr: "LinkedIn outreach", en: "LinkedIn outreach" },
     { sr: "Content & video", en: "Content & video" },
@@ -209,12 +217,12 @@ export const homeDifferentiators = {
     sr: [
       "Iskreno, baš ništa. Ali volimo da mislimo da smo opušteni ljudi, pa bi trebalo da bude zabavno raditi sa nama.",
       "Šalu na stranu, svaki projekat tretiramo kao da je naš sopstveni. Videli smo mnogo toga u prodaji i marketingu tokom poslednjih 12 godina, a cela industrija se baš dosta promenila.",
-      "Ono što nas izdvaja jeste Founder Led Growth pristup: operativni revenue sistem u kom outreach i content rade paralelno, CRM prati signale, a ads skaliraju ono što organski već radi. Founder ostaje u centru prodaje, ne kao lični brend već kao glavni kanal poverenja.",
+      "Ono što nas izdvaja jeste operativni pristup: outreach i content rade paralelno, CRM prati signale, a ads skaliraju ono što organski već radi. Founder i sales lider ostaju u centru prodaje — kao glavni kanal poverenja, ne kao lični brend radi brenda.",
     ],
     en: [
       "Honestly, nothing at all. But we like to think we're easygoing people, so working with us should be fun.",
       "Jokes aside, we treat every project as if it were our own. We've seen a lot in sales and marketing over the last 12 years, and the industry has changed dramatically.",
-      "What sets us apart is our Founder Led Growth approach: an operational revenue system where outreach and content run in parallel, CRM tracks signals, and ads scale what already works organically. The founder stays at the center of sales, not as a personal brand but as the primary trust channel.",
+      "What sets us apart is an operational approach: outreach and content run in parallel, CRM tracks signals, and ads scale what already works organically. The founder and sales leader stay at the center of sales — as the primary trust channel, not as a personal brand for brand's sake.",
     ],
   },
   motto: {
